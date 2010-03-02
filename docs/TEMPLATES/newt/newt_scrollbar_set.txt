@@ -1,0 +1,13 @@
+*newt_scrollbar_set
+
+**PHP
+
+>|PHP|
+void newt_scrollbar_set ( resource $scrollbar , int $where , int $total )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*m_destroyconn
+
+**PHP
+
+>|PHP|
+bool m_destroyconn ( resource $conn )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

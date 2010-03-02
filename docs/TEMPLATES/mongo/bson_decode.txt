@@ -1,0 +1,13 @@
+*bson_decode
+
+**PHP
+
+>|PHP|
+array bson_decode ( string $bson )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

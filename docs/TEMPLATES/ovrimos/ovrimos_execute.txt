@@ -1,0 +1,13 @@
+*ovrimos_execute
+
+**PHP
+
+>|PHP|
+bool ovrimos_execute ( int $result_id [, array $parameters_array ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

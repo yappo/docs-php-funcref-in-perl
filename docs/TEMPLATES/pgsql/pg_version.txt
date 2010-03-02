@@ -1,0 +1,13 @@
+*pg_version
+
+**PHP
+
+>|PHP|
+array pg_version ([ resource $connection ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

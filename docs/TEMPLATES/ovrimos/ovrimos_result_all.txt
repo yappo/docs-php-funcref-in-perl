@@ -1,0 +1,13 @@
+*ovrimos_result_all
+
+**PHP
+
+>|PHP|
+int ovrimos_result_all ( int $result_id [, string $format ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

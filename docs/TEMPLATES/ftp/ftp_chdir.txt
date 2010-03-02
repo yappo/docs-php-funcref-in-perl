@@ -1,0 +1,13 @@
+*ftp_chdir
+
+**PHP
+
+>|PHP|
+bool ftp_chdir ( resource $ftp_stream , string $directory )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

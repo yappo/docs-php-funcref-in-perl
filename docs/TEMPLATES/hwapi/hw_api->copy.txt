@@ -1,0 +1,13 @@
+*hw_api->copy
+
+**PHP
+
+>|PHP|
+hw_api_content copy ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

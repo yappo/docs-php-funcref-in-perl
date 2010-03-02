@@ -1,0 +1,13 @@
+*hw_api->checkin
+
+**PHP
+
+>|PHP|
+bool checkin ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

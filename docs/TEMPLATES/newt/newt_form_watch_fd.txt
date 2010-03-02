@@ -1,0 +1,13 @@
+*newt_form_watch_fd
+
+**PHP
+
+>|PHP|
+void newt_form_watch_fd ( resource $form , resource $stream [, int $flags ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

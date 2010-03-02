@@ -1,0 +1,13 @@
+*msql_fieldflags
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

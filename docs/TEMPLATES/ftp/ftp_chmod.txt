@@ -1,0 +1,13 @@
+*ftp_chmod
+
+**PHP
+
+>|PHP|
+int ftp_chmod ( resource $ftp_stream , int $mode , string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

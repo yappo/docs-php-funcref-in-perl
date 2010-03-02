@@ -1,0 +1,13 @@
+*yaz_database
+
+**PHP
+
+>|PHP|
+bool yaz_database ( resource $id , string $databases )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

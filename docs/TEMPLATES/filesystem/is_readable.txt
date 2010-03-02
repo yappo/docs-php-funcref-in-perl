@@ -1,0 +1,13 @@
+*is_readable
+
+**PHP
+
+>|PHP|
+bool is_readable ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

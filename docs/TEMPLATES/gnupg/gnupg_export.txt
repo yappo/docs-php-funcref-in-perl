@@ -1,0 +1,13 @@
+*gnupg_export
+
+**PHP
+
+>|PHP|
+string gnupg_export ( resource $identifier , string $fingerprint )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

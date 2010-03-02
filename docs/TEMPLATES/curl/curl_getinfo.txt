@@ -1,0 +1,13 @@
+*curl_getinfo
+
+**PHP
+
+>|PHP|
+mixed curl_getinfo ( resource $ch [, int $opt = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

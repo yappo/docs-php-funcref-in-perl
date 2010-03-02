@@ -1,0 +1,13 @@
+*ftp_rawlist
+
+**PHP
+
+>|PHP|
+array ftp_rawlist ( resource $ftp_stream , string $directory [, bool $recursive = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

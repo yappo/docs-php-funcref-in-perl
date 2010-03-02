@@ -1,0 +1,13 @@
+*imagesavealpha
+
+**PHP
+
+>|PHP|
+bool imagesavealpha ( resource $image , bool $saveflag )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

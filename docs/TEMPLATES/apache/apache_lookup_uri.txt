@@ -1,0 +1,13 @@
+*apache_lookup_uri
+
+**PHP
+
+>|PHP|
+object apache_lookup_uri ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

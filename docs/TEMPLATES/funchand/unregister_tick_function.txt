@@ -1,0 +1,13 @@
+*unregister_tick_function
+
+**PHP
+
+>|PHP|
+void unregister_tick_function ( string $function_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

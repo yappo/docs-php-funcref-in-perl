@@ -1,0 +1,13 @@
+*maxdb_report
+
+**PHP
+
+>|PHP|
+bool maxdb_report ( int $flags )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

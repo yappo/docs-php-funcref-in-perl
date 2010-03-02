@@ -1,0 +1,13 @@
+*db2_field_type
+
+**PHP
+
+>|PHP|
+string db2_field_type ( resource $stmt , mixed $column )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

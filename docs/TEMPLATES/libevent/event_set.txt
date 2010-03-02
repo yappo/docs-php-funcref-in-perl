@@ -1,0 +1,13 @@
+*event_set
+
+**PHP
+
+>|PHP|
+bool event_set ( resource $event , resource $fd , int $events , mixed $callback [, mixed $arg ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

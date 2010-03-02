@@ -1,0 +1,13 @@
+*mailparse_msg_parse
+
+**PHP
+
+>|PHP|
+bool mailparse_msg_parse ( resource $mimemail , string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

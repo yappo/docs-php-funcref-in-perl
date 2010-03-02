@@ -1,0 +1,13 @@
+*newt_form
+
+**PHP
+
+>|PHP|
+resource newt_form ([ resource $vert_bar [, string $help [, int $flags ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

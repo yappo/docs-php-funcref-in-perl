@@ -1,0 +1,13 @@
+*stats_dens_laplace
+
+**PHP
+
+>|PHP|
+float stats_dens_laplace ( float $x , float $ave , float $stdev )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

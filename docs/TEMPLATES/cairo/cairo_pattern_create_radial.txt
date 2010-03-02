@@ -1,0 +1,13 @@
+*cairo_pattern_create_radial
+
+**PHP
+
+>|PHP|
+CairoPattern cairo_pattern_create_radial ( float $x0 , float $y0 , float $r0 , float $x1 , float $y1 , float $r1 )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ibase_drop_db
+
+**PHP
+
+>|PHP|
+bool ibase_drop_db ([ resource $connection = NULL ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

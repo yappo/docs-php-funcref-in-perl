@@ -1,0 +1,13 @@
+*strcmp
+
+**PHP
+
+>|PHP|
+int strcmp ( string $str1 , string $str2 )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

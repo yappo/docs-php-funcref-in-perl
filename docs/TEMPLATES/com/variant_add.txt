@@ -1,0 +1,13 @@
+*variant_add
+
+**PHP
+
+>|PHP|
+mixed variant_add ( mixed $left , mixed $right )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

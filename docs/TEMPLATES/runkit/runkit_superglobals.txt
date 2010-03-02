@@ -1,0 +1,13 @@
+*runkit_superglobals
+
+**PHP
+
+>|PHP|
+array runkit_superglobals ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

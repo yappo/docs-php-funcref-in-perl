@@ -1,0 +1,13 @@
+*aggregate_methods
+
+**PHP
+
+>|PHP|
+void aggregate_methods ( object $object , string $class_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

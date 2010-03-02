@@ -1,0 +1,13 @@
+*stream_get_line
+
+**PHP
+
+>|PHP|
+string stream_get_line ( resource $handle , int $length [, string $ending ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

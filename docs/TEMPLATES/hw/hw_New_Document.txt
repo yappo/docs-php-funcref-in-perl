@@ -1,0 +1,13 @@
+*hw_New_Document
+
+**PHP
+
+>|PHP|
+int hw_new_document ( string $object_record , string $document_data , int $document_size )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

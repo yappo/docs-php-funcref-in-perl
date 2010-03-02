@@ -1,0 +1,13 @@
+*session_save_path
+
+**PHP
+
+>|PHP|
+string session_save_path ([ string $path ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

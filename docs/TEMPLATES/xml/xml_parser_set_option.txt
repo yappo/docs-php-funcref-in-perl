@@ -1,0 +1,13 @@
+*xml_parser_set_option
+
+**PHP
+
+>|PHP|
+bool xml_parser_set_option ( resource $parser , int $option , mixed $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

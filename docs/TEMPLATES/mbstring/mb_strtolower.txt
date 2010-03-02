@@ -1,0 +1,13 @@
+*mb_strtolower
+
+**PHP
+
+>|PHP|
+string mb_strtolower ( string $str [, string $encoding = mb_internal_encoding() ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

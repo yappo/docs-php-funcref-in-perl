@@ -1,0 +1,13 @@
+*m_monitor
+
+**PHP
+
+>|PHP|
+int m_monitor ( resource $conn )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

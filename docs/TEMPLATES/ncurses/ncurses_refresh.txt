@@ -1,0 +1,13 @@
+*ncurses_refresh
+
+**PHP
+
+>|PHP|
+int ncurses_refresh ( int $ch )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

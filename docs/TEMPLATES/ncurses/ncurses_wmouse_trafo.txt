@@ -1,0 +1,13 @@
+*ncurses_wmouse_trafo
+
+**PHP
+
+>|PHP|
+bool ncurses_wmouse_trafo ( resource $window , int &$y , int &$x , bool $toscreen )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

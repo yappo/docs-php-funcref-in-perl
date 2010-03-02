@@ -1,0 +1,13 @@
+*msession_set_array
+
+**PHP
+
+>|PHP|
+void msession_set_array ( string $session , array $tuples )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

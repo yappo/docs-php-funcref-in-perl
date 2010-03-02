@@ -1,0 +1,13 @@
+*maxdb_debug
+
+**PHP
+
+>|PHP|
+void maxdb_debug ( string $debug )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

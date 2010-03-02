@@ -1,0 +1,13 @@
+*cairo_pattern_create_for_surface
+
+**PHP
+
+>|PHP|
+CairoPattern cairo_pattern_create_for_surface ( CairoSurface $surface )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

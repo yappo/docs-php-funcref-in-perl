@@ -1,0 +1,13 @@
+*msql_error
+
+**PHP
+
+>|PHP|
+string msql_error ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

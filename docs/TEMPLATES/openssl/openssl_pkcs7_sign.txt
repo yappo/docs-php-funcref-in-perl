@@ -1,0 +1,13 @@
+*openssl_pkcs7_sign
+
+**PHP
+
+>|PHP|
+bool openssl_pkcs7_sign ( string $infilename , string $outfilename , mixed $signcert , mixed $privkey , array $headers [, int $flags = PKCS7_DETACHED [, string $extracerts ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

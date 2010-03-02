@@ -1,0 +1,13 @@
+*calculhmac
+
+**PHP
+
+>|PHP|
+string calculhmac ( string $clent , string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

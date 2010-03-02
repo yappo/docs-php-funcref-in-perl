@@ -1,0 +1,13 @@
+*fdf_add_doc_javascript
+
+**PHP
+
+>|PHP|
+bool fdf_add_doc_javascript ( resource $fdf_document , string $script_name , string $script_code )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

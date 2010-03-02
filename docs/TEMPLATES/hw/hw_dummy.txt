@@ -1,0 +1,13 @@
+*hw_dummy
+
+**PHP
+
+>|PHP|
+string hw_dummy ( int $link , int $id , int $msgid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

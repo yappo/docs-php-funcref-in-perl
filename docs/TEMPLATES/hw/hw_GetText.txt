@@ -1,0 +1,13 @@
+*hw_GetText
+
+**PHP
+
+>|PHP|
+int hw_gettext ( int $connection , int $objectID [, mixed $rootID/prefix ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

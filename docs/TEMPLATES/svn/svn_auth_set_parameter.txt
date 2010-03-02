@@ -1,0 +1,13 @@
+*svn_auth_set_parameter
+
+**PHP
+
+>|PHP|
+void svn_auth_set_parameter ( string $key , string $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

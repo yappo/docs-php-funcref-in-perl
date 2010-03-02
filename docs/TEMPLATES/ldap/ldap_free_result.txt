@@ -1,0 +1,13 @@
+*ldap_free_result
+
+**PHP
+
+>|PHP|
+bool ldap_free_result ( resource $result_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*pcntl_exec
+
+**PHP
+
+>|PHP|
+void pcntl_exec ( string $path [, array $args [, array $envs ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

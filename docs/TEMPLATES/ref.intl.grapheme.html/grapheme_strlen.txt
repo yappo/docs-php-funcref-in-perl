@@ -1,0 +1,13 @@
+*grapheme_strlen
+
+**PHP
+
+>|PHP|
+int grapheme_strlen ( string $input )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

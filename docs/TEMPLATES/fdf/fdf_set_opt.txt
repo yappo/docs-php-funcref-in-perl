@@ -1,0 +1,13 @@
+*fdf_set_opt
+
+**PHP
+
+>|PHP|
+bool fdf_set_opt ( resource $fdf_document , string $fieldname , int $element , string $str1 , string $str2 )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

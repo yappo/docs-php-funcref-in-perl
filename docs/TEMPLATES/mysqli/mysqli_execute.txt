@@ -1,0 +1,13 @@
+*mysqli_execute
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

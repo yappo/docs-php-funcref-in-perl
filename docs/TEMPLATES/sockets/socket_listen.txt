@@ -1,0 +1,13 @@
+*socket_listen
+
+**PHP
+
+>|PHP|
+bool socket_listen ( resource $socket [, int $backlog = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

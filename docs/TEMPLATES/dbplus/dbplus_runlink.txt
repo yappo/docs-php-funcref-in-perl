@@ -1,0 +1,13 @@
+*dbplus_runlink
+
+**PHP
+
+>|PHP|
+int dbplus_runlink ( resource $relation )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

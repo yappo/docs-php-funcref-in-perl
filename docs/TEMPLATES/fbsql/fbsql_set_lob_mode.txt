@@ -1,0 +1,13 @@
+*fbsql_set_lob_mode
+
+**PHP
+
+>|PHP|
+bool fbsql_set_lob_mode ( resource $result , int $lob_mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

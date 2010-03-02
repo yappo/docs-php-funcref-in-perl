@@ -1,0 +1,13 @@
+*notes_body
+
+**PHP
+
+>|PHP|
+array notes_body ( string $server , string $mailbox , int $msg_number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

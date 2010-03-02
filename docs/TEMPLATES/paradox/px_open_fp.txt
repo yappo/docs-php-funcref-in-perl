@@ -1,0 +1,13 @@
+*px_open_fp
+
+**PHP
+
+>|PHP|
+bool px_open_fp ( resource $pxdoc , resource $file )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

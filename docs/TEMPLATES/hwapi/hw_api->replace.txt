@@ -1,0 +1,13 @@
+*hw_api->replace
+
+**PHP
+
+>|PHP|
+hw_api_object replace ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

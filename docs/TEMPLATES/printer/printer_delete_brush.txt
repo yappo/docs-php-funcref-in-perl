@@ -1,0 +1,13 @@
+*printer_delete_brush
+
+**PHP
+
+>|PHP|
+void printer_delete_brush ( resource $brush_handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

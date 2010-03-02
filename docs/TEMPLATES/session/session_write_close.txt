@@ -1,0 +1,13 @@
+*session_write_close
+
+**PHP
+
+>|PHP|
+void session_write_close ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

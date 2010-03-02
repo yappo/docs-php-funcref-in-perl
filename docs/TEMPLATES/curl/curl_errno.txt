@@ -1,0 +1,13 @@
+*curl_errno
+
+**PHP
+
+>|PHP|
+int curl_errno ( resource $ch )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

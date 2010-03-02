@@ -1,0 +1,13 @@
+*fdf_get_ap
+
+**PHP
+
+>|PHP|
+bool fdf_get_ap ( resource $fdf_document , string $field , int $face , string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

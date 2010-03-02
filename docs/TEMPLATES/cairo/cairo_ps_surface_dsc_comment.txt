@@ -1,0 +1,13 @@
+*cairo_ps_surface_dsc_comment
+
+**PHP
+
+>|PHP|
+void cairo_ps_surface_dsc_comment ( CairoPsSurface $surface , string $comment )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

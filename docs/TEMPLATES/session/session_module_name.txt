@@ -1,0 +1,13 @@
+*session_module_name
+
+**PHP
+
+>|PHP|
+string session_module_name ([ string $module ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

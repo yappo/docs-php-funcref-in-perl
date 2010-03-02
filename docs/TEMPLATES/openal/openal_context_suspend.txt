@@ -1,0 +1,13 @@
+*openal_context_suspend
+
+**PHP
+
+>|PHP|
+bool openal_context_suspend ( resource $context )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

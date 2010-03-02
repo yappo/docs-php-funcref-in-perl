@@ -1,0 +1,13 @@
+*dbplus_undoprepare
+
+**PHP
+
+>|PHP|
+int dbplus_undoprepare ( resource $relation )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

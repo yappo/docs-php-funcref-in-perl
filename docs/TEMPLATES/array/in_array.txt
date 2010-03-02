@@ -1,0 +1,13 @@
+*in_array
+
+**PHP
+
+>|PHP|
+bool in_array ( mixed $needle , array $haystack [, bool $strict ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

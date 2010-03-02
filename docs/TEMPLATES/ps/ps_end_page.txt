@@ -1,0 +1,13 @@
+*ps_end_page
+
+**PHP
+
+>|PHP|
+bool ps_end_page ( resource $psdoc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

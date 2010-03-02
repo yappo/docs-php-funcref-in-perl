@@ -1,0 +1,13 @@
+*gzgetc
+
+**PHP
+
+>|PHP|
+string gzgetc ( resource $zp )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*newt_checkbox_tree_find_item
+
+**PHP
+
+>|PHP|
+array newt_checkbox_tree_find_item ( resource $checkboxtree , mixed $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

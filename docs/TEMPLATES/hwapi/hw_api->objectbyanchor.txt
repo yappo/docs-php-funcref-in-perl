@@ -1,0 +1,13 @@
+*hw_api->objectbyanchor
+
+**PHP
+
+>|PHP|
+hw_api_object objectbyanchor ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*shm_detach
+
+**PHP
+
+>|PHP|
+bool shm_detach ( resource $shm_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

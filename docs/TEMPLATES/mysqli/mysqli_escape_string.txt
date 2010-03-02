@@ -1,0 +1,13 @@
+*mysqli_escape_string
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

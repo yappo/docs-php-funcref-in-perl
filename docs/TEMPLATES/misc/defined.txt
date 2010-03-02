@@ -1,0 +1,13 @@
+*defined
+
+**PHP
+
+>|PHP|
+bool defined ( string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*get_class_methods
+
+**PHP
+
+>|PHP|
+array get_class_methods ( mixed $class_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

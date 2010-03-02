@@ -1,0 +1,13 @@
+*ncurses_cbreak
+
+**PHP
+
+>|PHP|
+bool ncurses_cbreak ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

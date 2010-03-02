@@ -1,0 +1,13 @@
+*newt_radio_get_current
+
+**PHP
+
+>|PHP|
+resource newt_radio_get_current ( resource $set_member )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

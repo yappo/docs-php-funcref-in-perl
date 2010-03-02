@@ -1,0 +1,13 @@
+*xml_parser_create
+
+**PHP
+
+>|PHP|
+resource xml_parser_create ([ string $encoding ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

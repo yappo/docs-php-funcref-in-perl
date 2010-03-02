@@ -1,0 +1,13 @@
+*unpack
+
+**PHP
+
+>|PHP|
+array unpack ( string $format , string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

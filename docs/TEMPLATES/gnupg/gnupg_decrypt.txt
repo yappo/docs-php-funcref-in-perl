@@ -1,0 +1,13 @@
+*gnupg_decrypt
+
+**PHP
+
+>|PHP|
+string gnupg_decrypt ( resource $identifier , string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

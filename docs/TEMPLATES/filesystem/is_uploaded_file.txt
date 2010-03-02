@@ -1,0 +1,13 @@
+*is_uploaded_file
+
+**PHP
+
+>|PHP|
+bool is_uploaded_file ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

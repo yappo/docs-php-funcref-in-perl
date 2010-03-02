@@ -1,0 +1,13 @@
+*maxdb_get_proto_info
+
+**PHP
+
+>|PHP|
+int maxdb_get_proto_info ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*str_ireplace
+
+**PHP
+
+>|PHP|
+mixed str_ireplace ( mixed $search , mixed $replace , mixed $subject [, int &$count ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

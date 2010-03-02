@@ -1,0 +1,13 @@
+*fdf_set_javascript_action
+
+**PHP
+
+>|PHP|
+bool fdf_set_javascript_action ( resource $fdf_document , string $fieldname , int $trigger , string $script )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*pcntl_wexitstatus
+
+**PHP
+
+>|PHP|
+int pcntl_wexitstatus ( int $status )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

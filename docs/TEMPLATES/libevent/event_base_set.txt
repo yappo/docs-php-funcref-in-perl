@@ -1,0 +1,13 @@
+*event_base_set
+
+**PHP
+
+>|PHP|
+bool event_base_set ( resource $event , resource $event_base )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*pg_send_prepare
+
+**PHP
+
+>|PHP|
+bool pg_send_prepare ( resource $connection , string $stmtname , string $query )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

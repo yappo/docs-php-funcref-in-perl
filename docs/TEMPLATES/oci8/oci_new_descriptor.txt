@@ -1,0 +1,13 @@
+*oci_new_descriptor
+
+**PHP
+
+>|PHP|
+OCI-Lob oci_new_descriptor ( resource $connection [, int $type = OCI_DTYPE_LOB ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

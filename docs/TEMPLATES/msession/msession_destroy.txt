@@ -1,0 +1,13 @@
+*msession_destroy
+
+**PHP
+
+>|PHP|
+bool msession_destroy ( string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

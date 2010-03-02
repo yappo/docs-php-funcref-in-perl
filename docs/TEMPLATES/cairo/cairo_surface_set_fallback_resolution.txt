@@ -1,0 +1,13 @@
+*cairo_surface_set_fallback_resolution
+
+**PHP
+
+>|PHP|
+void cairo_surface_set_fallback_resolution ( CairoSurface $surface , string $x , string $y )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

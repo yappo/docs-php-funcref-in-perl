@@ -1,0 +1,13 @@
+*fbsql_free_result
+
+**PHP
+
+>|PHP|
+bool fbsql_free_result ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

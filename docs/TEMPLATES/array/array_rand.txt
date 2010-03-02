@@ -1,0 +1,13 @@
+*array_rand
+
+**PHP
+
+>|PHP|
+mixed array_rand ( array $input [, int $num_req = 1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

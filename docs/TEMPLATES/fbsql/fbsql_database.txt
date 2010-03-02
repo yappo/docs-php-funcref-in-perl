@@ -1,0 +1,13 @@
+*fbsql_database
+
+**PHP
+
+>|PHP|
+string fbsql_database ( resource $link_identifier [, string $database ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

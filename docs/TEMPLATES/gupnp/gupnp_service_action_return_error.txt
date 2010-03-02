@@ -1,0 +1,13 @@
+*gupnp_service_action_return_error
+
+**PHP
+
+>|PHP|
+bool gupnp_service_action_return_error ( resource $action , int $error_code [, string $error_description ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

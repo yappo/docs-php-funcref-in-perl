@@ -1,0 +1,13 @@
+*cal_info
+
+**PHP
+
+>|PHP|
+array cal_info ([ int $calendar = -1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*mhash_get_hash_name
+
+**PHP
+
+>|PHP|
+string mhash_get_hash_name ( int $hash )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

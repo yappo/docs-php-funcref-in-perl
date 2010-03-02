@@ -1,0 +1,13 @@
+*newt_push_help_line
+
+**PHP
+
+>|PHP|
+void newt_push_help_line ([ string $text ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

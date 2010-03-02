@@ -1,0 +1,13 @@
+*pack
+
+**PHP
+
+>|PHP|
+string pack ( string $format [, mixed $args [, mixed $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*openssl_csr_sign
+
+**PHP
+
+>|PHP|
+resource openssl_csr_sign ( mixed $csr , mixed $cacert , mixed $priv_key , int $days [, array $configargs [, int $serial = 0 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

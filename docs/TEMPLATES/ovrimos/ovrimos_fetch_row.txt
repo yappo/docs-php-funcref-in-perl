@@ -1,0 +1,13 @@
+*ovrimos_fetch_row
+
+**PHP
+
+>|PHP|
+bool ovrimos_fetch_row ( int $result_id [, int $how [, int $row_number ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

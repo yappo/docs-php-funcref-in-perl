@@ -1,0 +1,13 @@
+*preg_match_all
+
+**PHP
+
+>|PHP|
+int preg_match_all ( string $pattern , string $subject , array &$matches [, int $flags [, int $offset ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

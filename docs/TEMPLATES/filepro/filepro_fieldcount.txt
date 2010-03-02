@@ -1,0 +1,13 @@
+*filepro_fieldcount
+
+**PHP
+
+>|PHP|
+int filepro_fieldcount ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

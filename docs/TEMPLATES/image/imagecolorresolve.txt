@@ -1,0 +1,13 @@
+*imagecolorresolve
+
+**PHP
+
+>|PHP|
+int imagecolorresolve ( resource $image , int $red , int $green , int $blue )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

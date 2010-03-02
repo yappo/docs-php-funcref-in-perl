@@ -1,0 +1,13 @@
+*array_sum
+
+**PHP
+
+>|PHP|
+number array_sum ( array $array )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

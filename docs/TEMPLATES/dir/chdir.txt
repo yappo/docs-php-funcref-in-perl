@@ -1,0 +1,13 @@
+*chdir
+
+**PHP
+
+>|PHP|
+bool chdir ( string $directory )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

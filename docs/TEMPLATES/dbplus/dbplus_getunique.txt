@@ -1,0 +1,13 @@
+*dbplus_getunique
+
+**PHP
+
+>|PHP|
+int dbplus_getunique ( resource $relation , int $uniqueid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

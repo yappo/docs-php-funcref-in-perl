@@ -1,0 +1,13 @@
+*apc_delete
+
+**PHP
+
+>|PHP|
+bool apc_delete ( string $key )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

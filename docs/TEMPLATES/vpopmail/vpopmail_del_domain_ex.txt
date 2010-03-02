@@ -1,0 +1,13 @@
+*vpopmail_del_domain_ex
+
+**PHP
+
+>|PHP|
+bool vpopmail_del_domain_ex ( string $domain )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

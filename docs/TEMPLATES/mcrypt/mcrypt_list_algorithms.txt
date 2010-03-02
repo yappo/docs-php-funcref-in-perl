@@ -1,0 +1,13 @@
+*mcrypt_list_algorithms
+
+**PHP
+
+>|PHP|
+array mcrypt_list_algorithms ([ string $lib_dir = ini_get("mcrypt.algorithms_dir") ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

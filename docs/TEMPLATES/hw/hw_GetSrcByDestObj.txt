@@ -1,0 +1,13 @@
+*hw_GetSrcByDestObj
+
+**PHP
+
+>|PHP|
+array hw_getsrcbydestobj ( int $connection , int $objectID )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

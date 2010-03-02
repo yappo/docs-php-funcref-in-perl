@@ -1,0 +1,13 @@
+*addcslashes
+
+**PHP
+
+>|PHP|
+string addcslashes ( string $str , string $charlist )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

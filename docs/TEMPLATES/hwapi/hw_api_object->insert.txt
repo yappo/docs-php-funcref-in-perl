@@ -1,0 +1,13 @@
+*hw_api_object->insert
+
+**PHP
+
+>|PHP|
+bool insert ( HW_API_Attribute $attribute )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

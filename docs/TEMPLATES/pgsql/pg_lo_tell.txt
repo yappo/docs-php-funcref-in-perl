@@ -1,0 +1,13 @@
+*pg_lo_tell
+
+**PHP
+
+>|PHP|
+int pg_lo_tell ( resource $large_object )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

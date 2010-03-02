@@ -1,0 +1,13 @@
+*ncurses_beep
+
+**PHP
+
+>|PHP|
+int ncurses_beep ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*json_last_error
+
+**PHP
+
+>|PHP|
+int json_last_error ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

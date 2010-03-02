@@ -1,0 +1,13 @@
+*notes_search
+
+**PHP
+
+>|PHP|
+array notes_search ( string $database_name , string $keywords )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

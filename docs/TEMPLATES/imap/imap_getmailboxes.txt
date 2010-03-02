@@ -1,0 +1,13 @@
+*imap_getmailboxes
+
+**PHP
+
+>|PHP|
+array imap_getmailboxes ( resource $imap_stream , string $ref , string $pattern )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

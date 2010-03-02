@@ -1,0 +1,13 @@
+*session_name
+
+**PHP
+
+>|PHP|
+string session_name ([ string $name ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

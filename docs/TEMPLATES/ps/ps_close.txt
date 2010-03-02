@@ -1,0 +1,13 @@
+*ps_close
+
+**PHP
+
+>|PHP|
+bool ps_close ( resource $psdoc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

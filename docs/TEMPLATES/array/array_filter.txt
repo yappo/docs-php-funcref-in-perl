@@ -1,0 +1,13 @@
+*array_filter
+
+**PHP
+
+>|PHP|
+array array_filter ( array $input [, callback $callback ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*json_encode
+
+**PHP
+
+>|PHP|
+string json_encode ( mixed $value [, int $options = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

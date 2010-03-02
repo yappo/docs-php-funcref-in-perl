@@ -1,0 +1,13 @@
+*hw_api->move
+
+**PHP
+
+>|PHP|
+bool move ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

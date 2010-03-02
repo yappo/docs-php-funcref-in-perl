@@ -1,0 +1,13 @@
+*phpversion
+
+**PHP
+
+>|PHP|
+string phpversion ([ string $extension ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

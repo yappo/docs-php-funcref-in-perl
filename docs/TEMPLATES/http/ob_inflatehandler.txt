@@ -1,0 +1,13 @@
+*ob_inflatehandler
+
+**PHP
+
+>|PHP|
+string ob_inflatehandler ( string $data , int $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

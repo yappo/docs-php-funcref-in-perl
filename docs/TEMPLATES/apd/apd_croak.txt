@@ -1,0 +1,13 @@
+*apd_croak
+
+**PHP
+
+>|PHP|
+void apd_croak ( string $warning [, string $delimiter ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

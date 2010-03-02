@@ -1,0 +1,13 @@
+*get_cfg_var
+
+**PHP
+
+>|PHP|
+string get_cfg_var ( string $option )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

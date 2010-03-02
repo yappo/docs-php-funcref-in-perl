@@ -1,0 +1,13 @@
+*ncurses_keypad
+
+**PHP
+
+>|PHP|
+int ncurses_keypad ( resource $window , bool $bf )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*hw_mapid
+
+**PHP
+
+>|PHP|
+int hw_mapid ( int $connection , int $server_id , int $object_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

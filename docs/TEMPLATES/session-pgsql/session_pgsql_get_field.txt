@@ -1,0 +1,13 @@
+*session_pgsql_get_field
+
+**PHP
+
+>|PHP|
+string session_pgsql_get_field ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

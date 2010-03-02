@@ -1,0 +1,13 @@
+*pg_last_oid
+
+**PHP
+
+>|PHP|
+string pg_last_oid ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

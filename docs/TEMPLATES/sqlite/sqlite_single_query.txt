@@ -1,0 +1,13 @@
+*sqlite_single_query
+
+**PHP
+
+>|PHP|
+array sqlite_single_query ( resource $db , string $query [, bool $first_row_only [, bool $decode_binary ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*stream_get_contents
+
+**PHP
+
+>|PHP|
+string stream_get_contents ( resource $handle [, int $maxlength = -1 [, int $offset = 0 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

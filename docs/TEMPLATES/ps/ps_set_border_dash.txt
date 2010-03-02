@@ -1,0 +1,13 @@
+*ps_set_border_dash
+
+**PHP
+
+>|PHP|
+bool ps_set_border_dash ( resource $psdoc , float $black , float $white )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*atan2
+
+**PHP
+
+>|PHP|
+float atan2 ( float $y , float $x )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

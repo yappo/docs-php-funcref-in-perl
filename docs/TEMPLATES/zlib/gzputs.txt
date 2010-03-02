@@ -1,0 +1,13 @@
+*gzputs
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

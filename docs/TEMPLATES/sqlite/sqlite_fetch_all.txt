@@ -1,0 +1,13 @@
+*sqlite_fetch_all
+
+**PHP
+
+>|PHP|
+array sqlite_fetch_all ( resource $result [, int $result_type = SQLITE_BOTH [, bool $decode_binary = true ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

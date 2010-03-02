@@ -1,0 +1,13 @@
+*gupnp_control_point_new
+
+**PHP
+
+>|PHP|
+resource gupnp_control_point_new ( resource $context , string $target )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

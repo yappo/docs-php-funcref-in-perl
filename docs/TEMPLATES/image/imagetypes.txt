@@ -1,0 +1,13 @@
+*imagetypes
+
+**PHP
+
+>|PHP|
+int imagetypes ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

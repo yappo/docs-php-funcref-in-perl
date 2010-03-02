@@ -1,0 +1,13 @@
+*yp_master
+
+**PHP
+
+>|PHP|
+string yp_master ( string $domain , string $map )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*newt_component_takes_focus
+
+**PHP
+
+>|PHP|
+void newt_component_takes_focus ( resource $component , bool $takes_focus )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

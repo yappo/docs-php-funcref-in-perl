@@ -1,0 +1,13 @@
+*socket_strerror
+
+**PHP
+
+>|PHP|
+string socket_strerror ( int $errno )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

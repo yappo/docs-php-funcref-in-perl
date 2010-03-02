@@ -1,0 +1,13 @@
+*m_setblocking
+
+**PHP
+
+>|PHP|
+int m_setblocking ( resource $conn , int $tf )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

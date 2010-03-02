@@ -1,0 +1,13 @@
+*newt_redraw_help_line
+
+**PHP
+
+>|PHP|
+void newt_redraw_help_line ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

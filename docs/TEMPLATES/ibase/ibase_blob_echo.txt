@@ -1,0 +1,13 @@
+*ibase_blob_echo
+
+**PHP
+
+>|PHP|
+bool ibase_blob_echo ( string $blob_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*gmp_fact
+
+**PHP
+
+>|PHP|
+resource gmp_fact ( mixed $a )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

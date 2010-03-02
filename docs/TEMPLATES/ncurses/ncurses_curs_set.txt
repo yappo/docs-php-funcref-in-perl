@@ -1,0 +1,13 @@
+*ncurses_curs_set
+
+**PHP
+
+>|PHP|
+int ncurses_curs_set ( int $visibility )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

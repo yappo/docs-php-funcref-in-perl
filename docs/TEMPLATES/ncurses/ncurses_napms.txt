@@ -1,0 +1,13 @@
+*ncurses_napms
+
+**PHP
+
+>|PHP|
+int ncurses_napms ( int $milliseconds )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

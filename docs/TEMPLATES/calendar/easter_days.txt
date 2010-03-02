@@ -1,0 +1,13 @@
+*easter_days
+
+**PHP
+
+>|PHP|
+int easter_days ([ int $year [, int $method = CAL_EASTER_DEFAULT ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

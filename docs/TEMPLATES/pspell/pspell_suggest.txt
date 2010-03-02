@@ -1,0 +1,13 @@
+*pspell_suggest
+
+**PHP
+
+>|PHP|
+array pspell_suggest ( int $dictionary_link , string $word )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

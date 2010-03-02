@@ -1,0 +1,13 @@
+*ncurses_termattrs
+
+**PHP
+
+>|PHP|
+bool ncurses_termattrs ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

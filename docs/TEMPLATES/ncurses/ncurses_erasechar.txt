@@ -1,0 +1,13 @@
+*ncurses_erasechar
+
+**PHP
+
+>|PHP|
+string ncurses_erasechar ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

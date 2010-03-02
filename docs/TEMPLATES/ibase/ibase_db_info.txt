@@ -1,0 +1,13 @@
+*ibase_db_info
+
+**PHP
+
+>|PHP|
+string ibase_db_info ( resource $service_handle , string $db , int $action [, int $argument = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*dio_tcsetattr
+
+**PHP
+
+>|PHP|
+bool dio_tcsetattr ( resource $fd , array $options )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*get_parent_class
+
+**PHP
+
+>|PHP|
+string get_parent_class ([ mixed $object ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*strpbrk
+
+**PHP
+
+>|PHP|
+string strpbrk ( string $haystack , string $char_list )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

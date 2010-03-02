@@ -1,0 +1,13 @@
+*gnupg_geterror
+
+**PHP
+
+>|PHP|
+string gnupg_geterror ( resource $identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

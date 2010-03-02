@@ -1,0 +1,13 @@
+*mysqli_param_count
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

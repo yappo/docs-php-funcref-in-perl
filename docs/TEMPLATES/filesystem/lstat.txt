@@ -1,0 +1,13 @@
+*lstat
+
+**PHP
+
+>|PHP|
+array lstat ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

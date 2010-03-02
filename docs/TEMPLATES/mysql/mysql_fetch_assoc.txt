@@ -1,0 +1,13 @@
+*mysql_fetch_assoc
+
+**PHP
+
+>|PHP|
+array mysql_fetch_assoc ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

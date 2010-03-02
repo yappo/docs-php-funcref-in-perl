@@ -1,0 +1,13 @@
+*maxdb_stmt_prepare
+
+**PHP
+
+>|PHP|
+bool maxdb_stmt_prepare ( resource $stmt , string $query )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

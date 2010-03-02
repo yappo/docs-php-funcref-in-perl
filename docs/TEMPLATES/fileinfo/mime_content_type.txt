@@ -1,0 +1,13 @@
+*mime_content_type
+
+**PHP
+
+>|PHP|
+string mime_content_type ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

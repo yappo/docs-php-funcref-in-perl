@@ -1,0 +1,13 @@
+*ftp_ssl_connect
+
+**PHP
+
+>|PHP|
+resource ftp_ssl_connect ( string $host [, int $port = 21 [, int $timeout = 90 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

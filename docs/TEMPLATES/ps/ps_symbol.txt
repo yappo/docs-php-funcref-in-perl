@@ -1,0 +1,13 @@
+*ps_symbol
+
+**PHP
+
+>|PHP|
+bool ps_symbol ( resource $psdoc , int $ord )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

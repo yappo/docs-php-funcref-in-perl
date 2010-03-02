@@ -1,0 +1,13 @@
+*sybase_num_rows
+
+**PHP
+
+>|PHP|
+int sybase_num_rows ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

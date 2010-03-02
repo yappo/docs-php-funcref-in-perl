@@ -1,0 +1,13 @@
+*ftp_pasv
+
+**PHP
+
+>|PHP|
+bool ftp_pasv ( resource $ftp_stream , bool $pasv )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

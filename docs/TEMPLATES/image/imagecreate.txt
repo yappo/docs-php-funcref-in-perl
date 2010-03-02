@@ -1,0 +1,13 @@
+*imagecreate
+
+**PHP
+
+>|PHP|
+resource imagecreate ( int $width , int $height )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

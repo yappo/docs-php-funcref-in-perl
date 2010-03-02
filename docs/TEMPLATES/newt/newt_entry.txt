@@ -1,0 +1,13 @@
+*newt_entry
+
+**PHP
+
+>|PHP|
+resource newt_entry ( int $left , int $top , int $width [, string $init_value [, int $flags ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ldap_get_option
+
+**PHP
+
+>|PHP|
+bool ldap_get_option ( resource $link_identifier , int $option , mixed &$retval )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

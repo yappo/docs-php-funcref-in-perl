@@ -1,0 +1,13 @@
+*imagepng
+
+**PHP
+
+>|PHP|
+bool imagepng ( resource $image [, string $filename [, int $quality [, int $filters ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

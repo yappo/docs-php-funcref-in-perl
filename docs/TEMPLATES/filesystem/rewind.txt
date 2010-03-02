@@ -1,0 +1,13 @@
+*rewind
+
+**PHP
+
+>|PHP|
+bool rewind ( resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

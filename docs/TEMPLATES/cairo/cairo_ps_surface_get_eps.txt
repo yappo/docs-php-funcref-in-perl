@@ -1,0 +1,13 @@
+*cairo_ps_surface_get_eps
+
+**PHP
+
+>|PHP|
+bool cairo_ps_surface_get_eps ( CairoPsSurface $surface )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

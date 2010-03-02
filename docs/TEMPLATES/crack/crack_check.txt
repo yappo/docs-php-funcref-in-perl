@@ -1,0 +1,13 @@
+*crack_check
+
+**PHP
+
+>|PHP|
+bool crack_check ( resource $dictionary , string $password )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

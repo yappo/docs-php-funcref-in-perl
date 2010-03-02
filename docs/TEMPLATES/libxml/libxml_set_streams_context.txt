@@ -1,0 +1,13 @@
+*libxml_set_streams_context
+
+**PHP
+
+>|PHP|
+void libxml_set_streams_context ( resource $streams_context )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

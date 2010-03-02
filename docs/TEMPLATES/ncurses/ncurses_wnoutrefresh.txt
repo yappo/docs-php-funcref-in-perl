@@ -1,0 +1,13 @@
+*ncurses_wnoutrefresh
+
+**PHP
+
+>|PHP|
+int ncurses_wnoutrefresh ( resource $window )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

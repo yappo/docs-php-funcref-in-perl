@@ -1,0 +1,13 @@
+*sqlite_changes
+
+**PHP
+
+>|PHP|
+int sqlite_changes ( resource $dbhandle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

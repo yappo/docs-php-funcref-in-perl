@@ -1,0 +1,13 @@
+*array_fill
+
+**PHP
+
+>|PHP|
+array array_fill ( int $start_index , int $num , mixed $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

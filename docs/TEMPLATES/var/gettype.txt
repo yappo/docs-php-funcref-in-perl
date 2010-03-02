@@ -1,0 +1,13 @@
+*gettype
+
+**PHP
+
+>|PHP|
+string gettype ( mixed $var )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

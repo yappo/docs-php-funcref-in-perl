@@ -1,0 +1,13 @@
+*http_request_method_register
+
+**PHP
+
+>|PHP|
+int http_request_method_register ( string $method )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*apd_set_pprof_trace
+
+**PHP
+
+>|PHP|
+string apd_set_pprof_trace ([ string $dump_directory [, string $fragment = "pprof" ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

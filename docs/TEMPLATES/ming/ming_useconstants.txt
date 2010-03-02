@@ -1,0 +1,13 @@
+*ming_useconstants
+
+**PHP
+
+>|PHP|
+void ming_useconstants ( int $use )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

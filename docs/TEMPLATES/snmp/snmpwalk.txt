@@ -1,0 +1,13 @@
+*snmpwalk
+
+**PHP
+
+>|PHP|
+array snmpwalk ( string $hostname , string $community , string $object_id [, int $timeout [, int $retries ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

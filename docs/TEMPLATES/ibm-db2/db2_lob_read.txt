@@ -1,0 +1,13 @@
+*db2_lob_read
+
+**PHP
+
+>|PHP|
+string db2_lob_read ( resource $stmt , int $colnum , int $length )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

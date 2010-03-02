@@ -1,0 +1,13 @@
+*getrusage
+
+**PHP
+
+>|PHP|
+array getrusage ([ int $who = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

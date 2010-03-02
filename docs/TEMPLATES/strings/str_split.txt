@@ -1,0 +1,13 @@
+*str_split
+
+**PHP
+
+>|PHP|
+array str_split ( string $string [, int $split_length = 1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

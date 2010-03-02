@@ -1,0 +1,13 @@
+*imap_mail_move
+
+**PHP
+
+>|PHP|
+bool imap_mail_move ( resource $imap_stream , string $msglist , string $mailbox [, int $options = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

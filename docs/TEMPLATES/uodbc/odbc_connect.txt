@@ -1,0 +1,13 @@
+*odbc_connect
+
+**PHP
+
+>|PHP|
+resource odbc_connect ( string $dsn , string $user , string $password [, int $cursor_type ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

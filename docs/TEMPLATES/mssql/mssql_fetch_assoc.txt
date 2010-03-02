@@ -1,0 +1,13 @@
+*mssql_fetch_assoc
+
+**PHP
+
+>|PHP|
+array mssql_fetch_assoc ( resource $result_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

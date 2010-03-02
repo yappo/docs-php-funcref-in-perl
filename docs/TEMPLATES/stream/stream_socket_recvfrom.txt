@@ -1,0 +1,13 @@
+*stream_socket_recvfrom
+
+**PHP
+
+>|PHP|
+string stream_socket_recvfrom ( resource $socket , int $length [, int $flags = 0 [, string &$address ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

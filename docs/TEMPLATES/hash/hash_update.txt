@@ -1,0 +1,13 @@
+*hash_update
+
+**PHP
+
+>|PHP|
+bool hash_update ( resource $context , string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

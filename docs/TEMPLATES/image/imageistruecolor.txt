@@ -1,0 +1,13 @@
+*imageistruecolor
+
+**PHP
+
+>|PHP|
+bool imageistruecolor ( resource $image )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

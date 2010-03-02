@@ -1,0 +1,13 @@
+*pg_execute
+
+**PHP
+
+>|PHP|
+resource pg_execute ([ resource $connection ], string $stmtname , array $params )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

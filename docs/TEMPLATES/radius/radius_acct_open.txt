@@ -1,0 +1,13 @@
+*radius_acct_open
+
+**PHP
+
+>|PHP|
+resource radius_acct_open ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

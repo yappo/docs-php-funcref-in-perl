@@ -1,0 +1,13 @@
+*ovrimos_num_rows
+
+**PHP
+
+>|PHP|
+int ovrimos_num_rows ( int $result_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

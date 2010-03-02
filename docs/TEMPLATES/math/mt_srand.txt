@@ -1,0 +1,13 @@
+*mt_srand
+
+**PHP
+
+>|PHP|
+void mt_srand ([ int $seed ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

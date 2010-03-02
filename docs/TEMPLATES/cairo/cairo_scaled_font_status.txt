@@ -1,0 +1,13 @@
+*cairo_scaled_font_status
+
+**PHP
+
+>|PHP|
+int cairo_scaled_font_status ( CairoScaledFont $scaledfont )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

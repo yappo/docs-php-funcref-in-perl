@@ -1,0 +1,13 @@
+*fbsql_fetch_lengths
+
+**PHP
+
+>|PHP|
+array fbsql_fetch_lengths ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

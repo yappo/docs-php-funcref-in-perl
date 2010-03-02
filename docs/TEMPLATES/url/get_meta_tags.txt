@@ -1,0 +1,13 @@
+*get_meta_tags
+
+**PHP
+
+>|PHP|
+array get_meta_tags ( string $filename [, bool $use_include_path = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

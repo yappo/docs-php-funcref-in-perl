@@ -1,0 +1,13 @@
+*xml_get_error_code
+
+**PHP
+
+>|PHP|
+int xml_get_error_code ( resource $parser )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

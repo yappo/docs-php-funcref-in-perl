@@ -1,0 +1,13 @@
+*mssql_query
+
+**PHP
+
+>|PHP|
+mixed mssql_query ( string $query [, resource $link_identifier [, int $batch_size = 0 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

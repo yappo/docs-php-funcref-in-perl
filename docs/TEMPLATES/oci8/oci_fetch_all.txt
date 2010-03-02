@@ -1,0 +1,13 @@
+*oci_fetch_all
+
+**PHP
+
+>|PHP|
+int oci_fetch_all ( resource $statement , array &$output [, int $skip = 0 [, int $maxrows = -1 [, int $flags = OCI_FETCHSTATEMENT_BY_COLUMN + OCI_ASSOC ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*maxdb_stmt_bind_param
+
+**PHP
+
+>|PHP|
+bool maxdb_stmt_bind_param ( resource $stmt , string $types , mixed &$var1 [, mixed &$... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*getprotobynumber
+
+**PHP
+
+>|PHP|
+string getprotobynumber ( int $number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*fdf_errno
+
+**PHP
+
+>|PHP|
+int fdf_errno ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

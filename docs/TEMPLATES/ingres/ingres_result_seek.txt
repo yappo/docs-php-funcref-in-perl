@@ -1,0 +1,13 @@
+*ingres_result_seek
+
+**PHP
+
+>|PHP|
+boolean ingres_result_seek ( resource $result , integer $position )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

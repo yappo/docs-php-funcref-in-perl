@@ -1,0 +1,13 @@
+*yaz_errno
+
+**PHP
+
+>|PHP|
+int yaz_errno ( resource $id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*gmp_prob_prime
+
+**PHP
+
+>|PHP|
+int gmp_prob_prime ( resource $a [, int $reps = 10 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

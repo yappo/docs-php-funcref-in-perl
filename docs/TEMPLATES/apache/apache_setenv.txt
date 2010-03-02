@@ -1,0 +1,13 @@
+*apache_setenv
+
+**PHP
+
+>|PHP|
+bool apache_setenv ( string $variable , string $value [, bool $walk_to_top = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

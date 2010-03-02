@@ -1,0 +1,13 @@
+*gmp_init
+
+**PHP
+
+>|PHP|
+resource gmp_init ( mixed $number [, int $base = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

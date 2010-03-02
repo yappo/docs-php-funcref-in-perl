@@ -1,0 +1,13 @@
+*dl
+
+**PHP
+
+>|PHP|
+int dl ( string $library )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

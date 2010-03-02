@@ -1,0 +1,13 @@
+*bzerror
+
+**PHP
+
+>|PHP|
+array bzerror ( resource $bz )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

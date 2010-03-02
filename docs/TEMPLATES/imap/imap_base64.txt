@@ -1,0 +1,13 @@
+*imap_base64
+
+**PHP
+
+>|PHP|
+string imap_base64 ( string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

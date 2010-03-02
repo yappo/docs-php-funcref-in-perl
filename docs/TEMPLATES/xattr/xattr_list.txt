@@ -1,0 +1,13 @@
+*xattr_list
+
+**PHP
+
+>|PHP|
+array xattr_list ( string $filename [, int $flags = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

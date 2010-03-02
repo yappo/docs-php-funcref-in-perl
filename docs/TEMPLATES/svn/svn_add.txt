@@ -1,0 +1,13 @@
+*svn_add
+
+**PHP
+
+>|PHP|
+bool svn_add ( string $path [, bool $recursive = true [, bool $force = false ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

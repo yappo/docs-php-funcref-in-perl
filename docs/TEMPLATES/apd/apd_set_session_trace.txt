@@ -1,0 +1,13 @@
+*apd_set_session_trace
+
+**PHP
+
+>|PHP|
+void apd_set_session_trace ( int $debug_level [, string $dump_directory ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

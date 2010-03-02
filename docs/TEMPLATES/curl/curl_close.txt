@@ -1,0 +1,13 @@
+*curl_close
+
+**PHP
+
+>|PHP|
+void curl_close ( resource $ch )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*cairo_scaled_font_glyph_extents
+
+**PHP
+
+>|PHP|
+array cairo_scaled_font_glyph_extents ( CairoScaledFont $scaledfont , string $glyphs )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

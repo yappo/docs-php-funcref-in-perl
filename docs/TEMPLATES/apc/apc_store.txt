@@ -1,0 +1,13 @@
+*apc_store
+
+**PHP
+
+>|PHP|
+bool apc_store ( string $key , mixed $var [, int $ttl = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

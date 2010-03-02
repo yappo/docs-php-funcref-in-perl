@@ -1,0 +1,13 @@
+*hw_api->dstofsrcanchor
+
+**PHP
+
+>|PHP|
+hw_api_object dstofsrcanchor ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

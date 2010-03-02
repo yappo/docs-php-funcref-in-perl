@@ -1,0 +1,13 @@
+*id3_get_genre_id
+
+**PHP
+
+>|PHP|
+int id3_get_genre_id ( string $genre )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

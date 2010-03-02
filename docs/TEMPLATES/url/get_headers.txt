@@ -1,0 +1,13 @@
+*get_headers
+
+**PHP
+
+>|PHP|
+array get_headers ( string $url [, int $format = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

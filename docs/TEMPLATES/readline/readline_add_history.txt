@@ -1,0 +1,13 @@
+*readline_add_history
+
+**PHP
+
+>|PHP|
+bool readline_add_history ( string $line )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

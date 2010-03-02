@@ -1,0 +1,13 @@
+*odbc_columnprivileges
+
+**PHP
+
+>|PHP|
+resource odbc_columnprivileges ( resource $connection_id , string $qualifier , string $owner , string $table_name , string $column_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*printer_draw_line
+
+**PHP
+
+>|PHP|
+void printer_draw_line ( resource $printer_handle , int $from_x , int $from_y , int $to_x , int $to_y )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

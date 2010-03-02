@@ -1,0 +1,13 @@
+*ps_stroke
+
+**PHP
+
+>|PHP|
+bool ps_stroke ( resource $psdoc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

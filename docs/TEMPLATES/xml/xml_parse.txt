@@ -1,0 +1,13 @@
+*xml_parse
+
+**PHP
+
+>|PHP|
+int xml_parse ( resource $parser , string $data [, bool $is_final = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

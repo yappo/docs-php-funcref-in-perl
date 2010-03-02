@@ -1,0 +1,13 @@
+*header_remove
+
+**PHP
+
+>|PHP|
+void header_remove ([ string $name ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

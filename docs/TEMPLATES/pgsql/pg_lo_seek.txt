@@ -1,0 +1,13 @@
+*pg_lo_seek
+
+**PHP
+
+>|PHP|
+bool pg_lo_seek ( resource $large_object , int $offset [, int $whence = PGSQL_SEEK_CUR ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

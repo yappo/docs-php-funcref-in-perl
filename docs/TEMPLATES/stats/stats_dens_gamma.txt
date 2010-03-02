@@ -1,0 +1,13 @@
+*stats_dens_gamma
+
+**PHP
+
+>|PHP|
+float stats_dens_gamma ( float $x , float $shape , float $scale )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

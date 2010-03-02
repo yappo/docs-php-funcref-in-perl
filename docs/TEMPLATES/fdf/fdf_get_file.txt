@@ -1,0 +1,13 @@
+*fdf_get_file
+
+**PHP
+
+>|PHP|
+string fdf_get_file ( resource $fdf_document )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

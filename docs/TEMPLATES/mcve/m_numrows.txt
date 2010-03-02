@@ -1,0 +1,13 @@
+*m_numrows
+
+**PHP
+
+>|PHP|
+int m_numrows ( resource $conn , int $identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

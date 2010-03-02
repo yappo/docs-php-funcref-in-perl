@@ -1,0 +1,13 @@
+*curl_multi_select
+
+**PHP
+
+>|PHP|
+int curl_multi_select ( resource $mh [, float $timeout = 1.0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

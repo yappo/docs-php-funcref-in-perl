@@ -1,0 +1,13 @@
+*pg_result_error_field
+
+**PHP
+
+>|PHP|
+string pg_result_error_field ( resource $result , int $fieldcode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

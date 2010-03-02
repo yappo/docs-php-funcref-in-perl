@@ -1,0 +1,13 @@
+*sql_regcase
+
+**PHP
+
+>|PHP|
+string sql_regcase ( string $string )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

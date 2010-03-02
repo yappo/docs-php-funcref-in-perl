@@ -1,0 +1,13 @@
+*http_negotiate_content_type
+
+**PHP
+
+>|PHP|
+string http_negotiate_content_type ( array $supported [, array &$result ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

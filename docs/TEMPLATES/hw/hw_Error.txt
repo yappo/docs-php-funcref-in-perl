@@ -1,0 +1,13 @@
+*hw_Error
+
+**PHP
+
+>|PHP|
+int hw_error ( int $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

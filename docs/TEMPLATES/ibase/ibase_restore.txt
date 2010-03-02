@@ -1,0 +1,13 @@
+*ibase_restore
+
+**PHP
+
+>|PHP|
+mixed ibase_restore ( resource $service_handle , string $source_file , string $dest_db [, int $options = 0 [, bool $verbose = false ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

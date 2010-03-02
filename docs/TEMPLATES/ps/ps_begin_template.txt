@@ -1,0 +1,13 @@
+*ps_begin_template
+
+**PHP
+
+>|PHP|
+int ps_begin_template ( resource $psdoc , float $width , float $height )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

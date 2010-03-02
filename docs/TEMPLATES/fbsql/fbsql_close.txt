@@ -1,0 +1,13 @@
+*fbsql_close
+
+**PHP
+
+>|PHP|
+bool fbsql_close ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

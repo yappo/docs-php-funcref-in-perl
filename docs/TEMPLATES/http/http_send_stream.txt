@@ -1,0 +1,13 @@
+*http_send_stream
+
+**PHP
+
+>|PHP|
+bool http_send_stream ( resource $stream )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

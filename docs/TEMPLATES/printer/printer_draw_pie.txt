@@ -1,0 +1,13 @@
+*printer_draw_pie
+
+**PHP
+
+>|PHP|
+void printer_draw_pie ( resource $printer_handle , int $rec_x , int $rec_y , int $rec_x1 , int $rec_y1 , int $rad1_x , int $rad1_y , int $rad2_x , int $rad2_y )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

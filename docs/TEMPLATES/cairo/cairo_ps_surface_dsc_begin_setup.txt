@@ -1,0 +1,13 @@
+*cairo_ps_surface_dsc_begin_setup
+
+**PHP
+
+>|PHP|
+void cairo_ps_surface_dsc_begin_setup ( CairoPsSurface $surface )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

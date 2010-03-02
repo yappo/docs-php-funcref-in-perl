@@ -1,0 +1,13 @@
+*yaz_ccl_conf
+
+**PHP
+
+>|PHP|
+void yaz_ccl_conf ( resource $id , array $config )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

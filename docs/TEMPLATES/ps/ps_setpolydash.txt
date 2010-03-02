@@ -1,0 +1,13 @@
+*ps_setpolydash
+
+**PHP
+
+>|PHP|
+bool ps_setpolydash ( resource $psdoc , float $arr )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

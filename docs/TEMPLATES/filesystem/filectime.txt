@@ -1,0 +1,13 @@
+*filectime
+
+**PHP
+
+>|PHP|
+int filectime ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

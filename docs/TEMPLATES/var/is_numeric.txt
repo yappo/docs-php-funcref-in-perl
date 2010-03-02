@@ -1,0 +1,13 @@
+*is_numeric
+
+**PHP
+
+>|PHP|
+bool is_numeric ( mixed $var )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

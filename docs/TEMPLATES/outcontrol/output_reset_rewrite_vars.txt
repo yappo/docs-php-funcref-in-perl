@@ -1,0 +1,13 @@
+*output_reset_rewrite_vars
+
+**PHP
+
+>|PHP|
+bool output_reset_rewrite_vars ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

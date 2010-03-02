@@ -1,0 +1,13 @@
+*mssql_fetch_row
+
+**PHP
+
+>|PHP|
+array mssql_fetch_row ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

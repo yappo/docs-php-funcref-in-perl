@@ -1,0 +1,13 @@
+*vpopmail_passwd
+
+**PHP
+
+>|PHP|
+bool vpopmail_passwd ( string $user , string $domain , string $password [, bool $apop ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

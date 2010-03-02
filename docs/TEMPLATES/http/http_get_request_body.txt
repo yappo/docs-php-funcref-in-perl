@@ -1,0 +1,13 @@
+*http_get_request_body
+
+**PHP
+
+>|PHP|
+string http_get_request_body ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

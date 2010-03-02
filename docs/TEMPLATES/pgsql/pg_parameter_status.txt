@@ -1,0 +1,13 @@
+*pg_parameter_status
+
+**PHP
+
+>|PHP|
+string pg_parameter_status ([ resource $connection ], string $param_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

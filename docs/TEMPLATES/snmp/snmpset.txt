@@ -1,0 +1,13 @@
+*snmpset
+
+**PHP
+
+>|PHP|
+bool snmpset ( string $hostname , string $community , string $object_id , string $type , mixed $value [, int $timeout [, int $retries ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

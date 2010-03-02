@@ -1,0 +1,13 @@
+*hw_setlinkroot
+
+**PHP
+
+>|PHP|
+int hw_setlinkroot ( int $link , int $rootid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*bcsub
+
+**PHP
+
+>|PHP|
+string bcsub ( string $left_operand , string $right_operand [, int $scale ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

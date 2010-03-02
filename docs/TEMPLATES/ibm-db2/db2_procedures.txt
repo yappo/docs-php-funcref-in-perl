@@ -1,0 +1,13 @@
+*db2_procedures
+
+**PHP
+
+>|PHP|
+resource db2_procedures ( resource $connection , string $qualifier , string $schema , string $procedure )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

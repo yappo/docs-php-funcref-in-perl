@@ -1,0 +1,13 @@
+*stream_supports_lock
+
+**PHP
+
+>|PHP|
+bool stream_supports_lock ( resource $stream )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

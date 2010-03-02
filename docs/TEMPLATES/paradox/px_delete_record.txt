@@ -1,0 +1,13 @@
+*px_delete_record
+
+**PHP
+
+>|PHP|
+bool px_delete_record ( resource $pxdoc , int $num )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

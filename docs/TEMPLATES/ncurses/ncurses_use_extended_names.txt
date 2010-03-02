@@ -1,0 +1,13 @@
+*ncurses_use_extended_names
+
+**PHP
+
+>|PHP|
+int ncurses_use_extended_names ( bool $flag )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

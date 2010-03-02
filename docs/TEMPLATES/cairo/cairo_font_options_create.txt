@@ -1,0 +1,13 @@
+*cairo_font_options_create
+
+**PHP
+
+>|PHP|
+CairoFontOptions cairo_font_options_create ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

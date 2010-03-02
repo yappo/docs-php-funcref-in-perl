@@ -1,0 +1,13 @@
+*bzwrite
+
+**PHP
+
+>|PHP|
+int bzwrite ( resource $bz , string $data [, int $length ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

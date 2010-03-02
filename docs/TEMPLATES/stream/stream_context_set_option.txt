@@ -1,0 +1,13 @@
+*stream_context_set_option
+
+**PHP
+
+>|PHP|
+bool stream_context_set_option ( resource $stream_or_context , string $wrapper , string $option , mixed $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

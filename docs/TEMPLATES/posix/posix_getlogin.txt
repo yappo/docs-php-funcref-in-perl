@@ -1,0 +1,13 @@
+*posix_getlogin
+
+**PHP
+
+>|PHP|
+string posix_getlogin ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

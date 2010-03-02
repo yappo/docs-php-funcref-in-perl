@@ -1,0 +1,13 @@
+*ifx_byteasvarchar
+
+**PHP
+
+>|PHP|
+bool ifx_byteasvarchar ( int $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

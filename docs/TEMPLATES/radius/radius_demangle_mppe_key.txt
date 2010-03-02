@@ -1,0 +1,13 @@
+*radius_demangle_mppe_key
+
+**PHP
+
+>|PHP|
+string radius_demangle_mppe_key ( resource $radius_handle , string $mangled )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

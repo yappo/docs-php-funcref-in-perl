@@ -1,0 +1,13 @@
+*bcompiler_write_exe_footer
+
+**PHP
+
+>|PHP|
+bool bcompiler_write_exe_footer ( resource $filehandle , int $startpos )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

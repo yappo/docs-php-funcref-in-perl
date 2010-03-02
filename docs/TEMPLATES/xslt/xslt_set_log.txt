@@ -1,0 +1,13 @@
+*xslt_set_log
+
+**PHP
+
+>|PHP|
+void xslt_set_log ( resource $xh [, mixed $log ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

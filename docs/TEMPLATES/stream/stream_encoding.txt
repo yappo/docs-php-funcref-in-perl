@@ -1,0 +1,13 @@
+*stream_encoding
+
+**PHP
+
+>|PHP|
+bool stream_encoding ( resource $stream [, string $encoding ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

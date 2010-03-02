@@ -1,0 +1,13 @@
+*filepro_rowcount
+
+**PHP
+
+>|PHP|
+int filepro_rowcount ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

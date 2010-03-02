@@ -1,0 +1,13 @@
+*socket_last_error
+
+**PHP
+
+>|PHP|
+int socket_last_error ([ resource $socket ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*proc_close
+
+**PHP
+
+>|PHP|
+int proc_close ( resource $process )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

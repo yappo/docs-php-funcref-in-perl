@@ -1,0 +1,13 @@
+*imageinterlace
+
+**PHP
+
+>|PHP|
+int imageinterlace ( resource $image [, int $interlace = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

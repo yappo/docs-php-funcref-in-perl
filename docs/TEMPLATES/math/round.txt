@@ -1,0 +1,13 @@
+*round
+
+**PHP
+
+>|PHP|
+float round ( float $val [, int $precision = 0 [, int $mode = PHP_ROUND_HALF_UP ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

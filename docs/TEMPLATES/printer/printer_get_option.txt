@@ -1,0 +1,13 @@
+*printer_get_option
+
+**PHP
+
+>|PHP|
+mixed printer_get_option ( resource $printer_handle , string $option )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

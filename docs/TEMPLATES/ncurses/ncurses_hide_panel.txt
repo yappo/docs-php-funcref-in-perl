@@ -1,0 +1,13 @@
+*ncurses_hide_panel
+
+**PHP
+
+>|PHP|
+int ncurses_hide_panel ( resource $panel )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

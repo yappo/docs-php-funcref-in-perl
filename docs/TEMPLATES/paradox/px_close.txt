@@ -1,0 +1,13 @@
+*px_close
+
+**PHP
+
+>|PHP|
+bool px_close ( resource $pxdoc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

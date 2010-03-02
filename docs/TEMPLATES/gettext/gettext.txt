@@ -1,0 +1,13 @@
+*gettext
+
+**PHP
+
+>|PHP|
+string gettext ( string $message )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

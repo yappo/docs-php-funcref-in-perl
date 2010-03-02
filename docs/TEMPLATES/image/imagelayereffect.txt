@@ -1,0 +1,13 @@
+*imagelayereffect
+
+**PHP
+
+>|PHP|
+bool imagelayereffect ( resource $image , int $effect )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

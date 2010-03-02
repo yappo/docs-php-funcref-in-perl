@@ -1,0 +1,13 @@
+*array_product
+
+**PHP
+
+>|PHP|
+number array_product ( array $array )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

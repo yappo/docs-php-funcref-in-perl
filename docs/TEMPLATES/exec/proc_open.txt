@@ -1,0 +1,13 @@
+*proc_open
+
+**PHP
+
+>|PHP|
+resource proc_open ( string $cmd , array $descriptorspec , array &$pipes [, string $cwd [, array $env [, array $other_options ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

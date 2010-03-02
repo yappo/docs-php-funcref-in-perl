@@ -1,0 +1,13 @@
+*mssql_execute
+
+**PHP
+
+>|PHP|
+mixed mssql_execute ( resource $stmt [, bool $skip_results = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*db2_bind_param
+
+**PHP
+
+>|PHP|
+bool db2_bind_param ( resource $stmt , int $parameter-number , string $variable-name [, int $parameter-type [, int $data-type = 0 [, int $precision = -1 [, int $scale = 0 ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

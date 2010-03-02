@@ -1,0 +1,13 @@
+*dechex
+
+**PHP
+
+>|PHP|
+string dechex ( int $number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

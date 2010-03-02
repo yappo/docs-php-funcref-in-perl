@@ -1,0 +1,13 @@
+*array_intersect_key
+
+**PHP
+
+>|PHP|
+array array_intersect_key ( array $array1 , array $array2 [, array $ ... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

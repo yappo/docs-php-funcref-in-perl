@@ -1,0 +1,13 @@
+*iconv_set_encoding
+
+**PHP
+
+>|PHP|
+bool iconv_set_encoding ( string $type , string $charset )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

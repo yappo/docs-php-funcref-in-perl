@@ -1,0 +1,13 @@
+*fbsql_clob_size
+
+**PHP
+
+>|PHP|
+int fbsql_clob_size ( string $clob_handle [, resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

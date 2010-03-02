@@ -1,0 +1,13 @@
+*strncasecmp
+
+**PHP
+
+>|PHP|
+int strncasecmp ( string $str1 , string $str2 , int $len )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

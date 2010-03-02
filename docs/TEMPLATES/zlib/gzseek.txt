@@ -1,0 +1,13 @@
+*gzseek
+
+**PHP
+
+>|PHP|
+int gzseek ( resource $zp , int $offset [, int $whence = SEEK_SET ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

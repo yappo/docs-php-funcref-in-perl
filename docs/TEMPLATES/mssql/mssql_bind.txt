@@ -1,0 +1,13 @@
+*mssql_bind
+
+**PHP
+
+>|PHP|
+bool mssql_bind ( resource $stmt , string $param_name , mixed &$var , int $type [, bool $is_output = false [, bool $is_null = false [, int $maxlen = -1 ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

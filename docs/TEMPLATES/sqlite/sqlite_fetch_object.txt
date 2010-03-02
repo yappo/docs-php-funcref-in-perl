@@ -1,0 +1,13 @@
+*sqlite_fetch_object
+
+**PHP
+
+>|PHP|
+object sqlite_fetch_object ( resource $result [, string $class_name [, array $ctor_params [, bool $decode_binary = true ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

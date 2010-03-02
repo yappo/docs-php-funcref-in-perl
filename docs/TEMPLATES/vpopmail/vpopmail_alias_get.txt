@@ -1,0 +1,13 @@
+*vpopmail_alias_get
+
+**PHP
+
+>|PHP|
+array vpopmail_alias_get ( string $alias , string $domain )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

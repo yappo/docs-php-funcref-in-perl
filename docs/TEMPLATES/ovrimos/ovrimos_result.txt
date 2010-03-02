@@ -1,0 +1,13 @@
+*ovrimos_result
+
+**PHP
+
+>|PHP|
+string ovrimos_result ( int $result_id , mixed $field )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

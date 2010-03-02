@@ -1,0 +1,13 @@
+*m_checkstatus
+
+**PHP
+
+>|PHP|
+int m_checkstatus ( resource $conn , int $identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*iis_remove_server
+
+**PHP
+
+>|PHP|
+int iis_remove_server ( int $server_instance )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

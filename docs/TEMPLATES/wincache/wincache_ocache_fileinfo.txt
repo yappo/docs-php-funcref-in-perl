@@ -1,0 +1,13 @@
+*wincache_ocache_fileinfo
+
+**PHP
+
+>|PHP|
+array wincache_ocache_fileinfo ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

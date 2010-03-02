@@ -1,0 +1,13 @@
+*bzclose
+
+**PHP
+
+>|PHP|
+int bzclose ( resource $bz )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

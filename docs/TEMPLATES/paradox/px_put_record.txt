@@ -1,0 +1,13 @@
+*px_put_record
+
+**PHP
+
+>|PHP|
+bool px_put_record ( resource $pxdoc , array $record [, int $recpos = -1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

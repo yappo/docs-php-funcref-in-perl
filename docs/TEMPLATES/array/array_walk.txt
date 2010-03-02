@@ -1,0 +1,13 @@
+*array_walk
+
+**PHP
+
+>|PHP|
+bool array_walk ( array &$array , callback $funcname [, mixed $userdata ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

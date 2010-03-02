@@ -1,0 +1,13 @@
+*http_request
+
+**PHP
+
+>|PHP|
+string http_request ( int $method [, string $url [, string $body [, array $options [, array &$info ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

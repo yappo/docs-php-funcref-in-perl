@@ -1,0 +1,13 @@
+*cyrus_close
+
+**PHP
+
+>|PHP|
+bool cyrus_close ( resource $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

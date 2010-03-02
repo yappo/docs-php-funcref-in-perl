@@ -1,0 +1,13 @@
+*exit
+
+**PHP
+
+>|PHP|
+void exit ([ string $status ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

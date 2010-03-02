@@ -1,0 +1,13 @@
+*w32api_deftype
+
+**PHP
+
+>|PHP|
+bool w32api_deftype ( string $typename , string $member1_type , string $member1_name [, string $... [, string $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

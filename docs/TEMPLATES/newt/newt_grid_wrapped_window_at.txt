@@ -1,0 +1,13 @@
+*newt_grid_wrapped_window_at
+
+**PHP
+
+>|PHP|
+void newt_grid_wrapped_window_at ( resource $grid , string $title , int $left , int $top )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

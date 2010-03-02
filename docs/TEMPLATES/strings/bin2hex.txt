@@ -1,0 +1,13 @@
+*bin2hex
+
+**PHP
+
+>|PHP|
+string bin2hex ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

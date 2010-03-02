@@ -1,0 +1,13 @@
+*posix_getpwnam
+
+**PHP
+
+>|PHP|
+array posix_getpwnam ( string $username )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

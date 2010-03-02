@@ -1,0 +1,13 @@
+*ibase_name_result
+
+**PHP
+
+>|PHP|
+bool ibase_name_result ( resource $result , string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

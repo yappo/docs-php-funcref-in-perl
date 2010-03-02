@@ -1,0 +1,13 @@
+*hw_GetParentsObj
+
+**PHP
+
+>|PHP|
+array hw_getparentsobj ( int $connection , int $objectID )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

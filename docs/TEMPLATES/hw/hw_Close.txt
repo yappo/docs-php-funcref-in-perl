@@ -1,0 +1,13 @@
+*hw_Close
+
+**PHP
+
+>|PHP|
+bool hw_close ( int $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

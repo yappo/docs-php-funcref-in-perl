@@ -1,0 +1,13 @@
+*ncurses_clrtoeol
+
+**PHP
+
+>|PHP|
+bool ncurses_clrtoeol ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

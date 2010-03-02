@@ -1,0 +1,13 @@
+*date_offset_get
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

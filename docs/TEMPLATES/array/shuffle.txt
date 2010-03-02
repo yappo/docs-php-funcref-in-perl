@@ -1,0 +1,13 @@
+*shuffle
+
+**PHP
+
+>|PHP|
+bool shuffle ( array &$array )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

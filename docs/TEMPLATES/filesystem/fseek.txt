@@ -1,0 +1,13 @@
+*fseek
+
+**PHP
+
+>|PHP|
+int fseek ( resource $handle , int $offset [, int $whence ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

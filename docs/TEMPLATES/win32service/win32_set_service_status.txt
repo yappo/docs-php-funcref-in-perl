@@ -1,0 +1,13 @@
+*win32_set_service_status
+
+**PHP
+
+>|PHP|
+bool win32_set_service_status ( int $status )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

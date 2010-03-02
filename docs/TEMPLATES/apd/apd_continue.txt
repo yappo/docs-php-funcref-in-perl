@@ -1,0 +1,13 @@
+*apd_continue
+
+**PHP
+
+>|PHP|
+bool apd_continue ( int $debug_level )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

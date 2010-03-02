@@ -1,0 +1,13 @@
+*sqlite_exec
+
+**PHP
+
+>|PHP|
+bool sqlite_exec ( resource $dbhandle , string $query [, string &$error_msg ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

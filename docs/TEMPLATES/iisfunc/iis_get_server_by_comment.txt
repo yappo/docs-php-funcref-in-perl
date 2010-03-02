@@ -1,0 +1,13 @@
+*iis_get_server_by_comment
+
+**PHP
+
+>|PHP|
+int iis_get_server_by_comment ( string $comment )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

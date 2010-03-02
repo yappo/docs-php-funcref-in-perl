@@ -1,0 +1,13 @@
+*pcntl_sigprocmask
+
+**PHP
+
+>|PHP|
+bool pcntl_sigprocmask ( int $how , array $set [, array &$oldset ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

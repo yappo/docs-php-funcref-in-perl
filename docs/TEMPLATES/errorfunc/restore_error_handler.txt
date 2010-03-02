@@ -1,0 +1,13 @@
+*restore_error_handler
+
+**PHP
+
+>|PHP|
+bool restore_error_handler ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*extension_loaded
+
+**PHP
+
+>|PHP|
+bool extension_loaded ( string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

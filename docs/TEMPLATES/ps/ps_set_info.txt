@@ -1,0 +1,13 @@
+*ps_set_info
+
+**PHP
+
+>|PHP|
+bool ps_set_info ( resource $p , string $key , string $val )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*sybase_result
+
+**PHP
+
+>|PHP|
+string sybase_result ( resource $result , int $row , mixed $field )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

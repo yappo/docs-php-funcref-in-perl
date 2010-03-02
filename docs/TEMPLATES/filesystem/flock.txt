@@ -1,0 +1,13 @@
+*flock
+
+**PHP
+
+>|PHP|
+bool flock ( resource $handle , int $operation [, int &$wouldblock ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

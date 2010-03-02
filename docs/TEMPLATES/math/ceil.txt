@@ -1,0 +1,13 @@
+*ceil
+
+**PHP
+
+>|PHP|
+float ceil ( float $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

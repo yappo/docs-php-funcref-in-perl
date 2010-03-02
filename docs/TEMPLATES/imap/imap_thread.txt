@@ -1,0 +1,13 @@
+*imap_thread
+
+**PHP
+
+>|PHP|
+array imap_thread ( resource $imap_stream [, int $options = SE_FREE ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*array_map
+
+**PHP
+
+>|PHP|
+array array_map ( callback $callback , array $arr1 [, array $... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

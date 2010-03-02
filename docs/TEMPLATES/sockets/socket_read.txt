@@ -1,0 +1,13 @@
+*socket_read
+
+**PHP
+
+>|PHP|
+string socket_read ( resource $socket , int $length [, int $type = PHP_BINARY_READ ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

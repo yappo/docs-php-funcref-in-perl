@@ -1,0 +1,13 @@
+*mcrypt_cbc
+
+**PHP
+
+>|PHP|
+string mcrypt_cbc ( int $cipher , string $key , string $data , int $mode [, string $iv ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

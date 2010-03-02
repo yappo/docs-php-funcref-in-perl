@@ -1,0 +1,13 @@
+*hw_GetAndLock
+
+**PHP
+
+>|PHP|
+string hw_getandlock ( int $connection , int $objectID )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

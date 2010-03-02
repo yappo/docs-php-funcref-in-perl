@@ -1,0 +1,13 @@
+*hw_api->srcsofdst
+
+**PHP
+
+>|PHP|
+array srcsofdst ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

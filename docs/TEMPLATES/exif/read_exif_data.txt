@@ -1,0 +1,13 @@
+*read_exif_data
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

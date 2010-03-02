@@ -1,0 +1,13 @@
+*imagesetthickness
+
+**PHP
+
+>|PHP|
+bool imagesetthickness ( resource $image , int $thickness )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

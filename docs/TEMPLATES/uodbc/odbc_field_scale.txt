@@ -1,0 +1,13 @@
+*odbc_field_scale
+
+**PHP
+
+>|PHP|
+int odbc_field_scale ( resource $result_id , int $field_number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

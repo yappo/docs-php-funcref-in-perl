@@ -1,0 +1,13 @@
+*dba_nextkey
+
+**PHP
+
+>|PHP|
+string dba_nextkey ( resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

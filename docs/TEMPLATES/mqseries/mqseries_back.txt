@@ -1,0 +1,13 @@
+*mqseries_back
+
+**PHP
+
+>|PHP|
+void mqseries_back ( resource $hconn , resource &$compCode , resource &$reason )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

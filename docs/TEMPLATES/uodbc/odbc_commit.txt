@@ -1,0 +1,13 @@
+*odbc_commit
+
+**PHP
+
+>|PHP|
+bool odbc_commit ( resource $connection_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

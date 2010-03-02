@@ -1,0 +1,13 @@
+*xslt_error
+
+**PHP
+
+>|PHP|
+string xslt_error ( resource $xh )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

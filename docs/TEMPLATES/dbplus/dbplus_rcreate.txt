@@ -1,0 +1,13 @@
+*dbplus_rcreate
+
+**PHP
+
+>|PHP|
+resource dbplus_rcreate ( string $name , mixed $domlist [, bool $overwrite ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

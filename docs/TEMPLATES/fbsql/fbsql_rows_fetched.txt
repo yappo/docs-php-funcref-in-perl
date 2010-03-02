@@ -1,0 +1,13 @@
+*fbsql_rows_fetched
+
+**PHP
+
+>|PHP|
+int fbsql_rows_fetched ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

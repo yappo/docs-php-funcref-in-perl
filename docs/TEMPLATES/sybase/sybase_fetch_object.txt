@@ -1,0 +1,13 @@
+*sybase_fetch_object
+
+**PHP
+
+>|PHP|
+object sybase_fetch_object ( resource $result [, mixed $object ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*odbc_longreadlen
+
+**PHP
+
+>|PHP|
+bool odbc_longreadlen ( resource $result_id , int $length )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

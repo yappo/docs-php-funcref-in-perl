@@ -1,0 +1,13 @@
+*socket_set_timeout
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

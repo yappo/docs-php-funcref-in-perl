@@ -1,0 +1,13 @@
+*imagexbm
+
+**PHP
+
+>|PHP|
+bool imagexbm ( resource $image , string $filename [, int $foreground ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

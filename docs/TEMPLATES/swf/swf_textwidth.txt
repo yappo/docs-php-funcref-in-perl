@@ -1,0 +1,13 @@
+*swf_textwidth
+
+**PHP
+
+>|PHP|
+float swf_textwidth ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

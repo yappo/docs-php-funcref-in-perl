@@ -1,0 +1,13 @@
+*pg_lo_read
+
+**PHP
+
+>|PHP|
+string pg_lo_read ( resource $large_object [, int $len = 8192 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

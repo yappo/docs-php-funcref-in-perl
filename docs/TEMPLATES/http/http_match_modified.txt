@@ -1,0 +1,13 @@
+*http_match_modified
+
+**PHP
+
+>|PHP|
+bool http_match_modified ([ int $timestamp [, bool $for_range = false ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

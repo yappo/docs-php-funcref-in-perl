@@ -1,0 +1,13 @@
+*cairo_scaled_font_get_font_matrix
+
+**PHP
+
+>|PHP|
+CairoFontOptions cairo_scaled_font_get_font_matrix ( CairoScaledFont $scaledfont )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

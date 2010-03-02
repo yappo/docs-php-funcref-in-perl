@@ -1,0 +1,13 @@
+*http_parse_cookie
+
+**PHP
+
+>|PHP|
+object http_parse_cookie ( string $cookie [, int $flags [, array $allowed_extras ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

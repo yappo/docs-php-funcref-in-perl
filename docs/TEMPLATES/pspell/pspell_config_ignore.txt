@@ -1,0 +1,13 @@
+*pspell_config_ignore
+
+**PHP
+
+>|PHP|
+bool pspell_config_ignore ( int $dictionary_link , int $n )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

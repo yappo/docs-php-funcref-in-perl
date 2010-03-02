@@ -1,0 +1,13 @@
+*getdate
+
+**PHP
+
+>|PHP|
+array getdate ([ int $timestamp = time() ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

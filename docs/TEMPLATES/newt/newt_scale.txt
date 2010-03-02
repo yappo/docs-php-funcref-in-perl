@@ -1,0 +1,13 @@
+*newt_scale
+
+**PHP
+
+>|PHP|
+resource newt_scale ( int $left , int $top , int $width , int $full_value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

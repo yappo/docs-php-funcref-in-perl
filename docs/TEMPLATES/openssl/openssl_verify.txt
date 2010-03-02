@@ -1,0 +1,13 @@
+*openssl_verify
+
+**PHP
+
+>|PHP|
+int openssl_verify ( string $data , string $signature , mixed $pub_key_id [, int $signature_alg = OPENSSL_ALGO_SHA1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

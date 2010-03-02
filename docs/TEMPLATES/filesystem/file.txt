@@ -1,0 +1,13 @@
+*file
+
+**PHP
+
+>|PHP|
+array file ( string $filename [, int $flags = 0 [, resource $context ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

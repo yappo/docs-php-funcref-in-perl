@@ -1,0 +1,13 @@
+*ldap_set_option
+
+**PHP
+
+>|PHP|
+bool ldap_set_option ( resource $link_identifier , int $option , mixed $newval )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*vpopmail_add_user
+
+**PHP
+
+>|PHP|
+bool vpopmail_add_user ( string $user , string $domain , string $password [, string $gecos [, bool $apop ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

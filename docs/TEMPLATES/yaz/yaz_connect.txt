@@ -1,0 +1,13 @@
+*yaz_connect
+
+**PHP
+
+>|PHP|
+mixed yaz_connect ( string $zurl [, mixed $options ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

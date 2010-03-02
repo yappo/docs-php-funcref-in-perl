@@ -1,0 +1,13 @@
+*iis_set_script_map
+
+**PHP
+
+>|PHP|
+int iis_set_script_map ( int $server_instance , string $virtual_path , string $script_extension , string $engine_path , int $allow_scripting )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

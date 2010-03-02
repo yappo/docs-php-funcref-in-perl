@@ -1,0 +1,13 @@
+*eregi
+
+**PHP
+
+>|PHP|
+int eregi ( string $pattern , string $string [, array &$regs ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ps_set_value
+
+**PHP
+
+>|PHP|
+bool ps_set_value ( resource $psdoc , string $name , float $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

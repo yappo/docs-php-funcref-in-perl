@@ -1,0 +1,13 @@
+*dbase_pack
+
+**PHP
+
+>|PHP|
+bool dbase_pack ( int $dbase_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

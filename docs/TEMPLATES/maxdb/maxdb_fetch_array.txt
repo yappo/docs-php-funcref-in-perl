@@ -1,0 +1,13 @@
+*maxdb_fetch_array
+
+**PHP
+
+>|PHP|
+mixed maxdb_fetch_array ( resource $result [, int $resulttype ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

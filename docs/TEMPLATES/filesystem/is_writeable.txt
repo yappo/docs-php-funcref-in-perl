@@ -1,0 +1,13 @@
+*is_writeable
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

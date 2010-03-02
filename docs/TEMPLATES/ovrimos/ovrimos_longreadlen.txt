@@ -1,0 +1,13 @@
+*ovrimos_longreadlen
+
+**PHP
+
+>|PHP|
+bool ovrimos_longreadlen ( int $result_id , int $length )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

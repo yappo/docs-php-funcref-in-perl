@@ -1,0 +1,13 @@
+*imap_mime_header_decode
+
+**PHP
+
+>|PHP|
+array imap_mime_header_decode ( string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

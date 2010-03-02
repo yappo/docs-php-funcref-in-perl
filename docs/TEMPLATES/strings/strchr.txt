@@ -1,0 +1,13 @@
+*strchr
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

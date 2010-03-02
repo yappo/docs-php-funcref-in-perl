@@ -1,0 +1,13 @@
+*fbsql_create_clob
+
+**PHP
+
+>|PHP|
+string fbsql_create_clob ( string $clob_data [, resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

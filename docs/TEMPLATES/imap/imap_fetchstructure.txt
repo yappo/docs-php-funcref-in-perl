@@ -1,0 +1,13 @@
+*imap_fetchstructure
+
+**PHP
+
+>|PHP|
+object imap_fetchstructure ( resource $imap_stream , int $msg_number [, int $options = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

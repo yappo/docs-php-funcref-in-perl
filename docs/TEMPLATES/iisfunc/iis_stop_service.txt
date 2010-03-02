@@ -1,0 +1,13 @@
+*iis_stop_service
+
+**PHP
+
+>|PHP|
+int iis_stop_service ( string $service_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

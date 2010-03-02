@@ -1,0 +1,13 @@
+*ncurses_deleteln
+
+**PHP
+
+>|PHP|
+bool ncurses_deleteln ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

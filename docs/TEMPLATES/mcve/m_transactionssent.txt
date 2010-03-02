@@ -1,0 +1,13 @@
+*m_transactionssent
+
+**PHP
+
+>|PHP|
+int m_transactionssent ( resource $conn )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

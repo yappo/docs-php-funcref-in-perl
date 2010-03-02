@@ -1,0 +1,13 @@
+*mqseries_close
+
+**PHP
+
+>|PHP|
+void mqseries_close ( resource $hconn , resource $hobj , int $options , resource &$compCode , resource &$reason )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

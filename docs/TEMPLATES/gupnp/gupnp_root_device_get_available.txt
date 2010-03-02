@@ -1,0 +1,13 @@
+*gupnp_root_device_get_available
+
+**PHP
+
+>|PHP|
+bool gupnp_root_device_get_available ( resource $root_device )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

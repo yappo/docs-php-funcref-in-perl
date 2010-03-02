@@ -1,0 +1,13 @@
+*xmlrpc_is_fault
+
+**PHP
+
+>|PHP|
+bool xmlrpc_is_fault ( array $arg )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

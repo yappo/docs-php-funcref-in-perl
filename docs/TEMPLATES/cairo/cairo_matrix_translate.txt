@@ -1,0 +1,13 @@
+*cairo_matrix_translate
+
+**PHP
+
+>|PHP|
+void cairo_matrix_translate ( CairoMatrix $matrix , string $tx , string $ty )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

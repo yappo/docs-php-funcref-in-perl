@@ -1,0 +1,13 @@
+*maxdb_stmt_close
+
+**PHP
+
+>|PHP|
+bool maxdb_stmt_close ( resource $stmt )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

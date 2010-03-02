@@ -1,0 +1,13 @@
+*dbx_error
+
+**PHP
+
+>|PHP|
+string dbx_error ( object $link_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

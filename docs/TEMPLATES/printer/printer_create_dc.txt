@@ -1,0 +1,13 @@
+*printer_create_dc
+
+**PHP
+
+>|PHP|
+void printer_create_dc ( resource $printer_handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*iis_stop_server
+
+**PHP
+
+>|PHP|
+int iis_stop_server ( int $server_instance )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*sqlite_has_more
+
+**PHP
+
+>|PHP|
+bool sqlite_has_more ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*hw_api->info
+
+**PHP
+
+>|PHP|
+array info ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

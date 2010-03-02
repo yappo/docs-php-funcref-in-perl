@@ -1,0 +1,13 @@
+*mb_decode_numericentity
+
+**PHP
+
+>|PHP|
+string mb_decode_numericentity ( string $str , array $convmap , string $encoding )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

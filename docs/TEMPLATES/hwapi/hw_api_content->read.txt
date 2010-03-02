@@ -1,0 +1,13 @@
+*hw_api_content->read
+
+**PHP
+
+>|PHP|
+string read ( string $buffer , int $len )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

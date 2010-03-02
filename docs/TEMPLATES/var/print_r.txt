@@ -1,0 +1,13 @@
+*print_r
+
+**PHP
+
+>|PHP|
+mixed print_r ( mixed $expression [, bool $return = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

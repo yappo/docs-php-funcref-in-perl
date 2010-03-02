@@ -1,0 +1,13 @@
+*openal_listener_get
+
+**PHP
+
+>|PHP|
+mixed openal_listener_get ( int $property )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

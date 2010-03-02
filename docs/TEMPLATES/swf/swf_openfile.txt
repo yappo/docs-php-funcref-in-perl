@@ -1,0 +1,13 @@
+*swf_openfile
+
+**PHP
+
+>|PHP|
+void swf_openfile ( string $filename , float $width , float $height , float $framerate , float $r , float $g , float $b )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

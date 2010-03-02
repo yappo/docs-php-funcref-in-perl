@@ -1,0 +1,13 @@
+*cairo_font_options_get_hint_metrics
+
+**PHP
+
+>|PHP|
+int cairo_font_options_get_hint_metrics ( CairoFontOptions $options )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

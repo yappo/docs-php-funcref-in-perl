@@ -1,0 +1,13 @@
+*swf_shapefillsolid
+
+**PHP
+
+>|PHP|
+void swf_shapefillsolid ( float $r , float $g , float $b , float $a )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ldap_connect
+
+**PHP
+
+>|PHP|
+resource ldap_connect ([ string $hostname = NULL [, int $port = 389 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*imageloadfont
+
+**PHP
+
+>|PHP|
+int imageloadfont ( string $file )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*db2_field_display_size
+
+**PHP
+
+>|PHP|
+int db2_field_display_size ( resource $stmt , mixed $column )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

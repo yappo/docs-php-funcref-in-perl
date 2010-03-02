@@ -1,0 +1,13 @@
+*ingres_fetch_row
+
+**PHP
+
+>|PHP|
+array ingres_fetch_row ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

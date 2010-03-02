@@ -1,0 +1,13 @@
+*ldap_next_attribute
+
+**PHP
+
+>|PHP|
+string ldap_next_attribute ( resource $link_identifier , resource $result_entry_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

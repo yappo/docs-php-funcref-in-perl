@@ -1,0 +1,13 @@
+*db2_fetch_row
+
+**PHP
+
+>|PHP|
+bool db2_fetch_row ( resource $stmt [, int $row_number ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

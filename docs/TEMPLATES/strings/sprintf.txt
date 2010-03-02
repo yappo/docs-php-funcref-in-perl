@@ -1,0 +1,13 @@
+*sprintf
+
+**PHP
+
+>|PHP|
+string sprintf ( string $format [, mixed $args [, mixed $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*fsockopen
+
+**PHP
+
+>|PHP|
+resource fsockopen ( string $hostname [, int $port = -1 [, int &$errno [, string &$errstr [, float $timeout = ini_get("default_socket_timeout") ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

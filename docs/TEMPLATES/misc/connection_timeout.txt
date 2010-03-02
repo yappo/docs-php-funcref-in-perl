@@ -1,0 +1,13 @@
+*connection_timeout
+
+**PHP
+
+>|PHP|
+int connection_timeout ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

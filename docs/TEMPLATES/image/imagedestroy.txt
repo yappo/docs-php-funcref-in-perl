@@ -1,0 +1,13 @@
+*imagedestroy
+
+**PHP
+
+>|PHP|
+bool imagedestroy ( resource $image )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

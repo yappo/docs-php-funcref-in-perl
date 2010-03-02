@@ -1,0 +1,13 @@
+*gupnp_root_device_get_relative_location
+
+**PHP
+
+>|PHP|
+string gupnp_root_device_get_relative_location ( resource $root_device )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

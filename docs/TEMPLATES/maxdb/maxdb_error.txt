@@ -1,0 +1,13 @@
+*maxdb_error
+
+**PHP
+
+>|PHP|
+string maxdb_error ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

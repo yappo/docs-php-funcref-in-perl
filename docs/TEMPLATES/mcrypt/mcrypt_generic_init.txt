@@ -1,0 +1,13 @@
+*mcrypt_generic_init
+
+**PHP
+
+>|PHP|
+int mcrypt_generic_init ( resource $td , string $key , string $iv )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

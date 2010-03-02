@@ -1,0 +1,13 @@
+*px_set_blob_file
+
+**PHP
+
+>|PHP|
+bool px_set_blob_file ( resource $pxdoc , string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

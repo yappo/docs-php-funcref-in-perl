@@ -1,0 +1,13 @@
+*array_fill_keys
+
+**PHP
+
+>|PHP|
+array array_fill_keys ( array $keys , mixed $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

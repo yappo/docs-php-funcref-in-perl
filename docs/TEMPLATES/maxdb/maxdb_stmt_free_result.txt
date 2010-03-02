@@ -1,0 +1,13 @@
+*maxdb_stmt_free_result
+
+**PHP
+
+>|PHP|
+void maxdb_stmt_free_result ( resource $stmt )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

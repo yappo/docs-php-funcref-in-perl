@@ -1,0 +1,13 @@
+*hw_api_error->count
+
+**PHP
+
+>|PHP|
+int count ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

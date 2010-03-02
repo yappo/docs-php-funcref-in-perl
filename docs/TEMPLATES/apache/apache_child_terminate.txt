@@ -1,0 +1,13 @@
+*apache_child_terminate
+
+**PHP
+
+>|PHP|
+bool apache_child_terminate ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*substr_compare
+
+**PHP
+
+>|PHP|
+int substr_compare ( string $main_str , string $str , int $offset [, int $length [, bool $case_insensitivity = false ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

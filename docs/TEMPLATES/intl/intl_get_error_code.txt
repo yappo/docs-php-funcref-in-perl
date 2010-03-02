@@ -1,0 +1,13 @@
+*intl_get_error_code
+
+**PHP
+
+>|PHP|
+int intl_get_error_code ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

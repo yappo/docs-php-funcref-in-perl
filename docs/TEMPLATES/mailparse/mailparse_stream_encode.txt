@@ -1,0 +1,13 @@
+*mailparse_stream_encode
+
+**PHP
+
+>|PHP|
+bool mailparse_stream_encode ( resource $sourcefp , resource $destfp , string $encoding )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

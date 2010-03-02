@@ -1,0 +1,13 @@
+*http_build_cookie
+
+**PHP
+
+>|PHP|
+string http_build_cookie ( array $cookie )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

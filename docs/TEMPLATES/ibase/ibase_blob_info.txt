@@ -1,0 +1,13 @@
+*ibase_blob_info
+
+**PHP
+
+>|PHP|
+array ibase_blob_info ( resource $link_identifier , string $blob_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ncurses_has_key
+
+**PHP
+
+>|PHP|
+int ncurses_has_key ( int $keycode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

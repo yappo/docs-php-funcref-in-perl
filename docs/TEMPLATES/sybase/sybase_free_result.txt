@@ -1,0 +1,13 @@
+*sybase_free_result
+
+**PHP
+
+>|PHP|
+bool sybase_free_result ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

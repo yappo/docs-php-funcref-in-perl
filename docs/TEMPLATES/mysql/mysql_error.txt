@@ -1,0 +1,13 @@
+*mysql_error
+
+**PHP
+
+>|PHP|
+string mysql_error ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

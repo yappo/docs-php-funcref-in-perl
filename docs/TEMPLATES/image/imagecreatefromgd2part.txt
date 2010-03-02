@@ -1,0 +1,13 @@
+*imagecreatefromgd2part
+
+**PHP
+
+>|PHP|
+resource imagecreatefromgd2part ( string $filename , int $srcX , int $srcY , int $width , int $height )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

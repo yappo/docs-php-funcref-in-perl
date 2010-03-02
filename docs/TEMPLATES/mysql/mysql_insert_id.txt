@@ -1,0 +1,13 @@
+*mysql_insert_id
+
+**PHP
+
+>|PHP|
+int mysql_insert_id ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

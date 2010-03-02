@@ -1,0 +1,13 @@
+*m_settimeout
+
+**PHP
+
+>|PHP|
+int m_settimeout ( resource $conn , int $seconds )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

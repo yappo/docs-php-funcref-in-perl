@@ -1,0 +1,13 @@
+*event_buffer_new
+
+**PHP
+
+>|PHP|
+resource event_buffer_new ( resource $stream , mixed $readcb , mixed $writecb , mixed $errorcb [, mixed $arg ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

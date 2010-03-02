@@ -1,0 +1,13 @@
+*is_a
+
+**PHP
+
+>|PHP|
+bool is_a ( object $object , string $class_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

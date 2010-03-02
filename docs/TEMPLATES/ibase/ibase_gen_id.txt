@@ -1,0 +1,13 @@
+*ibase_gen_id
+
+**PHP
+
+>|PHP|
+mixed ibase_gen_id ( string $generator [, int $increment = 1 [, resource $link_identifier = NULL ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

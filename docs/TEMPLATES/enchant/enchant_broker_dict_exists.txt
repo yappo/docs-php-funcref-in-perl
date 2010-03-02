@@ -1,0 +1,13 @@
+*enchant_broker_dict_exists
+
+**PHP
+
+>|PHP|
+bool enchant_broker_dict_exists ( resource $broker , string $tag )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

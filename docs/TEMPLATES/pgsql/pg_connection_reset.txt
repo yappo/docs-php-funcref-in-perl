@@ -1,0 +1,13 @@
+*pg_connection_reset
+
+**PHP
+
+>|PHP|
+bool pg_connection_reset ( resource $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

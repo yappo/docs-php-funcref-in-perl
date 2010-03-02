@@ -1,0 +1,13 @@
+*pcntl_alarm
+
+**PHP
+
+>|PHP|
+int pcntl_alarm ( int $seconds )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

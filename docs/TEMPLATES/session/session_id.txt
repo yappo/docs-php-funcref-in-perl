@@ -1,0 +1,13 @@
+*session_id
+
+**PHP
+
+>|PHP|
+string session_id ([ string $id ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

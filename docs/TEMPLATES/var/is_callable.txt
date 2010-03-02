@@ -1,0 +1,13 @@
+*is_callable
+
+**PHP
+
+>|PHP|
+bool is_callable ( callback $name [, bool $syntax_only = false [, string &$callable_name ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

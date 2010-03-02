@@ -1,0 +1,13 @@
+*stream_wrapper_register
+
+**PHP
+
+>|PHP|
+bool stream_wrapper_register ( string $protocol , string $classname [, int $flags  = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

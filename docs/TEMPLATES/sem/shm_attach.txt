@@ -1,0 +1,13 @@
+*shm_attach
+
+**PHP
+
+>|PHP|
+resource shm_attach ( int $key [, int $memsize [, int $perm ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

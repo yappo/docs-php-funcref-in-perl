@@ -1,0 +1,13 @@
+*maxdb_real_escape_string
+
+**PHP
+
+>|PHP|
+string maxdb_real_escape_string ( resource $link , string $escapestr )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

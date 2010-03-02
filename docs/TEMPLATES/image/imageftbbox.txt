@@ -1,0 +1,13 @@
+*imageftbbox
+
+**PHP
+
+>|PHP|
+array imageftbbox ( float $size , float $angle , string $fontfile , string $text [, array $extrainfo ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

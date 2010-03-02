@@ -1,0 +1,13 @@
+*fdf_save_string
+
+**PHP
+
+>|PHP|
+string fdf_save_string ( resource $fdf_document )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

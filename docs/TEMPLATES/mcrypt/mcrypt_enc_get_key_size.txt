@@ -1,0 +1,13 @@
+*mcrypt_enc_get_key_size
+
+**PHP
+
+>|PHP|
+int mcrypt_enc_get_key_size ( resource $td )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

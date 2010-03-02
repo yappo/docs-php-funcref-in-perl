@@ -1,0 +1,13 @@
+*ps_add_note
+
+**PHP
+
+>|PHP|
+bool ps_add_note ( resource $psdoc , float $llx , float $lly , float $urx , float $ury , string $contents , string $title , string $icon , int $open )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

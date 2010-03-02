@@ -1,0 +1,13 @@
+*swf_fontslant
+
+**PHP
+
+>|PHP|
+void swf_fontslant ( float $slant )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

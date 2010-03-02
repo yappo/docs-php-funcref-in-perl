@@ -1,0 +1,13 @@
+*ncurses_slk_attroff
+
+**PHP
+
+>|PHP|
+int ncurses_slk_attroff ( int $intarg )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*dbplus_ropen
+
+**PHP
+
+>|PHP|
+resource dbplus_ropen ( string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

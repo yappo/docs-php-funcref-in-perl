@@ -1,0 +1,13 @@
+*svn_checkout
+
+**PHP
+
+>|PHP|
+bool svn_checkout ( string $repos , string $targetpath [, int $revision [, int $flags = 0 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*hw_objrec2array
+
+**PHP
+
+>|PHP|
+array hw_objrec2array ( string $object_record [, array $format ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

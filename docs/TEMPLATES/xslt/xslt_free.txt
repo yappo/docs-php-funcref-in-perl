@@ -1,0 +1,13 @@
+*xslt_free
+
+**PHP
+
+>|PHP|
+void xslt_free ( resource $xh )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

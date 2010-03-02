@@ -1,0 +1,13 @@
+*xslt_set_sax_handlers
+
+**PHP
+
+>|PHP|
+void xslt_set_sax_handlers ( resource $processor , array $handlers )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ldap_error
+
+**PHP
+
+>|PHP|
+string ldap_error ( resource $link_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

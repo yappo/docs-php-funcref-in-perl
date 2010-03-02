@@ -1,0 +1,13 @@
+*odbc_execute
+
+**PHP
+
+>|PHP|
+bool odbc_execute ( resource $result_id [, array $parameters_array ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

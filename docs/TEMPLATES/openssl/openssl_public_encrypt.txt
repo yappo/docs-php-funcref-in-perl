@@ -1,0 +1,13 @@
+*openssl_public_encrypt
+
+**PHP
+
+>|PHP|
+bool openssl_public_encrypt ( string $data , string &$crypted , mixed $key [, int $padding = OPENSSL_PKCS1_PADDING ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*dbplus_rrename
+
+**PHP
+
+>|PHP|
+int dbplus_rrename ( resource $relation , string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

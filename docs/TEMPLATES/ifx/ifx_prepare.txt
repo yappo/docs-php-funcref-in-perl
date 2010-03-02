@@ -1,0 +1,13 @@
+*ifx_prepare
+
+**PHP
+
+>|PHP|
+resource ifx_prepare ( string $query , resource $link_identifier [, int $cursor_def ], mixed $blobidarray )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

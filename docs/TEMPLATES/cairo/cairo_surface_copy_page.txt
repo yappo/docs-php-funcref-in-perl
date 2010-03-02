@@ -1,0 +1,13 @@
+*cairo_surface_copy_page
+
+**PHP
+
+>|PHP|
+void cairo_surface_copy_page ( CairoSurface $surface )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

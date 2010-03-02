@@ -1,0 +1,13 @@
+*w32api_set_call_method
+
+**PHP
+
+>|PHP|
+void w32api_set_call_method ( int $method )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

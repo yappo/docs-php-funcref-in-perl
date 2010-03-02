@@ -1,0 +1,13 @@
+*yp_all
+
+**PHP
+
+>|PHP|
+void yp_all ( string $domain , string $map , string $callback )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*curl_multi_info_read
+
+**PHP
+
+>|PHP|
+array curl_multi_info_read ( resource $mh [, int &$msgs_in_queue = NULL ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

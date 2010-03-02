@@ -1,0 +1,13 @@
+*variant_set
+
+**PHP
+
+>|PHP|
+void variant_set ( variant $variant , mixed $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

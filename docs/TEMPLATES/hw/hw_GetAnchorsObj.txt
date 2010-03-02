@@ -1,0 +1,13 @@
+*hw_GetAnchorsObj
+
+**PHP
+
+>|PHP|
+array hw_getanchorsobj ( int $connection , int $objectID )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

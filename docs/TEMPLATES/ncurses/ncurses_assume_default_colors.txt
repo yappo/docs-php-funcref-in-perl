@@ -1,0 +1,13 @@
+*ncurses_assume_default_colors
+
+**PHP
+
+>|PHP|
+int ncurses_assume_default_colors ( int $fg , int $bg )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

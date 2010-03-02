@@ -1,0 +1,13 @@
+*pg_lo_close
+
+**PHP
+
+>|PHP|
+bool pg_lo_close ( resource $large_object )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

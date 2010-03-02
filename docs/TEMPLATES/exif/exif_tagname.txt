@@ -1,0 +1,13 @@
+*exif_tagname
+
+**PHP
+
+>|PHP|
+string exif_tagname ( int $index )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

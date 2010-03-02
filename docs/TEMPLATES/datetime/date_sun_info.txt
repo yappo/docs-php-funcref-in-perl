@@ -1,0 +1,13 @@
+*date_sun_info
+
+**PHP
+
+>|PHP|
+array date_sun_info ( int $time , float $latitude , float $longitude )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

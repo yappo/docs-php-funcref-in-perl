@@ -1,0 +1,13 @@
+*imap_expunge
+
+**PHP
+
+>|PHP|
+bool imap_expunge ( resource $imap_stream )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

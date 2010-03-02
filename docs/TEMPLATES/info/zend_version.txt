@@ -1,0 +1,13 @@
+*zend_version
+
+**PHP
+
+>|PHP|
+string zend_version ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*tidy::diagnose
+
+**PHP
+
+>|PHP|
+bool tidy::diagnose ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

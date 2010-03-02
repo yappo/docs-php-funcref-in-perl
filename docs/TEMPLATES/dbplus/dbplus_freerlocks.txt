@@ -1,0 +1,13 @@
+*dbplus_freerlocks
+
+**PHP
+
+>|PHP|
+int dbplus_freerlocks ( resource $relation )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

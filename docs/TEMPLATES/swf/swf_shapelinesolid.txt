@@ -1,0 +1,13 @@
+*swf_shapelinesolid
+
+**PHP
+
+>|PHP|
+void swf_shapelinesolid ( float $r , float $g , float $b , float $a , float $width )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

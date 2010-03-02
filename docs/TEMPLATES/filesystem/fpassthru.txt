@@ -1,0 +1,13 @@
+*fpassthru
+
+**PHP
+
+>|PHP|
+int fpassthru ( resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

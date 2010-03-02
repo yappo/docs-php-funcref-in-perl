@@ -1,0 +1,13 @@
+*mt_getrandmax
+
+**PHP
+
+>|PHP|
+int mt_getrandmax ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

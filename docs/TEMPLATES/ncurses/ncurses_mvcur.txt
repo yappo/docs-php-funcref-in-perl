@@ -1,0 +1,13 @@
+*ncurses_mvcur
+
+**PHP
+
+>|PHP|
+int ncurses_mvcur ( int $old_y , int $old_x , int $new_y , int $new_x )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

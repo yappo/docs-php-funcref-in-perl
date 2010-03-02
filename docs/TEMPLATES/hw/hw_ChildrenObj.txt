@@ -1,0 +1,13 @@
+*hw_ChildrenObj
+
+**PHP
+
+>|PHP|
+array hw_childrenobj ( int $connection , int $objectID )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ftp_raw
+
+**PHP
+
+>|PHP|
+array ftp_raw ( resource $ftp_stream , string $command )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

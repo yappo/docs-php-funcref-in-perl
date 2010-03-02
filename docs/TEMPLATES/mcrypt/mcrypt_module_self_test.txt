@@ -1,0 +1,13 @@
+*mcrypt_module_self_test
+
+**PHP
+
+>|PHP|
+bool mcrypt_module_self_test ( string $algorithm [, string $lib_dir ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

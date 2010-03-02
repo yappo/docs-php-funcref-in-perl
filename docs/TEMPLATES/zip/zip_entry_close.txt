@@ -1,0 +1,13 @@
+*zip_entry_close
+
+**PHP
+
+>|PHP|
+bool zip_entry_close ( resource $zip_entry )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

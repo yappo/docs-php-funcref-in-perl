@@ -1,0 +1,13 @@
+*array_unique
+
+**PHP
+
+>|PHP|
+array array_unique ( array $array [, int $sort_flags = SORT_STRING ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

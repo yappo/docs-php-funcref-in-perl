@@ -1,0 +1,13 @@
+*ftp_cdup
+
+**PHP
+
+>|PHP|
+bool ftp_cdup ( resource $ftp_stream )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

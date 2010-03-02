@@ -1,0 +1,13 @@
+*imagecreatefromgif
+
+**PHP
+
+>|PHP|
+resource imagecreatefromgif ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

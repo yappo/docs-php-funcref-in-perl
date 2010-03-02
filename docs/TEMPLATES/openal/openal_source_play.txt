@@ -1,0 +1,13 @@
+*openal_source_play
+
+**PHP
+
+>|PHP|
+bool openal_source_play ( resource $source )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

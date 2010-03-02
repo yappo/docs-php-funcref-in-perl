@@ -1,0 +1,13 @@
+*gupnp_root_device_new
+
+**PHP
+
+>|PHP|
+resource gupnp_root_device_new ( resource $context , string $location )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

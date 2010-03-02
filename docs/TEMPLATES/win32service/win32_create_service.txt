@@ -1,0 +1,13 @@
+*win32_create_service
+
+**PHP
+
+>|PHP|
+mixed win32_create_service ( array $details [, string $machine ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

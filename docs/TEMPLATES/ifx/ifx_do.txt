@@ -1,0 +1,13 @@
+*ifx_do
+
+**PHP
+
+>|PHP|
+bool ifx_do ( resource $result_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

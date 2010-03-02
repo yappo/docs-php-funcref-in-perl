@@ -1,0 +1,13 @@
+*oci_bind_array_by_name
+
+**PHP
+
+>|PHP|
+bool oci_bind_array_by_name ( resource $statement , string $name , array &$var_array , int $max_table_length [, int $max_item_length = -1 [, int $type = SQLT_AFC ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

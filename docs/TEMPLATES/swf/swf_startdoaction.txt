@@ -1,0 +1,13 @@
+*swf_startdoaction
+
+**PHP
+
+>|PHP|
+void swf_startdoaction ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

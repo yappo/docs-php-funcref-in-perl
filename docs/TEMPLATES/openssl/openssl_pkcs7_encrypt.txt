@@ -1,0 +1,13 @@
+*openssl_pkcs7_encrypt
+
+**PHP
+
+>|PHP|
+bool openssl_pkcs7_encrypt ( string $infile , string $outfile , mixed $recipcerts , array $headers [, int $flags = 0 [, int $cipherid = OPENSSL_CIPHER_RC2_40 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

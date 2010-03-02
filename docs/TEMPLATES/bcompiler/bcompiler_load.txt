@@ -1,0 +1,13 @@
+*bcompiler_load
+
+**PHP
+
+>|PHP|
+bool bcompiler_load ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

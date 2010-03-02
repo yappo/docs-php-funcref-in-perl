@@ -1,0 +1,13 @@
+*ncurses_mvdelch
+
+**PHP
+
+>|PHP|
+int ncurses_mvdelch ( int $y , int $x )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

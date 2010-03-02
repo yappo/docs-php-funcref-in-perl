@@ -1,0 +1,13 @@
+*px_numrecords
+
+**PHP
+
+>|PHP|
+int px_numrecords ( resource $pxdoc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

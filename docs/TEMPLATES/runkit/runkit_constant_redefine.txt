@@ -1,0 +1,13 @@
+*runkit_constant_redefine
+
+**PHP
+
+>|PHP|
+bool runkit_constant_redefine ( string $constname , mixed $newvalue )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

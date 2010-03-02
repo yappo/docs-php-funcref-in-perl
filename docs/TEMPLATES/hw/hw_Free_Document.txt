@@ -1,0 +1,13 @@
+*hw_Free_Document
+
+**PHP
+
+>|PHP|
+bool hw_free_document ( int $hw_document )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

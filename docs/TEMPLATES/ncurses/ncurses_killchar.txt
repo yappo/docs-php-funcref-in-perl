@@ -1,0 +1,13 @@
+*ncurses_killchar
+
+**PHP
+
+>|PHP|
+string ncurses_killchar ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

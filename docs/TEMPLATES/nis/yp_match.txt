@@ -1,0 +1,13 @@
+*yp_match
+
+**PHP
+
+>|PHP|
+string yp_match ( string $domain , string $map , string $key )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

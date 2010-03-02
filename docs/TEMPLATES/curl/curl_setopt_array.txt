@@ -1,0 +1,13 @@
+*curl_setopt_array
+
+**PHP
+
+>|PHP|
+bool curl_setopt_array ( resource $ch , array $options )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

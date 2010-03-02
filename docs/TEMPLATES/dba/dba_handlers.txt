@@ -1,0 +1,13 @@
+*dba_handlers
+
+**PHP
+
+>|PHP|
+array dba_handlers ([ bool $full_info = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

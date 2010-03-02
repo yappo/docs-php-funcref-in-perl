@@ -1,0 +1,13 @@
+*implode
+
+**PHP
+
+>|PHP|
+string implode ( string $glue , array $pieces )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

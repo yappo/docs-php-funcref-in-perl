@@ -1,0 +1,13 @@
+*gzread
+
+**PHP
+
+>|PHP|
+string gzread ( resource $zp , int $length )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

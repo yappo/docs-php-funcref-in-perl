@@ -1,0 +1,13 @@
+*gzgetss
+
+**PHP
+
+>|PHP|
+string gzgetss ( resource $zp , int $length [, string $allowable_tags ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

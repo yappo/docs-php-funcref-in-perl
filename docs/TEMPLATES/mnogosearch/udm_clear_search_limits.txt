@@ -1,0 +1,13 @@
+*udm_clear_search_limits
+
+**PHP
+
+>|PHP|
+bool udm_clear_search_limits ( resource $agent )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

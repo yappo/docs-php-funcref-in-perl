@@ -1,0 +1,13 @@
+*newt_listbox_item_count
+
+**PHP
+
+>|PHP|
+int newt_listbox_item_count ( resource $listbox )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

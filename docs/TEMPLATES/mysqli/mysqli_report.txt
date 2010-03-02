@@ -1,0 +1,13 @@
+*mysqli_report
+
+**PHP
+
+>|PHP|
+bool mysqli_report ( int $flags )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

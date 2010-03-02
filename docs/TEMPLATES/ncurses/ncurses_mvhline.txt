@@ -1,0 +1,13 @@
+*ncurses_mvhline
+
+**PHP
+
+>|PHP|
+int ncurses_mvhline ( int $y , int $x , int $attrchar , int $n )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

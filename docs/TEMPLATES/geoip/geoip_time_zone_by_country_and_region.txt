@@ -1,0 +1,13 @@
+*geoip_time_zone_by_country_and_region
+
+**PHP
+
+>|PHP|
+string geoip_time_zone_by_country_and_region ( string $country_code [, string $region_code ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

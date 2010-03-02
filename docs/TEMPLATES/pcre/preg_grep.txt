@@ -1,0 +1,13 @@
+*preg_grep
+
+**PHP
+
+>|PHP|
+array preg_grep ( string $pattern , array $input [, int $flags = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

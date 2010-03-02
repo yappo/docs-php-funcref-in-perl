@@ -1,0 +1,13 @@
+*stats_dens_pmf_poisson
+
+**PHP
+
+>|PHP|
+float stats_dens_pmf_poisson ( float $x , float $lb )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

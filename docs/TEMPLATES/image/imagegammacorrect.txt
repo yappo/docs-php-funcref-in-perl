@@ -1,0 +1,13 @@
+*imagegammacorrect
+
+**PHP
+
+>|PHP|
+bool imagegammacorrect ( resource $image , float $inputgamma , float $outputgamma )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

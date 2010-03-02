@@ -1,0 +1,13 @@
+*openssl_error_string
+
+**PHP
+
+>|PHP|
+string openssl_error_string ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

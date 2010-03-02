@@ -1,0 +1,13 @@
+*getservbyport
+
+**PHP
+
+>|PHP|
+string getservbyport ( int $port , string $protocol )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

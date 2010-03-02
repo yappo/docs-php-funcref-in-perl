@@ -1,0 +1,13 @@
+*m_deletetrans
+
+**PHP
+
+>|PHP|
+bool m_deletetrans ( resource $conn , int $identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

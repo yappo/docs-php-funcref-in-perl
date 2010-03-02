@@ -1,0 +1,13 @@
+*sybase_min_server_severity
+
+**PHP
+
+>|PHP|
+void sybase_min_server_severity ( int $severity )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

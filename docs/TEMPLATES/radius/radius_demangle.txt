@@ -1,0 +1,13 @@
+*radius_demangle
+
+**PHP
+
+>|PHP|
+string radius_demangle ( resource $radius_handle , string $mangled )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

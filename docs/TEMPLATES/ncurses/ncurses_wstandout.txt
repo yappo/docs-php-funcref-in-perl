@@ -1,0 +1,13 @@
+*ncurses_wstandout
+
+**PHP
+
+>|PHP|
+int ncurses_wstandout ( resource $window )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

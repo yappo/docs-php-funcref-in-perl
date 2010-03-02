@@ -1,0 +1,13 @@
+*gzcompress
+
+**PHP
+
+>|PHP|
+string gzcompress ( string $data [, int $level = -1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ps_translate
+
+**PHP
+
+>|PHP|
+bool ps_translate ( resource $psdoc , float $x , float $y )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

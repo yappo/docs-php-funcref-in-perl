@@ -1,0 +1,13 @@
+*ob_gzhandler
+
+**PHP
+
+>|PHP|
+string ob_gzhandler ( string $buffer , int $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

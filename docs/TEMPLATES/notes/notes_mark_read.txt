@@ -1,0 +1,13 @@
+*notes_mark_read
+
+**PHP
+
+>|PHP|
+bool notes_mark_read ( string $database_name , string $user_name , string $note_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

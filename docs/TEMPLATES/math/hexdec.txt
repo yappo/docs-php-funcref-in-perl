@@ -1,0 +1,13 @@
+*hexdec
+
+**PHP
+
+>|PHP|
+number hexdec ( string $hex_string )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

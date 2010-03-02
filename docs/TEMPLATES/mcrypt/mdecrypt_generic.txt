@@ -1,0 +1,13 @@
+*mdecrypt_generic
+
+**PHP
+
+>|PHP|
+string mdecrypt_generic ( resource $td , string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

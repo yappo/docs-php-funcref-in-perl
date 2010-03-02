@@ -1,0 +1,13 @@
+*imagecolorclosest
+
+**PHP
+
+>|PHP|
+int imagecolorclosest ( resource $image , int $red , int $green , int $blue )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

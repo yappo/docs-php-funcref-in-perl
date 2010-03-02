@@ -1,0 +1,13 @@
+*newt_listbox
+
+**PHP
+
+>|PHP|
+resource newt_listbox ( int $left , int $top , int $height [, int $flags ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

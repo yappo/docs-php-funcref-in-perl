@@ -1,0 +1,13 @@
+*mysql_thread_id
+
+**PHP
+
+>|PHP|
+int mysql_thread_id ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

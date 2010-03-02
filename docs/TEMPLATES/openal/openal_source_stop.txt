@@ -1,0 +1,13 @@
+*openal_source_stop
+
+**PHP
+
+>|PHP|
+bool openal_source_stop ( resource $source )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

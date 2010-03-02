@@ -1,0 +1,13 @@
+*svn_client_version
+
+**PHP
+
+>|PHP|
+string svn_client_version ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

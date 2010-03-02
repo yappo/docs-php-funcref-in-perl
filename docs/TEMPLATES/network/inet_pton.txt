@@ -1,0 +1,13 @@
+*inet_pton
+
+**PHP
+
+>|PHP|
+string inet_pton ( string $address )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

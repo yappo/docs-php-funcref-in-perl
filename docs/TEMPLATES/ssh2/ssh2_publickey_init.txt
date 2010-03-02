@@ -1,0 +1,13 @@
+*ssh2_publickey_init
+
+**PHP
+
+>|PHP|
+resource ssh2_publickey_init ( resource $session )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

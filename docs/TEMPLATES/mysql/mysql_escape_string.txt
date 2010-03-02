@@ -1,0 +1,13 @@
+*mysql_escape_string
+
+**PHP
+
+>|PHP|
+string mysql_escape_string ( string $unescaped_string )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

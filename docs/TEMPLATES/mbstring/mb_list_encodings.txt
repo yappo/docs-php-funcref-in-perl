@@ -1,0 +1,13 @@
+*mb_list_encodings
+
+**PHP
+
+>|PHP|
+array mb_list_encodings ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

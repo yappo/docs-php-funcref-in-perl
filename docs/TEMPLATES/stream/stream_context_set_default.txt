@@ -1,0 +1,13 @@
+*stream_context_set_default
+
+**PHP
+
+>|PHP|
+resource stream_context_set_default ( array $options )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

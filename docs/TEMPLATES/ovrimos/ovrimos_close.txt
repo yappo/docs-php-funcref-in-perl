@@ -1,0 +1,13 @@
+*ovrimos_close
+
+**PHP
+
+>|PHP|
+void ovrimos_close ( int $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

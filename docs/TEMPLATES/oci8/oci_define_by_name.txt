@@ -1,0 +1,13 @@
+*oci_define_by_name
+
+**PHP
+
+>|PHP|
+bool oci_define_by_name ( resource $statement , string $column_name , mixed &$variable [, int $type = SQLT_CHR ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

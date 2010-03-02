@@ -1,0 +1,13 @@
+*solr_get_version
+
+**PHP
+
+>|PHP|
+string solr_get_version ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

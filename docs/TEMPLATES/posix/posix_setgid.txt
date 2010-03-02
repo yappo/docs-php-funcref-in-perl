@@ -1,0 +1,13 @@
+*posix_setgid
+
+**PHP
+
+>|PHP|
+bool posix_setgid ( int $gid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

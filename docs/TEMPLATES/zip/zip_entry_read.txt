@@ -1,0 +1,13 @@
+*zip_entry_read
+
+**PHP
+
+>|PHP|
+string zip_entry_read ( resource $zip_entry [, int $length ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

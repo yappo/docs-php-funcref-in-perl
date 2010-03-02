@@ -1,0 +1,13 @@
+*xslt_set_error_handler
+
+**PHP
+
+>|PHP|
+void xslt_set_error_handler ( resource $xh , mixed $handler )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

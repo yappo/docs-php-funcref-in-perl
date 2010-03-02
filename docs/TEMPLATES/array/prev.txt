@@ -1,0 +1,13 @@
+*prev
+
+**PHP
+
+>|PHP|
+mixed prev ( array &$array )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

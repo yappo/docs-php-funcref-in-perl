@@ -1,0 +1,13 @@
+*hw_InCollections
+
+**PHP
+
+>|PHP|
+array hw_incollections ( int $connection , array $object_id_array , array $collection_id_array , int $return_collections )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

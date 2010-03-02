@@ -1,0 +1,13 @@
+*fgetc
+
+**PHP
+
+>|PHP|
+string fgetc ( resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

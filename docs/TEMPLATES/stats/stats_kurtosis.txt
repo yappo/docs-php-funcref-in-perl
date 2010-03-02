@@ -1,0 +1,13 @@
+*stats_kurtosis
+
+**PHP
+
+>|PHP|
+float stats_kurtosis ( array $a )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

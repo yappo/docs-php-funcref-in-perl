@@ -1,0 +1,13 @@
+*ini_get_all
+
+**PHP
+
+>|PHP|
+array ini_get_all ([ string $extension [, bool $details = true ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

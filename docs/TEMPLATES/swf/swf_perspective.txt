@@ -1,0 +1,13 @@
+*swf_perspective
+
+**PHP
+
+>|PHP|
+void swf_perspective ( float $fovy , float $aspect , float $near , float $far )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

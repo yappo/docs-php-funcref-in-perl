@@ -1,0 +1,13 @@
+*maxdb_stmt_store_result
+
+**PHP
+
+>|PHP|
+bool maxdb_stmt_store_result ( resource $stmt )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

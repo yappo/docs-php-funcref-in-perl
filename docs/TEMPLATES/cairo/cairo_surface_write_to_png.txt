@@ -1,0 +1,13 @@
+*cairo_surface_write_to_png
+
+**PHP
+
+>|PHP|
+void cairo_surface_write_to_png ( CairoSurface $surface , string $x , string $y )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

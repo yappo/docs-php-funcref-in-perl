@@ -1,0 +1,13 @@
+*ftp_set_option
+
+**PHP
+
+>|PHP|
+bool ftp_set_option ( resource $ftp_stream , int $option , mixed $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

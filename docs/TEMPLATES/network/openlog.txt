@@ -1,0 +1,13 @@
+*openlog
+
+**PHP
+
+>|PHP|
+bool openlog ( string $ident , int $option , int $facility )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

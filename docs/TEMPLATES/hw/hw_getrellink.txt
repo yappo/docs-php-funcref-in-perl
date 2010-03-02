@@ -1,0 +1,13 @@
+*hw_getrellink
+
+**PHP
+
+>|PHP|
+string hw_getrellink ( int $link , int $rootid , int $sourceid , int $destid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

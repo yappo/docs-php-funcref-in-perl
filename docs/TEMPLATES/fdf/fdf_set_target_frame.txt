@@ -1,0 +1,13 @@
+*fdf_set_target_frame
+
+**PHP
+
+>|PHP|
+bool fdf_set_target_frame ( resource $fdf_document , string $frame_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

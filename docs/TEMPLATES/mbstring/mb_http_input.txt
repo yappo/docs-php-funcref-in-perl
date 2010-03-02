@@ -1,0 +1,13 @@
+*mb_http_input
+
+**PHP
+
+>|PHP|
+mixed mb_http_input ([ string $type = "" ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

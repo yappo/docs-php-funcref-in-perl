@@ -1,0 +1,13 @@
+*pspell_config_runtogether
+
+**PHP
+
+>|PHP|
+bool pspell_config_runtogether ( int $dictionary_link , bool $flag )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

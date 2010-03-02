@@ -1,0 +1,13 @@
+*pspell_check
+
+**PHP
+
+>|PHP|
+bool pspell_check ( int $dictionary_link , string $word )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

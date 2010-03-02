@@ -1,0 +1,13 @@
+*dbplus_rsecindex
+
+**PHP
+
+>|PHP|
+mixed dbplus_rsecindex ( resource $relation , mixed $domlist , int $type )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

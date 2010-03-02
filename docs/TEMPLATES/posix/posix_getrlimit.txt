@@ -1,0 +1,13 @@
+*posix_getrlimit
+
+**PHP
+
+>|PHP|
+array posix_getrlimit ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

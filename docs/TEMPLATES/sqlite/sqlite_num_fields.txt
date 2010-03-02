@@ -1,0 +1,13 @@
+*sqlite_num_fields
+
+**PHP
+
+>|PHP|
+int sqlite_num_fields ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*nl2br
+
+**PHP
+
+>|PHP|
+string nl2br ( string $string [, bool $is_xhtml = true ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

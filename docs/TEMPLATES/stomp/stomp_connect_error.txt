@@ -1,0 +1,13 @@
+*stomp_connect_error
+
+**PHP
+
+>|PHP|
+string stomp_connect_error ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

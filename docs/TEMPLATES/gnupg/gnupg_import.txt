@@ -1,0 +1,13 @@
+*gnupg_import
+
+**PHP
+
+>|PHP|
+array gnupg_import ( resource $identifier , string $keydata )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

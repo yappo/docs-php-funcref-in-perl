@@ -1,0 +1,13 @@
+*sqlite_escape_string
+
+**PHP
+
+>|PHP|
+string sqlite_escape_string ( string $item )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

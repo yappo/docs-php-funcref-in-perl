@@ -1,0 +1,13 @@
+*recode_file
+
+**PHP
+
+>|PHP|
+bool recode_file ( string $request , resource $input , resource $output )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

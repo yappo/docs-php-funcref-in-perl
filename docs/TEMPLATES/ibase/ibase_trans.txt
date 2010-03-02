@@ -1,0 +1,13 @@
+*ibase_trans
+
+**PHP
+
+>|PHP|
+resource ibase_trans ([ int $trans_args [, resource $link_identifier ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

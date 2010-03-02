@@ -1,0 +1,13 @@
+*array_replace_recursive
+
+**PHP
+
+>|PHP|
+array array_replace_recursive ( array &$array , array &$array1 [, array &$array2 [, array &$... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

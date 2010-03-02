@@ -1,0 +1,13 @@
+*hw_GetChildDocColl
+
+**PHP
+
+>|PHP|
+array hw_getchilddoccoll ( int $connection , int $objectID )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*getmygid
+
+**PHP
+
+>|PHP|
+int getmygid ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

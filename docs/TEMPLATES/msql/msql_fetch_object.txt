@@ -1,0 +1,13 @@
+*msql_fetch_object
+
+**PHP
+
+>|PHP|
+object msql_fetch_object ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

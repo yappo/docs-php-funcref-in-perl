@@ -1,0 +1,13 @@
+*maxdb_change_user
+
+**PHP
+
+>|PHP|
+bool maxdb_change_user ( resource $link , string $user , string $password , string $database )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

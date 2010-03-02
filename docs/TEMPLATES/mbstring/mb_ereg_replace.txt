@@ -1,0 +1,13 @@
+*mb_ereg_replace
+
+**PHP
+
+>|PHP|
+string mb_ereg_replace ( string $pattern , string $replacement , string $string [, string $option = "msr" ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*vpopmail_error
+
+**PHP
+
+>|PHP|
+string vpopmail_error ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ingres_execute
+
+**PHP
+
+>|PHP|
+boolean ingres_execute ( resource $result [, array $params [, string $types ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

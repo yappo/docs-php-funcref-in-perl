@@ -1,0 +1,13 @@
+*swf_actionwaitforframe
+
+**PHP
+
+>|PHP|
+void swf_actionwaitforframe ( int $framenumber , int $skipcount )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

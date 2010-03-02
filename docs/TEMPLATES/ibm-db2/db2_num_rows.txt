@@ -1,0 +1,13 @@
+*db2_num_rows
+
+**PHP
+
+>|PHP|
+int db2_num_rows ( resource $stmt )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

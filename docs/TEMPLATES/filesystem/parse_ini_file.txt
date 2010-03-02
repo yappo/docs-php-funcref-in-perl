@@ -1,0 +1,13 @@
+*parse_ini_file
+
+**PHP
+
+>|PHP|
+array parse_ini_file ( string $filename [, bool $process_sections = false [, int $scanner_mode = INI_SCANNER_NORMAL ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

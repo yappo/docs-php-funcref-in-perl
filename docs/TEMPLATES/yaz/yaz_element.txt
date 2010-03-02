@@ -1,0 +1,13 @@
+*yaz_element
+
+**PHP
+
+>|PHP|
+bool yaz_element ( resource $id , string $elementset )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

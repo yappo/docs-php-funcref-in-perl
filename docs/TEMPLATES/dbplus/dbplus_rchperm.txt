@@ -1,0 +1,13 @@
+*dbplus_rchperm
+
+**PHP
+
+>|PHP|
+int dbplus_rchperm ( resource $relation , int $mask , string $user , string $group )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*oci_close
+
+**PHP
+
+>|PHP|
+bool oci_close ( resource $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

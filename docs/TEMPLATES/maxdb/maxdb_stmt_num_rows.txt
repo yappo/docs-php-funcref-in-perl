@@ -1,0 +1,13 @@
+*maxdb_stmt_num_rows
+
+**PHP
+
+>|PHP|
+int maxdb_stmt_num_rows ( resource $stmt )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

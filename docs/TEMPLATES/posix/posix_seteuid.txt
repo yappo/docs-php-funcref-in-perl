@@ -1,0 +1,13 @@
+*posix_seteuid
+
+**PHP
+
+>|PHP|
+bool posix_seteuid ( int $uid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

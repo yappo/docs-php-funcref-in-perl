@@ -1,0 +1,13 @@
+*ingres_close
+
+**PHP
+
+>|PHP|
+bool ingres_close ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

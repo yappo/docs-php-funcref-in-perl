@@ -1,0 +1,13 @@
+*pcntl_waitpid
+
+**PHP
+
+>|PHP|
+int pcntl_waitpid ( int $pid , int &$status [, int $options = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

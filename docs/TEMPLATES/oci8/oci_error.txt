@@ -1,0 +1,13 @@
+*oci_error
+
+**PHP
+
+>|PHP|
+array oci_error ([ resource $resource ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

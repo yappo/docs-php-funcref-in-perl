@@ -1,0 +1,13 @@
+*ncurses_use_env
+
+**PHP
+
+>|PHP|
+void ncurses_use_env ( bool $flag )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ftell
+
+**PHP
+
+>|PHP|
+int ftell ( resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

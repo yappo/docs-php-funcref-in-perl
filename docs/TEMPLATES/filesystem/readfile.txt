@@ -1,0 +1,13 @@
+*readfile
+
+**PHP
+
+>|PHP|
+int readfile ( string $filename [, bool $use_include_path = false [, resource $context ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

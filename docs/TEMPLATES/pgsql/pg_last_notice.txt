@@ -1,0 +1,13 @@
+*pg_last_notice
+
+**PHP
+
+>|PHP|
+string pg_last_notice ( resource $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

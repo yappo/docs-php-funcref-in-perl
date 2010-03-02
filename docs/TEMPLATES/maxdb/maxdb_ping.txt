@@ -1,0 +1,13 @@
+*maxdb_ping
+
+**PHP
+
+>|PHP|
+bool maxdb_ping ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

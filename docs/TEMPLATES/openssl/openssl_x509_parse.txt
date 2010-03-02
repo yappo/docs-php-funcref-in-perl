@@ -1,0 +1,13 @@
+*openssl_x509_parse
+
+**PHP
+
+>|PHP|
+array openssl_x509_parse ( mixed $x509cert [, bool $shortnames = true ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

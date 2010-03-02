@@ -1,0 +1,13 @@
+*bcadd
+
+**PHP
+
+>|PHP|
+string bcadd ( string $left_operand , string $right_operand [, int $scale ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

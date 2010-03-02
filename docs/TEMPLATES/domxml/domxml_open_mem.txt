@@ -1,0 +1,13 @@
+*domxml_open_mem
+
+**PHP
+
+>|PHP|
+DomDocument domxml_open_mem ( string $str [, int $mode [, array &$error ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

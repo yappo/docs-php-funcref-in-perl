@@ -1,0 +1,13 @@
+*mailparse_msg_extract_part
+
+**PHP
+
+>|PHP|
+void mailparse_msg_extract_part ( resource $mimemail , string $msgbody [, callback $callbackfunc ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

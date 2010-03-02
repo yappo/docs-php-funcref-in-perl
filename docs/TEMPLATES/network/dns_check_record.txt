@@ -1,0 +1,13 @@
+*dns_check_record
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

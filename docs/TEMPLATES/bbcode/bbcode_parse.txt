@@ -1,0 +1,13 @@
+*bbcode_parse
+
+**PHP
+
+>|PHP|
+string bbcode_parse ( resource $bbcode_container , string $to_parse )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

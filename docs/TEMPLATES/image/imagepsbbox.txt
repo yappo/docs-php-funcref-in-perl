@@ -1,0 +1,13 @@
+*imagepsbbox
+
+**PHP
+
+>|PHP|
+array imagepsbbox ( string $text , resource $font , int $size )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

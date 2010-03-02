@@ -1,0 +1,13 @@
+*sybase_set_message_handler
+
+**PHP
+
+>|PHP|
+bool sybase_set_message_handler ( callback $handler [, resource $connection ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

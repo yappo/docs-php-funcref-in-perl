@@ -1,0 +1,13 @@
+*maxdb_connect_errno
+
+**PHP
+
+>|PHP|
+int maxdb_connect_errno ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

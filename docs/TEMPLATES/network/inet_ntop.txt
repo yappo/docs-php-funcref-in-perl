@@ -1,0 +1,13 @@
+*inet_ntop
+
+**PHP
+
+>|PHP|
+string inet_ntop ( string $in_addr )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

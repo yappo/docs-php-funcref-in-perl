@@ -1,0 +1,13 @@
+*stats_stat_correlation
+
+**PHP
+
+>|PHP|
+float stats_stat_correlation ( array $arr1 , array $arr2 )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

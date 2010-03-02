@@ -1,0 +1,13 @@
+*session_encode
+
+**PHP
+
+>|PHP|
+string session_encode ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

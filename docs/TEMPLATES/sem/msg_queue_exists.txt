@@ -1,0 +1,13 @@
+*msg_queue_exists
+
+**PHP
+
+>|PHP|
+bool msg_queue_exists ( int $key )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

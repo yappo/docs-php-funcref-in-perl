@@ -1,0 +1,13 @@
+*posix_getcwd
+
+**PHP
+
+>|PHP|
+string posix_getcwd ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

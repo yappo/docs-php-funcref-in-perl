@@ -1,0 +1,13 @@
+*wordwrap
+
+**PHP
+
+>|PHP|
+string wordwrap ( string $str [, int $width = 75 [, string $break = "\n" [, bool $cut = false ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

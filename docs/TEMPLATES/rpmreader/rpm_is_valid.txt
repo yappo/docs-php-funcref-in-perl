@@ -1,0 +1,13 @@
+*rpm_is_valid
+
+**PHP
+
+>|PHP|
+bool rpm_is_valid ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

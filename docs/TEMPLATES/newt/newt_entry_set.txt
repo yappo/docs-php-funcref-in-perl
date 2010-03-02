@@ -1,0 +1,13 @@
+*newt_entry_set
+
+**PHP
+
+>|PHP|
+void newt_entry_set ( resource $entry , string $value [, bool $cursor_at_end ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*create_function
+
+**PHP
+
+>|PHP|
+string create_function ( string $args , string $code )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

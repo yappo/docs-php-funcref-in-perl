@@ -1,0 +1,13 @@
+*mcrypt_enc_self_test
+
+**PHP
+
+>|PHP|
+int mcrypt_enc_self_test ( resource $td )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*filepro_fieldwidth
+
+**PHP
+
+>|PHP|
+int filepro_fieldwidth ( int $field_number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

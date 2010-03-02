@@ -1,0 +1,13 @@
+*db2_field_width
+
+**PHP
+
+>|PHP|
+int db2_field_width ( resource $stmt , mixed $column )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

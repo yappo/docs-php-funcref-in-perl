@@ -1,0 +1,13 @@
+*apd_clunk
+
+**PHP
+
+>|PHP|
+void apd_clunk ( string $warning [, string $delimiter ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

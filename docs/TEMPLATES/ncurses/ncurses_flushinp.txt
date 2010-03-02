@@ -1,0 +1,13 @@
+*ncurses_flushinp
+
+**PHP
+
+>|PHP|
+bool ncurses_flushinp ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

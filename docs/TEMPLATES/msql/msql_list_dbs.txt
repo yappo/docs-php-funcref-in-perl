@@ -1,0 +1,13 @@
+*msql_list_dbs
+
+**PHP
+
+>|PHP|
+resource msql_list_dbs ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

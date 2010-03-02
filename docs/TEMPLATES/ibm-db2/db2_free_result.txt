@@ -1,0 +1,13 @@
+*db2_free_result
+
+**PHP
+
+>|PHP|
+bool db2_free_result ( resource $stmt )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

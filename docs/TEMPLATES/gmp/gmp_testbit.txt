@@ -1,0 +1,13 @@
+*gmp_testbit
+
+**PHP
+
+>|PHP|
+bool gmp_testbit ( resource $a , int $index )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

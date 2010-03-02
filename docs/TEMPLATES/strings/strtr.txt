@@ -1,0 +1,13 @@
+*strtr
+
+**PHP
+
+>|PHP|
+string strtr ( string $str , string $from , string $to )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

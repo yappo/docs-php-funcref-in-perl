@@ -1,0 +1,13 @@
+*zlib_get_coding_type
+
+**PHP
+
+>|PHP|
+string zlib_get_coding_type ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

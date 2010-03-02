@@ -1,0 +1,13 @@
+*openssl_get_privatekey
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

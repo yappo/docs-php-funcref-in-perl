@@ -1,0 +1,13 @@
+*stream_socket_shutdown
+
+**PHP
+
+>|PHP|
+bool stream_socket_shutdown ( resource $stream , int $how )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

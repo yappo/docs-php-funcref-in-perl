@@ -1,0 +1,13 @@
+*enchant_broker_describe
+
+**PHP
+
+>|PHP|
+array enchant_broker_describe ( resource $broker )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*m_responsekeys
+
+**PHP
+
+>|PHP|
+array m_responsekeys ( resource $conn , int $identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

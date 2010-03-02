@@ -1,0 +1,13 @@
+*hw_Unlock
+
+**PHP
+
+>|PHP|
+bool hw_unlock ( int $connection , int $objectID )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

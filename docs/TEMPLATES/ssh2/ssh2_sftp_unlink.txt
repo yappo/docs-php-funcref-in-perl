@@ -1,0 +1,13 @@
+*ssh2_sftp_unlink
+
+**PHP
+
+>|PHP|
+bool ssh2_sftp_unlink ( resource $sftp , string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

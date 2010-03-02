@@ -1,0 +1,13 @@
+*newt_centered_window
+
+**PHP
+
+>|PHP|
+int newt_centered_window ( int $width , int $height [, string $title ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

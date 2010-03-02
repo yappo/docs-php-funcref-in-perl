@@ -1,0 +1,13 @@
+*pg_transaction_status
+
+**PHP
+
+>|PHP|
+int pg_transaction_status ( resource $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ldap_sort
+
+**PHP
+
+>|PHP|
+bool ldap_sort ( resource $link , resource $result , string $sortfilter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

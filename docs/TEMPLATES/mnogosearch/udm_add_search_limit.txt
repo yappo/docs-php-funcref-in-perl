@@ -1,0 +1,13 @@
+*udm_add_search_limit
+
+**PHP
+
+>|PHP|
+bool udm_add_search_limit ( resource $agent , int $var , string $val )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

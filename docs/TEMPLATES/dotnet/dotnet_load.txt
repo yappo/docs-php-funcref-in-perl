@@ -1,0 +1,13 @@
+*dotnet_load
+
+**PHP
+
+>|PHP|
+int dotnet_load ( string $assembly_name [, string $datatype_name [, int $codepage ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

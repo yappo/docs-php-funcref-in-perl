@@ -1,0 +1,13 @@
+*posix_mknod
+
+**PHP
+
+>|PHP|
+bool posix_mknod ( string $pathname , int $mode [, int $major = 0 [, int $minor = 0 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

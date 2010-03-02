@@ -1,0 +1,13 @@
+*xml_get_current_byte_index
+
+**PHP
+
+>|PHP|
+int xml_get_current_byte_index ( resource $parser )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

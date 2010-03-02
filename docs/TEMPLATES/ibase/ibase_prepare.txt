@@ -1,0 +1,13 @@
+*ibase_prepare
+
+**PHP
+
+>|PHP|
+resource ibase_prepare ( string $query )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*dcngettext
+
+**PHP
+
+>|PHP|
+string dcngettext ( string $domain , string $msgid1 , string $msgid2 , int $n , int $category )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

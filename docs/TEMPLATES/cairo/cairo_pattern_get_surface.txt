@@ -1,0 +1,13 @@
+*cairo_pattern_get_surface
+
+**PHP
+
+>|PHP|
+CairoSurface cairo_pattern_get_surface ( CairoSurfacePattern $pattern )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

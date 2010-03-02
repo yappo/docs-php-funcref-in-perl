@@ -1,0 +1,13 @@
+*mcrypt_create_iv
+
+**PHP
+
+>|PHP|
+string mcrypt_create_iv ( int $size [, int $source = MCRYPT_DEV_RANDOM ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*array_chunk
+
+**PHP
+
+>|PHP|
+array array_chunk ( array $input , int $size [, bool $preserve_keys = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

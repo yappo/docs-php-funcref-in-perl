@@ -1,0 +1,13 @@
+*hw_getremotechildren
+
+**PHP
+
+>|PHP|
+mixed hw_getremotechildren ( int $connection , string $object_record )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

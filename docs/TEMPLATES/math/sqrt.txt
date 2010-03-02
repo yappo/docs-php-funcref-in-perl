@@ -1,0 +1,13 @@
+*sqrt
+
+**PHP
+
+>|PHP|
+float sqrt ( float $arg )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

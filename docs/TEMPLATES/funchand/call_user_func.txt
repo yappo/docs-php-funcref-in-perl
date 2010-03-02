@@ -1,0 +1,13 @@
+*call_user_func
+
+**PHP
+
+>|PHP|
+mixed call_user_func ( callback $function [, mixed $parameter [, mixed $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

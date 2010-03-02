@@ -1,0 +1,13 @@
+*printer_draw_chord
+
+**PHP
+
+>|PHP|
+void printer_draw_chord ( resource $printer_handle , int $rec_x , int $rec_y , int $rec_x1 , int $rec_y1 , int $rad_x , int $rad_y , int $rad_x1 , int $rad_y1 )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

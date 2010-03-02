@@ -1,0 +1,13 @@
+*dbx_connect
+
+**PHP
+
+>|PHP|
+object dbx_connect ( mixed $module , string $host , string $database , string $username , string $password [, int $persistent ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

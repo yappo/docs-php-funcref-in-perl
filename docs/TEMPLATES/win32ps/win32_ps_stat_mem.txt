@@ -1,0 +1,13 @@
+*win32_ps_stat_mem
+
+**PHP
+
+>|PHP|
+array win32_ps_stat_mem ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

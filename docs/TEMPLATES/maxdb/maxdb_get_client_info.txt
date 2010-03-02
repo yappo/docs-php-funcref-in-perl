@@ -1,0 +1,13 @@
+*maxdb_get_client_info
+
+**PHP
+
+>|PHP|
+string maxdb_get_client_info ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

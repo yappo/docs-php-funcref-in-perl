@@ -1,0 +1,13 @@
+*shmop_close
+
+**PHP
+
+>|PHP|
+void shmop_close ( int $shmid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

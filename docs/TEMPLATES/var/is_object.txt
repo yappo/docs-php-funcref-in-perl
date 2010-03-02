@@ -1,0 +1,13 @@
+*is_object
+
+**PHP
+
+>|PHP|
+bool is_object ( mixed $var )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

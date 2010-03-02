@@ -1,0 +1,13 @@
+*imap_getacl
+
+**PHP
+
+>|PHP|
+array imap_getacl ( resource $imap_stream , string $mailbox )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

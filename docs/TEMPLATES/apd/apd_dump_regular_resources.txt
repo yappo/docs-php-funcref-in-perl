@@ -1,0 +1,13 @@
+*apd_dump_regular_resources
+
+**PHP
+
+>|PHP|
+array apd_dump_regular_resources ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

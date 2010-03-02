@@ -1,0 +1,13 @@
+*ps_place_image
+
+**PHP
+
+>|PHP|
+bool ps_place_image ( resource $psdoc , int $imageid , float $x , float $y , float $scale )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

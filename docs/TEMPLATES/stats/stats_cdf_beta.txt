@@ -1,0 +1,13 @@
+*stats_cdf_beta
+
+**PHP
+
+>|PHP|
+float stats_cdf_beta ( float $par1 , float $par2 , float $par3 , int $which )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

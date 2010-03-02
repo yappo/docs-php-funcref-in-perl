@@ -1,0 +1,13 @@
+*sqlite_busy_timeout
+
+**PHP
+
+>|PHP|
+void sqlite_busy_timeout ( resource $dbhandle , int $milliseconds )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

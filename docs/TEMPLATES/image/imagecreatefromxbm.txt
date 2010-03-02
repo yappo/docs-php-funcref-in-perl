@@ -1,0 +1,13 @@
+*imagecreatefromxbm
+
+**PHP
+
+>|PHP|
+resource imagecreatefromxbm ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

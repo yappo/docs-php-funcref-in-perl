@@ -1,0 +1,13 @@
+*maxdb_warning_count
+
+**PHP
+
+>|PHP|
+int maxdb_warning_count ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

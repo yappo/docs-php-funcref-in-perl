@@ -1,0 +1,13 @@
+*msession_randstr
+
+**PHP
+
+>|PHP|
+string msession_randstr ( int $param )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

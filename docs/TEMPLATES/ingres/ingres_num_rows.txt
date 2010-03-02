@@ -1,0 +1,13 @@
+*ingres_num_rows
+
+**PHP
+
+>|PHP|
+int ingres_num_rows ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

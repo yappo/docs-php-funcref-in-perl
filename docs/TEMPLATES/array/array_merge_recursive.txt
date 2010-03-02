@@ -1,0 +1,13 @@
+*array_merge_recursive
+
+**PHP
+
+>|PHP|
+array array_merge_recursive ( array $array1 [, array $... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

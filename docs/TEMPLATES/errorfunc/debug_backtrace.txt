@@ -1,0 +1,13 @@
+*debug_backtrace
+
+**PHP
+
+>|PHP|
+array debug_backtrace ([ bool $provide_object = true ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*mcrypt_enc_get_modes_name
+
+**PHP
+
+>|PHP|
+string mcrypt_enc_get_modes_name ( resource $td )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*bcsqrt
+
+**PHP
+
+>|PHP|
+string bcsqrt ( string $operand [, int $scale ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

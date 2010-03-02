@@ -1,0 +1,13 @@
+*iconv
+
+**PHP
+
+>|PHP|
+string iconv ( string $in_charset , string $out_charset , string $str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

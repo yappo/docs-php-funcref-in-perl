@@ -1,0 +1,13 @@
+*libxml_clear_errors
+
+**PHP
+
+>|PHP|
+void libxml_clear_errors ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

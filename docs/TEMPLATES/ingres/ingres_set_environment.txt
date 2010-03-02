@@ -1,0 +1,13 @@
+*ingres_set_environment
+
+**PHP
+
+>|PHP|
+bool ingres_set_environment ( resource $link , array $options )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

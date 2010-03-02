@@ -1,0 +1,13 @@
+*cairo_font_options_set_antialias
+
+**PHP
+
+>|PHP|
+void cairo_font_options_set_antialias ( CairoFontOptions $options , string $antialias )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

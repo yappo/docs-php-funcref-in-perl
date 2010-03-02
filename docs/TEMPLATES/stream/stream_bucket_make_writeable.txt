@@ -1,0 +1,13 @@
+*stream_bucket_make_writeable
+
+**PHP
+
+>|PHP|
+object stream_bucket_make_writeable ( resource $brigade )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

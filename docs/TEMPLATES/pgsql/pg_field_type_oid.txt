@@ -1,0 +1,13 @@
+*pg_field_type_oid
+
+**PHP
+
+>|PHP|
+int pg_field_type_oid ( resource $result , int $field_number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

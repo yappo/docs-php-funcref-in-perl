@@ -1,0 +1,13 @@
+*finfo_buffer
+
+**PHP
+
+>|PHP|
+string finfo_buffer ( resource $finfo , string $string = NULL [, int $options = FILEINFO_NONE [, resource $context = NULL ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*pspell_save_wordlist
+
+**PHP
+
+>|PHP|
+bool pspell_save_wordlist ( int $dictionary_link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*pg_lo_unlink
+
+**PHP
+
+>|PHP|
+bool pg_lo_unlink ( resource $connection , int $oid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

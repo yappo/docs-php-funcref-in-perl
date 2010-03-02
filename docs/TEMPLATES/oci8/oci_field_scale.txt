@@ -1,0 +1,13 @@
+*oci_field_scale
+
+**PHP
+
+>|PHP|
+int oci_field_scale ( resource $statement , int $field )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

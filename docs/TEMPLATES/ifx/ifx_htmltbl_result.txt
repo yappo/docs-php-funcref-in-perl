@@ -1,0 +1,13 @@
+*ifx_htmltbl_result
+
+**PHP
+
+>|PHP|
+int ifx_htmltbl_result ( resource $result_id [, string $html_table_options ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

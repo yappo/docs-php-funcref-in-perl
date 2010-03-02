@@ -1,0 +1,13 @@
+*token_name
+
+**PHP
+
+>|PHP|
+string token_name ( int $token )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

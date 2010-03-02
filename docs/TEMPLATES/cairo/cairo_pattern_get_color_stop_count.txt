@@ -1,0 +1,13 @@
+*cairo_pattern_get_color_stop_count
+
+**PHP
+
+>|PHP|
+int cairo_pattern_get_color_stop_count ( CairoGradientPattern $pattern )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

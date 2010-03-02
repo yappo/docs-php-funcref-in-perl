@@ -1,0 +1,13 @@
+*pow
+
+**PHP
+
+>|PHP|
+number pow ( number $base , number $exp )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

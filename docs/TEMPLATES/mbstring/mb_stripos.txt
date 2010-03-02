@@ -1,0 +1,13 @@
+*mb_stripos
+
+**PHP
+
+>|PHP|
+int mb_stripos ( string $haystack , string $needle [, int $offset [, string $encoding ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

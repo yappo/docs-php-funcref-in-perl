@@ -1,0 +1,13 @@
+*ctype_alpha
+
+**PHP
+
+>|PHP|
+bool ctype_alpha ( string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

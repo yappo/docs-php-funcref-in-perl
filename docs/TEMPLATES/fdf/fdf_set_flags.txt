@@ -1,0 +1,13 @@
+*fdf_set_flags
+
+**PHP
+
+>|PHP|
+bool fdf_set_flags ( resource $fdf_document , string $fieldname , int $whichFlags , int $newFlags )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

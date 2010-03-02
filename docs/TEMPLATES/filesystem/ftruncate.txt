@@ -1,0 +1,13 @@
+*ftruncate
+
+**PHP
+
+>|PHP|
+bool ftruncate ( resource $handle , int $size )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*radius_put_attr
+
+**PHP
+
+>|PHP|
+bool radius_put_attr ( resource $radius_handle , int $type , string $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

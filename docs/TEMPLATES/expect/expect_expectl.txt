@@ -1,0 +1,13 @@
+*expect_expectl
+
+**PHP
+
+>|PHP|
+int expect_expectl ( resource $expect , array $cases [, array &$match ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

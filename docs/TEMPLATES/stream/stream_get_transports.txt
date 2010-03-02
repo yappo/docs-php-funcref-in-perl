@@ -1,0 +1,13 @@
+*stream_get_transports
+
+**PHP
+
+>|PHP|
+array stream_get_transports ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

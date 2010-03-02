@@ -1,0 +1,13 @@
+*ifx_getsqlca
+
+**PHP
+
+>|PHP|
+array ifx_getsqlca ( resource $result_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

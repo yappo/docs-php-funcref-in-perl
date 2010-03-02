@@ -1,0 +1,13 @@
+*mysql_unbuffered_query
+
+**PHP
+
+>|PHP|
+resource mysql_unbuffered_query ( string $query [, resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

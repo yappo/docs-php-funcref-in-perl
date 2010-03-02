@@ -1,0 +1,13 @@
+*win32_stop_service
+
+**PHP
+
+>|PHP|
+int win32_stop_service ( string $servicename [, string $machine ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

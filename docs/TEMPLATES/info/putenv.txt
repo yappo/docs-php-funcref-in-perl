@@ -1,0 +1,13 @@
+*putenv
+
+**PHP
+
+>|PHP|
+bool putenv ( string $setting )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

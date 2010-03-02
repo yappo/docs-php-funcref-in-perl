@@ -1,0 +1,13 @@
+*kadm5_get_principal
+
+**PHP
+
+>|PHP|
+array kadm5_get_principal ( resource $handle , string $principal )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

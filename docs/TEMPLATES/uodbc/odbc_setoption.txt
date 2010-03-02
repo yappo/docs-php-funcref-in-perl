@@ -1,0 +1,13 @@
+*odbc_setoption
+
+**PHP
+
+>|PHP|
+bool odbc_setoption ( resource $id , int $function , int $option , int $param )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

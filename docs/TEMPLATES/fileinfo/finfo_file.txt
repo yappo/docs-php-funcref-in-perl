@@ -1,0 +1,13 @@
+*finfo_file
+
+**PHP
+
+>|PHP|
+string finfo_file ( resource $finfo , string $file_name = NULL [, int $options = FILEINFO_NONE [, resource $context = NULL ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*imagecolordeallocate
+
+**PHP
+
+>|PHP|
+bool imagecolordeallocate ( resource $image , int $color )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*newt_scale_set
+
+**PHP
+
+>|PHP|
+void newt_scale_set ( resource $scale , int $amount )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

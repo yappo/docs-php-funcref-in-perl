@@ -1,0 +1,13 @@
+*ncurses_move
+
+**PHP
+
+>|PHP|
+int ncurses_move ( int $y , int $x )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

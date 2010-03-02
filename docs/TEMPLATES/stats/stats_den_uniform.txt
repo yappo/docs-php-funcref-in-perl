@@ -1,0 +1,13 @@
+*stats_den_uniform
+
+**PHP
+
+>|PHP|
+float stats_den_uniform ( float $x , float $a , float $b )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

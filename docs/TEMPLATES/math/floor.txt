@@ -1,0 +1,13 @@
+*floor
+
+**PHP
+
+>|PHP|
+float floor ( float $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*enchant_dict_quick_check
+
+**PHP
+
+>|PHP|
+bool enchant_dict_quick_check ( resource $dict , string $word [, array &$suggestions ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

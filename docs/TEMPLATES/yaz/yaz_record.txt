@@ -1,0 +1,13 @@
+*yaz_record
+
+**PHP
+
+>|PHP|
+string yaz_record ( resource $id , int $pos , string $type )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

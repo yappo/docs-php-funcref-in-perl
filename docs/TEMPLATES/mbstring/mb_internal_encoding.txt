@@ -1,0 +1,13 @@
+*mb_internal_encoding
+
+**PHP
+
+>|PHP|
+mixed mb_internal_encoding ([ string $encoding = mb_internal_encoding() ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ncurses_qiflush
+
+**PHP
+
+>|PHP|
+void ncurses_qiflush ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*svn_fs_delete
+
+**PHP
+
+>|PHP|
+bool svn_fs_delete ( resource $root , string $path )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

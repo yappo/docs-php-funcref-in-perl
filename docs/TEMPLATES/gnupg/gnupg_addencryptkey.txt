@@ -1,0 +1,13 @@
+*gnupg_addencryptkey
+
+**PHP
+
+>|PHP|
+bool gnupg_addencryptkey ( resource $identifier , string $fingerprint )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

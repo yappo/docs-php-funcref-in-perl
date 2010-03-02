@@ -1,0 +1,13 @@
+*mb_substr_count
+
+**PHP
+
+>|PHP|
+int mb_substr_count ( string $haystack , string $needle [, string $encoding ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

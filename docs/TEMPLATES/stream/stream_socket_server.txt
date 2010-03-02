@@ -1,0 +1,13 @@
+*stream_socket_server
+
+**PHP
+
+>|PHP|
+resource stream_socket_server ( string $local_socket [, int &$errno [, string &$errstr [, int $flags = STREAM_SERVER_BIND | STREAM_SERVER_LISTEN [, resource $context ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

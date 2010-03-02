@@ -1,0 +1,13 @@
+*msession_get_data
+
+**PHP
+
+>|PHP|
+string msession_get_data ( string $session )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

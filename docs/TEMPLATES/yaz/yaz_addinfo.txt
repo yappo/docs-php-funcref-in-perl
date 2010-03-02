@@ -1,0 +1,13 @@
+*yaz_addinfo
+
+**PHP
+
+>|PHP|
+string yaz_addinfo ( resource $id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*get_called_class
+
+**PHP
+
+>|PHP|
+string get_called_class ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*gupnp_context_get_port
+
+**PHP
+
+>|PHP|
+int gupnp_context_get_port ( resource $context )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

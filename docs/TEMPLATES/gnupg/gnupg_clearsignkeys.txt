@@ -1,0 +1,13 @@
+*gnupg_clearsignkeys
+
+**PHP
+
+>|PHP|
+bool gnupg_clearsignkeys ( resource $identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

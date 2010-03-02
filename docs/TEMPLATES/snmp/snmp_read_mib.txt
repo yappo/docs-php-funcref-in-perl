@@ -1,0 +1,13 @@
+*snmp_read_mib
+
+**PHP
+
+>|PHP|
+bool snmp_read_mib ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

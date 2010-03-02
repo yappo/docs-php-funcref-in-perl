@@ -1,0 +1,13 @@
+*gnupg_setarmor
+
+**PHP
+
+>|PHP|
+bool gnupg_setarmor ( resource $identifier , int $armor )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

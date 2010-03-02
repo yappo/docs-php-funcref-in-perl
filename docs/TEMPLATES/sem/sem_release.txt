@@ -1,0 +1,13 @@
+*sem_release
+
+**PHP
+
+>|PHP|
+bool sem_release ( resource $sem_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

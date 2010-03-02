@@ -1,0 +1,13 @@
+*ob_tidyhandler
+
+**PHP
+
+>|PHP|
+string ob_tidyhandler ( string $input [, int $mode ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ldap_search
+
+**PHP
+
+>|PHP|
+resource ldap_search ( resource $link_identifier , string $base_dn , string $filter [, array $attributes [, int $attrsonly [, int $sizelimit [, int $timelimit [, int $deref ]]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

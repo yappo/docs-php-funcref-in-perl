@@ -1,0 +1,13 @@
+*db2_commit
+
+**PHP
+
+>|PHP|
+bool db2_commit ( resource $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

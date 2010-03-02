@@ -1,0 +1,13 @@
+*mysql_field_type
+
+**PHP
+
+>|PHP|
+string mysql_field_type ( resource $result , int $field_offset )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

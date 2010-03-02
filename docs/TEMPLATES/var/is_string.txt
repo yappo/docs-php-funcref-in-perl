@@ -1,0 +1,13 @@
+*is_string
+
+**PHP
+
+>|PHP|
+bool is_string ( mixed $var )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

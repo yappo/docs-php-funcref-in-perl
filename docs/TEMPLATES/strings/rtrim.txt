@@ -1,0 +1,13 @@
+*rtrim
+
+**PHP
+
+>|PHP|
+string rtrim ( string $str [, string $charlist ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

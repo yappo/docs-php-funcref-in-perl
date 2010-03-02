@@ -1,0 +1,13 @@
+*mysql_errno
+
+**PHP
+
+>|PHP|
+int mysql_errno ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

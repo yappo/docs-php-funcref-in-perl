@@ -1,0 +1,13 @@
+*svn_fs_node_created_rev
+
+**PHP
+
+>|PHP|
+int svn_fs_node_created_rev ( resource $fsroot , string $path )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

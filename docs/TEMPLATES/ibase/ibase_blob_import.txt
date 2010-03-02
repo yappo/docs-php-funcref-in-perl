@@ -1,0 +1,13 @@
+*ibase_blob_import
+
+**PHP
+
+>|PHP|
+string ibase_blob_import ( resource $link_identifier , resource $file_handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*realpath_cache_get
+
+**PHP
+
+>|PHP|
+array realpath_cache_get ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*gzinflate
+
+**PHP
+
+>|PHP|
+string gzinflate ( string $data [, int $length = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

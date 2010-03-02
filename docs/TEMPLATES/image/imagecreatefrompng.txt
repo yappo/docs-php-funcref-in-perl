@@ -1,0 +1,13 @@
+*imagecreatefrompng
+
+**PHP
+
+>|PHP|
+resource imagecreatefrompng ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

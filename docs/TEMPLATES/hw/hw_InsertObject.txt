@@ -1,0 +1,13 @@
+*hw_InsertObject
+
+**PHP
+
+>|PHP|
+int hw_insertobject ( int $connection , string $object_rec , string $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

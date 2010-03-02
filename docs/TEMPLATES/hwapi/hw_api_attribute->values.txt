@@ -1,0 +1,13 @@
+*hw_api_attribute->values
+
+**PHP
+
+>|PHP|
+array values ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

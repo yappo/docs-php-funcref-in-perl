@@ -1,0 +1,13 @@
+*newt_create_grid
+
+**PHP
+
+>|PHP|
+resource newt_create_grid ( int $cols , int $rows )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

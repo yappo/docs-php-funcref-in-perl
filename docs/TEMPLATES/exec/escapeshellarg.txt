@@ -1,0 +1,13 @@
+*escapeshellarg
+
+**PHP
+
+>|PHP|
+string escapeshellarg ( string $arg )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

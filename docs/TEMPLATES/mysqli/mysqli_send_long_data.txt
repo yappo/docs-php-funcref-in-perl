@@ -1,0 +1,13 @@
+*mysqli_send_long_data
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

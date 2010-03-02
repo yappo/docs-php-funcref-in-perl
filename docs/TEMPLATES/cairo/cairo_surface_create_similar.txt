@@ -1,0 +1,13 @@
+*cairo_surface_create_similar
+
+**PHP
+
+>|PHP|
+CairoSurface cairo_surface_create_similar ( CairoSurface $surface , string $content , string $width , string $height )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

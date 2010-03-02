@@ -1,0 +1,13 @@
+*mqseries_strerror
+
+**PHP
+
+>|PHP|
+string mqseries_strerror ( int $reason )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

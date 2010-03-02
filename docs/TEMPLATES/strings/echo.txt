@@ -1,0 +1,13 @@
+*echo
+
+**PHP
+
+>|PHP|
+void echo ( string $arg1 [, string $... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

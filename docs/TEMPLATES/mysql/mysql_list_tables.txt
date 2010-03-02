@@ -1,0 +1,13 @@
+*mysql_list_tables
+
+**PHP
+
+>|PHP|
+resource mysql_list_tables ( string $database [, resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

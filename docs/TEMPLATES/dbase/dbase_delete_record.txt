@@ -1,0 +1,13 @@
+*dbase_delete_record
+
+**PHP
+
+>|PHP|
+bool dbase_delete_record ( int $dbase_identifier , int $record_number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

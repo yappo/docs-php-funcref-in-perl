@@ -1,0 +1,13 @@
+*gopher_parsedir
+
+**PHP
+
+>|PHP|
+array gopher_parsedir ( string $dirent )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

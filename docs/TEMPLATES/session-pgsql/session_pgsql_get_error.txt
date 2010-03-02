@@ -1,0 +1,13 @@
+*session_pgsql_get_error
+
+**PHP
+
+>|PHP|
+array session_pgsql_get_error ([ bool $with_error_message = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

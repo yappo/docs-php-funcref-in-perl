@@ -1,0 +1,13 @@
+*hw_Document_BodyTag
+
+**PHP
+
+>|PHP|
+string hw_document_bodytag ( int $hw_document [, string $prefix ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

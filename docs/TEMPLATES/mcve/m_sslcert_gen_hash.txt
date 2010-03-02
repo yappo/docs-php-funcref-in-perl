@@ -1,0 +1,13 @@
+*m_sslcert_gen_hash
+
+**PHP
+
+>|PHP|
+string m_sslcert_gen_hash ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

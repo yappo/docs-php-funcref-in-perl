@@ -1,0 +1,13 @@
+*gzopen
+
+**PHP
+
+>|PHP|
+resource gzopen ( string $filename , string $mode [, int $use_include_path = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

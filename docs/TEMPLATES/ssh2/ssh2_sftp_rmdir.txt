@@ -1,0 +1,13 @@
+*ssh2_sftp_rmdir
+
+**PHP
+
+>|PHP|
+bool ssh2_sftp_rmdir ( resource $sftp , string $dirname )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

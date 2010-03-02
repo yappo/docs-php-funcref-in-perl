@@ -1,0 +1,13 @@
+*imap_headers
+
+**PHP
+
+>|PHP|
+array imap_headers ( resource $imap_stream )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

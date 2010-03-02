@@ -1,0 +1,13 @@
+*microtime
+
+**PHP
+
+>|PHP|
+mixed microtime ([ bool $get_as_float ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*openal_device_close
+
+**PHP
+
+>|PHP|
+bool openal_device_close ( resource $device )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

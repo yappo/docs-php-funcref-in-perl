@@ -1,0 +1,13 @@
+*imap_check
+
+**PHP
+
+>|PHP|
+object imap_check ( resource $imap_stream )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

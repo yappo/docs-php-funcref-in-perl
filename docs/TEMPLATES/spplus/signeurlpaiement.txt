@@ -1,0 +1,13 @@
+*signeurlpaiement
+
+**PHP
+
+>|PHP|
+string nthmac ( string $clent , string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

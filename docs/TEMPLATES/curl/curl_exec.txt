@@ -1,0 +1,13 @@
+*curl_exec
+
+**PHP
+
+>|PHP|
+mixed curl_exec ( resource $ch )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

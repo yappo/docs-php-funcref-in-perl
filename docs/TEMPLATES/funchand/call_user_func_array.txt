@@ -1,0 +1,13 @@
+*call_user_func_array
+
+**PHP
+
+>|PHP|
+mixed call_user_func_array ( callback $function , array $param_arr )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

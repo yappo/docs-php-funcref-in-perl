@@ -1,0 +1,13 @@
+*rand
+
+**PHP
+
+>|PHP|
+int rand ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

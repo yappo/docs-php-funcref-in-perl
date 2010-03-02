@@ -1,0 +1,13 @@
+*stats_rand_gen_exponential
+
+**PHP
+
+>|PHP|
+float stats_rand_gen_exponential ( float $av )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*com_release
+
+**PHP
+
+>|PHP|
+void com_release ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

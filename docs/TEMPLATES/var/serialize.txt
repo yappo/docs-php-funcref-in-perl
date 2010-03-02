@@ -1,0 +1,13 @@
+*serialize
+
+**PHP
+
+>|PHP|
+string serialize ( mixed $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

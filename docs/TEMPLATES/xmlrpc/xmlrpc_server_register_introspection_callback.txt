@@ -1,0 +1,13 @@
+*xmlrpc_server_register_introspection_callback
+
+**PHP
+
+>|PHP|
+bool xmlrpc_server_register_introspection_callback ( resource $server , string $function )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

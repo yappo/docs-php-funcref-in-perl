@@ -1,0 +1,13 @@
+*maxdb_sqlstate
+
+**PHP
+
+>|PHP|
+string maxdb_sqlstate ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

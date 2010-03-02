@@ -1,0 +1,13 @@
+*tidy_get_output
+
+**PHP
+
+>|PHP|
+string tidy_get_output ( tidy $object )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

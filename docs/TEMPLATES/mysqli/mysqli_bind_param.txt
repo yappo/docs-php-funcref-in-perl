@@ -1,0 +1,13 @@
+*mysqli_bind_param
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

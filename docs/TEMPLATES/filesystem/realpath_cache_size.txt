@@ -1,0 +1,13 @@
+*realpath_cache_size
+
+**PHP
+
+>|PHP|
+int realpath_cache_size ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

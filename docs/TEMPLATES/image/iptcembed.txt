@@ -1,0 +1,13 @@
+*iptcembed
+
+**PHP
+
+>|PHP|
+mixed iptcembed ( string $iptcdata , string $jpeg_file_name [, int $spool ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

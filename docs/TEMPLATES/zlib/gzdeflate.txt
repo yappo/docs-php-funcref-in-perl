@@ -1,0 +1,13 @@
+*gzdeflate
+
+**PHP
+
+>|PHP|
+string gzdeflate ( string $data [, int $level = -1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

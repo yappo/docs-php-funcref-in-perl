@@ -1,0 +1,13 @@
+*ociexecute
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

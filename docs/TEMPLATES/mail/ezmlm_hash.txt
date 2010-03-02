@@ -1,0 +1,13 @@
+*ezmlm_hash
+
+**PHP
+
+>|PHP|
+int ezmlm_hash ( string $addr )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

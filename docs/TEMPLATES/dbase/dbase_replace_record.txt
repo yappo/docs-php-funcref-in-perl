@@ -1,0 +1,13 @@
+*dbase_replace_record
+
+**PHP
+
+>|PHP|
+bool dbase_replace_record ( int $dbase_identifier , array $record , int $record_number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

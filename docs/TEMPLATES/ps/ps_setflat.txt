@@ -1,0 +1,13 @@
+*ps_setflat
+
+**PHP
+
+>|PHP|
+bool ps_setflat ( resource $psdoc , float $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

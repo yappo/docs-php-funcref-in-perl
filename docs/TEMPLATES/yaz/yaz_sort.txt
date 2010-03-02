@@ -1,0 +1,13 @@
+*yaz_sort
+
+**PHP
+
+>|PHP|
+void yaz_sort ( resource $id , string $criteria )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

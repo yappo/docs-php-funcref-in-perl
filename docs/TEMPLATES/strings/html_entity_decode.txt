@@ -1,0 +1,13 @@
+*html_entity_decode
+
+**PHP
+
+>|PHP|
+string html_entity_decode ( string $string [, int $quote_style = ENT_COMPAT [, string $charset ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

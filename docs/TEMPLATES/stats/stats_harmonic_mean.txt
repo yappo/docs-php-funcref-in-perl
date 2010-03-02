@@ -1,0 +1,13 @@
+*stats_harmonic_mean
+
+**PHP
+
+>|PHP|
+number stats_harmonic_mean ( array $a )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

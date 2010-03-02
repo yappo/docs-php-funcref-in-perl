@@ -1,0 +1,13 @@
+*ncurses_filter
+
+**PHP
+
+>|PHP|
+void ncurses_filter ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

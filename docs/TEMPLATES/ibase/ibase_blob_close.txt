@@ -1,0 +1,13 @@
+*ibase_blob_close
+
+**PHP
+
+>|PHP|
+mixed ibase_blob_close ( resource $blob_handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

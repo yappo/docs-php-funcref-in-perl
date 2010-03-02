@@ -1,0 +1,13 @@
+*time_nanosleep
+
+**PHP
+
+>|PHP|
+mixed time_nanosleep ( int $seconds , int $nanoseconds )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

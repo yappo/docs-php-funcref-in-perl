@@ -1,0 +1,13 @@
+*socket_recvfrom
+
+**PHP
+
+>|PHP|
+int socket_recvfrom ( resource $socket , string &$buf , int $len , int $flags , string &$name [, int &$port ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ftp_pwd
+
+**PHP
+
+>|PHP|
+string ftp_pwd ( resource $ftp_stream )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

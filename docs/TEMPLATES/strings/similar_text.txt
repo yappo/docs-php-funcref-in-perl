@@ -1,0 +1,13 @@
+*similar_text
+
+**PHP
+
+>|PHP|
+int similar_text ( string $first , string $second [, float &$percent ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

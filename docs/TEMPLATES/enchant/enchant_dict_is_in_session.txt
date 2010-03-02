@@ -1,0 +1,13 @@
+*enchant_dict_is_in_session
+
+**PHP
+
+>|PHP|
+bool enchant_dict_is_in_session ( resource $dict , string $word )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*stats_rand_setall
+
+**PHP
+
+>|PHP|
+void stats_rand_setall ( int $iseed1 , int $iseed2 )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*posix_mkfifo
+
+**PHP
+
+>|PHP|
+bool posix_mkfifo ( string $pathname , int $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

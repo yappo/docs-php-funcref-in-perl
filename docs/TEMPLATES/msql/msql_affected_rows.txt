@@ -1,0 +1,13 @@
+*msql_affected_rows
+
+**PHP
+
+>|PHP|
+int msql_affected_rows ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

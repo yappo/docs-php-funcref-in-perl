@@ -1,0 +1,13 @@
+*newt_grid_set_field
+
+**PHP
+
+>|PHP|
+void newt_grid_set_field ( resource $grid , int $col , int $row , int $type , resource $val , int $pad_left , int $pad_top , int $pad_right , int $pad_bottom , int $anchor [, int $flags ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

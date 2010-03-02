@@ -1,0 +1,13 @@
+*date_default_timezone_set
+
+**PHP
+
+>|PHP|
+bool date_default_timezone_set ( string $timezone_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

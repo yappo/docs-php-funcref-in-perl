@@ -1,0 +1,13 @@
+*popen
+
+**PHP
+
+>|PHP|
+resource popen ( string $command , string $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

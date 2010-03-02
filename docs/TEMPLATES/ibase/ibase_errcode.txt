@@ -1,0 +1,13 @@
+*ibase_errcode
+
+**PHP
+
+>|PHP|
+int ibase_errcode ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*oci_commit
+
+**PHP
+
+>|PHP|
+bool oci_commit ( resource $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

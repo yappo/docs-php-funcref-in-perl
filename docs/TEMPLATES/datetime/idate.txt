@@ -1,0 +1,13 @@
+*idate
+
+**PHP
+
+>|PHP|
+int idate ( string $format [, int $timestamp = time() ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

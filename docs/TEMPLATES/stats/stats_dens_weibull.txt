@@ -1,0 +1,13 @@
+*stats_dens_weibull
+
+**PHP
+
+>|PHP|
+float stats_dens_weibull ( float $x , float $a , float $b )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

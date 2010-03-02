@@ -1,0 +1,13 @@
+*mysql_pconnect
+
+**PHP
+
+>|PHP|
+resource mysql_pconnect ([ string $server = ini_get("mysql.default_host") [, string $username = ini_get("mysql.default_user") [, string $password = ini_get("mysql.default_password") [, int $client_flags ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*gmp_setbit
+
+**PHP
+
+>|PHP|
+void gmp_setbit ( resource $a , int $index [, bool $set_clear = true ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

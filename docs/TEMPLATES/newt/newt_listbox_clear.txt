@@ -1,0 +1,13 @@
+*newt_listbox_clear
+
+**PHP
+
+>|PHP|
+void newt_listbox_clear ( resource $listobx )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

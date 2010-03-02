@@ -1,0 +1,13 @@
+*maxdb_next_result
+
+**PHP
+
+>|PHP|
+bool maxdb_next_result ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

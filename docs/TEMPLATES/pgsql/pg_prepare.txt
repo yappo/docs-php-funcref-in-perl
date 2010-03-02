@@ -1,0 +1,13 @@
+*pg_prepare
+
+**PHP
+
+>|PHP|
+resource pg_prepare ([ resource $connection ], string $stmtname , string $query )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

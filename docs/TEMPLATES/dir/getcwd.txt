@@ -1,0 +1,13 @@
+*getcwd
+
+**PHP
+
+>|PHP|
+string getcwd ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

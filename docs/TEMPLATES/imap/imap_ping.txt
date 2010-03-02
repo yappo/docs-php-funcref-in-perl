@@ -1,0 +1,13 @@
+*imap_ping
+
+**PHP
+
+>|PHP|
+bool imap_ping ( resource $imap_stream )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

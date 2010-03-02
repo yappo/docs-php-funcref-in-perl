@@ -1,0 +1,13 @@
+*mysqli_client_encoding
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*newt_set_help_callback
+
+**PHP
+
+>|PHP|
+void newt_set_help_callback ( mixed $function )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

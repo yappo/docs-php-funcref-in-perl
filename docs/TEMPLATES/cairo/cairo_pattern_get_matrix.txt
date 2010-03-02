@@ -1,0 +1,13 @@
+*cairo_pattern_get_matrix
+
+**PHP
+
+>|PHP|
+CairoMatrix cairo_pattern_get_matrix ( CairoPattern $pattern )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

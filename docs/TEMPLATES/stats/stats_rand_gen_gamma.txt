@@ -1,0 +1,13 @@
+*stats_rand_gen_gamma
+
+**PHP
+
+>|PHP|
+float stats_rand_gen_gamma ( float $a , float $r )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

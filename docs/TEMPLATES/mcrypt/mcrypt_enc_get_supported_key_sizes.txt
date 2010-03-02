@@ -1,0 +1,13 @@
+*mcrypt_enc_get_supported_key_sizes
+
+**PHP
+
+>|PHP|
+array mcrypt_enc_get_supported_key_sizes ( resource $td )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

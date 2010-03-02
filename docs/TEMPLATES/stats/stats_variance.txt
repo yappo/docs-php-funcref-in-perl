@@ -1,0 +1,13 @@
+*stats_variance
+
+**PHP
+
+>|PHP|
+float stats_variance ( array $a [, bool $sample = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

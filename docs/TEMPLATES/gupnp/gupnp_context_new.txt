@@ -1,0 +1,13 @@
+*gupnp_context_new
+
+**PHP
+
+>|PHP|
+resource gupnp_context_new ([ string $host_ip [, int $port = 0 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

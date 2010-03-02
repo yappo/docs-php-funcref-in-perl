@@ -1,0 +1,13 @@
+*ps_add_pdflink
+
+**PHP
+
+>|PHP|
+bool ps_add_pdflink ( resource $psdoc , float $llx , float $lly , float $urx , float $ury , string $filename , int $page , string $dest )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

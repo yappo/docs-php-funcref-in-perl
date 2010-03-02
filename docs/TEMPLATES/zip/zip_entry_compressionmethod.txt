@@ -1,0 +1,13 @@
+*zip_entry_compressionmethod
+
+**PHP
+
+>|PHP|
+string zip_entry_compressionmethod ( resource $zip_entry )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

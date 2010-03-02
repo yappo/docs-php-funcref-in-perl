@@ -1,0 +1,13 @@
+*pg_field_size
+
+**PHP
+
+>|PHP|
+int pg_field_size ( resource $result , int $field_number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

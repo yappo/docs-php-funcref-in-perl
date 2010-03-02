@@ -1,0 +1,13 @@
+*ps_delete
+
+**PHP
+
+>|PHP|
+bool ps_delete ( resource $psdoc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

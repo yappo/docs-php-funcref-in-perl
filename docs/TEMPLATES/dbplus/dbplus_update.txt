@@ -1,0 +1,13 @@
+*dbplus_update
+
+**PHP
+
+>|PHP|
+int dbplus_update ( resource $relation , array $old , array $new )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

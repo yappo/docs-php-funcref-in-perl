@@ -1,0 +1,13 @@
+*geoip_region_name_by_code
+
+**PHP
+
+>|PHP|
+string geoip_region_name_by_code ( string $country_code , string $region_code )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

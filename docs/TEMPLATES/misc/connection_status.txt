@@ -1,0 +1,13 @@
+*connection_status
+
+**PHP
+
+>|PHP|
+int connection_status ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

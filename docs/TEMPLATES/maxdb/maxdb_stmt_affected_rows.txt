@@ -1,0 +1,13 @@
+*maxdb_stmt_affected_rows
+
+**PHP
+
+>|PHP|
+int maxdb_stmt_affected_rows ( resource $stmt )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

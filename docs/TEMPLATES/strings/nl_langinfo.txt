@@ -1,0 +1,13 @@
+*nl_langinfo
+
+**PHP
+
+>|PHP|
+string nl_langinfo ( int $item )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

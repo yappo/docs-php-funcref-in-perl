@@ -1,0 +1,13 @@
+*ibase_free_query
+
+**PHP
+
+>|PHP|
+bool ibase_free_query ( resource $query )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

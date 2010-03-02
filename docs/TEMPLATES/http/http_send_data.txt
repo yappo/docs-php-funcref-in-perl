@@ -1,0 +1,13 @@
+*http_send_data
+
+**PHP
+
+>|PHP|
+bool http_send_data ( string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

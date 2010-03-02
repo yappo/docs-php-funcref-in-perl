@@ -1,0 +1,13 @@
+*fbsql_field_name
+
+**PHP
+
+>|PHP|
+string fbsql_field_name ( resource $result [, int $field_index ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

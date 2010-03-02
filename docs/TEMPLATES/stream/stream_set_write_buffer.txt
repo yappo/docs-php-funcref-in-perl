@@ -1,0 +1,13 @@
+*stream_set_write_buffer
+
+**PHP
+
+>|PHP|
+int stream_set_write_buffer ( resource $stream , int $buffer )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

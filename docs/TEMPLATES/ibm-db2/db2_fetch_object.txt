@@ -1,0 +1,13 @@
+*db2_fetch_object
+
+**PHP
+
+>|PHP|
+object db2_fetch_object ( resource $stmt [, int $row_number = -1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

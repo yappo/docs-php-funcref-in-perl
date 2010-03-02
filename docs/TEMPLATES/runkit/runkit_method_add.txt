@@ -1,0 +1,13 @@
+*runkit_method_add
+
+**PHP
+
+>|PHP|
+bool runkit_method_add ( string $classname , string $methodname , string $args , string $code [, int $flags = RUNKIT_ACC_PUBLIC ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

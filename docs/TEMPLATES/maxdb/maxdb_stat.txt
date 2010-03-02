@@ -1,0 +1,13 @@
+*maxdb_stat
+
+**PHP
+
+>|PHP|
+string maxdb_stat ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

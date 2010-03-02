@@ -1,0 +1,13 @@
+*qdom_tree
+
+**PHP
+
+>|PHP|
+QDomDocument qdom_tree ( string $doc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

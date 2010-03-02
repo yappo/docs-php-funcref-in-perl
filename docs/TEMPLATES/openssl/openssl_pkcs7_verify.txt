@@ -1,0 +1,13 @@
+*openssl_pkcs7_verify
+
+**PHP
+
+>|PHP|
+mixed openssl_pkcs7_verify ( string $filename , int $flags [, string $outfilename [, array $cainfo [, string $extracerts [, string $content ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

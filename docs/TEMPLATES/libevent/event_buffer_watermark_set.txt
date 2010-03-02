@@ -1,0 +1,13 @@
+*event_buffer_watermark_set
+
+**PHP
+
+>|PHP|
+void event_buffer_watermark_set ( resource $bevent , int $events , int $lowmark , int $highmark )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

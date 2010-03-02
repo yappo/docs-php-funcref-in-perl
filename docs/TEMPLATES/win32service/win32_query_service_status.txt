@@ -1,0 +1,13 @@
+*win32_query_service_status
+
+**PHP
+
+>|PHP|
+mixed win32_query_service_status ( string $servicename [, string $machine ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

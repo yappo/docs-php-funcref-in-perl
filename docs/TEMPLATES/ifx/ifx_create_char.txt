@@ -1,0 +1,13 @@
+*ifx_create_char
+
+**PHP
+
+>|PHP|
+int ifx_create_char ( string $param )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*gupnp_service_proxy_add_notify
+
+**PHP
+
+>|PHP|
+bool gupnp_service_proxy_add_notify ( resource $proxy , string $value , int $type , mixed $callback [, mixed $arg ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*pcntl_fork
+
+**PHP
+
+>|PHP|
+int pcntl_fork ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

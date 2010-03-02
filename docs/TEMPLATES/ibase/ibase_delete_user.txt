@@ -1,0 +1,13 @@
+*ibase_delete_user
+
+**PHP
+
+>|PHP|
+bool ibase_delete_user ( resource $service_handle , string $user_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*svn_fs_file_length
+
+**PHP
+
+>|PHP|
+int svn_fs_file_length ( resource $fsroot , string $path )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

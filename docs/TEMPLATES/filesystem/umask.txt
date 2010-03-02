@@ -1,0 +1,13 @@
+*umask
+
+**PHP
+
+>|PHP|
+int umask ([ int $mask ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

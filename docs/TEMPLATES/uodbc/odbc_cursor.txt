@@ -1,0 +1,13 @@
+*odbc_cursor
+
+**PHP
+
+>|PHP|
+string odbc_cursor ( resource $result_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*fscanf
+
+**PHP
+
+>|PHP|
+mixed fscanf ( resource $handle , string $format [, mixed &$... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

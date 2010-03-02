@@ -1,0 +1,13 @@
+*dbplus_getlock
+
+**PHP
+
+>|PHP|
+int dbplus_getlock ( resource $relation , string $tuple )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

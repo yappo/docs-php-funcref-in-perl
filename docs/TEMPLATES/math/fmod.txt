@@ -1,0 +1,13 @@
+*fmod
+
+**PHP
+
+>|PHP|
+float fmod ( float $x , float $y )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

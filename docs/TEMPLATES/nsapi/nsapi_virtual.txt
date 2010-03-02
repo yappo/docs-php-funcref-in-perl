@@ -1,0 +1,13 @@
+*nsapi_virtual
+
+**PHP
+
+>|PHP|
+bool nsapi_virtual ( string $uri )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

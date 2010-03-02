@@ -1,0 +1,13 @@
+*is_executable
+
+**PHP
+
+>|PHP|
+bool is_executable ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

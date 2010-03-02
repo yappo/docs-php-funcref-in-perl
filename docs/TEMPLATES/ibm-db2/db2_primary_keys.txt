@@ -1,0 +1,13 @@
+*db2_primary_keys
+
+**PHP
+
+>|PHP|
+resource db2_primary_keys ( resource $connection , string $qualifier , string $schema , string $table-name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

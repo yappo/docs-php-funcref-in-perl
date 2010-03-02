@@ -1,0 +1,13 @@
+*px_set_tablename
+
+**PHP
+
+>|PHP|
+void px_set_tablename ( resource $pxdoc , string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

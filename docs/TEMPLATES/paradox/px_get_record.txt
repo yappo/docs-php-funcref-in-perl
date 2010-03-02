@@ -1,0 +1,13 @@
+*px_get_record
+
+**PHP
+
+>|PHP|
+array px_get_record ( resource $pxdoc , int $num [, int $mode = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

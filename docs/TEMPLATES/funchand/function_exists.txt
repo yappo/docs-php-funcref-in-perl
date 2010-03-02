@@ -1,0 +1,13 @@
+*function_exists
+
+**PHP
+
+>|PHP|
+bool function_exists ( string $function_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

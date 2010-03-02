@@ -1,0 +1,13 @@
+*maxdb_get_metadata
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

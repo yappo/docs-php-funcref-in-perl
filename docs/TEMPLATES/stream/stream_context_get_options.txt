@@ -1,0 +1,13 @@
+*stream_context_get_options
+
+**PHP
+
+>|PHP|
+array stream_context_get_options ( resource $stream_or_context )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

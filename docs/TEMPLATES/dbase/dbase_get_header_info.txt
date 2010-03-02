@@ -1,0 +1,13 @@
+*dbase_get_header_info
+
+**PHP
+
+>|PHP|
+array dbase_get_header_info ( int $dbase_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*mcrypt_get_cipher_name
+
+**PHP
+
+>|PHP|
+string mcrypt_get_cipher_name ( int $cipher )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

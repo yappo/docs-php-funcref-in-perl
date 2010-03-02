@@ -1,0 +1,13 @@
+*px_get_parameter
+
+**PHP
+
+>|PHP|
+string px_get_parameter ( resource $pxdoc , string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

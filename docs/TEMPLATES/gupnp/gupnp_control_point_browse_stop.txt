@@ -1,0 +1,13 @@
+*gupnp_control_point_browse_stop
+
+**PHP
+
+>|PHP|
+bool gupnp_control_point_browse_stop ( resource $cpoint )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ncurses_wclear
+
+**PHP
+
+>|PHP|
+int ncurses_wclear ( resource $window )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

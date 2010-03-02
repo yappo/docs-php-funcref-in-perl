@@ -1,0 +1,13 @@
+*ldap_explode_dn
+
+**PHP
+
+>|PHP|
+array ldap_explode_dn ( string $dn , int $with_attrib )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

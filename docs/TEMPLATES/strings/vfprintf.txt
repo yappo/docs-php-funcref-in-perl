@@ -1,0 +1,13 @@
+*vfprintf
+
+**PHP
+
+>|PHP|
+int vfprintf ( resource $handle , string $format , array $args )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

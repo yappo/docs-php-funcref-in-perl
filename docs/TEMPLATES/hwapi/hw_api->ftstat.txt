@@ -1,0 +1,13 @@
+*hw_api->ftstat
+
+**PHP
+
+>|PHP|
+hw_api_object ftstat ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*cairo_surface_get_type
+
+**PHP
+
+>|PHP|
+int cairo_surface_get_type ( CairoSurface $surface )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

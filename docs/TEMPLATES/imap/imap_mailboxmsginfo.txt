@@ -1,0 +1,13 @@
+*imap_mailboxmsginfo
+
+**PHP
+
+>|PHP|
+object imap_mailboxmsginfo ( resource $imap_stream )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

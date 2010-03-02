@@ -1,0 +1,13 @@
+*printer_end_doc
+
+**PHP
+
+>|PHP|
+bool printer_end_doc ( resource $printer_handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

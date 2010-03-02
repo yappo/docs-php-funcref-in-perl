@@ -1,0 +1,13 @@
+*ctype_alnum
+
+**PHP
+
+>|PHP|
+bool ctype_alnum ( string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

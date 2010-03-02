@@ -1,0 +1,13 @@
+*m_initengine
+
+**PHP
+
+>|PHP|
+int m_initengine ( string $location )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

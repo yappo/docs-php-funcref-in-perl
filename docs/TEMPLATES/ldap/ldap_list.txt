@@ -1,0 +1,13 @@
+*ldap_list
+
+**PHP
+
+>|PHP|
+resource ldap_list ( resource $link_identifier , string $base_dn , string $filter [, array $attributes [, int $attrsonly [, int $sizelimit [, int $timelimit [, int $deref ]]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

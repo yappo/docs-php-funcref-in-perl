@@ -1,0 +1,13 @@
+*radius_get_attr
+
+**PHP
+
+>|PHP|
+mixed radius_get_attr ( resource $radius_handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

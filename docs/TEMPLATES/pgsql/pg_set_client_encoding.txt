@@ -1,0 +1,13 @@
+*pg_set_client_encoding
+
+**PHP
+
+>|PHP|
+int pg_set_client_encoding ([ resource $connection ], string $encoding )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

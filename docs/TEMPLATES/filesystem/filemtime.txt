@@ -1,0 +1,13 @@
+*filemtime
+
+**PHP
+
+>|PHP|
+int filemtime ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*posix_ttyname
+
+**PHP
+
+>|PHP|
+string posix_ttyname ( int $fd )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

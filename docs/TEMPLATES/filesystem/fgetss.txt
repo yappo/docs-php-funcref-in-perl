@@ -1,0 +1,13 @@
+*fgetss
+
+**PHP
+
+>|PHP|
+string fgetss ( resource $handle [, int $length [, string $allowable_tags ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

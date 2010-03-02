@@ -1,0 +1,13 @@
+*swf_shapelineto
+
+**PHP
+
+>|PHP|
+void swf_shapelineto ( float $x , float $y )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

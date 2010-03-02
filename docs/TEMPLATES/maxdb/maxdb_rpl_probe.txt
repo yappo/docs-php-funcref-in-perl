@@ -1,0 +1,13 @@
+*maxdb_rpl_probe
+
+**PHP
+
+>|PHP|
+bool maxdb_rpl_probe ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

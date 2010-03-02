@@ -1,0 +1,13 @@
+*pg_free_result
+
+**PHP
+
+>|PHP|
+bool pg_free_result ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

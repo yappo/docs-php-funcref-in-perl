@@ -1,0 +1,13 @@
+*ifx_update_char
+
+**PHP
+
+>|PHP|
+bool ifx_update_char ( int $bid , string $content )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

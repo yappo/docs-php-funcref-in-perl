@@ -1,0 +1,13 @@
+*stats_dens_exponential
+
+**PHP
+
+>|PHP|
+float stats_dens_exponential ( float $x , float $scale )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

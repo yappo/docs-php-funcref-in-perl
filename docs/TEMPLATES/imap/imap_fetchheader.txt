@@ -1,0 +1,13 @@
+*imap_fetchheader
+
+**PHP
+
+>|PHP|
+string imap_fetchheader ( resource $imap_stream , int $msg_number [, int $options = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

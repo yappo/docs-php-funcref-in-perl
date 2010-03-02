@@ -1,0 +1,13 @@
+*variant_get_type
+
+**PHP
+
+>|PHP|
+int variant_get_type ( variant $variant )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

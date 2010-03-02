@@ -1,0 +1,13 @@
+*ps_save
+
+**PHP
+
+>|PHP|
+bool ps_save ( resource $psdoc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

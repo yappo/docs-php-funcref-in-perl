@@ -1,0 +1,13 @@
+*ibase_fetch_row
+
+**PHP
+
+>|PHP|
+array ibase_fetch_row ( resource $result_identifier [, int $fetch_flag = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

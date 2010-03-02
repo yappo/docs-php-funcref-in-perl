@@ -1,0 +1,13 @@
+*http_send_content_disposition
+
+**PHP
+
+>|PHP|
+bool http_send_content_disposition ( string $filename [, bool $inline = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

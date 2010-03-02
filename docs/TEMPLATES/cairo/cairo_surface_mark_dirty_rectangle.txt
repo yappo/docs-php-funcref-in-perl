@@ -1,0 +1,13 @@
+*cairo_surface_mark_dirty_rectangle
+
+**PHP
+
+>|PHP|
+void cairo_surface_mark_dirty_rectangle ( CairoSurface $surface , string $x , string $y , string $width , string $height )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*expm1
+
+**PHP
+
+>|PHP|
+float expm1 ( float $arg )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

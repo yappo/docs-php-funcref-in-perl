@@ -1,0 +1,13 @@
+*fam_cancel_monitor
+
+**PHP
+
+>|PHP|
+bool fam_cancel_monitor ( resource $fam , resource $fam_monitor )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

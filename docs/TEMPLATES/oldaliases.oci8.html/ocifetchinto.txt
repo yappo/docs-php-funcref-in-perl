@@ -1,0 +1,13 @@
+*ocifetchinto
+
+**PHP
+
+>|PHP|
+int ocifetchinto ( resource $statement , array &$result [, int $mode ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

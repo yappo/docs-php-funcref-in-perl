@@ -1,0 +1,13 @@
+*htmlentities
+
+**PHP
+
+>|PHP|
+string htmlentities ( string $string [, int $quote_style = ENT_COMPAT [, string $charset [, bool $double_encode = true ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

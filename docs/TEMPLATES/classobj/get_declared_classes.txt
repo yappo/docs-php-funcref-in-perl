@@ -1,0 +1,13 @@
+*get_declared_classes
+
+**PHP
+
+>|PHP|
+array get_declared_classes ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

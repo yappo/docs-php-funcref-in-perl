@@ -1,0 +1,13 @@
+*newt_listitem_get_data
+
+**PHP
+
+>|PHP|
+mixed newt_listitem_get_data ( resource $item )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

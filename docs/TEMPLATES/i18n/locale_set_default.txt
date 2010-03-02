@@ -1,0 +1,13 @@
+*locale_set_default
+
+**PHP
+
+>|PHP|
+bool locale_set_default ( string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

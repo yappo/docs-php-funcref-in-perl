@@ -1,0 +1,13 @@
+*ldap_dn2ufn
+
+**PHP
+
+>|PHP|
+string ldap_dn2ufn ( string $dn )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

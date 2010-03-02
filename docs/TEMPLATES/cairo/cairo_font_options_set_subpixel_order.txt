@@ -1,0 +1,13 @@
+*cairo_font_options_set_subpixel_order
+
+**PHP
+
+>|PHP|
+void cairo_font_options_set_subpixel_order ( CairoFontOptions $options , string $subpixel_order )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

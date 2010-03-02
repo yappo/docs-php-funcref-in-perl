@@ -1,0 +1,13 @@
+*notes_list_msgs
+
+**PHP
+
+>|PHP|
+bool notes_list_msgs ( string $db )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

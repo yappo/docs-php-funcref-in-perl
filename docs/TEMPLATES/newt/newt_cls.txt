@@ -1,0 +1,13 @@
+*newt_cls
+
+**PHP
+
+>|PHP|
+void newt_cls ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

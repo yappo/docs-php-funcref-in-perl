@@ -1,0 +1,13 @@
+*event_del
+
+**PHP
+
+>|PHP|
+bool event_del ( resource $event )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

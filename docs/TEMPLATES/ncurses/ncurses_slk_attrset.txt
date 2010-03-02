@@ -1,0 +1,13 @@
+*ncurses_slk_attrset
+
+**PHP
+
+>|PHP|
+int ncurses_slk_attrset ( int $intarg )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

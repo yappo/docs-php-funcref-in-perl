@@ -1,0 +1,13 @@
+*imap_uid
+
+**PHP
+
+>|PHP|
+int imap_uid ( resource $imap_stream , int $msg_number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

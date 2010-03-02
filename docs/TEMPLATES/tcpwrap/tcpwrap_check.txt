@@ -1,0 +1,13 @@
+*tcpwrap_check
+
+**PHP
+
+>|PHP|
+bool tcpwrap_check ( string $daemon , string $address [, string $user [, bool $nodns = false ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

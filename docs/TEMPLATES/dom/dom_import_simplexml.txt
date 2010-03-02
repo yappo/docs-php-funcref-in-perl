@@ -1,0 +1,13 @@
+*dom_import_simplexml
+
+**PHP
+
+>|PHP|
+DOMElement dom_import_simplexml ( SimpleXMLElement $node )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

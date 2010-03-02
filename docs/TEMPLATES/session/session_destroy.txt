@@ -1,0 +1,13 @@
+*session_destroy
+
+**PHP
+
+>|PHP|
+bool session_destroy ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*class_alias
+
+**PHP
+
+>|PHP|
+boolean class_alias ([ string $original [, string $alias ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

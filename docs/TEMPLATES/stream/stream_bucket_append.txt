@@ -1,0 +1,13 @@
+*stream_bucket_append
+
+**PHP
+
+>|PHP|
+void stream_bucket_append ( resource $brigade , resource $bucket )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

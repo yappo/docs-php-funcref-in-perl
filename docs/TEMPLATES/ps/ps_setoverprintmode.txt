@@ -1,0 +1,13 @@
+*ps_setoverprintmode
+
+**PHP
+
+>|PHP|
+bool ps_setoverprintmode ( resource $psdoc , int $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

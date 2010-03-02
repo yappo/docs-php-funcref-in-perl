@@ -1,0 +1,13 @@
+*radius_put_vendor_int
+
+**PHP
+
+>|PHP|
+bool radius_put_vendor_int ( resource $radius_handle , int $vendor , int $type , int $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

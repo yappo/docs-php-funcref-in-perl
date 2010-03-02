@@ -1,0 +1,13 @@
+*hw_InsColl
+
+**PHP
+
+>|PHP|
+int hw_inscoll ( int $connection , int $objectID , array $object_array )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*newt_refresh
+
+**PHP
+
+>|PHP|
+void newt_refresh ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

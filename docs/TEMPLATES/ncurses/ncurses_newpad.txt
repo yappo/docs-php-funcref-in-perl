@@ -1,0 +1,13 @@
+*ncurses_newpad
+
+**PHP
+
+>|PHP|
+resource ncurses_newpad ( int $rows , int $cols )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

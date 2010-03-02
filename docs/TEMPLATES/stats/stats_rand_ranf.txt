@@ -1,0 +1,13 @@
+*stats_rand_ranf
+
+**PHP
+
+>|PHP|
+float stats_rand_ranf ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

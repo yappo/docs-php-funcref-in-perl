@@ -1,0 +1,13 @@
+*mailparse_msg_free
+
+**PHP
+
+>|PHP|
+bool mailparse_msg_free ( resource $mimemail )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

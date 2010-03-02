@@ -1,0 +1,13 @@
+*svn_status
+
+**PHP
+
+>|PHP|
+array svn_status ( string $path [, int $flags = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*posix_errno
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*odbc_num_fields
+
+**PHP
+
+>|PHP|
+int odbc_num_fields ( resource $result_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

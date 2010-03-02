@@ -1,0 +1,13 @@
+*imagejpeg
+
+**PHP
+
+>|PHP|
+bool imagejpeg ( resource $image [, string $filename [, int $quality ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

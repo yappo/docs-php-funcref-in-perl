@@ -1,0 +1,13 @@
+*long2ip
+
+**PHP
+
+>|PHP|
+string long2ip ( string $proper_address )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

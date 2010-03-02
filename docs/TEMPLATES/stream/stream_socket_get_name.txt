@@ -1,0 +1,13 @@
+*stream_socket_get_name
+
+**PHP
+
+>|PHP|
+string stream_socket_get_name ( resource $handle , bool $want_peer )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

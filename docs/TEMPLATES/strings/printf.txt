@@ -1,0 +1,13 @@
+*printf
+
+**PHP
+
+>|PHP|
+int printf ( string $format [, mixed $args [, mixed $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

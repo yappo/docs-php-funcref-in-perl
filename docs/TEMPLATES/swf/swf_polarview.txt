@@ -1,0 +1,13 @@
+*swf_polarview
+
+**PHP
+
+>|PHP|
+void swf_polarview ( float $dist , float $azimuth , float $incidence , float $twist )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

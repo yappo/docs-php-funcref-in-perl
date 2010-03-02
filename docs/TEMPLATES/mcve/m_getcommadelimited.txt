@@ -1,0 +1,13 @@
+*m_getcommadelimited
+
+**PHP
+
+>|PHP|
+string m_getcommadelimited ( resource $conn , int $identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

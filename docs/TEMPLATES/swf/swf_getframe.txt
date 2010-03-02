@@ -1,0 +1,13 @@
+*swf_getframe
+
+**PHP
+
+>|PHP|
+int swf_getframe ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*readline_callback_handler_install
+
+**PHP
+
+>|PHP|
+bool readline_callback_handler_install ( string $prompt , callback $callback )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

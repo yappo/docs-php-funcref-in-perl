@@ -1,0 +1,13 @@
+*tidy_setopt
+
+**PHP
+
+>|PHP|
+bool tidy_setopt ( string $option , mixed $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

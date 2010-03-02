@@ -1,0 +1,13 @@
+*dbplus_tremove
+
+**PHP
+
+>|PHP|
+int dbplus_tremove ( resource $relation , array $tuple [, array &$current ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

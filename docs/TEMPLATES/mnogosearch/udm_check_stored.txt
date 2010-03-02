@@ -1,0 +1,13 @@
+*udm_check_stored
+
+**PHP
+
+>|PHP|
+int udm_check_stored ( resource $agent , int $link , string $doc_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

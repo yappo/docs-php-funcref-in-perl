@@ -1,0 +1,13 @@
+*constant
+
+**PHP
+
+>|PHP|
+mixed constant ( string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

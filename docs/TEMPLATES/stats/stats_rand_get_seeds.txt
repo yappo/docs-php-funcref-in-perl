@@ -1,0 +1,13 @@
+*stats_rand_get_seeds
+
+**PHP
+
+>|PHP|
+array stats_rand_get_seeds ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

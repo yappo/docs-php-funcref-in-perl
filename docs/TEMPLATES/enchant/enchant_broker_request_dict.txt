@@ -1,0 +1,13 @@
+*enchant_broker_request_dict
+
+**PHP
+
+>|PHP|
+resource enchant_broker_request_dict ( resource $broker , string $tag )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

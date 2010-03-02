@@ -1,0 +1,13 @@
+*session_pgsql_add_error
+
+**PHP
+
+>|PHP|
+bool session_pgsql_add_error ( int $error_level [, string $error_message ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

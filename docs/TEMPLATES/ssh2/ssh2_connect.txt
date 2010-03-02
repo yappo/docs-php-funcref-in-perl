@@ -1,0 +1,13 @@
+*ssh2_connect
+
+**PHP
+
+>|PHP|
+resource ssh2_connect ( string $host [, int $port = 22 [, array $methods [, array $callbacks ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

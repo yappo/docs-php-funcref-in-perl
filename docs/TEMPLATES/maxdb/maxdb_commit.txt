@@ -1,0 +1,13 @@
+*maxdb_commit
+
+**PHP
+
+>|PHP|
+bool maxdb_commit ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

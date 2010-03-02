@@ -1,0 +1,13 @@
+*array_combine
+
+**PHP
+
+>|PHP|
+array array_combine ( array $keys , array $values )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

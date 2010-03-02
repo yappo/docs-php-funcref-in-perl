@@ -1,0 +1,13 @@
+*mysql_get_host_info
+
+**PHP
+
+>|PHP|
+string mysql_get_host_info ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

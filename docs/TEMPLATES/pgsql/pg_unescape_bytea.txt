@@ -1,0 +1,13 @@
+*pg_unescape_bytea
+
+**PHP
+
+>|PHP|
+string pg_unescape_bytea ( string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ob_implicit_flush
+
+**PHP
+
+>|PHP|
+void ob_implicit_flush ([ int $flag = true ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

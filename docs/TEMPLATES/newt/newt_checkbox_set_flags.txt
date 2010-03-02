@@ -1,0 +1,13 @@
+*newt_checkbox_set_flags
+
+**PHP
+
+>|PHP|
+void newt_checkbox_set_flags ( resource $checkbox , int $flags , int $sense )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

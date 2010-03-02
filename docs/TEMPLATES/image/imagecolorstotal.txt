@@ -1,0 +1,13 @@
+*imagecolorstotal
+
+**PHP
+
+>|PHP|
+int imagecolorstotal ( resource $image )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

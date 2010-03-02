@@ -1,0 +1,13 @@
+*imap_gc
+
+**PHP
+
+>|PHP|
+string imap_gc ( resource $imap_stream , int $caches )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

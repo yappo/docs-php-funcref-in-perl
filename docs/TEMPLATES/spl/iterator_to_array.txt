@@ -1,0 +1,13 @@
+*iterator_to_array
+
+**PHP
+
+>|PHP|
+array iterator_to_array ( Traversable $iterator [, bool $use_keys = true ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

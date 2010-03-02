@@ -1,0 +1,13 @@
+*http_inflate
+
+**PHP
+
+>|PHP|
+string http_inflate ( string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

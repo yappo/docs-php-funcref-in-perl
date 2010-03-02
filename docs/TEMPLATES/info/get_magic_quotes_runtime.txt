@@ -1,0 +1,13 @@
+*get_magic_quotes_runtime
+
+**PHP
+
+>|PHP|
+int get_magic_quotes_runtime ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*session_decode
+
+**PHP
+
+>|PHP|
+bool session_decode ( string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

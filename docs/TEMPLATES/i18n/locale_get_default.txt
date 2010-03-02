@@ -1,0 +1,13 @@
+*locale_get_default
+
+**PHP
+
+>|PHP|
+string locale_get_default ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

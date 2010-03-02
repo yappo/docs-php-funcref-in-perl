@@ -1,0 +1,13 @@
+*odbc_columns
+
+**PHP
+
+>|PHP|
+resource odbc_columns ( resource $connection_id [, string $qualifier [, string $schema [, string $table_name [, string $column_name ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

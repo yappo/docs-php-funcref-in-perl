@@ -1,0 +1,13 @@
+*sybase_deadlock_retry_count
+
+**PHP
+
+>|PHP|
+void sybase_deadlock_retry_count ( int $retry_count )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

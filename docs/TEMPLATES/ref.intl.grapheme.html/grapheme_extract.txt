@@ -1,0 +1,13 @@
+*grapheme_extract
+
+**PHP
+
+>|PHP|
+string grapheme_extract ( string $haystack , int $size [, int $extract_type [, int $start = 0 [, int &$next ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

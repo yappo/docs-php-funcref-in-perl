@@ -1,0 +1,13 @@
+*newt_checkbox
+
+**PHP
+
+>|PHP|
+resource newt_checkbox ( int $left , int $top , string $text , string $def_value [, string $seq ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

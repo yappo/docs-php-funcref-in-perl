@@ -1,0 +1,13 @@
+*zip_entry_open
+
+**PHP
+
+>|PHP|
+bool zip_entry_open ( resource $zip , resource $zip_entry [, string $mode ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*dba_fetch
+
+**PHP
+
+>|PHP|
+string dba_fetch ( string $key , resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

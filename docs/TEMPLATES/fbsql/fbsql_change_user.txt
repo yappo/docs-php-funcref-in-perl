@@ -1,0 +1,13 @@
+*fbsql_change_user
+
+**PHP
+
+>|PHP|
+bool fbsql_change_user ( string $user , string $password [, string $database [, resource $link_identifier ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*mysql_set_charset
+
+**PHP
+
+>|PHP|
+bool mysql_set_charset ( string $charset [, resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

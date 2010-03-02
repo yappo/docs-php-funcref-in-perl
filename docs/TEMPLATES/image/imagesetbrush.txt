@@ -1,0 +1,13 @@
+*imagesetbrush
+
+**PHP
+
+>|PHP|
+bool imagesetbrush ( resource $image , resource $brush )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

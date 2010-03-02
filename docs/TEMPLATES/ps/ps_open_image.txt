@@ -1,0 +1,13 @@
+*ps_open_image
+
+**PHP
+
+>|PHP|
+int ps_open_image ( resource $psdoc , string $type , string $source , string $data , int $lenght , int $width , int $height , int $components , int $bpc , string $params )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*pg_insert
+
+**PHP
+
+>|PHP|
+mixed pg_insert ( resource $connection , string $table_name , array $assoc_array [, int $options = PGSQL_DML_EXEC ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ini_set
+
+**PHP
+
+>|PHP|
+string ini_set ( string $varname , string $newvalue )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

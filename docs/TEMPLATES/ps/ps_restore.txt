@@ -1,0 +1,13 @@
+*ps_restore
+
+**PHP
+
+>|PHP|
+bool ps_restore ( resource $psdoc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

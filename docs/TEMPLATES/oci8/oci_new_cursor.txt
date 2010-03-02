@@ -1,0 +1,13 @@
+*oci_new_cursor
+
+**PHP
+
+>|PHP|
+resource oci_new_cursor ( resource $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

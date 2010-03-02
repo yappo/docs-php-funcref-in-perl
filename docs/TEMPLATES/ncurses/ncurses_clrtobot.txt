@@ -1,0 +1,13 @@
+*ncurses_clrtobot
+
+**PHP
+
+>|PHP|
+bool ncurses_clrtobot ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

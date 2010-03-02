@@ -1,0 +1,13 @@
+*feof
+
+**PHP
+
+>|PHP|
+bool feof ( resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

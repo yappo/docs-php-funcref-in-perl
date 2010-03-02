@@ -1,0 +1,13 @@
+*filter_has_var
+
+**PHP
+
+>|PHP|
+bool filter_has_var ( int $type , string $variable_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

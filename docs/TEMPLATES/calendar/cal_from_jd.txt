@@ -1,0 +1,13 @@
+*cal_from_jd
+
+**PHP
+
+>|PHP|
+array cal_from_jd ( int $jd , int $calendar )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

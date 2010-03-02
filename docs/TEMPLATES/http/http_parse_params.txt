@@ -1,0 +1,13 @@
+*http_parse_params
+
+**PHP
+
+>|PHP|
+object http_parse_params ( string $param [, int $flags = HTTP_PARAMS_DEFAULT ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

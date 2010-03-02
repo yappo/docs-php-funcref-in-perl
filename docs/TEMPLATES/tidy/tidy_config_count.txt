@@ -1,0 +1,13 @@
+*tidy_config_count
+
+**PHP
+
+>|PHP|
+int tidy_config_count ( tidy $object )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

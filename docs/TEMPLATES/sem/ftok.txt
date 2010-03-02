@@ -1,0 +1,13 @@
+*ftok
+
+**PHP
+
+>|PHP|
+int ftok ( string $pathname , string $proj )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

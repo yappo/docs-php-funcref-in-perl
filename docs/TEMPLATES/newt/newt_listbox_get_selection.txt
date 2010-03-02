@@ -1,0 +1,13 @@
+*newt_listbox_get_selection
+
+**PHP
+
+>|PHP|
+array newt_listbox_get_selection ( resource $listbox )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

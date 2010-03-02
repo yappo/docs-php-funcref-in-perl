@@ -1,0 +1,13 @@
+*imap_close
+
+**PHP
+
+>|PHP|
+bool imap_close ( resource $imap_stream [, int $flag = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

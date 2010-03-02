@@ -1,0 +1,13 @@
+*imagecolortransparent
+
+**PHP
+
+>|PHP|
+int imagecolortransparent ( resource $image [, int $color ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

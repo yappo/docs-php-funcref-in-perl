@@ -1,0 +1,13 @@
+*mb_ereg
+
+**PHP
+
+>|PHP|
+int mb_ereg ( string $pattern , string $string [, array $regs ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

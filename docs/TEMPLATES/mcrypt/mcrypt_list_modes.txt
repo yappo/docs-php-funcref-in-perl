@@ -1,0 +1,13 @@
+*mcrypt_list_modes
+
+**PHP
+
+>|PHP|
+array mcrypt_list_modes ([ string $lib_dir = ini_get("mcrypt.modes_dir") ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*cairo_svg_surface_restrict_to_version
+
+**PHP
+
+>|PHP|
+void cairo_svg_surface_restrict_to_version ( CairoSvgSurface $surface , string $version )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

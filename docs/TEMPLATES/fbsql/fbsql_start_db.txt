@@ -1,0 +1,13 @@
+*fbsql_start_db
+
+**PHP
+
+>|PHP|
+bool fbsql_start_db ( string $database_name [, resource $link_identifier [, string $database_options ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*posix_isatty
+
+**PHP
+
+>|PHP|
+bool posix_isatty ( int $fd )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

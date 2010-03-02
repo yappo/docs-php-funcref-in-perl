@@ -1,0 +1,13 @@
+*ncurses_define_key
+
+**PHP
+
+>|PHP|
+int ncurses_define_key ( string $definition , int $keycode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

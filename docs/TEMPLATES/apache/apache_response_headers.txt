@@ -1,0 +1,13 @@
+*apache_response_headers
+
+**PHP
+
+>|PHP|
+array apache_response_headers ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

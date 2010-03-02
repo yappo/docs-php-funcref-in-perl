@@ -1,0 +1,13 @@
+*log
+
+**PHP
+
+>|PHP|
+float log ( float $arg [, float $base = M_E ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

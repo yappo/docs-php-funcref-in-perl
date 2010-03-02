@@ -1,0 +1,13 @@
+*oci_free_statement
+
+**PHP
+
+>|PHP|
+bool oci_free_statement ( resource $statement )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

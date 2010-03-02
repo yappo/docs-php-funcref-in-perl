@@ -1,0 +1,13 @@
+*fdf_error
+
+**PHP
+
+>|PHP|
+string fdf_error ([ int $error_code ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

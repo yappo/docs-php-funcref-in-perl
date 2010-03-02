@@ -1,0 +1,13 @@
+*hw_api_object->attreditable
+
+**PHP
+
+>|PHP|
+bool attreditable ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

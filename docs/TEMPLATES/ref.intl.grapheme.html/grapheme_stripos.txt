@@ -1,0 +1,13 @@
+*grapheme_stripos
+
+**PHP
+
+>|PHP|
+int grapheme_stripos ( string $haystack , string $needle [, int $offset = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

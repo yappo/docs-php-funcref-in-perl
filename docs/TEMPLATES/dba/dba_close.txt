@@ -1,0 +1,13 @@
+*dba_close
+
+**PHP
+
+>|PHP|
+void dba_close ( resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

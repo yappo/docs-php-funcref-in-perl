@@ -1,0 +1,13 @@
+*m_initconn
+
+**PHP
+
+>|PHP|
+resource m_initconn ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

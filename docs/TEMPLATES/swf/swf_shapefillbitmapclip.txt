@@ -1,0 +1,13 @@
+*swf_shapefillbitmapclip
+
+**PHP
+
+>|PHP|
+void swf_shapefillbitmapclip ( int $bitmapid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

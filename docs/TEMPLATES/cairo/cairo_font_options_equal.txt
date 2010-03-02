@@ -1,0 +1,13 @@
+*cairo_font_options_equal
+
+**PHP
+
+>|PHP|
+bool cairo_font_options_equal ( CairoFontOptions $options , CairoFontOptions $other )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

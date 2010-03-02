@@ -1,0 +1,13 @@
+*expect_popen
+
+**PHP
+
+>|PHP|
+resource expect_popen ( string $command )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

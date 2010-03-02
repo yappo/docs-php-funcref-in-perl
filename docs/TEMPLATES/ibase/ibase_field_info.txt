@@ -1,0 +1,13 @@
+*ibase_field_info
+
+**PHP
+
+>|PHP|
+array ibase_field_info ( resource $result , int $field_number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

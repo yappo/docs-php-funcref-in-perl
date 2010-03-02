@@ -1,0 +1,13 @@
+*ssh2_sftp_readlink
+
+**PHP
+
+>|PHP|
+string ssh2_sftp_readlink ( resource $sftp , string $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ncurses_wattrset
+
+**PHP
+
+>|PHP|
+int ncurses_wattrset ( resource $window , int $attrs )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

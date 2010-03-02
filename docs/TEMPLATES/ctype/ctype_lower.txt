@@ -1,0 +1,13 @@
+*ctype_lower
+
+**PHP
+
+>|PHP|
+bool ctype_lower ( string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

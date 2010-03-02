@@ -1,0 +1,13 @@
+*swf_actionstop
+
+**PHP
+
+>|PHP|
+void swf_actionstop ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ldap_sasl_bind
+
+**PHP
+
+>|PHP|
+bool ldap_sasl_bind ( resource $link [, string $binddn = NULL [, string $password = NULL [, string $sasl_mech = NULL [, string $sasl_realm = NULL [, string $sasl_authc_id = NULL [, string $sasl_authz_id = NULL [, string $props = NULL ]]]]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*http_match_request_header
+
+**PHP
+
+>|PHP|
+bool http_match_request_header ( string $header , string $value [, bool $match_case = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

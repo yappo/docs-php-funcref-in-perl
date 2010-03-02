@@ -1,0 +1,13 @@
+*yaz_syntax
+
+**PHP
+
+>|PHP|
+void yaz_syntax ( resource $id , string $syntax )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

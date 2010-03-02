@@ -1,0 +1,13 @@
+*mb_strpos
+
+**PHP
+
+>|PHP|
+int mb_strpos ( string $haystack , string $needle [, int $offset [, string $encoding ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

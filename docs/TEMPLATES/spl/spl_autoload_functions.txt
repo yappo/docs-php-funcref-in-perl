@@ -1,0 +1,13 @@
+*spl_autoload_functions
+
+**PHP
+
+>|PHP|
+array spl_autoload_functions ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

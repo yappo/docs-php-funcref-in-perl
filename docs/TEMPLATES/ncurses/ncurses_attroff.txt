@@ -1,0 +1,13 @@
+*ncurses_attroff
+
+**PHP
+
+>|PHP|
+int ncurses_attroff ( int $attributes )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

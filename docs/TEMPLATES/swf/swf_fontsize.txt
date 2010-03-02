@@ -1,0 +1,13 @@
+*swf_fontsize
+
+**PHP
+
+>|PHP|
+void swf_fontsize ( float $size )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*get_extension_funcs
+
+**PHP
+
+>|PHP|
+array get_extension_funcs ( string $module_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

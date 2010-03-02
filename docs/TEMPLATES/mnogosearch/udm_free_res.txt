@@ -1,0 +1,13 @@
+*udm_free_res
+
+**PHP
+
+>|PHP|
+bool udm_free_res ( resource $res )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

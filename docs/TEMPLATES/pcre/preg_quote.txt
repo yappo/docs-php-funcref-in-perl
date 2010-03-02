@@ -1,0 +1,13 @@
+*preg_quote
+
+**PHP
+
+>|PHP|
+string preg_quote ( string $str [, string $delimiter = NULL ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

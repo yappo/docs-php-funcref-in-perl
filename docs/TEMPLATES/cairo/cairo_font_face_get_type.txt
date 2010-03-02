@@ -1,0 +1,13 @@
+*cairo_font_face_get_type
+
+**PHP
+
+>|PHP|
+int cairo_font_face_get_type ( CairoFontFace $fontface )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

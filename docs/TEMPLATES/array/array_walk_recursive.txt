@@ -1,0 +1,13 @@
+*array_walk_recursive
+
+**PHP
+
+>|PHP|
+bool array_walk_recursive ( array &$input , callback $funcname [, mixed $userdata ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

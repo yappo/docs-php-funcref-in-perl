@@ -1,0 +1,13 @@
+*ssh2_auth_hostbased_file
+
+**PHP
+
+>|PHP|
+bool ssh2_auth_hostbased_file ( resource $session , string $username , string $hostname , string $pubkeyfile , string $privkeyfile [, string $passphrase [, string $local_username ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

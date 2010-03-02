@@ -1,0 +1,13 @@
+*socket_create_listen
+
+**PHP
+
+>|PHP|
+resource socket_create_listen ( int $port [, int $backlog = 128 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

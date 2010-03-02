@@ -1,0 +1,13 @@
+*ob_iconv_handler
+
+**PHP
+
+>|PHP|
+string ob_iconv_handler ( string $contents , int $status )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

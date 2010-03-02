@@ -1,0 +1,13 @@
+*shm_has_var
+
+**PHP
+
+>|PHP|
+bool shm_has_var ( resource $shm_identifier , int $variable_key )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*gmp_legendre
+
+**PHP
+
+>|PHP|
+int gmp_legendre ( resource $a , resource $p )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

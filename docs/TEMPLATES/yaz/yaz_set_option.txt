@@ -1,0 +1,13 @@
+*yaz_set_option
+
+**PHP
+
+>|PHP|
+void yaz_set_option ( resource $id , string $name , string $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

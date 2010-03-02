@@ -1,0 +1,13 @@
+*maxdb_connect_error
+
+**PHP
+
+>|PHP|
+string maxdb_connect_error ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

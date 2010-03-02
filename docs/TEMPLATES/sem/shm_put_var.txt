@@ -1,0 +1,13 @@
+*shm_put_var
+
+**PHP
+
+>|PHP|
+bool shm_put_var ( resource $shm_identifier , int $variable_key , mixed $variable )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

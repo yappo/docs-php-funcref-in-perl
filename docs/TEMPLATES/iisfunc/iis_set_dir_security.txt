@@ -1,0 +1,13 @@
+*iis_set_dir_security
+
+**PHP
+
+>|PHP|
+int iis_set_dir_security ( int $server_instance , string $virtual_path , int $directory_flags )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

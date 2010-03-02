@@ -1,0 +1,13 @@
+*openal_buffer_loadwav
+
+**PHP
+
+>|PHP|
+bool openal_buffer_loadwav ( resource $buffer , string $wavfile )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

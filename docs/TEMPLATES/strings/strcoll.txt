@@ -1,0 +1,13 @@
+*strcoll
+
+**PHP
+
+>|PHP|
+int strcoll ( string $str1 , string $str2 )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

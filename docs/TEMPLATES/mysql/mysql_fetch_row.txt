@@ -1,0 +1,13 @@
+*mysql_fetch_row
+
+**PHP
+
+>|PHP|
+array mysql_fetch_row ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

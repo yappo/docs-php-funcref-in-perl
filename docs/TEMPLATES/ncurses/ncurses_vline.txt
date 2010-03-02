@@ -1,0 +1,13 @@
+*ncurses_vline
+
+**PHP
+
+>|PHP|
+int ncurses_vline ( int $charattr , int $n )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

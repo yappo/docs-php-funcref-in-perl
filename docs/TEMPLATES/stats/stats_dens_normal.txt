@@ -1,0 +1,13 @@
+*stats_dens_normal
+
+**PHP
+
+>|PHP|
+float stats_dens_normal ( float $x , float $ave , float $stdev )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

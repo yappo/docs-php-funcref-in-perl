@@ -1,0 +1,13 @@
+*apache_reset_timeout
+
+**PHP
+
+>|PHP|
+bool apache_reset_timeout ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*pg_send_execute
+
+**PHP
+
+>|PHP|
+bool pg_send_execute ( resource $connection , string $stmtname , array $params )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

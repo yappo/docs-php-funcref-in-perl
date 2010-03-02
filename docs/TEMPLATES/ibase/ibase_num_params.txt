@@ -1,0 +1,13 @@
+*ibase_num_params
+
+**PHP
+
+>|PHP|
+int ibase_num_params ( resource $query )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

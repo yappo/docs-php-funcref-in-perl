@@ -1,0 +1,13 @@
+*fdf_remove_item
+
+**PHP
+
+>|PHP|
+bool fdf_remove_item ( resource $fdf_document , string $fieldname , int $item )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

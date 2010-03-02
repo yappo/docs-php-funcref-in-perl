@@ -1,0 +1,13 @@
+*chunk_split
+
+**PHP
+
+>|PHP|
+string chunk_split ( string $body [, int $chunklen = 76 [, string $end = "\r\n" ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*socket_connect
+
+**PHP
+
+>|PHP|
+bool socket_connect ( resource $socket , string $address [, int $port = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

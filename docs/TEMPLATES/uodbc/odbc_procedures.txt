@@ -1,0 +1,13 @@
+*odbc_procedures
+
+**PHP
+
+>|PHP|
+resource odbc_procedures ( resource $connection_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

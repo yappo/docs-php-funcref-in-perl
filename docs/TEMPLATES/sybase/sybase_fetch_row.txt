@@ -1,0 +1,13 @@
+*sybase_fetch_row
+
+**PHP
+
+>|PHP|
+array sybase_fetch_row ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

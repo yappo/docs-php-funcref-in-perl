@@ -1,0 +1,13 @@
+*mssql_guid_string
+
+**PHP
+
+>|PHP|
+string mssql_guid_string ( string $binary [, bool $short_format = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

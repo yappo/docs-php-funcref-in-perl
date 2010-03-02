@@ -1,0 +1,13 @@
+*event_buffer_fd_set
+
+**PHP
+
+>|PHP|
+void event_buffer_fd_set ( resource $bevent , resource $fd )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

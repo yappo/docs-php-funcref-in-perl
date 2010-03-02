@@ -1,0 +1,13 @@
+*swf_posround
+
+**PHP
+
+>|PHP|
+void swf_posround ( int $round )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

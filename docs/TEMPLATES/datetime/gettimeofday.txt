@@ -1,0 +1,13 @@
+*gettimeofday
+
+**PHP
+
+>|PHP|
+mixed gettimeofday ([ bool $return_float ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*imagepsfreefont
+
+**PHP
+
+>|PHP|
+bool imagepsfreefont ( resource $font_index )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

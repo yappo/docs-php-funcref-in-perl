@@ -1,0 +1,13 @@
+*odbc_result
+
+**PHP
+
+>|PHP|
+mixed odbc_result ( resource $result_id , mixed $field )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

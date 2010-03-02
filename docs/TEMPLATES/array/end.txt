@@ -1,0 +1,13 @@
+*end
+
+**PHP
+
+>|PHP|
+mixed end ( array &$array )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

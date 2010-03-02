@@ -1,0 +1,13 @@
+*ldap_mod_replace
+
+**PHP
+
+>|PHP|
+bool ldap_mod_replace ( resource $link_identifier , string $dn , array $entry )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

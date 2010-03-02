@@ -1,0 +1,13 @@
+*mb_get_info
+
+**PHP
+
+>|PHP|
+mixed mb_get_info ([ string $type = "all" ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

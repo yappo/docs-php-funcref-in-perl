@@ -1,0 +1,13 @@
+*crack_getlastmessage
+
+**PHP
+
+>|PHP|
+string crack_getlastmessage ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

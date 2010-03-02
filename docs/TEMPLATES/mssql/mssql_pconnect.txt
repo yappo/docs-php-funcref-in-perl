@@ -1,0 +1,13 @@
+*mssql_pconnect
+
+**PHP
+
+>|PHP|
+resource mssql_pconnect ([ string $servername [, string $username [, string $password [, bool $new_link ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*dbplus_rcrtlike
+
+**PHP
+
+>|PHP|
+mixed dbplus_rcrtlike ( string $name , resource $relation [, int $overwrite ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

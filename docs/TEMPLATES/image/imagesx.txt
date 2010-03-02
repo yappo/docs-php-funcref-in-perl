@@ -1,0 +1,13 @@
+*imagesx
+
+**PHP
+
+>|PHP|
+int imagesx ( resource $image )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*yp_cat
+
+**PHP
+
+>|PHP|
+array yp_cat ( string $domain , string $map )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

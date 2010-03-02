@@ -1,0 +1,13 @@
+*curl_error
+
+**PHP
+
+>|PHP|
+string curl_error ( resource $ch )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

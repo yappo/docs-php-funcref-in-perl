@@ -1,0 +1,13 @@
+*gnupg_getprotocol
+
+**PHP
+
+>|PHP|
+int gnupg_getprotocol ( resource $identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

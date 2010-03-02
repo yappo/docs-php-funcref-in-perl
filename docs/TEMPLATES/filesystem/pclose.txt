@@ -1,0 +1,13 @@
+*pclose
+
+**PHP
+
+>|PHP|
+int pclose ( resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

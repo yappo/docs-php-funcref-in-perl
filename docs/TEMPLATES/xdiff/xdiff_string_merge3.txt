@@ -1,0 +1,13 @@
+*xdiff_string_merge3
+
+**PHP
+
+>|PHP|
+mixed xdiff_string_merge3 ( string $old_data , string $new_data1 , string $new_data2 [, string &$error ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

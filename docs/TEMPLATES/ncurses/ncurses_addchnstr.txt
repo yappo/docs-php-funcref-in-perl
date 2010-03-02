@@ -1,0 +1,13 @@
+*ncurses_addchnstr
+
+**PHP
+
+>|PHP|
+int ncurses_addchnstr ( string $s , int $n )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

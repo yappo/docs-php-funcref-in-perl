@@ -1,0 +1,13 @@
+*ibase_wait_event
+
+**PHP
+
+>|PHP|
+string ibase_wait_event ( string $event_name1 [, string $event_name2 [, string $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

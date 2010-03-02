@@ -1,0 +1,13 @@
+*session_cache_limiter
+
+**PHP
+
+>|PHP|
+string session_cache_limiter ([ string $cache_limiter ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

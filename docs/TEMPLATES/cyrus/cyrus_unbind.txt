@@ -1,0 +1,13 @@
+*cyrus_unbind
+
+**PHP
+
+>|PHP|
+bool cyrus_unbind ( resource $connection , string $trigger_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*lchown
+
+**PHP
+
+>|PHP|
+bool lchown ( string $filename , mixed $user )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*apd_get_active_symbols
+
+**PHP
+
+>|PHP|
+array apd_get_active_symbols ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

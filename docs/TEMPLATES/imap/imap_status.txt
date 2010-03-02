@@ -1,0 +1,13 @@
+*imap_status
+
+**PHP
+
+>|PHP|
+object imap_status ( resource $imap_stream , string $mailbox , int $options )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

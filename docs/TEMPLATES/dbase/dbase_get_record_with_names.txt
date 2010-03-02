@@ -1,0 +1,13 @@
+*dbase_get_record_with_names
+
+**PHP
+
+>|PHP|
+array dbase_get_record_with_names ( int $dbase_identifier , int $record_number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*cairo_surface_mark_dirty
+
+**PHP
+
+>|PHP|
+void cairo_surface_mark_dirty ( CairoSurface $surface )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

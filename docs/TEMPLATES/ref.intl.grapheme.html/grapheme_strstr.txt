@@ -1,0 +1,13 @@
+*grapheme_strstr
+
+**PHP
+
+>|PHP|
+string grapheme_strstr ( string $haystack , string $needle [, bool $before_needle = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*str_word_count
+
+**PHP
+
+>|PHP|
+mixed str_word_count ( string $string [, int $format = 0 [, string $charlist ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

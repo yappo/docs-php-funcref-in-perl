@@ -1,0 +1,13 @@
+*ncurses_wborder
+
+**PHP
+
+>|PHP|
+int ncurses_wborder ( resource $window , int $left , int $right , int $top , int $bottom , int $tl_corner , int $tr_corner , int $bl_corner , int $br_corner )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

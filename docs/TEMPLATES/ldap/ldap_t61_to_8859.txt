@@ -1,0 +1,13 @@
+*ldap_t61_to_8859
+
+**PHP
+
+>|PHP|
+string ldap_t61_to_8859 ( string $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

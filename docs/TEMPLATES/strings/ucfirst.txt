@@ -1,0 +1,13 @@
+*ucfirst
+
+**PHP
+
+>|PHP|
+string ucfirst ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

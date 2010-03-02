@@ -1,0 +1,13 @@
+*magic_quotes_runtime
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*newt_textbox_reflowed
+
+**PHP
+
+>|PHP|
+resource newt_textbox_reflowed ( int $left , int $top , char $*text , int $width , int $flex_down , int $flex_up [, int $flags ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

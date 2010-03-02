@@ -1,0 +1,13 @@
+*fclose
+
+**PHP
+
+>|PHP|
+bool fclose ( resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

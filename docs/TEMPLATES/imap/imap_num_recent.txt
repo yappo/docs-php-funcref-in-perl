@@ -1,0 +1,13 @@
+*imap_num_recent
+
+**PHP
+
+>|PHP|
+int imap_num_recent ( resource $imap_stream )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

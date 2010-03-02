@@ -1,0 +1,13 @@
+*ini_restore
+
+**PHP
+
+>|PHP|
+void ini_restore ( string $varname )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

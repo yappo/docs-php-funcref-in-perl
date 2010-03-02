@@ -1,0 +1,13 @@
+*imagecolorclosestalpha
+
+**PHP
+
+>|PHP|
+int imagecolorclosestalpha ( resource $image , int $red , int $green , int $blue , int $alpha )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

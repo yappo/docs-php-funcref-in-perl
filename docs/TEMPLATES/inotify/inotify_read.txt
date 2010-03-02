@@ -1,0 +1,13 @@
+*inotify_read
+
+**PHP
+
+>|PHP|
+array inotify_read ( resource $inotify_instance )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

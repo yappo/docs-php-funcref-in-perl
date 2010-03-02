@@ -1,0 +1,13 @@
+*ob_deflatehandler
+
+**PHP
+
+>|PHP|
+string ob_deflatehandler ( string $data , int $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

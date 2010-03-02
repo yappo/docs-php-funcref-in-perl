@@ -1,0 +1,13 @@
+*checkdnsrr
+
+**PHP
+
+>|PHP|
+bool checkdnsrr ( string $host [, string $type = "MX" ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

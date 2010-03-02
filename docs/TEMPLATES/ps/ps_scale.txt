@@ -1,0 +1,13 @@
+*ps_scale
+
+**PHP
+
+>|PHP|
+bool ps_scale ( resource $psdoc , float $x , float $y )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

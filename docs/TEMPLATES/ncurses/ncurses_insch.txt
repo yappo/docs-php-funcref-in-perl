@@ -1,0 +1,13 @@
+*ncurses_insch
+
+**PHP
+
+>|PHP|
+int ncurses_insch ( int $character )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

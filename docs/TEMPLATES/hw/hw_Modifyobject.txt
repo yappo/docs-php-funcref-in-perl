@@ -1,0 +1,13 @@
+*hw_Modifyobject
+
+**PHP
+
+>|PHP|
+bool hw_modifyobject ( int $connection , int $object_to_change , array $remove , array $add [, int $mode ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*usort
+
+**PHP
+
+>|PHP|
+bool usort ( array &$array , callback $cmp_function )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*openssl_csr_get_subject
+
+**PHP
+
+>|PHP|
+array openssl_csr_get_subject ( mixed $csr [, bool $use_shortnames = true ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

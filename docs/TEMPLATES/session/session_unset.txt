@@ -1,0 +1,13 @@
+*session_unset
+
+**PHP
+
+>|PHP|
+void session_unset ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

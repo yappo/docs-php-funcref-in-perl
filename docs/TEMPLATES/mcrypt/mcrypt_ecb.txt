@@ -1,0 +1,13 @@
+*mcrypt_ecb
+
+**PHP
+
+>|PHP|
+string mcrypt_ecb ( int $cipher , string $key , string $data , int $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

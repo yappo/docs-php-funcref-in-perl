@@ -1,0 +1,13 @@
+*curl_init
+
+**PHP
+
+>|PHP|
+resource curl_init ([ string $url = NULL ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

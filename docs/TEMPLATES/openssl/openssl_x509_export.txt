@@ -1,0 +1,13 @@
+*openssl_x509_export
+
+**PHP
+
+>|PHP|
+bool openssl_x509_export ( mixed $x509 , string &$output [, bool $notext ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

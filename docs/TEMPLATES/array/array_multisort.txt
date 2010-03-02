@@ -1,0 +1,13 @@
+*array_multisort
+
+**PHP
+
+>|PHP|
+bool array_multisort ( array &$arr [, mixed $arg = SORT_ASC [, mixed $arg = SORT_REGULAR [, mixed $... ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

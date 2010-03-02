@@ -1,0 +1,13 @@
+*proc_nice
+
+**PHP
+
+>|PHP|
+bool proc_nice ( int $increment )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

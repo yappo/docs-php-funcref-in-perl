@@ -1,0 +1,13 @@
+*newt_pop_window
+
+**PHP
+
+>|PHP|
+void newt_pop_window ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

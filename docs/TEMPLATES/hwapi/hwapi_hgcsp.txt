@@ -1,0 +1,13 @@
+*hwapi_hgcsp
+
+**PHP
+
+>|PHP|
+HW_API hwapi_hgcsp ( string $hostname [, int $port ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

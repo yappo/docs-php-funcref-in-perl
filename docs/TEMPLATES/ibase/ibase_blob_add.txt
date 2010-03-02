@@ -1,0 +1,13 @@
+*ibase_blob_add
+
+**PHP
+
+>|PHP|
+void ibase_blob_add ( resource $blob_handle , string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

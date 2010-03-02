@@ -1,0 +1,13 @@
+*bbcode_add_smiley
+
+**PHP
+
+>|PHP|
+bool bbcode_add_smiley ( resource $bbcode_container , string $smiley , string $replace_by )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

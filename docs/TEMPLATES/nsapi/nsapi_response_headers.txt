@@ -1,0 +1,13 @@
+*nsapi_response_headers
+
+**PHP
+
+>|PHP|
+array nsapi_response_headers ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

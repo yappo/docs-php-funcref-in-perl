@@ -1,0 +1,13 @@
+*oci_field_is_null
+
+**PHP
+
+>|PHP|
+bool oci_field_is_null ( resource $statement , mixed $field )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

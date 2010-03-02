@@ -1,0 +1,13 @@
+*shm_get_var
+
+**PHP
+
+>|PHP|
+mixed shm_get_var ( resource $shm_identifier , int $variable_key )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*svn_update
+
+**PHP
+
+>|PHP|
+int svn_update ( string $path [, int $revno = SVN_REVISION_HEAD [, bool $recurse = true ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

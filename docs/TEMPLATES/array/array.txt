@@ -1,0 +1,13 @@
+*array
+
+**PHP
+
+>|PHP|
+array array ([ mixed $... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

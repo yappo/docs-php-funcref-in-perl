@@ -1,0 +1,13 @@
+*cairo_pattern_get_filter
+
+**PHP
+
+>|PHP|
+int cairo_pattern_get_filter ( CairoSurfacePattern $pattern )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

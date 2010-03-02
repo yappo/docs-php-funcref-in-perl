@@ -1,0 +1,13 @@
+*fdf_open
+
+**PHP
+
+>|PHP|
+resource fdf_open ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

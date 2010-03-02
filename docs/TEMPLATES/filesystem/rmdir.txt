@@ -1,0 +1,13 @@
+*rmdir
+
+**PHP
+
+>|PHP|
+bool rmdir ( string $dirname [, resource $context ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

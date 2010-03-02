@@ -1,0 +1,13 @@
+*swf_definebitmap
+
+**PHP
+
+>|PHP|
+void swf_definebitmap ( int $objid , string $image_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

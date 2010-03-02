@@ -1,0 +1,13 @@
+*odbc_foreignkeys
+
+**PHP
+
+>|PHP|
+resource odbc_foreignkeys ( resource $connection_id , string $pk_qualifier , string $pk_owner , string $pk_table , string $fk_qualifier , string $fk_owner , string $fk_table )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

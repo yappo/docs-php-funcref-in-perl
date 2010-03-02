@@ -1,0 +1,13 @@
+*ps_symbol_name
+
+**PHP
+
+>|PHP|
+string ps_symbol_name ( resource $psdoc , int $ord [, int $fontid = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

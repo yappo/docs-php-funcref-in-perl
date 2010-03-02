@@ -1,0 +1,13 @@
+*http_send_last_modified
+
+**PHP
+
+>|PHP|
+bool http_send_last_modified ([ int $timestamp ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

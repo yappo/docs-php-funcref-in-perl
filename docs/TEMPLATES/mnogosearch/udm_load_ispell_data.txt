@@ -1,0 +1,13 @@
+*udm_load_ispell_data
+
+**PHP
+
+>|PHP|
+bool udm_load_ispell_data ( resource $agent , int $var , string $val1 , string $val2 , int $flag )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ovrimos_cursor
+
+**PHP
+
+>|PHP|
+string ovrimos_cursor ( int $result_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

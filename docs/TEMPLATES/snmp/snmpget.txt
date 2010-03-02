@@ -1,0 +1,13 @@
+*snmpget
+
+**PHP
+
+>|PHP|
+string snmpget ( string $hostname , string $community , string $object_id [, int $timeout [, int $retries ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

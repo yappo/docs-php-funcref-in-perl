@@ -1,0 +1,13 @@
+*xmlrpc_server_register_method
+
+**PHP
+
+>|PHP|
+bool xmlrpc_server_register_method ( resource $server , string $method_name , string $function )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

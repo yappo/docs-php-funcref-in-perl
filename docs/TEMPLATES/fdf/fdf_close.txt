@@ -1,0 +1,13 @@
+*fdf_close
+
+**PHP
+
+>|PHP|
+void fdf_close ( resource $fdf_document )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

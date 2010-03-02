@@ -1,0 +1,13 @@
+*shm_remove
+
+**PHP
+
+>|PHP|
+bool shm_remove ( resource $shm_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

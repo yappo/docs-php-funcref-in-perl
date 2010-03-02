@@ -1,0 +1,13 @@
+*ftp_nb_continue
+
+**PHP
+
+>|PHP|
+int ftp_nb_continue ( resource $ftp_stream )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

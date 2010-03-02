@@ -1,0 +1,13 @@
+*ncurses_delay_output
+
+**PHP
+
+>|PHP|
+int ncurses_delay_output ( int $milliseconds )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

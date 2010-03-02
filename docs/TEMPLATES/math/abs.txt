@@ -1,0 +1,13 @@
+*abs
+
+**PHP
+
+>|PHP|
+number abs ( mixed $number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

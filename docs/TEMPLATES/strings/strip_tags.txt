@@ -1,0 +1,13 @@
+*strip_tags
+
+**PHP
+
+>|PHP|
+string strip_tags ( string $str [, string $allowable_tags ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

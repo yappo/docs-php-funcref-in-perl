@@ -1,0 +1,13 @@
+*readline_list_history
+
+**PHP
+
+>|PHP|
+array readline_list_history ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

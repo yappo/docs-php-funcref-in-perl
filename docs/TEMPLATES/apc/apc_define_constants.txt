@@ -1,0 +1,13 @@
+*apc_define_constants
+
+**PHP
+
+>|PHP|
+bool apc_define_constants ( string $key , array $constants [, bool $case_sensitive = true ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

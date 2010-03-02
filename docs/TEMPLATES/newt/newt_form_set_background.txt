@@ -1,0 +1,13 @@
+*newt_form_set_background
+
+**PHP
+
+>|PHP|
+void newt_form_set_background ( resource $from , int $background )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

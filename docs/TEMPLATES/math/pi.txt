@@ -1,0 +1,13 @@
+*pi
+
+**PHP
+
+>|PHP|
+float pi ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

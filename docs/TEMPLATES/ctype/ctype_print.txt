@@ -1,0 +1,13 @@
+*ctype_print
+
+**PHP
+
+>|PHP|
+bool ctype_print ( string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

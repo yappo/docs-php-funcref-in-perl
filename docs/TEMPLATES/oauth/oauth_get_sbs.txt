@@ -1,0 +1,13 @@
+*oauth_get_sbs
+
+**PHP
+
+>|PHP|
+string oauth_get_sbs ( string $http_method , string $uri [, array $request_parameters ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

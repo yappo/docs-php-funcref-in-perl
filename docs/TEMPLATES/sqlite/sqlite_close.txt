@@ -1,0 +1,13 @@
+*sqlite_close
+
+**PHP
+
+>|PHP|
+void sqlite_close ( resource $dbhandle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

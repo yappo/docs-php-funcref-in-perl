@@ -1,0 +1,13 @@
+*bzread
+
+**PHP
+
+>|PHP|
+string bzread ( resource $bz [, int $length = 1024 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ncurses_flash
+
+**PHP
+
+>|PHP|
+bool ncurses_flash ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

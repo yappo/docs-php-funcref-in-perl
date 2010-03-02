@@ -1,0 +1,13 @@
+*stats_rand_gen_ibinomial_negative
+
+**PHP
+
+>|PHP|
+int stats_rand_gen_ibinomial_negative ( int $n , float $p )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

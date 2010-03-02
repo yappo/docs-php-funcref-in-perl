@@ -1,0 +1,13 @@
+*fbsql_get_autostart_info
+
+**PHP
+
+>|PHP|
+array fbsql_get_autostart_info ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

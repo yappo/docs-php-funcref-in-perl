@@ -1,0 +1,13 @@
+*dba_insert
+
+**PHP
+
+>|PHP|
+bool dba_insert ( string $key , string $value , resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

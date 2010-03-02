@@ -1,0 +1,13 @@
+*socket_get_status
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*xpath_register_ns_auto
+
+**PHP
+
+>|PHP|
+bool xpath_register_ns_auto ( XPathContext $xpath_context [, object $context_node ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

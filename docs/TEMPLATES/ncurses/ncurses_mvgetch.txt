@@ -1,0 +1,13 @@
+*ncurses_mvgetch
+
+**PHP
+
+>|PHP|
+int ncurses_mvgetch ( int $y , int $x )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

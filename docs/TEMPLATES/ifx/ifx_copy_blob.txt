@@ -1,0 +1,13 @@
+*ifx_copy_blob
+
+**PHP
+
+>|PHP|
+int ifx_copy_blob ( int $bid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

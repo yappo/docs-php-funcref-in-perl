@@ -1,0 +1,13 @@
+*kadm5_modify_principal
+
+**PHP
+
+>|PHP|
+bool kadm5_modify_principal ( resource $handle , string $principal , array $options )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

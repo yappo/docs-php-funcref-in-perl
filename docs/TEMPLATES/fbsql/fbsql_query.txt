@@ -1,0 +1,13 @@
+*fbsql_query
+
+**PHP
+
+>|PHP|
+resource fbsql_query ( string $query [, resource $link_identifier [, int $batch_size ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*imagealphablending
+
+**PHP
+
+>|PHP|
+bool imagealphablending ( resource $image , bool $blendmode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

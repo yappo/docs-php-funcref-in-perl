@@ -1,0 +1,13 @@
+*printer_select_font
+
+**PHP
+
+>|PHP|
+void printer_select_font ( resource $printer_handle , resource $font_handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

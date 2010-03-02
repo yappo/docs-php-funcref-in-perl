@@ -1,0 +1,13 @@
+*openssl_x509_free
+
+**PHP
+
+>|PHP|
+void openssl_x509_free ( resource $x509cert )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

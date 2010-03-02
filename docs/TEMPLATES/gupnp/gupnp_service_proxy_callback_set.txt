@@ -1,0 +1,13 @@
+*gupnp_service_proxy_callback_set
+
+**PHP
+
+>|PHP|
+bool gupnp_service_proxy_callback_set ( resource $proxy , int $signal , mixed $callback [, mixed $arg ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

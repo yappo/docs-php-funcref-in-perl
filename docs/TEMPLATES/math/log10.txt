@@ -1,0 +1,13 @@
+*log10
+
+**PHP
+
+>|PHP|
+float log10 ( float $arg )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*dbplus_freealllocks
+
+**PHP
+
+>|PHP|
+int dbplus_freealllocks ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

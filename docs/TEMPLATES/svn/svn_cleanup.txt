@@ -1,0 +1,13 @@
+*svn_cleanup
+
+**PHP
+
+>|PHP|
+bool svn_cleanup ( string $workingdir )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

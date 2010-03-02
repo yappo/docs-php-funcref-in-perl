@@ -1,0 +1,13 @@
+*xml_get_current_line_number
+
+**PHP
+
+>|PHP|
+int xml_get_current_line_number ( resource $parser )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

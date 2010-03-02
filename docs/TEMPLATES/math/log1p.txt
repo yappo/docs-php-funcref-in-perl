@@ -1,0 +1,13 @@
+*log1p
+
+**PHP
+
+>|PHP|
+float log1p ( float $number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

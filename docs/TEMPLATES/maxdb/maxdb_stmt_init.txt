@@ -1,0 +1,13 @@
+*maxdb_stmt_init
+
+**PHP
+
+>|PHP|
+resource maxdb_stmt_init ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

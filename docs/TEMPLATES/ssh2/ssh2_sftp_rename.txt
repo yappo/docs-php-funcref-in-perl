@@ -1,0 +1,13 @@
+*ssh2_sftp_rename
+
+**PHP
+
+>|PHP|
+bool ssh2_sftp_rename ( resource $sftp , string $from , string $to )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ming_useswfversion
+
+**PHP
+
+>|PHP|
+void ming_useswfversion ( int $version )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

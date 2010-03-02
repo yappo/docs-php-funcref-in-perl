@@ -1,0 +1,13 @@
+*gupnp_root_device_stop
+
+**PHP
+
+>|PHP|
+bool gupnp_root_device_stop ( resource $root_device )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

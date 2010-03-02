@@ -1,0 +1,13 @@
+*imagefilter
+
+**PHP
+
+>|PHP|
+bool imagefilter ( resource $image , int $filtertype [, int $arg1 [, int $arg2 [, int $arg3 [, int $arg4 ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

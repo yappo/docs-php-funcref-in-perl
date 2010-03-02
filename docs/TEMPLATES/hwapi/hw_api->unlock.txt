@@ -1,0 +1,13 @@
+*hw_api->unlock
+
+**PHP
+
+>|PHP|
+bool unlock ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

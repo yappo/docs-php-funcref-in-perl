@@ -1,0 +1,13 @@
+*odbc_gettypeinfo
+
+**PHP
+
+>|PHP|
+resource odbc_gettypeinfo ( resource $connection_id [, int $data_type ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

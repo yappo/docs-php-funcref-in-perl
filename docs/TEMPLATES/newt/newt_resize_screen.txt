@@ -1,0 +1,13 @@
+*newt_resize_screen
+
+**PHP
+
+>|PHP|
+void newt_resize_screen ([ bool $redraw ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*cairo_image_surface_get_data
+
+**PHP
+
+>|PHP|
+string cairo_image_surface_get_data ( CairoImageSurface $surface )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

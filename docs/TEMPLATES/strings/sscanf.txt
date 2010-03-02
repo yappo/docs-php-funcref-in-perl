@@ -1,0 +1,13 @@
+*sscanf
+
+**PHP
+
+>|PHP|
+mixed sscanf ( string $str , string $format [, mixed &$... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

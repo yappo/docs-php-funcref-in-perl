@@ -1,0 +1,13 @@
+*newt_textbox_set_text
+
+**PHP
+
+>|PHP|
+void newt_textbox_set_text ( resource $textbox , string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

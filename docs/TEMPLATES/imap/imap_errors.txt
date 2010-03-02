@@ -1,0 +1,13 @@
+*imap_errors
+
+**PHP
+
+>|PHP|
+array imap_errors ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

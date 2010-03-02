@@ -1,0 +1,13 @@
+*fbsql_db_query
+
+**PHP
+
+>|PHP|
+resource fbsql_db_query ( string $database , string $query [, resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

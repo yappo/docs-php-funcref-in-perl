@@ -1,0 +1,13 @@
+*ip2long
+
+**PHP
+
+>|PHP|
+int ip2long ( string $ip_address )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

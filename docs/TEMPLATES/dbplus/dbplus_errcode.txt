@@ -1,0 +1,13 @@
+*dbplus_errcode
+
+**PHP
+
+>|PHP|
+string dbplus_errcode ([ int $errno ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

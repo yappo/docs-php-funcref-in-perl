@@ -1,0 +1,13 @@
+*mssql_init
+
+**PHP
+
+>|PHP|
+resource mssql_init ( string $sp_name [, resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

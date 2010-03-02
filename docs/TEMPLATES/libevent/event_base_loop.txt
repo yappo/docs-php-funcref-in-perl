@@ -1,0 +1,13 @@
+*event_base_loop
+
+**PHP
+
+>|PHP|
+int event_base_loop ( resource $event_base [, int $flags = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*filegroup
+
+**PHP
+
+>|PHP|
+int filegroup ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

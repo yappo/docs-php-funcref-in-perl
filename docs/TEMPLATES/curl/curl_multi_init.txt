@@ -1,0 +1,13 @@
+*curl_multi_init
+
+**PHP
+
+>|PHP|
+resource curl_multi_init ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

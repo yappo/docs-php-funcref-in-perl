@@ -1,0 +1,13 @@
+*syslog
+
+**PHP
+
+>|PHP|
+bool syslog ( int $priority , string $message )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

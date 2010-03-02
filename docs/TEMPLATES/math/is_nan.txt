@@ -1,0 +1,13 @@
+*is_nan
+
+**PHP
+
+>|PHP|
+bool is_nan ( float $val )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

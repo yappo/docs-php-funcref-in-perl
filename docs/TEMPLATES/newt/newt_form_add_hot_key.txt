@@ -1,0 +1,13 @@
+*newt_form_add_hot_key
+
+**PHP
+
+>|PHP|
+void newt_form_add_hot_key ( resource $form , int $key )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

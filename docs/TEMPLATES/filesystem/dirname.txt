@@ -1,0 +1,13 @@
+*dirname
+
+**PHP
+
+>|PHP|
+string dirname ( string $path )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

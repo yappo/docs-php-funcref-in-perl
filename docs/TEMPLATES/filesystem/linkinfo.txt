@@ -1,0 +1,13 @@
+*linkinfo
+
+**PHP
+
+>|PHP|
+int linkinfo ( string $path )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

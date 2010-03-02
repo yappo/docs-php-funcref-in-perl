@@ -1,0 +1,13 @@
+*ovrimos_prepare
+
+**PHP
+
+>|PHP|
+int ovrimos_prepare ( int $connection_id , string $query )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

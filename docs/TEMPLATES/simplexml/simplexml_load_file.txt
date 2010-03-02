@@ -1,0 +1,13 @@
+*simplexml_load_file
+
+**PHP
+
+>|PHP|
+object simplexml_load_file ( string $filename [, string $class_name = "SimpleXMLElement" [, int $options = 0 [, string $ns [, bool $is_prefix = false ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

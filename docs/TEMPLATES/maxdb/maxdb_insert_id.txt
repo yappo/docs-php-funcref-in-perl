@@ -1,0 +1,13 @@
+*maxdb_insert_id
+
+**PHP
+
+>|PHP|
+mixed maxdb_insert_id ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

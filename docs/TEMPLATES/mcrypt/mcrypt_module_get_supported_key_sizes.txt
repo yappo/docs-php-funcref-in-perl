@@ -1,0 +1,13 @@
+*mcrypt_module_get_supported_key_sizes
+
+**PHP
+
+>|PHP|
+array mcrypt_module_get_supported_key_sizes ( string $algorithm [, string $lib_dir ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

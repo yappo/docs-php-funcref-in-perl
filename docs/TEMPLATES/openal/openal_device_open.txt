@@ -1,0 +1,13 @@
+*openal_device_open
+
+**PHP
+
+>|PHP|
+resource openal_device_open ([ string $device_desc ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

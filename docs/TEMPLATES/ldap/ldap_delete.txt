@@ -1,0 +1,13 @@
+*ldap_delete
+
+**PHP
+
+>|PHP|
+bool ldap_delete ( resource $link_identifier , string $dn )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

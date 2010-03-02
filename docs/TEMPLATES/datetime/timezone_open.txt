@@ -1,0 +1,13 @@
+*timezone_open
+
+**PHP
+
+>|PHP|
+DateTimeZone timezone_open ( string $timezone )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ps_symbol_width
+
+**PHP
+
+>|PHP|
+float ps_symbol_width ( resource $psdoc , int $ord [, int $fontid = 0 [, float $size = 0.0 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

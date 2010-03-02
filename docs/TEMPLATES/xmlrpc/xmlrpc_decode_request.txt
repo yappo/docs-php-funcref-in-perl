@@ -1,0 +1,13 @@
+*xmlrpc_decode_request
+
+**PHP
+
+>|PHP|
+mixed xmlrpc_decode_request ( string $xml , string &$method [, string $encoding ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*mb_stristr
+
+**PHP
+
+>|PHP|
+string mb_stristr ( string $haystack , string $needle [, bool $part = false [, string $encoding ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

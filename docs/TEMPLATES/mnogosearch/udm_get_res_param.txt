@@ -1,0 +1,13 @@
+*udm_get_res_param
+
+**PHP
+
+>|PHP|
+string udm_get_res_param ( resource $res , int $param )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

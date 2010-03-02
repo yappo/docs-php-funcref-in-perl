@@ -1,0 +1,13 @@
+*import_request_variables
+
+**PHP
+
+>|PHP|
+bool import_request_variables ( string $types [, string $prefix ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

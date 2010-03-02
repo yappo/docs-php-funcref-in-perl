@@ -1,0 +1,13 @@
+*ps_open_file
+
+**PHP
+
+>|PHP|
+bool ps_open_file ( resource $psdoc [, string $filename ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

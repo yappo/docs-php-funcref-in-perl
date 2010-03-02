@@ -1,0 +1,13 @@
+*fgetcsv
+
+**PHP
+
+>|PHP|
+array fgetcsv ( resource $handle [, int $length [, string $delimiter = ',' [, string $enclosure = '"' [, string $escape = '\\' ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

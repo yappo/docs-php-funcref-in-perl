@@ -1,0 +1,13 @@
+*apc_compile_file
+
+**PHP
+
+>|PHP|
+bool apc_compile_file ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

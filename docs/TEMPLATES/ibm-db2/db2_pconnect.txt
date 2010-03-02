@@ -1,0 +1,13 @@
+*db2_pconnect
+
+**PHP
+
+>|PHP|
+resource db2_pconnect ( string $database , string $username , string $password [, array $options ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

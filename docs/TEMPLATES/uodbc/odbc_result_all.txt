@@ -1,0 +1,13 @@
+*odbc_result_all
+
+**PHP
+
+>|PHP|
+int odbc_result_all ( resource $result_id [, string $format ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

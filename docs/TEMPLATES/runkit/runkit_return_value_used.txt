@@ -1,0 +1,13 @@
+*runkit_return_value_used
+
+**PHP
+
+>|PHP|
+bool runkit_return_value_used ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

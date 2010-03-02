@@ -1,0 +1,13 @@
+*cairo_pattern_get_rgba
+
+**PHP
+
+>|PHP|
+array cairo_pattern_get_rgba ( CairoSolidPattern $pattern )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

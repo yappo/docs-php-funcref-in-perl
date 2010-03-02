@@ -1,0 +1,13 @@
+*imagerotate
+
+**PHP
+
+>|PHP|
+resource imagerotate ( resource $image , float $angle , int $bgd_color [, int $ignore_transparent = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

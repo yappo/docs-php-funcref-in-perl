@@ -1,0 +1,13 @@
+*gmp_abs
+
+**PHP
+
+>|PHP|
+resource gmp_abs ( resource $a )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

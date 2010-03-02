@@ -1,0 +1,13 @@
+*intval
+
+**PHP
+
+>|PHP|
+int intval ( mixed $var [, int $base = 10 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

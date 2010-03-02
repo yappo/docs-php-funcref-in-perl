@@ -1,0 +1,13 @@
+*mysql_tablename
+
+**PHP
+
+>|PHP|
+string mysql_tablename ( resource $result , int $i )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

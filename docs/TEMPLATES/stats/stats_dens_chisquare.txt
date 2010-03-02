@@ -1,0 +1,13 @@
+*stats_dens_chisquare
+
+**PHP
+
+>|PHP|
+float stats_dens_chisquare ( float $x , float $dfr )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

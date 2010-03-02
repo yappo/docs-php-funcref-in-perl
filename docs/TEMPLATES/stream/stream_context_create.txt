@@ -1,0 +1,13 @@
+*stream_context_create
+
+**PHP
+
+>|PHP|
+resource stream_context_create ([ array $options [, array $params ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*array_merge
+
+**PHP
+
+>|PHP|
+array array_merge ( array $array1 [, array $array2 [, array $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

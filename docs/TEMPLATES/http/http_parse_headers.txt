@@ -1,0 +1,13 @@
+*http_parse_headers
+
+**PHP
+
+>|PHP|
+array http_parse_headers ( string $header )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

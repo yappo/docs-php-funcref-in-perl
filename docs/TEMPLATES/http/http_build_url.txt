@@ -1,0 +1,13 @@
+*http_build_url
+
+**PHP
+
+>|PHP|
+string http_build_url ([ mixed $url [, mixed $parts [, int $flags = HTTP_URL_REPLACE [, array &$new_url ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*w32api_init_dtype
+
+**PHP
+
+>|PHP|
+resource w32api_init_dtype ( string $typename , mixed $value [, mixed $... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*db2_tables
+
+**PHP
+
+>|PHP|
+resource db2_tables ( resource $connection [, string $qualifier [, string $schema [, string $table-name [, string $table-type ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

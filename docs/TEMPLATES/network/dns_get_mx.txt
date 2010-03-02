@@ -1,0 +1,13 @@
+*dns_get_mx
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

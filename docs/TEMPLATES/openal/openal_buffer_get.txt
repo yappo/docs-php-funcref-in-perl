@@ -1,0 +1,13 @@
+*openal_buffer_get
+
+**PHP
+
+>|PHP|
+int openal_buffer_get ( resource $buffer , int $property )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

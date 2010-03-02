@@ -1,0 +1,13 @@
+*bbcode_create
+
+**PHP
+
+>|PHP|
+resource bbcode_create ([ array $bbcode_initial_tags ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

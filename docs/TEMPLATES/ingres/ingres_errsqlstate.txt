@@ -1,0 +1,13 @@
+*ingres_errsqlstate
+
+**PHP
+
+>|PHP|
+string ingres_errsqlstate ([ resource $link ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

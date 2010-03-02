@@ -1,0 +1,13 @@
+*fam_monitor_collection
+
+**PHP
+
+>|PHP|
+resource fam_monitor_collection ( resource $fam , string $dirname , int $depth , string $mask )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

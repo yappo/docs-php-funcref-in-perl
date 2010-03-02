@@ -1,0 +1,13 @@
+*ocinewdescriptor
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

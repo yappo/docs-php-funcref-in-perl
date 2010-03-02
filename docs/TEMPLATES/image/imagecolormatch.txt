@@ -1,0 +1,13 @@
+*imagecolormatch
+
+**PHP
+
+>|PHP|
+bool imagecolormatch ( resource $image1 , resource $image2 )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

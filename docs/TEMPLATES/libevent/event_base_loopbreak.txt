@@ -1,0 +1,13 @@
+*event_base_loopbreak
+
+**PHP
+
+>|PHP|
+bool event_base_loopbreak ( resource $event_base )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

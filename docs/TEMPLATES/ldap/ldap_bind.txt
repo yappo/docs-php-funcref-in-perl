@@ -1,0 +1,13 @@
+*ldap_bind
+
+**PHP
+
+>|PHP|
+bool ldap_bind ( resource $link_identifier [, string $bind_rdn = NULL [, string $bind_password = NULL ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

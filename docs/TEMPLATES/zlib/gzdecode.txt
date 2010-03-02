@@ -1,0 +1,13 @@
+*gzdecode
+
+**PHP
+
+>|PHP|
+string gzdecode ( string $data [, int $length ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

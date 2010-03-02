@@ -1,0 +1,13 @@
+*oci_pconnect
+
+**PHP
+
+>|PHP|
+resource oci_pconnect ( string $username , string $password [, string $connection_string [, string $character_set [, int $session_mode ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

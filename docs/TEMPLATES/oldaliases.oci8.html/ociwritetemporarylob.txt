@@ -1,0 +1,13 @@
+*ociwritetemporarylob
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

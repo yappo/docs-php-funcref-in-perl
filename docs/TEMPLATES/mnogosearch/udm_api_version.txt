@@ -1,0 +1,13 @@
+*udm_api_version
+
+**PHP
+
+>|PHP|
+int udm_api_version ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

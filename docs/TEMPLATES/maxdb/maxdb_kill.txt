@@ -1,0 +1,13 @@
+*maxdb_kill
+
+**PHP
+
+>|PHP|
+bool maxdb_kill ( resource $link , int $processid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

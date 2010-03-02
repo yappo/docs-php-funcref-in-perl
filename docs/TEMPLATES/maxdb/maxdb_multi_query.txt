@@ -1,0 +1,13 @@
+*maxdb_multi_query
+
+**PHP
+
+>|PHP|
+bool maxdb_multi_query ( resource $link , string $query )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

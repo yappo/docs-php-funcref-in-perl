@@ -1,0 +1,13 @@
+*fbsql_fetch_assoc
+
+**PHP
+
+>|PHP|
+array fbsql_fetch_assoc ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

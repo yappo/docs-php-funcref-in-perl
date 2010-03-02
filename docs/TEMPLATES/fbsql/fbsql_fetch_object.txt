@@ -1,0 +1,13 @@
+*fbsql_fetch_object
+
+**PHP
+
+>|PHP|
+object fbsql_fetch_object ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

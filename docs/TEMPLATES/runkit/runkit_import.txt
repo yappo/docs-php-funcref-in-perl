@@ -1,0 +1,13 @@
+*runkit_import
+
+**PHP
+
+>|PHP|
+bool runkit_import ( string $filename [, int $flags = RUNKIT_IMPORT_CLASS_METHODS ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

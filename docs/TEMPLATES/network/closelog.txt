@@ -1,0 +1,13 @@
+*closelog
+
+**PHP
+
+>|PHP|
+bool closelog ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

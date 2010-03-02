@@ -1,0 +1,13 @@
+*php_ini_scanned_files
+
+**PHP
+
+>|PHP|
+string php_ini_scanned_files ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*cairo_svg_surface_create
+
+**PHP
+
+>|PHP|
+CairoSvgSurface cairo_svg_surface_create ( string $file , float $width , float $height )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

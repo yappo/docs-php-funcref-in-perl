@@ -1,0 +1,13 @@
+*date_parse
+
+**PHP
+
+>|PHP|
+array date_parse ( string $date )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

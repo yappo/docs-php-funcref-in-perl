@@ -1,0 +1,13 @@
+*xmlrpc_server_add_introspection_data
+
+**PHP
+
+>|PHP|
+int xmlrpc_server_add_introspection_data ( resource $server , array $desc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

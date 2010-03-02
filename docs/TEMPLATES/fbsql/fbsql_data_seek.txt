@@ -1,0 +1,13 @@
+*fbsql_data_seek
+
+**PHP
+
+>|PHP|
+bool fbsql_data_seek ( resource $result , int $row_number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

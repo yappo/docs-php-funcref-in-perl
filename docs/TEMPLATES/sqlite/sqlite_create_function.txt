@@ -1,0 +1,13 @@
+*sqlite_create_function
+
+**PHP
+
+>|PHP|
+void sqlite_create_function ( resource $dbhandle , string $function_name , callback $callback [, int $num_args = -1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

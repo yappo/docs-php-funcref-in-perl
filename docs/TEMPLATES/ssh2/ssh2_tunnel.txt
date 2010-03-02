@@ -1,0 +1,13 @@
+*ssh2_tunnel
+
+**PHP
+
+>|PHP|
+resource ssh2_tunnel ( resource $session , string $host , int $port )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

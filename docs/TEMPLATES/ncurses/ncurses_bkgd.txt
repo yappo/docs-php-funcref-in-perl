@@ -1,0 +1,13 @@
+*ncurses_bkgd
+
+**PHP
+
+>|PHP|
+int ncurses_bkgd ( int $attrchar )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

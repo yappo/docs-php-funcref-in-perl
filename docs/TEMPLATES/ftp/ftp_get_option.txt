@@ -1,0 +1,13 @@
+*ftp_get_option
+
+**PHP
+
+>|PHP|
+mixed ftp_get_option ( resource $ftp_stream , int $option )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

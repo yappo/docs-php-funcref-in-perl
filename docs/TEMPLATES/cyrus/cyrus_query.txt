@@ -1,0 +1,13 @@
+*cyrus_query
+
+**PHP
+
+>|PHP|
+array cyrus_query ( resource $connection , string $query )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

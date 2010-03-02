@@ -1,0 +1,13 @@
+*get_loaded_extensions
+
+**PHP
+
+>|PHP|
+array get_loaded_extensions ([ bool $zend_extensions = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

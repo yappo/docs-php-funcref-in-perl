@@ -1,0 +1,13 @@
+*reset
+
+**PHP
+
+>|PHP|
+mixed reset ( array &$array )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

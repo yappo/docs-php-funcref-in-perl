@@ -1,0 +1,13 @@
+*stream_register_wrapper
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

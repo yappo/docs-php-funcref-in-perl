@@ -1,0 +1,13 @@
+*ps_moveto
+
+**PHP
+
+>|PHP|
+bool ps_moveto ( resource $psdoc , float $x , float $y )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

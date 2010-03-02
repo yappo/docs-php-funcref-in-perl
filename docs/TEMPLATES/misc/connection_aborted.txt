@@ -1,0 +1,13 @@
+*connection_aborted
+
+**PHP
+
+>|PHP|
+int connection_aborted ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

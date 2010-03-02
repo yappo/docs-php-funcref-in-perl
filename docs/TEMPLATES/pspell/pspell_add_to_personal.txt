@@ -1,0 +1,13 @@
+*pspell_add_to_personal
+
+**PHP
+
+>|PHP|
+bool pspell_add_to_personal ( int $dictionary_link , string $word )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

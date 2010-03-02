@@ -1,0 +1,13 @@
+*notes_create_db
+
+**PHP
+
+>|PHP|
+bool notes_create_db ( string $database_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

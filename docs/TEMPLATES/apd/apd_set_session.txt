@@ -1,0 +1,13 @@
+*apd_set_session
+
+**PHP
+
+>|PHP|
+void apd_set_session ( int $debug_level )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

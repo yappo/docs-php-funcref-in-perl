@@ -1,0 +1,13 @@
+*openal_context_current
+
+**PHP
+
+>|PHP|
+bool openal_context_current ( resource $context )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

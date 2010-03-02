@@ -1,0 +1,13 @@
+*error_get_last
+
+**PHP
+
+>|PHP|
+array error_get_last ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

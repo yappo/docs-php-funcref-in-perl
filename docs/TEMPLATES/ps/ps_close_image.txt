@@ -1,0 +1,13 @@
+*ps_close_image
+
+**PHP
+
+>|PHP|
+void ps_close_image ( resource $psdoc , int $imageid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

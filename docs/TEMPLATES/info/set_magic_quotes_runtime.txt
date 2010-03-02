@@ -1,0 +1,13 @@
+*set_magic_quotes_runtime
+
+**PHP
+
+>|PHP|
+bool set_magic_quotes_runtime ( bool $new_setting )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

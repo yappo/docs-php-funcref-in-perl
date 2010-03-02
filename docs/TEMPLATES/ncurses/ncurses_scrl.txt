@@ -1,0 +1,13 @@
+*ncurses_scrl
+
+**PHP
+
+>|PHP|
+int ncurses_scrl ( int $count )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

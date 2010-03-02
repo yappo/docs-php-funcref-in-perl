@@ -1,0 +1,13 @@
+*yaz_scan
+
+**PHP
+
+>|PHP|
+void yaz_scan ( resource $id , string $type , string $startterm [, array $flags ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

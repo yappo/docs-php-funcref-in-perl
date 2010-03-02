@@ -1,0 +1,13 @@
+*fbsql_autocommit
+
+**PHP
+
+>|PHP|
+bool fbsql_autocommit ( resource $link_identifier [, bool $OnOff ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

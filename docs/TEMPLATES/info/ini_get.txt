@@ -1,0 +1,13 @@
+*ini_get
+
+**PHP
+
+>|PHP|
+string ini_get ( string $varname )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

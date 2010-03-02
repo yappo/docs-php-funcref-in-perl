@@ -1,0 +1,13 @@
+*mysqli_master_query
+
+**PHP
+
+>|PHP|
+bool mysqli_master_query ( mysqli $link , string $query )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

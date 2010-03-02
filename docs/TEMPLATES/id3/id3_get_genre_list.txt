@@ -1,0 +1,13 @@
+*id3_get_genre_list
+
+**PHP
+
+>|PHP|
+array id3_get_genre_list ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

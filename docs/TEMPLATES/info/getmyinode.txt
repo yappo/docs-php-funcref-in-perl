@@ -1,0 +1,13 @@
+*getmyinode
+
+**PHP
+
+>|PHP|
+int getmyinode ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

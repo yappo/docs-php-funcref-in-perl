@@ -1,0 +1,13 @@
+*pg_lo_read_all
+
+**PHP
+
+>|PHP|
+int pg_lo_read_all ( resource $large_object )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

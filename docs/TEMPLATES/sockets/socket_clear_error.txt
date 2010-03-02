@@ -1,0 +1,13 @@
+*socket_clear_error
+
+**PHP
+
+>|PHP|
+void socket_clear_error ([ resource $socket ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

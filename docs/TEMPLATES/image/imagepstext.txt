@@ -1,0 +1,13 @@
+*imagepstext
+
+**PHP
+
+>|PHP|
+array imagepstext ( resource $image , string $text , resource $font_index , int $size , int $foreground , int $background , int $x , int $y [, int $space = 0 [, int $tightness = 0 [, float $angle = 0.0 [, int $antialias_steps = 4 ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

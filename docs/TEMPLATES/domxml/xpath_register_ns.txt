@@ -1,0 +1,13 @@
+*xpath_register_ns
+
+**PHP
+
+>|PHP|
+bool xpath_register_ns ( XPathContext $xpath_context , string $prefix , string $uri )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

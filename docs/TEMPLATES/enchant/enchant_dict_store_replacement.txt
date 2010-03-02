@@ -1,0 +1,13 @@
+*enchant_dict_store_replacement
+
+**PHP
+
+>|PHP|
+void enchant_dict_store_replacement ( resource $dict , string $mis , string $cor )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

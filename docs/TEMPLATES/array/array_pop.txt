@@ -1,0 +1,13 @@
+*array_pop
+
+**PHP
+
+>|PHP|
+mixed array_pop ( array &$array )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

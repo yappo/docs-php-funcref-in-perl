@@ -1,0 +1,13 @@
+*rpm_open
+
+**PHP
+
+>|PHP|
+resource rpm_open ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*finfo_close
+
+**PHP
+
+>|PHP|
+bool finfo_close ( resource $finfo )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

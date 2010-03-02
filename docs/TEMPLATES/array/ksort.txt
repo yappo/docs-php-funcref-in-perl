@@ -1,0 +1,13 @@
+*ksort
+
+**PHP
+
+>|PHP|
+bool ksort ( array &$array [, int $sort_flags = SORT_REGULAR ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

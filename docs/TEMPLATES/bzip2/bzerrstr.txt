@@ -1,0 +1,13 @@
+*bzerrstr
+
+**PHP
+
+>|PHP|
+string bzerrstr ( resource $bz )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

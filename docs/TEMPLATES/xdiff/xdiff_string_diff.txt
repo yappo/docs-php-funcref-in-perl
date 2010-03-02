@@ -1,0 +1,13 @@
+*xdiff_string_diff
+
+**PHP
+
+>|PHP|
+string xdiff_string_diff ( string $old_data , string $new_data [, int $context = 3 [, bool $minimal = false ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

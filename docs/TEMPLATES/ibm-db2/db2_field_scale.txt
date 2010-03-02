@@ -1,0 +1,13 @@
+*db2_field_scale
+
+**PHP
+
+>|PHP|
+int db2_field_scale ( resource $stmt , mixed $column )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

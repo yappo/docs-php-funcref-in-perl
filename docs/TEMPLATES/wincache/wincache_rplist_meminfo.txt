@@ -1,0 +1,13 @@
+*wincache_rplist_meminfo
+
+**PHP
+
+>|PHP|
+array wincache_rplist_meminfo ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

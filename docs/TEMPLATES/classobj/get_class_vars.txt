@@ -1,0 +1,13 @@
+*get_class_vars
+
+**PHP
+
+>|PHP|
+array get_class_vars ( string $class_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

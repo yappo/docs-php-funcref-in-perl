@@ -1,0 +1,13 @@
+*ifx_fieldtypes
+
+**PHP
+
+>|PHP|
+array ifx_fieldtypes ( resource $result_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

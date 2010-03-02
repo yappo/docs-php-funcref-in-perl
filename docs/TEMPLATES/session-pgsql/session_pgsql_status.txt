@@ -1,0 +1,13 @@
+*session_pgsql_status
+
+**PHP
+
+>|PHP|
+array session_pgsql_status ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

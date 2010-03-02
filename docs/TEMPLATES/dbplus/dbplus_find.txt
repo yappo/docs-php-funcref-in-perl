@@ -1,0 +1,13 @@
+*dbplus_find
+
+**PHP
+
+>|PHP|
+int dbplus_find ( resource $relation , array $constraints , mixed $tuple )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

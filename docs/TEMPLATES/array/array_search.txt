@@ -1,0 +1,13 @@
+*array_search
+
+**PHP
+
+>|PHP|
+mixed array_search ( mixed $needle , array $haystack [, bool $strict ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

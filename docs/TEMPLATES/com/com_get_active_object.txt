@@ -1,0 +1,13 @@
+*com_get_active_object
+
+**PHP
+
+>|PHP|
+variant com_get_active_object ( string $progid [, int $code_page ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

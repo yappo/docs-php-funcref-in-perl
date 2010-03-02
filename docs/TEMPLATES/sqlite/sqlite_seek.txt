@@ -1,0 +1,13 @@
+*sqlite_seek
+
+**PHP
+
+>|PHP|
+bool sqlite_seek ( resource $result , int $rownum )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

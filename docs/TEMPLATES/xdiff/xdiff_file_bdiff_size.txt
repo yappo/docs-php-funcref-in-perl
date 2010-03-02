@@ -1,0 +1,13 @@
+*xdiff_file_bdiff_size
+
+**PHP
+
+>|PHP|
+int xdiff_file_bdiff_size ( string $file )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ibase_backup
+
+**PHP
+
+>|PHP|
+mixed ibase_backup ( resource $service_handle , string $source_db , string $dest_file [, int $options = 0 [, bool $verbose = false ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*enchant_dict_get_error
+
+**PHP
+
+>|PHP|
+string enchant_dict_get_error ( resource $dict )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

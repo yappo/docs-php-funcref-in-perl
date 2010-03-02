@@ -1,0 +1,13 @@
+*compact
+
+**PHP
+
+>|PHP|
+array compact ( mixed $varname [, mixed $... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*udm_set_agent_param
+
+**PHP
+
+>|PHP|
+bool udm_set_agent_param ( resource $agent , int $var , string $val )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*stream_socket_client
+
+**PHP
+
+>|PHP|
+resource stream_socket_client ( string $remote_socket [, int &$errno [, string &$errstr [, float $timeout = ini_get("default_socket_timeout") [, int $flags = STREAM_CLIENT_CONNECT [, resource $context ]]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

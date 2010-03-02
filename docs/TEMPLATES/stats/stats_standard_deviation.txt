@@ -1,0 +1,13 @@
+*stats_standard_deviation
+
+**PHP
+
+>|PHP|
+float stats_standard_deviation ( array $a [, bool $sample = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

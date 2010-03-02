@@ -1,0 +1,13 @@
+*http_support
+
+**PHP
+
+>|PHP|
+int http_support ([ int $feature = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

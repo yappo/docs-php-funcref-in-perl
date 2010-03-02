@@ -1,0 +1,13 @@
+*imagefilltoborder
+
+**PHP
+
+>|PHP|
+bool imagefilltoborder ( resource $image , int $x , int $y , int $border , int $color )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

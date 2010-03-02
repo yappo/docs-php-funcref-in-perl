@@ -1,0 +1,13 @@
+*http_negotiate_language
+
+**PHP
+
+>|PHP|
+string http_negotiate_language ( array $supported [, array &$result ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ovrimos_fetch_into
+
+**PHP
+
+>|PHP|
+bool ovrimos_fetch_into ( int $result_id , array &$result_array [, string $how [, int $rownumber ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

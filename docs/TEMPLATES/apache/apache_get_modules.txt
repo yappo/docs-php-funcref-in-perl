@@ -1,0 +1,13 @@
+*apache_get_modules
+
+**PHP
+
+>|PHP|
+array apache_get_modules ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

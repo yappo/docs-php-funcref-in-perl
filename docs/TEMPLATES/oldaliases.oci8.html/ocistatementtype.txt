@@ -1,0 +1,13 @@
+*ocistatementtype
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

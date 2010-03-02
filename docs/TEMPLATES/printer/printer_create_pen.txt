@@ -1,0 +1,13 @@
+*printer_create_pen
+
+**PHP
+
+>|PHP|
+resource printer_create_pen ( int $style , int $width , string $color )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

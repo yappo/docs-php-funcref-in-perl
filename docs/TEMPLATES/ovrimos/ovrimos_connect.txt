@@ -1,0 +1,13 @@
+*ovrimos_connect
+
+**PHP
+
+>|PHP|
+int ovrimos_connect ( string $host , string $dborport , string $user , string $password )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

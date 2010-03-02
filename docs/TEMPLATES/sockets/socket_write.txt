@@ -1,0 +1,13 @@
+*socket_write
+
+**PHP
+
+>|PHP|
+int socket_write ( resource $socket , string $buffer [, int $length = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*imap_deletemailbox
+
+**PHP
+
+>|PHP|
+bool imap_deletemailbox ( resource $imap_stream , string $mailbox )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

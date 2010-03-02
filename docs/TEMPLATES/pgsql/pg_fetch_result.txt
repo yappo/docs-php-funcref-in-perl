@@ -1,0 +1,13 @@
+*pg_fetch_result
+
+**PHP
+
+>|PHP|
+string pg_fetch_result ( resource $result , int $row , mixed $field )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

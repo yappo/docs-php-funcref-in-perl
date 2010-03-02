@@ -1,0 +1,13 @@
+*func_num_args
+
+**PHP
+
+>|PHP|
+int func_num_args ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

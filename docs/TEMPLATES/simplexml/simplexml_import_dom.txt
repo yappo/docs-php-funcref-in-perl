@@ -1,0 +1,13 @@
+*simplexml_import_dom
+
+**PHP
+
+>|PHP|
+SimpleXMLElement simplexml_import_dom ( DOMNode $node [, string $class_name = "SimpleXMLElement" ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

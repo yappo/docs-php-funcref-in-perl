@@ -1,0 +1,13 @@
+*stats_stat_gennch
+
+**PHP
+
+>|PHP|
+float stats_stat_gennch ( int $n )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

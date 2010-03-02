@@ -1,0 +1,13 @@
+*http_send_content_type
+
+**PHP
+
+>|PHP|
+bool http_send_content_type ([ string $content_type = "application/x-octetstream" ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

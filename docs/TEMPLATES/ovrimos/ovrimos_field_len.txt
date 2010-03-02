@@ -1,0 +1,13 @@
+*ovrimos_field_len
+
+**PHP
+
+>|PHP|
+int ovrimos_field_len ( int $result_id , int $field_number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

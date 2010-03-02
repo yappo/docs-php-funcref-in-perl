@@ -1,0 +1,13 @@
+*ifx_blobinfile_mode
+
+**PHP
+
+>|PHP|
+bool ifx_blobinfile_mode ( int $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

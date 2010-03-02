@@ -1,0 +1,13 @@
+*unset
+
+**PHP
+
+>|PHP|
+void unset ( mixed $var [, mixed $var [, mixed $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

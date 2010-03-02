@@ -1,0 +1,13 @@
+*cairo_surface_set_device_offset
+
+**PHP
+
+>|PHP|
+void cairo_surface_set_device_offset ( CairoSurface $surface , string $x , string $y )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

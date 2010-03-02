@@ -1,0 +1,13 @@
+*ps_set_text_pos
+
+**PHP
+
+>|PHP|
+bool ps_set_text_pos ( resource $psdoc , float $x , float $y )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

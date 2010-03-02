@@ -1,0 +1,13 @@
+*cairo_image_surface_create_from_png
+
+**PHP
+
+>|PHP|
+CairoImageSurface cairo_image_surface_create_from_png ( string $file )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

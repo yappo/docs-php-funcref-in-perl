@@ -1,0 +1,13 @@
+*imap_rfc822_parse_adrlist
+
+**PHP
+
+>|PHP|
+array imap_rfc822_parse_adrlist ( string $address , string $default_host )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

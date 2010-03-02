@@ -1,0 +1,13 @@
+*wddx_serialize_vars
+
+**PHP
+
+>|PHP|
+string wddx_serialize_vars ( mixed $var_name [, mixed $... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

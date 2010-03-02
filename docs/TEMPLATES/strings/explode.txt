@@ -1,0 +1,13 @@
+*explode
+
+**PHP
+
+>|PHP|
+array explode ( string $delimiter , string $string [, int $limit ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

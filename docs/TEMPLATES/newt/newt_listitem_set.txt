@@ -1,0 +1,13 @@
+*newt_listitem_set
+
+**PHP
+
+>|PHP|
+void newt_listitem_set ( resource $item , string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

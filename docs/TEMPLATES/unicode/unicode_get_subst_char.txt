@@ -1,0 +1,13 @@
+*unicode_get_subst_char
+
+**PHP
+
+>|PHP|
+unicode unicode_get_subst_char ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

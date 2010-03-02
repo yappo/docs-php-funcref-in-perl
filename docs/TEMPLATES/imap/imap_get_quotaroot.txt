@@ -1,0 +1,13 @@
+*imap_get_quotaroot
+
+**PHP
+
+>|PHP|
+array imap_get_quotaroot ( resource $imap_stream , string $quota_root )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

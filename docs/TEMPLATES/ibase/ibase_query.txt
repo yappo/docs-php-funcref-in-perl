@@ -1,0 +1,13 @@
+*ibase_query
+
+**PHP
+
+>|PHP|
+resource ibase_query ([ resource $link_identifier ], string $query [, int $bind_args ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

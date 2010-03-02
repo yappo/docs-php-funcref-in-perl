@@ -1,0 +1,13 @@
+*__halt_compiler
+
+**PHP
+
+>|PHP|
+void __halt_compiler ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

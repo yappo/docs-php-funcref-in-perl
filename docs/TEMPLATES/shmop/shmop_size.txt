@@ -1,0 +1,13 @@
+*shmop_size
+
+**PHP
+
+>|PHP|
+int shmop_size ( int $shmid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

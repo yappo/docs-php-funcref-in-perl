@@ -1,0 +1,13 @@
+*parse_str
+
+**PHP
+
+>|PHP|
+void parse_str ( string $str [, array &$arr ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

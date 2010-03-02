@@ -1,0 +1,13 @@
+*cairo_ps_get_levels
+
+**PHP
+
+>|PHP|
+array cairo_ps_get_levels ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

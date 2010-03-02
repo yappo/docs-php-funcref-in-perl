@@ -1,0 +1,13 @@
+*ingres_fetch_array
+
+**PHP
+
+>|PHP|
+array ingres_fetch_array ( resource $result [, int $result_type ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

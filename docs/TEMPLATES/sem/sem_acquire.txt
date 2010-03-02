@@ -1,0 +1,13 @@
+*sem_acquire
+
+**PHP
+
+>|PHP|
+bool sem_acquire ( resource $sem_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

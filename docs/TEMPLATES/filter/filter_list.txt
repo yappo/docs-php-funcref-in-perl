@@ -1,0 +1,13 @@
+*filter_list
+
+**PHP
+
+>|PHP|
+array filter_list ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*sqlite_key
+
+**PHP
+
+>|PHP|
+int sqlite_key ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

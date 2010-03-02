@@ -1,0 +1,13 @@
+*pg_query_params
+
+**PHP
+
+>|PHP|
+resource pg_query_params ([ resource $connection ], string $query , array $params )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

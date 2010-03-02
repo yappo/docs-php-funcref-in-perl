@@ -1,0 +1,13 @@
+*dbx_close
+
+**PHP
+
+>|PHP|
+int dbx_close ( object $link_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

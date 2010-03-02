@@ -1,0 +1,13 @@
+*count_chars
+
+**PHP
+
+>|PHP|
+mixed count_chars ( string $string [, int $mode = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

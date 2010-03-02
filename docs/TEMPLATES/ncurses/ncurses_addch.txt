@@ -1,0 +1,13 @@
+*ncurses_addch
+
+**PHP
+
+>|PHP|
+int ncurses_addch ( int $ch )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

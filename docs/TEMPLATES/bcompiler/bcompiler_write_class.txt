@@ -1,0 +1,13 @@
+*bcompiler_write_class
+
+**PHP
+
+>|PHP|
+bool bcompiler_write_class ( resource $filehandle , string $className [, string $extends ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

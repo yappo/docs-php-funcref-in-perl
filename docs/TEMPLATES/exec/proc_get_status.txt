@@ -1,0 +1,13 @@
+*proc_get_status
+
+**PHP
+
+>|PHP|
+array proc_get_status ( resource $process )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*pg_close
+
+**PHP
+
+>|PHP|
+bool pg_close ([ resource $connection ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

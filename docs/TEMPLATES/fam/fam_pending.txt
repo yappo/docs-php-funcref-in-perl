@@ -1,0 +1,13 @@
+*fam_pending
+
+**PHP
+
+>|PHP|
+int fam_pending ( resource $fam )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

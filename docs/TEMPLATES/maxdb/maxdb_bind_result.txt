@@ -1,0 +1,13 @@
+*maxdb_bind_result
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

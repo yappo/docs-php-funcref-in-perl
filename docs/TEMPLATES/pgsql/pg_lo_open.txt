@@ -1,0 +1,13 @@
+*pg_lo_open
+
+**PHP
+
+>|PHP|
+resource pg_lo_open ( resource $connection , int $oid , string $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

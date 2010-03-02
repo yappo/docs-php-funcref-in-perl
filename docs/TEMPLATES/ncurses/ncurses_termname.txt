@@ -1,0 +1,13 @@
+*ncurses_termname
+
+**PHP
+
+>|PHP|
+string ncurses_termname ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

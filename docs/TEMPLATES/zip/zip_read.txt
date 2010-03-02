@@ -1,0 +1,13 @@
+*zip_read
+
+**PHP
+
+>|PHP|
+mixed zip_read ( resource $zip )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

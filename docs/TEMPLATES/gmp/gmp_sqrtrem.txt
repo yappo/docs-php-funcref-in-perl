@@ -1,0 +1,13 @@
+*gmp_sqrtrem
+
+**PHP
+
+>|PHP|
+array gmp_sqrtrem ( resource $a )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

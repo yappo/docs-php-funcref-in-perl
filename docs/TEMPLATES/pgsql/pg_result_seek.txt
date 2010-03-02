@@ -1,0 +1,13 @@
+*pg_result_seek
+
+**PHP
+
+>|PHP|
+bool pg_result_seek ( resource $result , int $offset )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

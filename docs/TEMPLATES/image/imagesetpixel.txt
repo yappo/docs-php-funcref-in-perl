@@ -1,0 +1,13 @@
+*imagesetpixel
+
+**PHP
+
+>|PHP|
+bool imagesetpixel ( resource $image , int $x , int $y , int $color )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

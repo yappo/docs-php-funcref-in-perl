@@ -1,0 +1,13 @@
+*socket_set_block
+
+**PHP
+
+>|PHP|
+bool socket_set_block ( resource $socket )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

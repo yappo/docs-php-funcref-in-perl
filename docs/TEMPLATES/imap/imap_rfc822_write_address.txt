@@ -1,0 +1,13 @@
+*imap_rfc822_write_address
+
+**PHP
+
+>|PHP|
+string imap_rfc822_write_address ( string $mailbox , string $host , string $personal )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

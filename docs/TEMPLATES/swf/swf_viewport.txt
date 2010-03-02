@@ -1,0 +1,13 @@
+*swf_viewport
+
+**PHP
+
+>|PHP|
+void swf_viewport ( float $xmin , float $xmax , float $ymin , float $ymax )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

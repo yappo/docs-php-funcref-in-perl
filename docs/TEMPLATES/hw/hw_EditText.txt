@@ -1,0 +1,13 @@
+*hw_EditText
+
+**PHP
+
+>|PHP|
+bool hw_edittext ( int $connection , int $hw_document )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*odbc_fetch_row
+
+**PHP
+
+>|PHP|
+bool odbc_fetch_row ( resource $result_id [, int $row_number ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

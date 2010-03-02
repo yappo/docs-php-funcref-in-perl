@@ -1,0 +1,13 @@
+*ob_get_level
+
+**PHP
+
+>|PHP|
+int ob_get_level ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

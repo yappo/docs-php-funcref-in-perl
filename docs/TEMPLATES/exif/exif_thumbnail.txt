@@ -1,0 +1,13 @@
+*exif_thumbnail
+
+**PHP
+
+>|PHP|
+string exif_thumbnail ( string $filename [, int &$width [, int &$height [, int &$imagetype ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

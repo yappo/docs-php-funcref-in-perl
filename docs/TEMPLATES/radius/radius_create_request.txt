@@ -1,0 +1,13 @@
+*radius_create_request
+
+**PHP
+
+>|PHP|
+bool radius_create_request ( resource $radius_handle , int $type )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

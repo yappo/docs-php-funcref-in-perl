@@ -1,0 +1,13 @@
+*ftp_rename
+
+**PHP
+
+>|PHP|
+bool ftp_rename ( resource $ftp_stream , string $oldname , string $newname )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

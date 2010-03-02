@@ -1,0 +1,13 @@
+*yp_next
+
+**PHP
+
+>|PHP|
+array yp_next ( string $domain , string $map , string $key )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

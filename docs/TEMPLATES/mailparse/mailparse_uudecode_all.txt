@@ -1,0 +1,13 @@
+*mailparse_uudecode_all
+
+**PHP
+
+>|PHP|
+array mailparse_uudecode_all ( resource $fp )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

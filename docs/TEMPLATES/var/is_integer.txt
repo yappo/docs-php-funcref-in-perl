@@ -1,0 +1,13 @@
+*is_integer
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

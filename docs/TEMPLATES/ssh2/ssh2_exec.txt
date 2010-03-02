@@ -1,0 +1,13 @@
+*ssh2_exec
+
+**PHP
+
+>|PHP|
+resource ssh2_exec ( resource $session , string $command [, string $pty [, array $env [, int $width = 80 [, int $height = 25 [, int $width_height_type = SSH2_TERM_UNIT_CHARS ]]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*openal_source_destroy
+
+**PHP
+
+>|PHP|
+bool openal_source_destroy ( resource $source )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

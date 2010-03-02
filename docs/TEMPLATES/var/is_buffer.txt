@@ -1,0 +1,13 @@
+*is_buffer
+
+**PHP
+
+>|PHP|
+bool is_buffer ( mixed $var )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

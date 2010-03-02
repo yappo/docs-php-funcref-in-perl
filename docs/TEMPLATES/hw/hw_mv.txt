@@ -1,0 +1,13 @@
+*hw_mv
+
+**PHP
+
+>|PHP|
+int hw_mv ( int $connection , array $object_id_array , int $source_id , int $destination_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

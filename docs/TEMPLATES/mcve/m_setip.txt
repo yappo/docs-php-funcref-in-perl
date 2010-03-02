@@ -1,0 +1,13 @@
+*m_setip
+
+**PHP
+
+>|PHP|
+int m_setip ( resource $conn , string $host , int $port )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

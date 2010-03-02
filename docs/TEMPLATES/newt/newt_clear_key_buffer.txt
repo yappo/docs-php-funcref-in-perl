@@ -1,0 +1,13 @@
+*newt_clear_key_buffer
+
+**PHP
+
+>|PHP|
+void newt_clear_key_buffer ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

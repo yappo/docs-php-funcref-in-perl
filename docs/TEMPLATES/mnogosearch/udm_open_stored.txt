@@ -1,0 +1,13 @@
+*udm_open_stored
+
+**PHP
+
+>|PHP|
+int udm_open_stored ( resource $agent , string $storedaddr )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

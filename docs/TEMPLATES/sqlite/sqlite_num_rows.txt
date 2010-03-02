@@ -1,0 +1,13 @@
+*sqlite_num_rows
+
+**PHP
+
+>|PHP|
+int sqlite_num_rows ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

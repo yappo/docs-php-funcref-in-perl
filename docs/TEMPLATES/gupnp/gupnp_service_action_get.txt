@@ -1,0 +1,13 @@
+*gupnp_service_action_get
+
+**PHP
+
+>|PHP|
+mixed gupnp_service_action_get ( resource $action , string $name , int $type )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

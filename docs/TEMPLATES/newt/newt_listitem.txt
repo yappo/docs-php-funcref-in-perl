@@ -1,0 +1,13 @@
+*newt_listitem
+
+**PHP
+
+>|PHP|
+resource newt_listitem ( int $left , int $top , string $text , bool $is_default , resouce $prev_item , mixed $data [, int $flags ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

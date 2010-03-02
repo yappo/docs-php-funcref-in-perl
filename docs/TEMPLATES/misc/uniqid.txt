@@ -1,0 +1,13 @@
+*uniqid
+
+**PHP
+
+>|PHP|
+string uniqid ([ string $prefix = "" [, bool $more_entropy = false ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

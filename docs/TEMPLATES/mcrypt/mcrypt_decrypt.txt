@@ -1,0 +1,13 @@
+*mcrypt_decrypt
+
+**PHP
+
+>|PHP|
+string mcrypt_decrypt ( string $cipher , string $key , string $data , string $mode [, string $iv ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

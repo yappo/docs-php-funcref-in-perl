@@ -1,0 +1,13 @@
+*hw_GetRemote
+
+**PHP
+
+>|PHP|
+int hw_getremote ( int $connection , int $objectID )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

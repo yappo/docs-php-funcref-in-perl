@@ -1,0 +1,13 @@
+*px_insert_record
+
+**PHP
+
+>|PHP|
+int px_insert_record ( resource $pxdoc , array $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

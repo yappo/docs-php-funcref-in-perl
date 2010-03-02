@@ -1,0 +1,13 @@
+*printer_delete_font
+
+**PHP
+
+>|PHP|
+void printer_delete_font ( resource $font_handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

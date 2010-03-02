@@ -1,0 +1,13 @@
+*gztell
+
+**PHP
+
+>|PHP|
+int gztell ( resource $zp )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

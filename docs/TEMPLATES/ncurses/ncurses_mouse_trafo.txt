@@ -1,0 +1,13 @@
+*ncurses_mouse_trafo
+
+**PHP
+
+>|PHP|
+bool ncurses_mouse_trafo ( int &$y , int &$x , bool $toscreen )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

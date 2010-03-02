@@ -1,0 +1,13 @@
+*event_add
+
+**PHP
+
+>|PHP|
+bool event_add ( resource $event [, int $timeout = -1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

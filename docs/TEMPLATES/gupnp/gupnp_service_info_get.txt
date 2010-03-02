@@ -1,0 +1,13 @@
+*gupnp_service_info_get
+
+**PHP
+
+>|PHP|
+array gupnp_service_info_get ( resource $proxy )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

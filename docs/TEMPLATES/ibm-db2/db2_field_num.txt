@@ -1,0 +1,13 @@
+*db2_field_num
+
+**PHP
+
+>|PHP|
+int db2_field_num ( resource $stmt , mixed $column )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

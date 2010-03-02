@@ -1,0 +1,13 @@
+*base64_decode
+
+**PHP
+
+>|PHP|
+string base64_decode ( string $data [, bool $strict = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

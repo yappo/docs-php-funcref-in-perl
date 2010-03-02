@@ -1,0 +1,13 @@
+*image_type_to_extension
+
+**PHP
+
+>|PHP|
+string image_type_to_extension ( int $imagetype [, bool $include_dot ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*hash_final
+
+**PHP
+
+>|PHP|
+string hash_final ( resource $context [, bool $raw_output = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

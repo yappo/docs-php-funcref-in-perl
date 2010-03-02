@@ -1,0 +1,13 @@
+*stream_get_wrappers
+
+**PHP
+
+>|PHP|
+array stream_get_wrappers ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

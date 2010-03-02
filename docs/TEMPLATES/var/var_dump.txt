@@ -1,0 +1,13 @@
+*var_dump
+
+**PHP
+
+>|PHP|
+void var_dump ( mixed $expression [, mixed $expression [,  $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

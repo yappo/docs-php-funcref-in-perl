@@ -1,0 +1,13 @@
+*dbplus_rzap
+
+**PHP
+
+>|PHP|
+int dbplus_rzap ( resource $relation )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

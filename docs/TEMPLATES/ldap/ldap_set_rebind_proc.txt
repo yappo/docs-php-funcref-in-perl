@@ -1,0 +1,13 @@
+*ldap_set_rebind_proc
+
+**PHP
+
+>|PHP|
+bool ldap_set_rebind_proc ( resource $link , callback $callback )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*sqlite_libversion
+
+**PHP
+
+>|PHP|
+string sqlite_libversion ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

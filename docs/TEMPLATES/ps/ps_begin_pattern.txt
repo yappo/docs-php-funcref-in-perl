@@ -1,0 +1,13 @@
+*ps_begin_pattern
+
+**PHP
+
+>|PHP|
+int ps_begin_pattern ( resource $psdoc , float $width , float $height , float $xstep , float $ystep , int $painttype )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

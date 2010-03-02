@@ -1,0 +1,13 @@
+*stream_socket_accept
+
+**PHP
+
+>|PHP|
+resource stream_socket_accept ( resource $server_socket [, float $timeout = ini_get("default_socket_timeout") [, string &$peername ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

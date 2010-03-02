@@ -1,0 +1,13 @@
+*unicode_set_subst_char
+
+**PHP
+
+>|PHP|
+bool unicode_set_subst_char ( unicode $character )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

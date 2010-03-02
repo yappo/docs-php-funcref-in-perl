@@ -1,0 +1,13 @@
+*udm_cat_path
+
+**PHP
+
+>|PHP|
+array udm_cat_path ( resource $agent , string $category )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*hash_update_stream
+
+**PHP
+
+>|PHP|
+int hash_update_stream ( resource $context , resource $handle [, int $length = -1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*array_diff_key
+
+**PHP
+
+>|PHP|
+array array_diff_key ( array $array1 , array $array2 [, array $... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*stats_dens_pmf_hypergeometric
+
+**PHP
+
+>|PHP|
+float stats_dens_pmf_hypergeometric ( float $n1 , float $n2 , float $N1 , float $N2 )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

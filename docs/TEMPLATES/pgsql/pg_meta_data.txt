@@ -1,0 +1,13 @@
+*pg_meta_data
+
+**PHP
+
+>|PHP|
+array pg_meta_data ( resource $connection , string $table_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

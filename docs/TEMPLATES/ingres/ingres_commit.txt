@@ -1,0 +1,13 @@
+*ingres_commit
+
+**PHP
+
+>|PHP|
+bool ingres_commit ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

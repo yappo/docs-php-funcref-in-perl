@@ -1,0 +1,13 @@
+*openal_source_create
+
+**PHP
+
+>|PHP|
+resource openal_source_create ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

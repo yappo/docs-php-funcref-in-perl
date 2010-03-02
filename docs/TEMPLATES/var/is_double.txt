@@ -1,0 +1,13 @@
+*is_double
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

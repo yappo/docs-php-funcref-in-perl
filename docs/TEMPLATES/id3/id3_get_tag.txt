@@ -1,0 +1,13 @@
+*id3_get_tag
+
+**PHP
+
+>|PHP|
+array id3_get_tag ( string $filename [, int $version = ID3_BEST ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*maxdb_autocommit
+
+**PHP
+
+>|PHP|
+bool maxdb_autocommit ( resource $link , bool $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

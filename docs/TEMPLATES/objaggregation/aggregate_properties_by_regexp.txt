@@ -1,0 +1,13 @@
+*aggregate_properties_by_regexp
+
+**PHP
+
+>|PHP|
+void aggregate_properties_by_regexp ( object $object , string $class_name , string $regexp [, bool $exclude = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

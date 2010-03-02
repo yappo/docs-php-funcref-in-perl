@@ -1,0 +1,13 @@
+*get_class
+
+**PHP
+
+>|PHP|
+string get_class ([ object $object ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

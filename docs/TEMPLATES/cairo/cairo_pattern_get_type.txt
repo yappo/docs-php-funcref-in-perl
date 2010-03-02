@@ -1,0 +1,13 @@
+*cairo_pattern_get_type
+
+**PHP
+
+>|PHP|
+int cairo_pattern_get_type ( CairoPattern $pattern )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*readline_info
+
+**PHP
+
+>|PHP|
+mixed readline_info ([ string $varname [, string $newvalue ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

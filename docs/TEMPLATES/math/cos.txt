@@ -1,0 +1,13 @@
+*cos
+
+**PHP
+
+>|PHP|
+float cos ( float $arg )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

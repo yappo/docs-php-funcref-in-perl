@@ -1,0 +1,13 @@
+*maxdb_real_connect
+
+**PHP
+
+>|PHP|
+bool maxdb_real_connect ( resource $link [, string $hostname [, string $username [, string $passwd [, string $dbname [, int $port [, string $socket ]]]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

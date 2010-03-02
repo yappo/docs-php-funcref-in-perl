@@ -1,0 +1,13 @@
+*pcntl_wstopsig
+
+**PHP
+
+>|PHP|
+int pcntl_wstopsig ( int $status )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

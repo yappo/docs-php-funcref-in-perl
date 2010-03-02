@@ -1,0 +1,13 @@
+*cairo_font_options_status
+
+**PHP
+
+>|PHP|
+int cairo_font_options_status ( CairoFontOptions $options )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

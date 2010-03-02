@@ -1,0 +1,13 @@
+*localeconv
+
+**PHP
+
+>|PHP|
+array localeconv ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

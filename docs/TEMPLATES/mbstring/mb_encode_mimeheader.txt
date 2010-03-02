@@ -1,0 +1,13 @@
+*mb_encode_mimeheader
+
+**PHP
+
+>|PHP|
+string mb_encode_mimeheader ( string $str [, string $charset [, string $transfer_encoding [, string $linefeed [, int $indent ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

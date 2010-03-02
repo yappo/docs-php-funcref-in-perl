@@ -1,0 +1,13 @@
+*move_uploaded_file
+
+**PHP
+
+>|PHP|
+bool move_uploaded_file ( string $filename , string $destination )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

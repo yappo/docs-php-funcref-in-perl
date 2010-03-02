@@ -1,0 +1,13 @@
+*yp_order
+
+**PHP
+
+>|PHP|
+int yp_order ( string $domain , string $map )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*stream_filter_remove
+
+**PHP
+
+>|PHP|
+bool stream_filter_remove ( resource $stream_filter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

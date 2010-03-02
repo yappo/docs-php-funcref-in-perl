@@ -1,0 +1,13 @@
+*variant_eqv
+
+**PHP
+
+>|PHP|
+mixed variant_eqv ( mixed $left , mixed $right )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

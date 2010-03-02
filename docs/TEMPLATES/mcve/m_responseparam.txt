@@ -1,0 +1,13 @@
+*m_responseparam
+
+**PHP
+
+>|PHP|
+string m_responseparam ( resource $conn , int $identifier , string $key )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

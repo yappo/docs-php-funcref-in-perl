@@ -1,0 +1,13 @@
+*crc32
+
+**PHP
+
+>|PHP|
+int crc32 ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

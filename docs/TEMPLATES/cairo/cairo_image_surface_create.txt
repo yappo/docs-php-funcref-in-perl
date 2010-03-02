@@ -1,0 +1,13 @@
+*cairo_image_surface_create
+
+**PHP
+
+>|PHP|
+CairoImageSurface cairo_image_surface_create ( int $format , int $width , int $height )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

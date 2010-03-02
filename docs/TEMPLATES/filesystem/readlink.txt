@@ -1,0 +1,13 @@
+*readlink
+
+**PHP
+
+>|PHP|
+string readlink ( string $path )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

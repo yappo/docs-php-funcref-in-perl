@@ -1,0 +1,13 @@
+*bcompiler_write_constant
+
+**PHP
+
+>|PHP|
+bool bcompiler_write_constant ( resource $filehandle , string $constantName )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

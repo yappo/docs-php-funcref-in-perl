@@ -1,0 +1,13 @@
+*cairo_pattern_get_linear_points
+
+**PHP
+
+>|PHP|
+array cairo_pattern_get_linear_points ( CairoLinearGradient $pattern )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

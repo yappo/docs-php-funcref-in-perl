@@ -1,0 +1,13 @@
+*hw_changeobject
+
+**PHP
+
+>|PHP|
+bool hw_changeobject ( int $link , int $objid , array $attributes )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

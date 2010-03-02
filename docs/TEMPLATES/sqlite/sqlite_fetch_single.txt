@@ -1,0 +1,13 @@
+*sqlite_fetch_single
+
+**PHP
+
+>|PHP|
+string sqlite_fetch_single ( resource $result [, bool $decode_binary = true ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

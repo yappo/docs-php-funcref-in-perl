@@ -1,0 +1,13 @@
+*sqlite_popen
+
+**PHP
+
+>|PHP|
+resource sqlite_popen ( string $filename [, int $mode = 0666 [, string &$error_message ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

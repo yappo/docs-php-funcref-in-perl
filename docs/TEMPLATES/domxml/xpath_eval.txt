@@ -1,0 +1,13 @@
+*xpath_eval
+
+**PHP
+
+>|PHP|
+XPathObject xpath_eval ( string $xpath_expression [, domnode $contextnode ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

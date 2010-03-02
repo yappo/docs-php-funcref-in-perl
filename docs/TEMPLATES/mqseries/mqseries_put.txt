@@ -1,0 +1,13 @@
+*mqseries_put
+
+**PHP
+
+>|PHP|
+void mqseries_put ( resource $hConn , resource $hObj , array &$md , array &$pmo , string $message , resource &$compCode , resource &$reason )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

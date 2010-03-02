@@ -1,0 +1,13 @@
+*bzdecompress
+
+**PHP
+
+>|PHP|
+mixed bzdecompress ( string $source [, int $small = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*sqlite_error_string
+
+**PHP
+
+>|PHP|
+string sqlite_error_string ( int $error_code )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*filter_input
+
+**PHP
+
+>|PHP|
+mixed filter_input ( int $type , string $variable_name [, int $filter = FILTER_DEFAULT [, mixed $options ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

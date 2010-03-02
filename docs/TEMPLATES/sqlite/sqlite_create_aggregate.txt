@@ -1,0 +1,13 @@
+*sqlite_create_aggregate
+
+**PHP
+
+>|PHP|
+void sqlite_create_aggregate ( resource $dbhandle , string $function_name , callback $step_func , callback $finalize_func [, int $num_args = -1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

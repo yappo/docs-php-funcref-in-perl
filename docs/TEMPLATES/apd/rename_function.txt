@@ -1,0 +1,13 @@
+*rename_function
+
+**PHP
+
+>|PHP|
+bool rename_function ( string $original_name , string $new_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

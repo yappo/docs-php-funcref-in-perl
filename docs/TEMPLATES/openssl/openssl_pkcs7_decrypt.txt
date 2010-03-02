@@ -1,0 +1,13 @@
+*openssl_pkcs7_decrypt
+
+**PHP
+
+>|PHP|
+bool openssl_pkcs7_decrypt ( string $infilename , string $outfilename , mixed $recipcert [, mixed $recipkey ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

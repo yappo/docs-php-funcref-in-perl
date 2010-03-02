@@ -1,0 +1,13 @@
+*svn_export
+
+**PHP
+
+>|PHP|
+bool svn_export ( string $frompath , string $topath [, bool $working_copy = true ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

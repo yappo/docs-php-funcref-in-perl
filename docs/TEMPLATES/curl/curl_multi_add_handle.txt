@@ -1,0 +1,13 @@
+*curl_multi_add_handle
+
+**PHP
+
+>|PHP|
+int curl_multi_add_handle ( resource $mh , resource $ch )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*imap_getsubscribed
+
+**PHP
+
+>|PHP|
+array imap_getsubscribed ( resource $imap_stream , string $ref , string $pattern )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

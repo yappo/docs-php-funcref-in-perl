@@ -1,0 +1,13 @@
+*hw_api_content->mimetype
+
+**PHP
+
+>|PHP|
+string mimetype ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

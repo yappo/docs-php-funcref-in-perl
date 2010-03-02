@@ -1,0 +1,13 @@
+*swf_actiongotolabel
+
+**PHP
+
+>|PHP|
+void swf_actiongotolabel ( string $label )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

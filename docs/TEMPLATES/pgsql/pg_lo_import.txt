@@ -1,0 +1,13 @@
+*pg_lo_import
+
+**PHP
+
+>|PHP|
+int pg_lo_import ([ resource $connection ], string $pathname , mixed $object_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

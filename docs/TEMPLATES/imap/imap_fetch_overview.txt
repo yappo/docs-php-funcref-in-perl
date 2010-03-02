@@ -1,0 +1,13 @@
+*imap_fetch_overview
+
+**PHP
+
+>|PHP|
+array imap_fetch_overview ( resource $imap_stream , string $sequence [, int $options = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

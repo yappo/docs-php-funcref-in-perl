@@ -1,0 +1,13 @@
+*printer_start_page
+
+**PHP
+
+>|PHP|
+bool printer_start_page ( resource $printer_handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

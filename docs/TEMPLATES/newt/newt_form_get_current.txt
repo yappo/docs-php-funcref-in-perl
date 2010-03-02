@@ -1,0 +1,13 @@
+*newt_form_get_current
+
+**PHP
+
+>|PHP|
+resource newt_form_get_current ( resource $form )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

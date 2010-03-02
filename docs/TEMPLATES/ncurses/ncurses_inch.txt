@@ -1,0 +1,13 @@
+*ncurses_inch
+
+**PHP
+
+>|PHP|
+string ncurses_inch ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

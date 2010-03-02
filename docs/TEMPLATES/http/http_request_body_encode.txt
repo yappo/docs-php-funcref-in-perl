@@ -1,0 +1,13 @@
+*http_request_body_encode
+
+**PHP
+
+>|PHP|
+string http_request_body_encode ( array $fields , array $files )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

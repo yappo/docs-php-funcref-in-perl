@@ -1,0 +1,13 @@
+*curl_copy_handle
+
+**PHP
+
+>|PHP|
+resource curl_copy_handle ( resource $ch )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

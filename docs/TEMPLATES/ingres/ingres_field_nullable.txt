@@ -1,0 +1,13 @@
+*ingres_field_nullable
+
+**PHP
+
+>|PHP|
+bool ingres_field_nullable ( resource $result , int $index )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

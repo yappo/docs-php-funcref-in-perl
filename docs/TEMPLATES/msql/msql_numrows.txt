@@ -1,0 +1,13 @@
+*msql_numrows
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

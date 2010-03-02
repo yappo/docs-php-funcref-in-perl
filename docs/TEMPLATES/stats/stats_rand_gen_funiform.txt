@@ -1,0 +1,13 @@
+*stats_rand_gen_funiform
+
+**PHP
+
+>|PHP|
+float stats_rand_gen_funiform ( float $low , float $high )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

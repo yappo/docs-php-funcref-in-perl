@@ -1,0 +1,13 @@
+*ncurses_has_ic
+
+**PHP
+
+>|PHP|
+bool ncurses_has_ic ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

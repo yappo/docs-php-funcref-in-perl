@@ -1,0 +1,13 @@
+*swf_mulcolor
+
+**PHP
+
+>|PHP|
+void swf_mulcolor ( float $r , float $g , float $b , float $a )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

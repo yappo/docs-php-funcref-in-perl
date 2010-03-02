@@ -1,0 +1,13 @@
+*imagetruecolortopalette
+
+**PHP
+
+>|PHP|
+bool imagetruecolortopalette ( resource $image , bool $dither , int $ncolors )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

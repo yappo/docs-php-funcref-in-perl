@@ -1,0 +1,13 @@
+*preg_split
+
+**PHP
+
+>|PHP|
+array preg_split ( string $pattern , string $subject [, int $limit = -1 [, int $flags = 0 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

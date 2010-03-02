@@ -1,0 +1,13 @@
+*sqlite_factory
+
+**PHP
+
+>|PHP|
+SQLiteDatabase sqlite_factory ( string $filename [, int $mode = 0666 [, string &$error_message ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ftp_site
+
+**PHP
+
+>|PHP|
+bool ftp_site ( resource $ftp_stream , string $command )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*db2_close
+
+**PHP
+
+>|PHP|
+bool db2_close ( resource $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

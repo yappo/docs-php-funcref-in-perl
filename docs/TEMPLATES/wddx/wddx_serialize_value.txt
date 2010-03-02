@@ -1,0 +1,13 @@
+*wddx_serialize_value
+
+**PHP
+
+>|PHP|
+string wddx_serialize_value ( mixed $var [, string $comment ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

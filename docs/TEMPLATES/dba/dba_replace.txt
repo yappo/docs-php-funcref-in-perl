@@ -1,0 +1,13 @@
+*dba_replace
+
+**PHP
+
+>|PHP|
+bool dba_replace ( string $key , string $value , resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

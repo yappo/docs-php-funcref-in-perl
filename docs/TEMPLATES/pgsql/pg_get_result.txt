@@ -1,0 +1,13 @@
+*pg_get_result
+
+**PHP
+
+>|PHP|
+resource pg_get_result ([ resource $connection ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

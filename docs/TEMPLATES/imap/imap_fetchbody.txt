@@ -1,0 +1,13 @@
+*imap_fetchbody
+
+**PHP
+
+>|PHP|
+string imap_fetchbody ( resource $imap_stream , int $msg_number , string $section [, int $options = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

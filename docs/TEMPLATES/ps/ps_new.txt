@@ -1,0 +1,13 @@
+*ps_new
+
+**PHP
+
+>|PHP|
+resource ps_new ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

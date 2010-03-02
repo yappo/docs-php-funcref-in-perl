@@ -1,0 +1,13 @@
+*mssql_min_message_severity
+
+**PHP
+
+>|PHP|
+void mssql_min_message_severity ( int $severity )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

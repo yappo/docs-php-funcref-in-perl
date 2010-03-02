@@ -1,0 +1,13 @@
+*ncurses_delch
+
+**PHP
+
+>|PHP|
+bool ncurses_delch ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

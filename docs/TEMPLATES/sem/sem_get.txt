@@ -1,0 +1,13 @@
+*sem_get
+
+**PHP
+
+>|PHP|
+resource sem_get ( int $key [, int $max_acquire = 1 [, int $perm = 0666 [, int $auto_release = 1 ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

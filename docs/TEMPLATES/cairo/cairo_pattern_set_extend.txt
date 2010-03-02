@@ -1,0 +1,13 @@
+*cairo_pattern_set_extend
+
+**PHP
+
+>|PHP|
+void cairo_pattern_set_extend ( string $pattern , string $extend )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

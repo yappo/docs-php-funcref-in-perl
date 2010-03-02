@@ -1,0 +1,13 @@
+*m_returnstatus
+
+**PHP
+
+>|PHP|
+int m_returnstatus ( resource $conn , int $identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

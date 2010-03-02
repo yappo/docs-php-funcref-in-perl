@@ -1,0 +1,13 @@
+*http_head
+
+**PHP
+
+>|PHP|
+string http_head ([ string $url [, array $options [, array &$info ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

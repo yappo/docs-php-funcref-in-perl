@@ -1,0 +1,13 @@
+*is_int
+
+**PHP
+
+>|PHP|
+bool is_int ( mixed $var )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

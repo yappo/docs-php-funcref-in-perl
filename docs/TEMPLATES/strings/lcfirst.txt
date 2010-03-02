@@ -1,0 +1,13 @@
+*lcfirst
+
+**PHP
+
+>|PHP|
+string lcfirst ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

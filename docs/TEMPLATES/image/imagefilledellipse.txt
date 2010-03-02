@@ -1,0 +1,13 @@
+*imagefilledellipse
+
+**PHP
+
+>|PHP|
+bool imagefilledellipse ( resource $image , int $cx , int $cy , int $width , int $height , int $color )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

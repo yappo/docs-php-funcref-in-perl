@@ -1,0 +1,13 @@
+*openal_buffer_create
+
+**PHP
+
+>|PHP|
+resource openal_buffer_create ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

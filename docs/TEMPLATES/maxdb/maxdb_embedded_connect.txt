@@ -1,0 +1,13 @@
+*maxdb_embedded_connect
+
+**PHP
+
+>|PHP|
+resource maxdb_embedded_connect ([ string $dbname ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*gnupg_init
+
+**PHP
+
+>|PHP|
+resource gnupg_init ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

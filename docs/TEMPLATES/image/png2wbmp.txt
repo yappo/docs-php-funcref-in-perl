@@ -1,0 +1,13 @@
+*png2wbmp
+
+**PHP
+
+>|PHP|
+bool png2wbmp ( string $pngname , string $wbmpname , int $dest_height , int $dest_width , int $threshold )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

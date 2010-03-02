@@ -1,0 +1,13 @@
+*swf_fonttracking
+
+**PHP
+
+>|PHP|
+void swf_fonttracking ( float $tracking )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*gmp_div
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

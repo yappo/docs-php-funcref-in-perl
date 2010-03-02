@@ -1,0 +1,13 @@
+*gupnp_device_action_callback_set
+
+**PHP
+
+>|PHP|
+bool gupnp_device_action_callback_set ( resource $root_device , int $signal , string $action_name , mixed $callback [, mixed $arg ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

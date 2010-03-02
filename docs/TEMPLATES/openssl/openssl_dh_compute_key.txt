@@ -1,0 +1,13 @@
+*openssl_dh_compute_key
+
+**PHP
+
+>|PHP|
+string openssl_dh_compute_key ( string $pub_key , resource $dh_key )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

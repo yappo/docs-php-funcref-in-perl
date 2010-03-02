@@ -1,0 +1,13 @@
+*hw_Identify
+
+**PHP
+
+>|PHP|
+string hw_identify ( int $link , string $username , string $password )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

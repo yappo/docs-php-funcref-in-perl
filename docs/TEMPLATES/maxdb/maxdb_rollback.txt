@@ -1,0 +1,13 @@
+*maxdb_rollback
+
+**PHP
+
+>|PHP|
+bool maxdb_rollback ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

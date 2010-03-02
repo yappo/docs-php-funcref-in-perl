@@ -1,0 +1,13 @@
+*swf_placeobject
+
+**PHP
+
+>|PHP|
+void swf_placeobject ( int $objid , int $depth )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

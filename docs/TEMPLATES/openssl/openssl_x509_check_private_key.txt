@@ -1,0 +1,13 @@
+*openssl_x509_check_private_key
+
+**PHP
+
+>|PHP|
+bool openssl_x509_check_private_key ( mixed $cert , mixed $key )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

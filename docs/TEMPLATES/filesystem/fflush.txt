@@ -1,0 +1,13 @@
+*fflush
+
+**PHP
+
+>|PHP|
+bool fflush ( resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

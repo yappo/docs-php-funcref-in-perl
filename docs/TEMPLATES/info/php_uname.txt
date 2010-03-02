@@ -1,0 +1,13 @@
+*php_uname
+
+**PHP
+
+>|PHP|
+string php_uname ([ string $mode = "a" ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*pg_tty
+
+**PHP
+
+>|PHP|
+string pg_tty ([ resource $connection ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*mb_check_encoding
+
+**PHP
+
+>|PHP|
+bool mb_check_encoding ([ string $var = NULL [, string $encoding = mb_internal_encoding() ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

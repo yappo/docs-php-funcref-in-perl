@@ -1,0 +1,13 @@
+*ifxus_close_slob
+
+**PHP
+
+>|PHP|
+bool ifxus_close_slob ( int $bid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

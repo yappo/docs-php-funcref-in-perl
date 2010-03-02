@@ -1,0 +1,13 @@
+*swf_actiontogglequality
+
+**PHP
+
+>|PHP|
+void swf_actiontogglequality ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

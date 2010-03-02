@@ -1,0 +1,13 @@
+*gmp_strval
+
+**PHP
+
+>|PHP|
+string gmp_strval ( resource $gmpnumber [, int $base ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*cairo_font_options_merge
+
+**PHP
+
+>|PHP|
+void cairo_font_options_merge ( CairoFontOptions $options , CairoFontOptions $other )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*db2_next_result
+
+**PHP
+
+>|PHP|
+resource db2_next_result ( resource $stmt )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

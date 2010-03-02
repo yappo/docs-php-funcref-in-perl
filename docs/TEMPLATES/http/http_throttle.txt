@@ -1,0 +1,13 @@
+*http_throttle
+
+**PHP
+
+>|PHP|
+void http_throttle ([ float $sec [, int $bytes = 40960 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

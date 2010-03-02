@@ -1,0 +1,13 @@
+*assert_options
+
+**PHP
+
+>|PHP|
+mixed assert_options ( int $what [, mixed $value ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

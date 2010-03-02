@@ -1,0 +1,13 @@
+*maxdb_store_result
+
+**PHP
+
+>|PHP|
+resource maxdb_store_result ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

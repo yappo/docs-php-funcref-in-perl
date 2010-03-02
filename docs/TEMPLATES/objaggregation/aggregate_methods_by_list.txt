@@ -1,0 +1,13 @@
+*aggregate_methods_by_list
+
+**PHP
+
+>|PHP|
+void aggregate_methods_by_list ( object $object , string $class_name , array $methods_list [, bool $exclude = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

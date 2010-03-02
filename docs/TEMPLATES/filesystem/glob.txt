@@ -1,0 +1,13 @@
+*glob
+
+**PHP
+
+>|PHP|
+array glob ( string $pattern [, int $flags = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

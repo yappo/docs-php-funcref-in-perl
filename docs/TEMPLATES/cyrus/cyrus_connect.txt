@@ -1,0 +1,13 @@
+*cyrus_connect
+
+**PHP
+
+>|PHP|
+resource cyrus_connect ([ string $host [, string $port [, int $flags ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

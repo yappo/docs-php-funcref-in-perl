@@ -1,0 +1,13 @@
+*http_request_method_unregister
+
+**PHP
+
+>|PHP|
+bool http_request_method_unregister ( mixed $method )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

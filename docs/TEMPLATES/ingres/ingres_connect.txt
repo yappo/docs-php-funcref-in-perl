@@ -1,0 +1,13 @@
+*ingres_connect
+
+**PHP
+
+>|PHP|
+resource ingres_connect ([ string $database [, string $username [, string $password [, array $options ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

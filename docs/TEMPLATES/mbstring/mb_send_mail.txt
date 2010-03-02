@@ -1,0 +1,13 @@
+*mb_send_mail
+
+**PHP
+
+>|PHP|
+bool mb_send_mail ( string $to , string $subject , string $message [, string $additional_headers = NULL [, string $additional_parameter = NULL ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

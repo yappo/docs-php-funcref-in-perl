@@ -1,0 +1,13 @@
+*mcrypt_cfb
+
+**PHP
+
+>|PHP|
+string mcrypt_cfb ( int $cipher , string $key , string $data , int $mode , string $iv )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

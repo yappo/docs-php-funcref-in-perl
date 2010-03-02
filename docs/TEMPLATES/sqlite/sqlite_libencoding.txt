@@ -1,0 +1,13 @@
+*sqlite_libencoding
+
+**PHP
+
+>|PHP|
+string sqlite_libencoding ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

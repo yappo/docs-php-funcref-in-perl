@@ -1,0 +1,13 @@
+*hw_api_attribute->langdepvalue
+
+**PHP
+
+>|PHP|
+string langdepvalue ( string $language )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

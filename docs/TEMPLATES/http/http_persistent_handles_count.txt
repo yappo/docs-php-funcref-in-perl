@@ -1,0 +1,13 @@
+*http_persistent_handles_count
+
+**PHP
+
+>|PHP|
+object http_persistent_handles_count ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

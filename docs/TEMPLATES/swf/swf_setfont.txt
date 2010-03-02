@@ -1,0 +1,13 @@
+*swf_setfont
+
+**PHP
+
+>|PHP|
+void swf_setfont ( int $fontid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

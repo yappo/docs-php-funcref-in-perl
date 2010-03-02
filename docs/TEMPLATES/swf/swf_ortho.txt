@@ -1,0 +1,13 @@
+*swf_ortho
+
+**PHP
+
+>|PHP|
+void swf_ortho ( float $xmin , float $xmax , float $ymin , float $ymax , float $zmin , float $zmax )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

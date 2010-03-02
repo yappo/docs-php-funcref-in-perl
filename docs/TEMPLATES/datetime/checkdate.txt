@@ -1,0 +1,13 @@
+*checkdate
+
+**PHP
+
+>|PHP|
+bool checkdate ( int $month , int $day , int $year )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

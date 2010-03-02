@@ -1,0 +1,13 @@
+*maxdb_thread_id
+
+**PHP
+
+>|PHP|
+int maxdb_thread_id ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

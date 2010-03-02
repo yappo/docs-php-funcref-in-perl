@@ -1,0 +1,13 @@
+*array_pad
+
+**PHP
+
+>|PHP|
+array array_pad ( array $input , int $pad_size , mixed $pad_value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

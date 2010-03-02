@@ -1,0 +1,13 @@
+*unserialize
+
+**PHP
+
+>|PHP|
+mixed unserialize ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

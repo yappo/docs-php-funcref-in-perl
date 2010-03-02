@@ -1,0 +1,13 @@
+*ocicolumnprecision
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

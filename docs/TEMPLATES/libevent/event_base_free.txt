@@ -1,0 +1,13 @@
+*event_base_free
+
+**PHP
+
+>|PHP|
+void event_base_free ( resource $event_base )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

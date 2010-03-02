@@ -1,0 +1,13 @@
+*stream_wrapper_unregister
+
+**PHP
+
+>|PHP|
+bool stream_wrapper_unregister ( string $protocol )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

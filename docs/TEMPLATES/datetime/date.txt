@@ -1,0 +1,13 @@
+*date
+
+**PHP
+
+>|PHP|
+string date ( string $format [, int $timestamp ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

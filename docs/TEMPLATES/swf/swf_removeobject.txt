@@ -1,0 +1,13 @@
+*swf_removeobject
+
+**PHP
+
+>|PHP|
+void swf_removeobject ( int $depth )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

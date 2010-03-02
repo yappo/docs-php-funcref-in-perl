@@ -1,0 +1,13 @@
+*java_last_exception_get
+
+**PHP
+
+>|PHP|
+object java_last_exception_get ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

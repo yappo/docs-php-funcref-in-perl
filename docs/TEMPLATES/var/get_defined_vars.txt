@@ -1,0 +1,13 @@
+*get_defined_vars
+
+**PHP
+
+>|PHP|
+array get_defined_vars ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

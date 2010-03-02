@@ -1,0 +1,13 @@
+*px_timestamp2string
+
+**PHP
+
+>|PHP|
+string px_timestamp2string ( resource $pxdoc , float $value , string $format )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

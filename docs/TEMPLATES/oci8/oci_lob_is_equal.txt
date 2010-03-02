@@ -1,0 +1,13 @@
+*oci_lob_is_equal
+
+**PHP
+
+>|PHP|
+bool oci_lob_is_equal ( OCI-Lob $lob1 , OCI-Lob $lob2 )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

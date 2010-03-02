@@ -1,0 +1,13 @@
+*imagegd2
+
+**PHP
+
+>|PHP|
+bool imagegd2 ( resource $image [, string $filename [, int $chunk_size [, int $type ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

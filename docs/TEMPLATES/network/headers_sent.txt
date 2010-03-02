@@ -1,0 +1,13 @@
+*headers_sent
+
+**PHP
+
+>|PHP|
+bool headers_sent ([ string &$file [, int &$line ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

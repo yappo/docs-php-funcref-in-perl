@@ -1,0 +1,13 @@
+*cyrus_bind
+
+**PHP
+
+>|PHP|
+bool cyrus_bind ( resource $connection , array $callbacks )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

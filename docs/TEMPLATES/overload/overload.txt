@@ -1,0 +1,13 @@
+*overload
+
+**PHP
+
+>|PHP|
+void overload ( string $class_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

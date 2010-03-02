@@ -1,0 +1,13 @@
+*fread
+
+**PHP
+
+>|PHP|
+string fread ( resource $handle , int $length )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

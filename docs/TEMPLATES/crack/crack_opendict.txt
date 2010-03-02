@@ -1,0 +1,13 @@
+*crack_opendict
+
+**PHP
+
+>|PHP|
+resource crack_opendict ( string $dictionary )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*oci_parse
+
+**PHP
+
+>|PHP|
+resource oci_parse ( resource $connection , string $sql_text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

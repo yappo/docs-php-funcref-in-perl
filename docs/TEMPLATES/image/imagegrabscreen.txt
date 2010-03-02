@@ -1,0 +1,13 @@
+*imagegrabscreen
+
+**PHP
+
+>|PHP|
+resource imagegrabscreen ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*imap_utf7_encode
+
+**PHP
+
+>|PHP|
+string imap_utf7_encode ( string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

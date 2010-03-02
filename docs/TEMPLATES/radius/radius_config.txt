@@ -1,0 +1,13 @@
+*radius_config
+
+**PHP
+
+>|PHP|
+bool radius_config ( resource $radius_handle , string $file )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

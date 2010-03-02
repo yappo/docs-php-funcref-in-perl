@@ -1,0 +1,13 @@
+*strval
+
+**PHP
+
+>|PHP|
+string strval ( mixed $var )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

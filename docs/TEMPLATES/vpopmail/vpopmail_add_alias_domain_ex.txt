@@ -1,0 +1,13 @@
+*vpopmail_add_alias_domain_ex
+
+**PHP
+
+>|PHP|
+bool vpopmail_add_alias_domain_ex ( string $olddomain , string $newdomain )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

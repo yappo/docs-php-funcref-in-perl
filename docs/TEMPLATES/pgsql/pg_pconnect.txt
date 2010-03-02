@@ -1,0 +1,13 @@
+*pg_pconnect
+
+**PHP
+
+>|PHP|
+resource pg_pconnect ( string $connection_string [, int $connect_type ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

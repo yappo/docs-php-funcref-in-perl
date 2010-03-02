@@ -1,0 +1,13 @@
+*idn_to_ascii
+
+**PHP
+
+>|PHP|
+string idn_to_ascii ( string $domain [, int $options ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

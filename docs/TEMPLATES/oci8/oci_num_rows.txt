@@ -1,0 +1,13 @@
+*oci_num_rows
+
+**PHP
+
+>|PHP|
+int oci_num_rows ( resource $statement )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*runkit_method_rename
+
+**PHP
+
+>|PHP|
+bool runkit_method_rename ( string $classname , string $methodname , string $newname )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

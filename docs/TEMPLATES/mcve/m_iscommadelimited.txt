@@ -1,0 +1,13 @@
+*m_iscommadelimited
+
+**PHP
+
+>|PHP|
+int m_iscommadelimited ( resource $conn , int $identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

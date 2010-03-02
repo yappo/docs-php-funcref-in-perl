@@ -1,0 +1,13 @@
+*hw_DocByAnchor
+
+**PHP
+
+>|PHP|
+int hw_docbyanchor ( int $connection , int $anchorID )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

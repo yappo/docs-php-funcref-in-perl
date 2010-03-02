@@ -1,0 +1,13 @@
+*call_user_method
+
+**PHP
+
+>|PHP|
+mixed call_user_method ( string $method_name , object &$obj [, mixed $parameter [, mixed $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

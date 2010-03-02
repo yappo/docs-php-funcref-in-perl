@@ -1,0 +1,13 @@
+*openal_context_create
+
+**PHP
+
+>|PHP|
+resource openal_context_create ( resource $device )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

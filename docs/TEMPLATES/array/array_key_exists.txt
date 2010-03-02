@@ -1,0 +1,13 @@
+*array_key_exists
+
+**PHP
+
+>|PHP|
+bool array_key_exists ( mixed $key , array $search )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

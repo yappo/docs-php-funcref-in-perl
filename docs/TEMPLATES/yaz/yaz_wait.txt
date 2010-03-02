@@ -1,0 +1,13 @@
+*yaz_wait
+
+**PHP
+
+>|PHP|
+mixed yaz_wait ([ array &$options ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

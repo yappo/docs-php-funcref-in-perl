@@ -1,0 +1,13 @@
+*session_start
+
+**PHP
+
+>|PHP|
+bool session_start ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

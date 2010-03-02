@@ -1,0 +1,13 @@
+*next
+
+**PHP
+
+>|PHP|
+mixed next ( array &$array )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

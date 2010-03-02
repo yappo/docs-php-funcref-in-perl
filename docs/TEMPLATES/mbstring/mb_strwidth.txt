@@ -1,0 +1,13 @@
+*mb_strwidth
+
+**PHP
+
+>|PHP|
+int mb_strwidth ( string $str [, string $encoding ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

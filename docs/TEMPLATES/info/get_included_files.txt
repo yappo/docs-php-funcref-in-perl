@@ -1,0 +1,13 @@
+*get_included_files
+
+**PHP
+
+>|PHP|
+array get_included_files ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

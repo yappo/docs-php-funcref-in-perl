@@ -1,0 +1,13 @@
+*tidy_warning_count
+
+**PHP
+
+>|PHP|
+int tidy_warning_count ( tidy $object )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

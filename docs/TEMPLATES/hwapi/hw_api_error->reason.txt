@@ -1,0 +1,13 @@
+*hw_api_error->reason
+
+**PHP
+
+>|PHP|
+HW_API_Reason reason ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

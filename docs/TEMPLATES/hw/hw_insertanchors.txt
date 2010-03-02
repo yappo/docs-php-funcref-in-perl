@@ -1,0 +1,13 @@
+*hw_insertanchors
+
+**PHP
+
+>|PHP|
+bool hw_insertanchors ( int $hwdoc , array $anchorecs , array $dest [, array $urlprefixes ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ldap_count_entries
+
+**PHP
+
+>|PHP|
+int ldap_count_entries ( resource $link_identifier , resource $result_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

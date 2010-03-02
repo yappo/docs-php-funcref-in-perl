@@ -1,0 +1,13 @@
+*db2_cursor_type
+
+**PHP
+
+>|PHP|
+int db2_cursor_type ( resource $stmt )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*stream_resolve_include_path
+
+**PHP
+
+>|PHP|
+string stream_resolve_include_path ( string $filename [, resource $context ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

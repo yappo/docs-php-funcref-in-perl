@@ -1,0 +1,13 @@
+*sybase_fetch_field
+
+**PHP
+
+>|PHP|
+object sybase_fetch_field ( resource $result [, int $field_offset = -1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

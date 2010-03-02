@@ -1,0 +1,13 @@
+*getenv
+
+**PHP
+
+>|PHP|
+string getenv ( string $varname )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

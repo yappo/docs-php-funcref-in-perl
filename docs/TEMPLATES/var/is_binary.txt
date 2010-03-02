@@ -1,0 +1,13 @@
+*is_binary
+
+**PHP
+
+>|PHP|
+bool is_binary ( mixed $var )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

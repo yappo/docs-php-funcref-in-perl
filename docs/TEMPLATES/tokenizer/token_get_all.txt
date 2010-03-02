@@ -1,0 +1,13 @@
+*token_get_all
+
+**PHP
+
+>|PHP|
+array token_get_all ( string $source )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

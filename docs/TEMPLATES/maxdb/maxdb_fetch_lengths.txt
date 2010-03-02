@@ -1,0 +1,13 @@
+*maxdb_fetch_lengths
+
+**PHP
+
+>|PHP|
+array maxdb_fetch_lengths ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

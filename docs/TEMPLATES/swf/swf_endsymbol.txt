@@ -1,0 +1,13 @@
+*swf_endsymbol
+
+**PHP
+
+>|PHP|
+void swf_endsymbol ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

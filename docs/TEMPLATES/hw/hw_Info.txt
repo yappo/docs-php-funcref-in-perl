@@ -1,0 +1,13 @@
+*hw_Info
+
+**PHP
+
+>|PHP|
+string hw_info ( int $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*printer_open
+
+**PHP
+
+>|PHP|
+resource printer_open ([ string $printername ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

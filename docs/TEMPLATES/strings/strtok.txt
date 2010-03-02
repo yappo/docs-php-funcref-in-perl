@@ -1,0 +1,13 @@
+*strtok
+
+**PHP
+
+>|PHP|
+string strtok ( string $str , string $token )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

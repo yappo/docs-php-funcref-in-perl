@@ -1,0 +1,13 @@
+*msession_set
+
+**PHP
+
+>|PHP|
+bool msession_set ( string $session , string $name , string $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

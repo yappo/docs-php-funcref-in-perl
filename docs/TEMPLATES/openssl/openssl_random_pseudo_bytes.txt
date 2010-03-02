@@ -1,0 +1,13 @@
+*openssl_random_pseudo_bytes
+
+**PHP
+
+>|PHP|
+string openssl_random_pseudo_bytes ( string $length , string $strong )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

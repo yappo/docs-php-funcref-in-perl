@@ -1,0 +1,13 @@
+*radius_request_authenticator
+
+**PHP
+
+>|PHP|
+string radius_request_authenticator ( resource $radius_handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

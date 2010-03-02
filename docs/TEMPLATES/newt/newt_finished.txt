@@ -1,0 +1,13 @@
+*newt_finished
+
+**PHP
+
+>|PHP|
+int newt_finished ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*dbase_create
+
+**PHP
+
+>|PHP|
+int dbase_create ( string $filename , array $fields )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

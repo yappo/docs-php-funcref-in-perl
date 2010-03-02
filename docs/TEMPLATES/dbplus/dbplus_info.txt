@@ -1,0 +1,13 @@
+*dbplus_info
+
+**PHP
+
+>|PHP|
+int dbplus_info ( resource $relation , string $key , array &$result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

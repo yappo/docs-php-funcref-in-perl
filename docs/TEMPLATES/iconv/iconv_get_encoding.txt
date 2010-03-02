@@ -1,0 +1,13 @@
+*iconv_get_encoding
+
+**PHP
+
+>|PHP|
+mixed iconv_get_encoding ([ string $type = "all" ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

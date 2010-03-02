@@ -1,0 +1,13 @@
+*chroot
+
+**PHP
+
+>|PHP|
+bool chroot ( string $directory )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

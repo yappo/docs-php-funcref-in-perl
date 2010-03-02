@@ -1,0 +1,13 @@
+*mb_detect_encoding
+
+**PHP
+
+>|PHP|
+string mb_detect_encoding ( string $str [, mixed $encoding_list = mb_detect_order() [, bool $strict = false ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*xmlrpc_encode_request
+
+**PHP
+
+>|PHP|
+string xmlrpc_encode_request ( string $method , mixed $params [, array $output_options ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

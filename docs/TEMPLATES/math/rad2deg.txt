@@ -1,0 +1,13 @@
+*rad2deg
+
+**PHP
+
+>|PHP|
+float rad2deg ( float $number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*mcrypt_generic
+
+**PHP
+
+>|PHP|
+string mcrypt_generic ( resource $td , string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

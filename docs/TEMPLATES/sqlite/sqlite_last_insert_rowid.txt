@@ -1,0 +1,13 @@
+*sqlite_last_insert_rowid
+
+**PHP
+
+>|PHP|
+int sqlite_last_insert_rowid ( resource $dbhandle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

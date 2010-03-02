@@ -1,0 +1,13 @@
+*fbsql_create_blob
+
+**PHP
+
+>|PHP|
+string fbsql_create_blob ( string $blob_data [, resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

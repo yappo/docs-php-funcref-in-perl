@@ -1,0 +1,13 @@
+*stream_filter_prepend
+
+**PHP
+
+>|PHP|
+resource stream_filter_prepend ( resource $stream , string $filtername [, int $read_write [, mixed $params ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

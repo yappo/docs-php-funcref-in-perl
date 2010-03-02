@@ -1,0 +1,13 @@
+*openal_buffer_data
+
+**PHP
+
+>|PHP|
+bool openal_buffer_data ( resource $buffer , int $format , string $data , int $freq )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

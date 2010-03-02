@@ -1,0 +1,13 @@
+*com_invoke
+
+**PHP
+
+>|PHP|
+mixed com_invoke ( resource $com_object , string $function_name [, mixed $function_parameters ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

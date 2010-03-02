@@ -1,0 +1,13 @@
+*ncurses_color_content
+
+**PHP
+
+>|PHP|
+int ncurses_color_content ( int $color , int &$r , int &$g , int &$b )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

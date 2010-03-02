@@ -1,0 +1,13 @@
+*recode_string
+
+**PHP
+
+>|PHP|
+string recode_string ( string $request , string $string )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

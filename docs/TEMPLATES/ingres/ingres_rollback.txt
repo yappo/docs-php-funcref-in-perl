@@ -1,0 +1,13 @@
+*ingres_rollback
+
+**PHP
+
+>|PHP|
+bool ingres_rollback ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

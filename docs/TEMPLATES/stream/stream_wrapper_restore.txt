@@ -1,0 +1,13 @@
+*stream_wrapper_restore
+
+**PHP
+
+>|PHP|
+bool stream_wrapper_restore ( string $protocol )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

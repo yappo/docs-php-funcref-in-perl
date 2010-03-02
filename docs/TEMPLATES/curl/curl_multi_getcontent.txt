@@ -1,0 +1,13 @@
+*curl_multi_getcontent
+
+**PHP
+
+>|PHP|
+string curl_multi_getcontent ( resource $ch )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*dbplus_sql
+
+**PHP
+
+>|PHP|
+resource dbplus_sql ( string $query [, string $server [, string $dbpath ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*imap_alerts
+
+**PHP
+
+>|PHP|
+array imap_alerts ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

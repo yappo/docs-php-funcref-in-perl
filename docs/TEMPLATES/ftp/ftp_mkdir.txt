@@ -1,0 +1,13 @@
+*ftp_mkdir
+
+**PHP
+
+>|PHP|
+string ftp_mkdir ( resource $ftp_stream , string $directory )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

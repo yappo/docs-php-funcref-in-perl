@@ -1,0 +1,13 @@
+*ssh2_scp_send
+
+**PHP
+
+>|PHP|
+bool ssh2_scp_send ( resource $session , string $local_file , string $remote_file [, int $create_mode = 0644 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

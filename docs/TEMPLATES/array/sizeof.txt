@@ -1,0 +1,13 @@
+*sizeof
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

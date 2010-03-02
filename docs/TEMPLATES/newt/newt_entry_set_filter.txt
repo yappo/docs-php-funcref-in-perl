@@ -1,0 +1,13 @@
+*newt_entry_set_filter
+
+**PHP
+
+>|PHP|
+void newt_entry_set_filter ( resource $entry , callback $filter , mixed $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

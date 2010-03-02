@@ -1,0 +1,13 @@
+*imap_qprint
+
+**PHP
+
+>|PHP|
+string imap_qprint ( string $string )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

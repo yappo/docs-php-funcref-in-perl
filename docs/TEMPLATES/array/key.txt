@@ -1,0 +1,13 @@
+*key
+
+**PHP
+
+>|PHP|
+mixed key ( array &$array )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

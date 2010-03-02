@@ -1,0 +1,13 @@
+*newt_listbox_get_current
+
+**PHP
+
+>|PHP|
+string newt_listbox_get_current ( resource $listbox )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

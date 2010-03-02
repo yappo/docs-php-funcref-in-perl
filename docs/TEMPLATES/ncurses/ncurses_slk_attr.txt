@@ -1,0 +1,13 @@
+*ncurses_slk_attr
+
+**PHP
+
+>|PHP|
+int ncurses_slk_attr ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

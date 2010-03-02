@@ -1,0 +1,13 @@
+*spl_classes
+
+**PHP
+
+>|PHP|
+array spl_classes ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

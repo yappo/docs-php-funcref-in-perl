@@ -1,0 +1,13 @@
+*ps_show_boxed
+
+**PHP
+
+>|PHP|
+int ps_show_boxed ( resource $psdoc , string $text , float $left , float $bottom , float $width , float $height , string $hmode [, string $feature ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

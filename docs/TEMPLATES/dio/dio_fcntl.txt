@@ -1,0 +1,13 @@
+*dio_fcntl
+
+**PHP
+
+>|PHP|
+mixed dio_fcntl ( resource $fd , int $cmd [, mixed $args ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

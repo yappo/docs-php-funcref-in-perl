@@ -1,0 +1,13 @@
+*imap_open
+
+**PHP
+
+>|PHP|
+resource imap_open ( string $mailbox , string $username , string $password [, int $options = NIL [, int $n_retries = 0 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

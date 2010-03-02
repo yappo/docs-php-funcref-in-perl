@@ -1,0 +1,13 @@
+*xslt_set_base
+
+**PHP
+
+>|PHP|
+void xslt_set_base ( resource $xh , string $uri )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

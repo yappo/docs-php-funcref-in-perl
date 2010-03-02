@@ -1,0 +1,13 @@
+*gmp_cmp
+
+**PHP
+
+>|PHP|
+int gmp_cmp ( resource $a , resource $b )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

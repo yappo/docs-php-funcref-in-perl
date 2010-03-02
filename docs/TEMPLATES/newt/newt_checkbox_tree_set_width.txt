@@ -1,0 +1,13 @@
+*newt_checkbox_tree_set_width
+
+**PHP
+
+>|PHP|
+void newt_checkbox_tree_set_width ( resource $checkbox_tree , int $width )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

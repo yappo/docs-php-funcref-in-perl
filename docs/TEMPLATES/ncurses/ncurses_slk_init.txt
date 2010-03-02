@@ -1,0 +1,13 @@
+*ncurses_slk_init
+
+**PHP
+
+>|PHP|
+bool ncurses_slk_init ( int $format )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

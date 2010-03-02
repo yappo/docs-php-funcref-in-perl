@@ -1,0 +1,13 @@
+*fbsql_list_tables
+
+**PHP
+
+>|PHP|
+resource fbsql_list_tables ( string $database [, resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*readline_clear_history
+
+**PHP
+
+>|PHP|
+bool readline_clear_history ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

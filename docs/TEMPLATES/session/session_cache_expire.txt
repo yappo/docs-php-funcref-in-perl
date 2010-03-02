@@ -1,0 +1,13 @@
+*session_cache_expire
+
+**PHP
+
+>|PHP|
+int session_cache_expire ([ string $new_cache_expire ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

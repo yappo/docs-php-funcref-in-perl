@@ -1,0 +1,13 @@
+*hw_api->remove
+
+**PHP
+
+>|PHP|
+bool remove ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

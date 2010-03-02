@@ -1,0 +1,13 @@
+*touch
+
+**PHP
+
+>|PHP|
+bool touch ( string $filename [, int $time = time() [, int $atime ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

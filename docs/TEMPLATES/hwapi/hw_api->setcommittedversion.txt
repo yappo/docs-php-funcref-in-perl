@@ -1,0 +1,13 @@
+*hw_api->setcommittedversion
+
+**PHP
+
+>|PHP|
+hw_api_object setcommittedversion ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*iptcparse
+
+**PHP
+
+>|PHP|
+array iptcparse ( string $iptcblock )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

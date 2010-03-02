@@ -1,0 +1,13 @@
+*gmp_pow
+
+**PHP
+
+>|PHP|
+resource gmp_pow ( resource $base , int $exp )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*newt_textbox
+
+**PHP
+
+>|PHP|
+resource newt_textbox ( int $left , int $top , int $width , int $height [, int $flags ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

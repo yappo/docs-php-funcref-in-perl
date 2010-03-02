@@ -1,0 +1,13 @@
+*event_buffer_read
+
+**PHP
+
+>|PHP|
+string event_buffer_read ( resource $bevent , int $data_size )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

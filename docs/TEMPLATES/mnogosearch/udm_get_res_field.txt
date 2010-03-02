@@ -1,0 +1,13 @@
+*udm_get_res_field
+
+**PHP
+
+>|PHP|
+string udm_get_res_field ( resource $res , int $row , int $field )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

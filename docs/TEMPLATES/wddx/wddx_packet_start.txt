@@ -1,0 +1,13 @@
+*wddx_packet_start
+
+**PHP
+
+>|PHP|
+resource wddx_packet_start ([ string $comment ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

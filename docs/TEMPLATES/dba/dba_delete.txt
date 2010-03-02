@@ -1,0 +1,13 @@
+*dba_delete
+
+**PHP
+
+>|PHP|
+bool dba_delete ( string $key , resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

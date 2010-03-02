@@ -1,0 +1,13 @@
+*socket_send
+
+**PHP
+
+>|PHP|
+int socket_send ( resource $socket , string $buf , int $len , int $flags )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

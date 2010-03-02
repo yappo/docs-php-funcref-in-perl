@@ -1,0 +1,13 @@
+*ldap_close
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

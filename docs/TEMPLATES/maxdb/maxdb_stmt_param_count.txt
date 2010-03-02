@@ -1,0 +1,13 @@
+*maxdb_stmt_param_count
+
+**PHP
+
+>|PHP|
+int maxdb_stmt_param_count ( resource $stmt )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

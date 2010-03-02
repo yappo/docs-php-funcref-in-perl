@@ -1,0 +1,13 @@
+*svn_ls
+
+**PHP
+
+>|PHP|
+array svn_ls ( string $repos_url [, int $revision_no = SVN_REVISION_HEAD [, bool $recurse = false ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

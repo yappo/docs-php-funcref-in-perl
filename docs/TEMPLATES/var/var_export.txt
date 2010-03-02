@@ -1,0 +1,13 @@
+*var_export
+
+**PHP
+
+>|PHP|
+mixed var_export ( mixed $expression [, bool $return = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

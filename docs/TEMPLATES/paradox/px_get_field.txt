@@ -1,0 +1,13 @@
+*px_get_field
+
+**PHP
+
+>|PHP|
+array px_get_field ( resource $pxdoc , int $fieldno )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

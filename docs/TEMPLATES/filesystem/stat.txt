@@ -1,0 +1,13 @@
+*stat
+
+**PHP
+
+>|PHP|
+array stat ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

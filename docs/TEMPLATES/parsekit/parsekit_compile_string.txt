@@ -1,0 +1,13 @@
+*parsekit_compile_string
+
+**PHP
+
+>|PHP|
+array parsekit_compile_string ( string $phpcode [, array &$errors [, int $options = PARSEKIT_QUIET ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*mysql_fetch_field
+
+**PHP
+
+>|PHP|
+object mysql_fetch_field ( resource $result [, int $field_offset = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

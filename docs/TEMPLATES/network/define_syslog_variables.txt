@@ -1,0 +1,13 @@
+*define_syslog_variables
+
+**PHP
+
+>|PHP|
+void define_syslog_variables ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

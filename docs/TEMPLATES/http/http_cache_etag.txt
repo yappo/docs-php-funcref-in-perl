@@ -1,0 +1,13 @@
+*http_cache_etag
+
+**PHP
+
+>|PHP|
+bool http_cache_etag ([ string $etag ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

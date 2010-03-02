@@ -1,0 +1,13 @@
+*dbplus_flush
+
+**PHP
+
+>|PHP|
+int dbplus_flush ( resource $relation )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

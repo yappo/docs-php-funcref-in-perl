@@ -1,0 +1,13 @@
+*ps_add_bookmark
+
+**PHP
+
+>|PHP|
+int ps_add_bookmark ( resource $psdoc , string $text [, int $parent = 0 [, int $open = 0 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

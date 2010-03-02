@@ -1,0 +1,13 @@
+*newt_textbox_get_num_lines
+
+**PHP
+
+>|PHP|
+int newt_textbox_get_num_lines ( resource $textbox )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

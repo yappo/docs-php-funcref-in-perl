@@ -1,0 +1,13 @@
+*ps_open_image_file
+
+**PHP
+
+>|PHP|
+int ps_open_image_file ( resource $psdoc , string $type , string $filename [, string $stringparam [, int $intparam = 0 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

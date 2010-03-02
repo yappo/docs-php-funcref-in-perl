@@ -1,0 +1,13 @@
+*maxdb_fetch_fields
+
+**PHP
+
+>|PHP|
+mixed maxdb_fetch_fields ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

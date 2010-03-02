@@ -1,0 +1,13 @@
+*fbsql_warnings
+
+**PHP
+
+>|PHP|
+bool fbsql_warnings ([ bool $OnOff ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

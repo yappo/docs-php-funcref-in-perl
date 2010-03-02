@@ -1,0 +1,13 @@
+*event_buffer_enable
+
+**PHP
+
+>|PHP|
+bool event_buffer_enable ( resource $bevent , int $events )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

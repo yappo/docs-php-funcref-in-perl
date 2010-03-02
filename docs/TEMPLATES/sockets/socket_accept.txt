@@ -1,0 +1,13 @@
+*socket_accept
+
+**PHP
+
+>|PHP|
+resource socket_accept ( resource $socket )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*filetype
+
+**PHP
+
+>|PHP|
+string filetype ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

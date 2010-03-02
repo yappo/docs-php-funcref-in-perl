@@ -1,0 +1,13 @@
+*m_completeauthorizations
+
+**PHP
+
+>|PHP|
+int m_completeauthorizations ( resource $conn , int &$array )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

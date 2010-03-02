@@ -1,0 +1,13 @@
+*stream_socket_pair
+
+**PHP
+
+>|PHP|
+array stream_socket_pair ( int $domain , int $type , int $protocol )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

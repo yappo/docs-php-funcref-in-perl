@@ -1,0 +1,13 @@
+*exif_read_data
+
+**PHP
+
+>|PHP|
+array exif_read_data ( string $filename [, string $sections = NULL [, bool $arrays = false [, bool $thumbnail = false ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ncurses_start_color
+
+**PHP
+
+>|PHP|
+int ncurses_start_color ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

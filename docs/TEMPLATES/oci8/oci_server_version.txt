@@ -1,0 +1,13 @@
+*oci_server_version
+
+**PHP
+
+>|PHP|
+string oci_server_version ( resource $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

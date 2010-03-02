@@ -1,0 +1,13 @@
+*gzeof
+
+**PHP
+
+>|PHP|
+int gzeof ( resource $zp )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

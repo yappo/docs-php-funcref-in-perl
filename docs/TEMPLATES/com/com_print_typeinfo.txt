@@ -1,0 +1,13 @@
+*com_print_typeinfo
+
+**PHP
+
+>|PHP|
+bool com_print_typeinfo ( object $comobject [, string $dispinterface [, bool $wantsink ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*strnatcmp
+
+**PHP
+
+>|PHP|
+int strnatcmp ( string $str1 , string $str2 )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

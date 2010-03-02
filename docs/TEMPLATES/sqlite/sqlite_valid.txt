@@ -1,0 +1,13 @@
+*sqlite_valid
+
+**PHP
+
+>|PHP|
+bool sqlite_valid ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

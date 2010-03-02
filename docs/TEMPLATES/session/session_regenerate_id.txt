@@ -1,0 +1,13 @@
+*session_regenerate_id
+
+**PHP
+
+>|PHP|
+bool session_regenerate_id ([ bool $delete_old_session = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

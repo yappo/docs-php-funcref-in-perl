@@ -1,0 +1,13 @@
+*stream_get_meta_data
+
+**PHP
+
+>|PHP|
+array stream_get_meta_data ( resource $stream )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

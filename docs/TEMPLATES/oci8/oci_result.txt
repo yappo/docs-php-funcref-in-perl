@@ -1,0 +1,13 @@
+*oci_result
+
+**PHP
+
+>|PHP|
+mixed oci_result ( resource $statement , mixed $field )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

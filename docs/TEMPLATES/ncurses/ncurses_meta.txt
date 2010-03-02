@@ -1,0 +1,13 @@
+*ncurses_meta
+
+**PHP
+
+>|PHP|
+int ncurses_meta ( resource $window , bool $8bit )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

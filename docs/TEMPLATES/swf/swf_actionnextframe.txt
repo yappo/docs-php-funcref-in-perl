@@ -1,0 +1,13 @@
+*swf_actionnextframe
+
+**PHP
+
+>|PHP|
+void swf_actionnextframe ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

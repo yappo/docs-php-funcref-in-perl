@@ -1,0 +1,13 @@
+*fbsql_read_blob
+
+**PHP
+
+>|PHP|
+string fbsql_read_blob ( string $blob_handle [, resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

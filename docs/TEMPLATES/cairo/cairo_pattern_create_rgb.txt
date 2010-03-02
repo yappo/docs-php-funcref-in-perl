@@ -1,0 +1,13 @@
+*cairo_pattern_create_rgb
+
+**PHP
+
+>|PHP|
+CairoPattern cairo_pattern_create_rgb ( float $red , float $green , float $blue )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

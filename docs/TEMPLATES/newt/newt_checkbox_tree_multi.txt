@@ -1,0 +1,13 @@
+*newt_checkbox_tree_multi
+
+**PHP
+
+>|PHP|
+resource newt_checkbox_tree_multi ( int $left , int $top , int $height , string $seq [, int $flags ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

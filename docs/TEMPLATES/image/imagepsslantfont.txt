@@ -1,0 +1,13 @@
+*imagepsslantfont
+
+**PHP
+
+>|PHP|
+bool imagepsslantfont ( resource $font_index , float $slant )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

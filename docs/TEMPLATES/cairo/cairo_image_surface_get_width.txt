@@ -1,0 +1,13 @@
+*cairo_image_surface_get_width
+
+**PHP
+
+>|PHP|
+int cairo_image_surface_get_width ( CairoImageSurface $surface )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

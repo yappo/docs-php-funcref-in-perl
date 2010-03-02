@@ -1,0 +1,13 @@
+*fopen
+
+**PHP
+
+>|PHP|
+resource fopen ( string $filename , string $mode [, bool $use_include_path = false [, resource $context ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

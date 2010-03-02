@@ -1,0 +1,13 @@
+*id3_remove_tag
+
+**PHP
+
+>|PHP|
+bool id3_remove_tag ( string $filename [, int $version = ID3_V1_0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*fam_next_event
+
+**PHP
+
+>|PHP|
+array fam_next_event ( resource $fam )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

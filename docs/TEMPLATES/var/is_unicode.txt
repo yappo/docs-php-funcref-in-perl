@@ -1,0 +1,13 @@
+*is_unicode
+
+**PHP
+
+>|PHP|
+bool is_unicode ( mixed $var )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*mb_regex_encoding
+
+**PHP
+
+>|PHP|
+mixed mb_regex_encoding ([ string $encoding ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

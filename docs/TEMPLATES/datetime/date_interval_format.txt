@@ -1,0 +1,13 @@
+*date_interval_format
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

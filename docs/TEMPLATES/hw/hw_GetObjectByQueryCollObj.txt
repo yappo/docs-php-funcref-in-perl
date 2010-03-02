@@ -1,0 +1,13 @@
+*hw_GetObjectByQueryCollObj
+
+**PHP
+
+>|PHP|
+array hw_getobjectbyquerycollobj ( int $connection , int $objectID , string $query , int $max_hits )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

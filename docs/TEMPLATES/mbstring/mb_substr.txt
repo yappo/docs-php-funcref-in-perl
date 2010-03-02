@@ -1,0 +1,13 @@
+*mb_substr
+
+**PHP
+
+>|PHP|
+string mb_substr ( string $str , int $start [, int $length [, string $encoding ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

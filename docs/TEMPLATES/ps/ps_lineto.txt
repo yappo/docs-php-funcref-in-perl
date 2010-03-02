@@ -1,0 +1,13 @@
+*ps_lineto
+
+**PHP
+
+>|PHP|
+bool ps_lineto ( resource $psdoc , float $x , float $y )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

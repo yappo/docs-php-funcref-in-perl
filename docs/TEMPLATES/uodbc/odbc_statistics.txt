@@ -1,0 +1,13 @@
+*odbc_statistics
+
+**PHP
+
+>|PHP|
+resource odbc_statistics ( resource $connection_id , string $qualifier , string $owner , string $table_name , int $unique , int $accuracy )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*hw_GetObject
+
+**PHP
+
+>|PHP|
+mixed hw_getobject ( int $connection , mixed $objectID [, string $query ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

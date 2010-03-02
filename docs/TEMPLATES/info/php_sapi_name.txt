@@ -1,0 +1,13 @@
+*php_sapi_name
+
+**PHP
+
+>|PHP|
+string php_sapi_name ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

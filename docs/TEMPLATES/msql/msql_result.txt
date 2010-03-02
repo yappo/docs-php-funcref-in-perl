@@ -1,0 +1,13 @@
+*msql_result
+
+**PHP
+
+>|PHP|
+string msql_result ( resource $result , int $row [, mixed $field ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

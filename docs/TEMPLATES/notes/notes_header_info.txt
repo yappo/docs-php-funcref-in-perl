@@ -1,0 +1,13 @@
+*notes_header_info
+
+**PHP
+
+>|PHP|
+object notes_header_info ( string $server , string $mailbox , int $msg_number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

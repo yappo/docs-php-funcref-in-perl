@@ -1,0 +1,13 @@
+*swf_addbuttonrecord
+
+**PHP
+
+>|PHP|
+void swf_addbuttonrecord ( int $states , int $shapeid , int $depth )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

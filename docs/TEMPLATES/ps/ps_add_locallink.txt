@@ -1,0 +1,13 @@
+*ps_add_locallink
+
+**PHP
+
+>|PHP|
+bool ps_add_locallink ( resource $psdoc , float $llx , float $lly , float $urx , float $ury , int $page , string $dest )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*intl_is_failure
+
+**PHP
+
+>|PHP|
+bool intl_is_failure ( int $error_code )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*stats_stat_noncentral_t
+
+**PHP
+
+>|PHP|
+float stats_stat_noncentral_t ( float $par1 , float $par2 , float $par3 , int $which )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

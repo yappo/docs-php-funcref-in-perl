@@ -1,0 +1,13 @@
+*xptr_eval
+
+**PHP
+
+>|PHP|
+int xptr_eval ( string $eval_str [, domnode $contextnode ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

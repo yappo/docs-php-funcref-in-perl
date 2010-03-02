@@ -1,0 +1,13 @@
+*readdir
+
+**PHP
+
+>|PHP|
+string readdir ([ resource $dir_handle ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

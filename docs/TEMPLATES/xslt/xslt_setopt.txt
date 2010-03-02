@@ -1,0 +1,13 @@
+*xslt_setopt
+
+**PHP
+
+>|PHP|
+mixed xslt_setopt ( resource $processor , int $newmask )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

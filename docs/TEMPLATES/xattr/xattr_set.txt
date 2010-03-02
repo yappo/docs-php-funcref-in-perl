@@ -1,0 +1,13 @@
+*xattr_set
+
+**PHP
+
+>|PHP|
+bool xattr_set ( string $filename , string $name , string $value [, int $flags = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

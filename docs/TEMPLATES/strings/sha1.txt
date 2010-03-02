@@ -1,0 +1,13 @@
+*sha1
+
+**PHP
+
+>|PHP|
+string sha1 ( string $str [, bool $raw_output = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

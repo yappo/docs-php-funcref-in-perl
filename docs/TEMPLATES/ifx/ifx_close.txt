@@ -1,0 +1,13 @@
+*ifx_close
+
+**PHP
+
+>|PHP|
+bool ifx_close ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

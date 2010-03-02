@@ -1,0 +1,13 @@
+*ssh2_scp_recv
+
+**PHP
+
+>|PHP|
+bool ssh2_scp_recv ( resource $session , string $remote_file , string $local_file )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

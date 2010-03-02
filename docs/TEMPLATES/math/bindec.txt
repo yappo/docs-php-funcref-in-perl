@@ -1,0 +1,13 @@
+*bindec
+
+**PHP
+
+>|PHP|
+number bindec ( string $binary_string )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

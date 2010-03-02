@@ -1,0 +1,13 @@
+*tidy_load_config
+
+**PHP
+
+>|PHP|
+void tidy_load_config ( string $filename , string $encoding )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

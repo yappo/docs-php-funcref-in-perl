@@ -1,0 +1,13 @@
+*variant_xor
+
+**PHP
+
+>|PHP|
+mixed variant_xor ( mixed $left , mixed $right )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

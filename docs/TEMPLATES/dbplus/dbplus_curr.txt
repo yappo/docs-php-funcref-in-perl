@@ -1,0 +1,13 @@
+*dbplus_curr
+
+**PHP
+
+>|PHP|
+int dbplus_curr ( resource $relation , array &$tuple )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

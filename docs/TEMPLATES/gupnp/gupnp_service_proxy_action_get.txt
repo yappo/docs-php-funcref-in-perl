@@ -1,0 +1,13 @@
+*gupnp_service_proxy_action_get
+
+**PHP
+
+>|PHP|
+mixed gupnp_service_proxy_action_get ( resource $proxy , string $action , string $name , int $type )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

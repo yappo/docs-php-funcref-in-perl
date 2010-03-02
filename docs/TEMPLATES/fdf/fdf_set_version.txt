@@ -1,0 +1,13 @@
+*fdf_set_version
+
+**PHP
+
+>|PHP|
+bool fdf_set_version ( resource $fdf_document , string $version )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

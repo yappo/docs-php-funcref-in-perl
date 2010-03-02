@@ -1,0 +1,13 @@
+*textdomain
+
+**PHP
+
+>|PHP|
+string textdomain ( string $text_domain )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

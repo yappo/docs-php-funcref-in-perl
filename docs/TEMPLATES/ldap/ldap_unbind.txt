@@ -1,0 +1,13 @@
+*ldap_unbind
+
+**PHP
+
+>|PHP|
+bool ldap_unbind ( resource $link_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

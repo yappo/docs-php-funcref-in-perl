@@ -1,0 +1,13 @@
+*dbplus_savepos
+
+**PHP
+
+>|PHP|
+int dbplus_savepos ( resource $relation )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

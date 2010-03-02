@@ -1,0 +1,13 @@
+*oci_cancel
+
+**PHP
+
+>|PHP|
+bool oci_cancel ( resource $statement )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

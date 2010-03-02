@@ -1,0 +1,13 @@
+*newt_reflow_text
+
+**PHP
+
+>|PHP|
+string newt_reflow_text ( string $text , int $width , int $flex_down , int $flex_up , int &$actual_width , int &$actual_height )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

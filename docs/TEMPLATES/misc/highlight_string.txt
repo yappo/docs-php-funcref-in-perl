@@ -1,0 +1,13 @@
+*highlight_string
+
+**PHP
+
+>|PHP|
+mixed highlight_string ( string $str [, bool $return = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

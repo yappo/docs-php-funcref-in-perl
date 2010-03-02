@@ -1,0 +1,13 @@
+*fgets
+
+**PHP
+
+>|PHP|
+string fgets ( resource $handle [, int $length ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

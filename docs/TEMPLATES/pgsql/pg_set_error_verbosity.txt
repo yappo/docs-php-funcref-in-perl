@@ -1,0 +1,13 @@
+*pg_set_error_verbosity
+
+**PHP
+
+>|PHP|
+int pg_set_error_verbosity ([ resource $connection ], int $verbosity )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

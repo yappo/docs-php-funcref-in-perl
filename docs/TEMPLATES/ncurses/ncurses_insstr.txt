@@ -1,0 +1,13 @@
+*ncurses_insstr
+
+**PHP
+
+>|PHP|
+int ncurses_insstr ( string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

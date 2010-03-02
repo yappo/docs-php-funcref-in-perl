@@ -1,0 +1,13 @@
+*oci_fetch_array
+
+**PHP
+
+>|PHP|
+array oci_fetch_array ( resource $statement [, int $mode ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*tempnam
+
+**PHP
+
+>|PHP|
+string tempnam ( string $dir , string $prefix )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

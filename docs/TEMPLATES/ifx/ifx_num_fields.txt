@@ -1,0 +1,13 @@
+*ifx_num_fields
+
+**PHP
+
+>|PHP|
+int ifx_num_fields ( resource $result_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

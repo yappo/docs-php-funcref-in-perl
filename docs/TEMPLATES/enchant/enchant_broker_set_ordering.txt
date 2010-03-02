@@ -1,0 +1,13 @@
+*enchant_broker_set_ordering
+
+**PHP
+
+>|PHP|
+bool enchant_broker_set_ordering ( resource $broker , string $tag , string $ordering )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*cairo_create
+
+**PHP
+
+>|PHP|
+Cairo cairo_create ( CairoSurface $surface )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

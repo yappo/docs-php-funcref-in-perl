@@ -1,0 +1,13 @@
+*imagepsencodefont
+
+**PHP
+
+>|PHP|
+bool imagepsencodefont ( resource $font_index , string $encodingfile )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

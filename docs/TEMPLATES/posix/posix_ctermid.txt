@@ -1,0 +1,13 @@
+*posix_ctermid
+
+**PHP
+
+>|PHP|
+string posix_ctermid ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

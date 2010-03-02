@@ -1,0 +1,13 @@
+*stripslashes
+
+**PHP
+
+>|PHP|
+string stripslashes ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

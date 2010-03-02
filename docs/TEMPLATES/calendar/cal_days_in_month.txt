@@ -1,0 +1,13 @@
+*cal_days_in_month
+
+**PHP
+
+>|PHP|
+int cal_days_in_month ( int $calendar , int $month , int $year )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

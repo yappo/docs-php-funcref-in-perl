@@ -1,0 +1,13 @@
+*posix_get_last_error
+
+**PHP
+
+>|PHP|
+int posix_get_last_error ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

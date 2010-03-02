@@ -1,0 +1,13 @@
+*ssh2_sftp
+
+**PHP
+
+>|PHP|
+resource ssh2_sftp ( resource $session )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

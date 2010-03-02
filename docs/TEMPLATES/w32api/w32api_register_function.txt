@@ -1,0 +1,13 @@
+*w32api_register_function
+
+**PHP
+
+>|PHP|
+bool w32api_register_function ( string $library , string $function_name , string $return_type )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*notes_find_note
+
+**PHP
+
+>|PHP|
+int notes_find_note ( string $database_name , string $name [, string $type ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

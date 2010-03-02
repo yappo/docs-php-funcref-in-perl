@@ -1,0 +1,13 @@
+*session_pgsql_set_field
+
+**PHP
+
+>|PHP|
+bool session_pgsql_set_field ( string $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

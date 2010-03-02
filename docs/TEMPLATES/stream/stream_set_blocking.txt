@@ -1,0 +1,13 @@
+*stream_set_blocking
+
+**PHP
+
+>|PHP|
+bool stream_set_blocking ( resource $stream , int $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

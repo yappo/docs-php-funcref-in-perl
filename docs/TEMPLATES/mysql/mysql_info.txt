@@ -1,0 +1,13 @@
+*mysql_info
+
+**PHP
+
+>|PHP|
+string mysql_info ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

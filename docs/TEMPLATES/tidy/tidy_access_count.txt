@@ -1,0 +1,13 @@
+*tidy_access_count
+
+**PHP
+
+>|PHP|
+int tidy_access_count ( tidy $object )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

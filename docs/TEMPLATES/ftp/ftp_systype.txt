@@ -1,0 +1,13 @@
+*ftp_systype
+
+**PHP
+
+>|PHP|
+string ftp_systype ( resource $ftp_stream )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

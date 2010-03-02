@@ -1,0 +1,13 @@
+*strrchr
+
+**PHP
+
+>|PHP|
+string strrchr ( string $haystack , mixed $needle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

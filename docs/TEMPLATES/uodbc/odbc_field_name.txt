@@ -1,0 +1,13 @@
+*odbc_field_name
+
+**PHP
+
+>|PHP|
+string odbc_field_name ( resource $result_id , int $field_number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

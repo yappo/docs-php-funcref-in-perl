@@ -1,0 +1,13 @@
+*runkit_method_copy
+
+**PHP
+
+>|PHP|
+bool runkit_method_copy ( string $dClass , string $dMethod , string $sClass [, string $sMethod ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ps_get_value
+
+**PHP
+
+>|PHP|
+float ps_get_value ( resource $psdoc , string $name [, float $modifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

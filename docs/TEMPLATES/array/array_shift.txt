@@ -1,0 +1,13 @@
+*array_shift
+
+**PHP
+
+>|PHP|
+mixed array_shift ( array &$array )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

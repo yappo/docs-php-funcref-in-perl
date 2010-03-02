@@ -1,0 +1,13 @@
+*gc_collect_cycles
+
+**PHP
+
+>|PHP|
+int gc_collect_cycles ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

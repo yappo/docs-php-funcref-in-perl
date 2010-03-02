@@ -1,0 +1,13 @@
+*radius_cvt_string
+
+**PHP
+
+>|PHP|
+string radius_cvt_string ( string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

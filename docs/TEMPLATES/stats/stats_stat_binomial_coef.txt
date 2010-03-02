@@ -1,0 +1,13 @@
+*stats_stat_binomial_coef
+
+**PHP
+
+>|PHP|
+float stats_stat_binomial_coef ( int $x , int $n )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

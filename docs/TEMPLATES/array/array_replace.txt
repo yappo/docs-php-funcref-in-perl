@@ -1,0 +1,13 @@
+*array_replace
+
+**PHP
+
+>|PHP|
+array array_replace ( array &$array , array &$array1 [, array &$array2 [, array &$... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

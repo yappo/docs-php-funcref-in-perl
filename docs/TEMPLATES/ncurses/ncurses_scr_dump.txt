@@ -1,0 +1,13 @@
+*ncurses_scr_dump
+
+**PHP
+
+>|PHP|
+int ncurses_scr_dump ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

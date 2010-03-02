@@ -1,0 +1,13 @@
+*newt_listbox_set_entry
+
+**PHP
+
+>|PHP|
+void newt_listbox_set_entry ( resource $listbox , int $num , string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

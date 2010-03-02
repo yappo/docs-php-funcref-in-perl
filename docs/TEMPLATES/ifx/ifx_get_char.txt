@@ -1,0 +1,13 @@
+*ifx_get_char
+
+**PHP
+
+>|PHP|
+string ifx_get_char ( int $bid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

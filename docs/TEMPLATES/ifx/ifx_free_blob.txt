@@ -1,0 +1,13 @@
+*ifx_free_blob
+
+**PHP
+
+>|PHP|
+bool ifx_free_blob ( int $bid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

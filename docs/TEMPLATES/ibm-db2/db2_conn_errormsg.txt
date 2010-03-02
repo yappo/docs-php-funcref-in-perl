@@ -1,0 +1,13 @@
+*db2_conn_errormsg
+
+**PHP
+
+>|PHP|
+string db2_conn_errormsg ([ resource $connection ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

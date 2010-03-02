@@ -1,0 +1,13 @@
+*pcntl_wait
+
+**PHP
+
+>|PHP|
+int pcntl_wait ( int &$status [, int $options = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

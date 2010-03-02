@@ -1,0 +1,13 @@
+*classkit_method_remove
+
+**PHP
+
+>|PHP|
+bool classkit_method_remove ( string $classname , string $methodname )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

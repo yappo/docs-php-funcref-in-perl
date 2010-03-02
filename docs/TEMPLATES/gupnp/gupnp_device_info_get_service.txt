@@ -1,0 +1,13 @@
+*gupnp_device_info_get_service
+
+**PHP
+
+>|PHP|
+resource gupnp_device_info_get_service ( resource $root_device , string $type )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*class_parents
+
+**PHP
+
+>|PHP|
+array class_parents ( mixed $class [, bool $autoload = true ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

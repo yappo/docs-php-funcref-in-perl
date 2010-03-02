@@ -1,0 +1,13 @@
+*mysql_num_fields
+
+**PHP
+
+>|PHP|
+int mysql_num_fields ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

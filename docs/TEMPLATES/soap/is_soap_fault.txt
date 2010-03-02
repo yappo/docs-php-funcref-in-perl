@@ -1,0 +1,13 @@
+*is_soap_fault
+
+**PHP
+
+>|PHP|
+bool is_soap_fault ( mixed $object )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*gnupg_setsignmode
+
+**PHP
+
+>|PHP|
+bool gnupg_setsignmode ( resource $identifier , int $signmode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

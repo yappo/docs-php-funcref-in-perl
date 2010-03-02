@@ -1,0 +1,13 @@
+*stomp_version
+
+**PHP
+
+>|PHP|
+string stomp_version ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

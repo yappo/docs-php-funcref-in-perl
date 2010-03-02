@@ -1,0 +1,13 @@
+*dbplus_rquery
+
+**PHP
+
+>|PHP|
+resource dbplus_rquery ( string $query [, string $dbpath ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

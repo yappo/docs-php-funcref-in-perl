@@ -1,0 +1,13 @@
+*ldap_first_attribute
+
+**PHP
+
+>|PHP|
+string ldap_first_attribute ( resource $link_identifier , resource $result_entry_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

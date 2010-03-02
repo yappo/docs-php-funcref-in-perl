@@ -1,0 +1,13 @@
+*gd_info
+
+**PHP
+
+>|PHP|
+array gd_info ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

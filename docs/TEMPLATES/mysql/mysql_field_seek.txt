@@ -1,0 +1,13 @@
+*mysql_field_seek
+
+**PHP
+
+>|PHP|
+bool mysql_field_seek ( resource $result , int $field_offset )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

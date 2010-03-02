@@ -1,0 +1,13 @@
+*fdf_set_file
+
+**PHP
+
+>|PHP|
+bool fdf_set_file ( resource $fdf_document , string $url [, string $target_frame ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

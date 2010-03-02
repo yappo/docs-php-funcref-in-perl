@@ -1,0 +1,13 @@
+*hw_api->insertcollection
+
+**PHP
+
+>|PHP|
+hw_api_object insertcollection ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

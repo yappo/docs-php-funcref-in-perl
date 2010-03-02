@@ -1,0 +1,13 @@
+*odbc_prepare
+
+**PHP
+
+>|PHP|
+resource odbc_prepare ( resource $connection_id , string $query_string )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

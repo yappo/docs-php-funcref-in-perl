@@ -1,0 +1,13 @@
+*stats_stat_innerproduct
+
+**PHP
+
+>|PHP|
+float stats_stat_innerproduct ( array $arr1 , array $arr2 )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

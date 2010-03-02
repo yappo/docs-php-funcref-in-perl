@@ -1,0 +1,13 @@
+*crack_closedict
+
+**PHP
+
+>|PHP|
+bool crack_closedict ([ resource $dictionary ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

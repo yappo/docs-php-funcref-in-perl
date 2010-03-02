@@ -1,0 +1,13 @@
+*debug_print_backtrace
+
+**PHP
+
+>|PHP|
+void debug_print_backtrace ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

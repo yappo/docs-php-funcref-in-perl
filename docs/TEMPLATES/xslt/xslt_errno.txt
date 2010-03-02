@@ -1,0 +1,13 @@
+*xslt_errno
+
+**PHP
+
+>|PHP|
+int xslt_errno ( resource $xh )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

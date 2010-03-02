@@ -1,0 +1,13 @@
+*each
+
+**PHP
+
+>|PHP|
+array each ( array &$array )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

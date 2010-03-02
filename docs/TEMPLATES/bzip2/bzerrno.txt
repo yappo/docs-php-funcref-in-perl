@@ -1,0 +1,13 @@
+*bzerrno
+
+**PHP
+
+>|PHP|
+int bzerrno ( resource $bz )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

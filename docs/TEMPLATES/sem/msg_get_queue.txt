@@ -1,0 +1,13 @@
+*msg_get_queue
+
+**PHP
+
+>|PHP|
+resource msg_get_queue ( int $key [, int $perms ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

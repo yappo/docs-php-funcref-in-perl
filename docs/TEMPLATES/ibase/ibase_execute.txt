@@ -1,0 +1,13 @@
+*ibase_execute
+
+**PHP
+
+>|PHP|
+resource ibase_execute ( resource $query [, mixed $bind_arg [, mixed $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

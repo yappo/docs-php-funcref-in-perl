@@ -1,0 +1,13 @@
+*str_rot13
+
+**PHP
+
+>|PHP|
+string str_rot13 ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ibase_service_attach
+
+**PHP
+
+>|PHP|
+resource ibase_service_attach ( string $host , string $dba_username , string $dba_password )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

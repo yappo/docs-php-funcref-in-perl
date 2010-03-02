@@ -1,0 +1,13 @@
+*dio_open
+
+**PHP
+
+>|PHP|
+resource dio_open ( string $filename , int $flags [, int $mode = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*yaz_es_result
+
+**PHP
+
+>|PHP|
+array yaz_es_result ( resource $id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*newt_win_menu
+
+**PHP
+
+>|PHP|
+int newt_win_menu ( string $title , string $text , int $suggestedWidth , int $flexDown , int $flexUp , int $maxListHeight , array $items , int &$listItem [, string $button1 [, string $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

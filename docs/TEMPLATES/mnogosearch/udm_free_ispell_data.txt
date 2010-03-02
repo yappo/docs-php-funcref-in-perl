@@ -1,0 +1,13 @@
+*udm_free_ispell_data
+
+**PHP
+
+>|PHP|
+bool udm_free_ispell_data ( int $agent )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

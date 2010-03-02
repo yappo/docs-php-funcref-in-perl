@@ -1,0 +1,13 @@
+*maxdb_field_count
+
+**PHP
+
+>|PHP|
+int maxdb_field_count ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

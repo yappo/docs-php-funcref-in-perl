@@ -1,0 +1,13 @@
+*ps_clip
+
+**PHP
+
+>|PHP|
+bool ps_clip ( resource $psdoc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

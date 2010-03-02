@@ -1,0 +1,13 @@
+*is_scalar
+
+**PHP
+
+>|PHP|
+bool is_scalar ( mixed $var )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

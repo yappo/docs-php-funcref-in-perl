@@ -1,0 +1,13 @@
+*xslt_create
+
+**PHP
+
+>|PHP|
+resource xslt_create ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

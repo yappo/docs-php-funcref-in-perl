@@ -1,0 +1,13 @@
+*fbsql_commit
+
+**PHP
+
+>|PHP|
+bool fbsql_commit ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

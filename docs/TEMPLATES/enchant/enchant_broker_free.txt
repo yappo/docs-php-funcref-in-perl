@@ -1,0 +1,13 @@
+*enchant_broker_free
+
+**PHP
+
+>|PHP|
+bool enchant_broker_free ( resource $broker )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

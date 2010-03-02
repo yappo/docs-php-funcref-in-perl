@@ -1,0 +1,13 @@
+*hebrev
+
+**PHP
+
+>|PHP|
+string hebrev ( string $hebrew_text [, int $max_chars_per_line = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

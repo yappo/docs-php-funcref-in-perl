@@ -1,0 +1,13 @@
+*apd_dump_function_table
+
+**PHP
+
+>|PHP|
+void apd_dump_function_table ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

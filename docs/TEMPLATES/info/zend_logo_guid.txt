@@ -1,0 +1,13 @@
+*zend_logo_guid
+
+**PHP
+
+>|PHP|
+string zend_logo_guid ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

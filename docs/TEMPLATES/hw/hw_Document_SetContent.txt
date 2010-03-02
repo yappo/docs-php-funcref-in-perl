@@ -1,0 +1,13 @@
+*hw_Document_SetContent
+
+**PHP
+
+>|PHP|
+bool hw_document_setcontent ( int $hw_document , string $content )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*class_exists
+
+**PHP
+
+>|PHP|
+bool class_exists ( string $class_name [, bool $autoload = true ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

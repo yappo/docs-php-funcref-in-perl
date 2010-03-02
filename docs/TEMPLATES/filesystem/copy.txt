@@ -1,0 +1,13 @@
+*copy
+
+**PHP
+
+>|PHP|
+bool copy ( string $source , string $dest [, resource $context ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*newt_init
+
+**PHP
+
+>|PHP|
+int newt_init ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

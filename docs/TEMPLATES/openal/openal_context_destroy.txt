@@ -1,0 +1,13 @@
+*openal_context_destroy
+
+**PHP
+
+>|PHP|
+bool openal_context_destroy ( resource $context )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

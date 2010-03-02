@@ -1,0 +1,13 @@
+*ncurses_mouseinterval
+
+**PHP
+
+>|PHP|
+int ncurses_mouseinterval ( int $milliseconds )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

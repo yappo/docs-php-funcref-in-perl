@@ -1,0 +1,13 @@
+*ps_hyphenate
+
+**PHP
+
+>|PHP|
+array ps_hyphenate ( resource $psdoc , string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

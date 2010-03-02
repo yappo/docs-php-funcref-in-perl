@@ -1,0 +1,13 @@
+*ingres_prepare
+
+**PHP
+
+>|PHP|
+mixed ingres_prepare ( resource $link , string $query )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

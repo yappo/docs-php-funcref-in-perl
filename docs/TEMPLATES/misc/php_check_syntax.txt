@@ -1,0 +1,13 @@
+*php_check_syntax
+
+**PHP
+
+>|PHP|
+bool php_check_syntax ( string $filename [, string &$error_message ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

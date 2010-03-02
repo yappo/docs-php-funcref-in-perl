@@ -1,0 +1,13 @@
+*hw_cp
+
+**PHP
+
+>|PHP|
+int hw_cp ( int $connection , array $object_id_array , int $destination_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

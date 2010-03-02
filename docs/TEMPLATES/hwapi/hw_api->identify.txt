@@ -1,0 +1,13 @@
+*hw_api->identify
+
+**PHP
+
+>|PHP|
+bool identify ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

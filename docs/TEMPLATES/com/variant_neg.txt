@@ -1,0 +1,13 @@
+*variant_neg
+
+**PHP
+
+>|PHP|
+mixed variant_neg ( mixed $variant )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

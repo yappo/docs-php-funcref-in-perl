@@ -1,0 +1,13 @@
+*swf_getfontinfo
+
+**PHP
+
+>|PHP|
+array swf_getfontinfo ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

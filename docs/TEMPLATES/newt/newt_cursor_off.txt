@@ -1,0 +1,13 @@
+*newt_cursor_off
+
+**PHP
+
+>|PHP|
+void newt_cursor_off ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

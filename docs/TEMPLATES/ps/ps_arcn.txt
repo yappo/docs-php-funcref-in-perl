@@ -1,0 +1,13 @@
+*ps_arcn
+
+**PHP
+
+>|PHP|
+bool ps_arcn ( resource $psdoc , float $x , float $y , float $radius , float $alpha , float $beta )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

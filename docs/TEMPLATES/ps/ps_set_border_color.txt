@@ -1,0 +1,13 @@
+*ps_set_border_color
+
+**PHP
+
+>|PHP|
+bool ps_set_border_color ( resource $psdoc , float $red , float $green , float $blue )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

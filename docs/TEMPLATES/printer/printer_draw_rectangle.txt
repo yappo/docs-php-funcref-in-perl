@@ -1,0 +1,13 @@
+*printer_draw_rectangle
+
+**PHP
+
+>|PHP|
+void printer_draw_rectangle ( resource $printer_handle , int $ul_x , int $ul_y , int $lr_x , int $lr_y )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

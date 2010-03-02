@@ -1,0 +1,13 @@
+*mailparse_msg_get_structure
+
+**PHP
+
+>|PHP|
+array mailparse_msg_get_structure ( resource $mimemail )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ldap_next_reference
+
+**PHP
+
+>|PHP|
+resource ldap_next_reference ( resource $link , resource $entry )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

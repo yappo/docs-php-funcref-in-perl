@@ -1,0 +1,13 @@
+*uksort
+
+**PHP
+
+>|PHP|
+bool uksort ( array &$array , callback $cmp_function )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

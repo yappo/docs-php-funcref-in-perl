@@ -1,0 +1,13 @@
+*ingres_field_type
+
+**PHP
+
+>|PHP|
+string ingres_field_type ( resource $result , int $index )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*http_parse_message
+
+**PHP
+
+>|PHP|
+object http_parse_message ( string $message )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

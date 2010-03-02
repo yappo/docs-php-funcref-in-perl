@@ -1,0 +1,13 @@
+*db2_escape_string
+
+**PHP
+
+>|PHP|
+string db2_escape_string ( string $string_literal )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

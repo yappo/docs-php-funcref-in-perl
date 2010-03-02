@@ -1,0 +1,13 @@
+*yaz_schema
+
+**PHP
+
+>|PHP|
+void yaz_schema ( resource $id , string $schema )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

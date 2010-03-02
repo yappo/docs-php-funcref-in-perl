@@ -1,0 +1,13 @@
+*geoip_db_filename
+
+**PHP
+
+>|PHP|
+string geoip_db_filename ( int $database )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

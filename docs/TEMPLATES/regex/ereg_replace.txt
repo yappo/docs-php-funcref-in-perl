@@ -1,0 +1,13 @@
+*ereg_replace
+
+**PHP
+
+>|PHP|
+string ereg_replace ( string $pattern , string $replacement , string $string )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

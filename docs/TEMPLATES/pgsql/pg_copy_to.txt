@@ -1,0 +1,13 @@
+*pg_copy_to
+
+**PHP
+
+>|PHP|
+array pg_copy_to ( resource $connection , string $table_name [, string $delimiter [, string $null_as ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

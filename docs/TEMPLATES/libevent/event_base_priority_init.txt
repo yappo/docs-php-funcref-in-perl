@@ -1,0 +1,13 @@
+*event_base_priority_init
+
+**PHP
+
+>|PHP|
+bool event_base_priority_init ( resource $event_base , int $npriorities )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

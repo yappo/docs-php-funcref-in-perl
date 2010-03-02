@@ -1,0 +1,13 @@
+*pg_send_query
+
+**PHP
+
+>|PHP|
+bool pg_send_query ( resource $connection , string $query )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

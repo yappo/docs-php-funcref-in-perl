@@ -1,0 +1,13 @@
+*gupnp_context_unhost_path
+
+**PHP
+
+>|PHP|
+bool gupnp_context_unhost_path ( resource $context , string $server_path )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

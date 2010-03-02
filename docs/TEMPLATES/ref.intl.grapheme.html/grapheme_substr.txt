@@ -1,0 +1,13 @@
+*grapheme_substr
+
+**PHP
+
+>|PHP|
+int grapheme_substr ( string $string , int $start [, int $length ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

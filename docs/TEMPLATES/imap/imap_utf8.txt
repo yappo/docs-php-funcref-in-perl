@@ -1,0 +1,13 @@
+*imap_utf8
+
+**PHP
+
+>|PHP|
+string imap_utf8 ( string $mime_encoded_text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

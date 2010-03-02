@@ -1,0 +1,13 @@
+*iterator_count
+
+**PHP
+
+>|PHP|
+int iterator_count ( Traversable $iterator )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ncurses_isendwin
+
+**PHP
+
+>|PHP|
+bool ncurses_isendwin ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

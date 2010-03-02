@@ -1,0 +1,13 @@
+*ibase_num_fields
+
+**PHP
+
+>|PHP|
+int ibase_num_fields ( resource $result_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

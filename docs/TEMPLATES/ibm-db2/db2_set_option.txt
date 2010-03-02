@@ -1,0 +1,13 @@
+*db2_set_option
+
+**PHP
+
+>|PHP|
+bool db2_set_option ( resource $resource , array $options , int $type )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*dba_key_split
+
+**PHP
+
+>|PHP|
+mixed dba_key_split ( mixed $key )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

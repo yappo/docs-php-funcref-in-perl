@@ -1,0 +1,13 @@
+*db2_num_fields
+
+**PHP
+
+>|PHP|
+int db2_num_fields ( resource $stmt )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

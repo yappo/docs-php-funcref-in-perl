@@ -1,0 +1,13 @@
+*fam_resume_monitor
+
+**PHP
+
+>|PHP|
+bool fam_resume_monitor ( resource $fam , resource $fam_monitor )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

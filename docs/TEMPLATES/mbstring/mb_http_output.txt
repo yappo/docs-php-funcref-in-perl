@@ -1,0 +1,13 @@
+*mb_http_output
+
+**PHP
+
+>|PHP|
+mixed mb_http_output ([ string $encoding ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

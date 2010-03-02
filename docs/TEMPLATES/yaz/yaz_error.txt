@@ -1,0 +1,13 @@
+*yaz_error
+
+**PHP
+
+>|PHP|
+string yaz_error ( resource $id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

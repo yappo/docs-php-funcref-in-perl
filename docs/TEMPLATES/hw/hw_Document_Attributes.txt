@@ -1,0 +1,13 @@
+*hw_Document_Attributes
+
+**PHP
+
+>|PHP|
+string hw_document_attributes ( int $hw_document )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

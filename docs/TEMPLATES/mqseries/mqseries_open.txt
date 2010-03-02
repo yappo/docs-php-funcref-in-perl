@@ -1,0 +1,13 @@
+*mqseries_open
+
+**PHP
+
+>|PHP|
+void mqseries_open ( resource $hconn , array &$objDesc , int $option , resource &$hobj , resource &$compCode , resource &$reason )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

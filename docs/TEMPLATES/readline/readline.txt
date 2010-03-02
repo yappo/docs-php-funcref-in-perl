@@ -1,0 +1,13 @@
+*readline
+
+**PHP
+
+>|PHP|
+string readline ([ string $prompt ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*imagecreatefromwbmp
+
+**PHP
+
+>|PHP|
+resource imagecreatefromwbmp ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

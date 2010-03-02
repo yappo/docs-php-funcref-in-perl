@@ -1,0 +1,13 @@
+*rewinddir
+
+**PHP
+
+>|PHP|
+void rewinddir ([ resource $dir_handle ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

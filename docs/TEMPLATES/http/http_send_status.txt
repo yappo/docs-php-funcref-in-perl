@@ -1,0 +1,13 @@
+*http_send_status
+
+**PHP
+
+>|PHP|
+bool http_send_status ( int $status )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

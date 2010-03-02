@@ -1,0 +1,13 @@
+*dbplus_tcl
+
+**PHP
+
+>|PHP|
+string dbplus_tcl ( int $sid , string $script )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

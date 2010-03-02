@@ -1,0 +1,13 @@
+*fdf_add_template
+
+**PHP
+
+>|PHP|
+bool fdf_add_template ( resource $fdf_document , int $newpage , string $filename , string $template , int $rename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

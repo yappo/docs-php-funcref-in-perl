@@ -1,0 +1,13 @@
+*com_get
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

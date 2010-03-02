@@ -1,0 +1,13 @@
+*hw_Who
+
+**PHP
+
+>|PHP|
+array hw_who ( int $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*http_persistent_handles_ident
+
+**PHP
+
+>|PHP|
+string http_persistent_handles_ident ( string $ident )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

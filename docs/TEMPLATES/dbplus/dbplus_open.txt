@@ -1,0 +1,13 @@
+*dbplus_open
+
+**PHP
+
+>|PHP|
+resource dbplus_open ( string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

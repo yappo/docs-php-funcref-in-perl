@@ -1,0 +1,13 @@
+*pg_update
+
+**PHP
+
+>|PHP|
+mixed pg_update ( resource $connection , string $table_name , array $data , array $condition [, int $options = PGSQL_DML_EXEC ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

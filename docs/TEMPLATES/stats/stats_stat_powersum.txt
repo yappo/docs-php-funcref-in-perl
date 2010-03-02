@@ -1,0 +1,13 @@
+*stats_stat_powersum
+
+**PHP
+
+>|PHP|
+float stats_stat_powersum ( array $arr , float $power )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

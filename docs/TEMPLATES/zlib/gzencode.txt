@@ -1,0 +1,13 @@
+*gzencode
+
+**PHP
+
+>|PHP|
+string gzencode ( string $data [, int $level = -1 [, int $encoding_mode = FORCE_GZIP ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

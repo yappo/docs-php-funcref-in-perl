@@ -1,0 +1,13 @@
+*pg_get_notify
+
+**PHP
+
+>|PHP|
+array pg_get_notify ( resource $connection [, int $result_type ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

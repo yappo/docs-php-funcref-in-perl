@@ -1,0 +1,13 @@
+*mssql_field_name
+
+**PHP
+
+>|PHP|
+string mssql_field_name ( resource $result [, int $offset = -1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

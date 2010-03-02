@@ -1,0 +1,13 @@
+*maxdb_enable_rpl_parse
+
+**PHP
+
+>|PHP|
+bool maxdb_enable_rpl_parse ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

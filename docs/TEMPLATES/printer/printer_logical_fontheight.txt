@@ -1,0 +1,13 @@
+*printer_logical_fontheight
+
+**PHP
+
+>|PHP|
+int printer_logical_fontheight ( resource $printer_handle , int $height )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

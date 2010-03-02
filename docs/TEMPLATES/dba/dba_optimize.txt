@@ -1,0 +1,13 @@
+*dba_optimize
+
+**PHP
+
+>|PHP|
+bool dba_optimize ( resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

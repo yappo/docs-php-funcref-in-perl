@@ -1,0 +1,13 @@
+*maxdb_character_set_name
+
+**PHP
+
+>|PHP|
+string maxdb_character_set_name ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*stats_cdf_t
+
+**PHP
+
+>|PHP|
+float stats_cdf_t ( float $par1 , float $par2 , int $which )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

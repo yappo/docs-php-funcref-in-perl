@@ -1,0 +1,13 @@
+*px_get_value
+
+**PHP
+
+>|PHP|
+float px_get_value ( resource $pxdoc , string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

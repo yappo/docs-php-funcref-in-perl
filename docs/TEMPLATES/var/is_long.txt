@@ -1,0 +1,13 @@
+*is_long
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

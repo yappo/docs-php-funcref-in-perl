@@ -1,0 +1,13 @@
+*newt_grid_place
+
+**PHP
+
+>|PHP|
+void newt_grid_place ( resource $grid , int $left , int $top )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

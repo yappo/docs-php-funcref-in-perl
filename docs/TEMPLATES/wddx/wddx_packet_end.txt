@@ -1,0 +1,13 @@
+*wddx_packet_end
+
+**PHP
+
+>|PHP|
+string wddx_packet_end ( resource $packet_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

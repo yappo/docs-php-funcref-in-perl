@@ -1,0 +1,13 @@
+*maxdb_enable_reads_from_master
+
+**PHP
+
+>|PHP|
+bool maxdb_enable_reads_from_master ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

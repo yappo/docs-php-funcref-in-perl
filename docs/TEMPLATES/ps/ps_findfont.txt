@@ -1,0 +1,13 @@
+*ps_findfont
+
+**PHP
+
+>|PHP|
+int ps_findfont ( resource $psdoc , string $fontname , string $encoding [, bool $embed = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

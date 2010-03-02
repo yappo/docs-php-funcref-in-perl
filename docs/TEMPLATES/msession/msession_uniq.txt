@@ -1,0 +1,13 @@
+*msession_uniq
+
+**PHP
+
+>|PHP|
+string msession_uniq ( int $param [, string $classname [, string $data ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

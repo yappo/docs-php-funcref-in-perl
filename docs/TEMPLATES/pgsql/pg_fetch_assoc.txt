@@ -1,0 +1,13 @@
+*pg_fetch_assoc
+
+**PHP
+
+>|PHP|
+array pg_fetch_assoc ( resource $result [, int $row ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

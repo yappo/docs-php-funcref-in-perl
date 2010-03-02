@@ -1,0 +1,13 @@
+*ncurses_whline
+
+**PHP
+
+>|PHP|
+int ncurses_whline ( resource $window , int $charattr , int $n )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

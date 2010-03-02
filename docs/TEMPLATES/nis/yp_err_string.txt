@@ -1,0 +1,13 @@
+*yp_err_string
+
+**PHP
+
+>|PHP|
+string yp_err_string ( int $errorcode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

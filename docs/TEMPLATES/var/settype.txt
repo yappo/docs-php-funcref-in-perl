@@ -1,0 +1,13 @@
+*settype
+
+**PHP
+
+>|PHP|
+bool settype ( mixed &$var , string $type )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

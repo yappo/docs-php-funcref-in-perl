@@ -1,0 +1,13 @@
+*openssl_pkey_export
+
+**PHP
+
+>|PHP|
+bool openssl_pkey_export ( mixed $key , string &$out [, string $passphrase [, array $configargs ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

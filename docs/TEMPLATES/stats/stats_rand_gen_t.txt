@@ -1,0 +1,13 @@
+*stats_rand_gen_t
+
+**PHP
+
+>|PHP|
+float stats_rand_gen_t ( float $df )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

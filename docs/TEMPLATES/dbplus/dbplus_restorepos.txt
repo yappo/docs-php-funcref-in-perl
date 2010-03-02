@@ -1,0 +1,13 @@
+*dbplus_restorepos
+
+**PHP
+
+>|PHP|
+int dbplus_restorepos ( resource $relation , array $tuple )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

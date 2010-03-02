@@ -1,0 +1,13 @@
+*hw_api_attribute
+
+**PHP
+
+>|PHP|
+HW_API_Attribute hw_api_attribute ([ string $name [, string $value ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

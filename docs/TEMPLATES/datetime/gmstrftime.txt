@@ -1,0 +1,13 @@
+*gmstrftime
+
+**PHP
+
+>|PHP|
+string gmstrftime ( string $format [, int $timestamp = time() ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

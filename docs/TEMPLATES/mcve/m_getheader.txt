@@ -1,0 +1,13 @@
+*m_getheader
+
+**PHP
+
+>|PHP|
+string m_getheader ( resource $conn , int $identifier , int $column_num )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

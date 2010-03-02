@@ -1,0 +1,13 @@
+*variant_round
+
+**PHP
+
+>|PHP|
+mixed variant_round ( mixed $variant , int $decimals )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

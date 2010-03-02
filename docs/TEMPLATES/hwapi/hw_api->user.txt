@@ -1,0 +1,13 @@
+*hw_api->user
+
+**PHP
+
+>|PHP|
+hw_api_object user ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

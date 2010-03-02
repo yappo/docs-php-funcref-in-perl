@@ -1,0 +1,13 @@
+*ldap_parse_reference
+
+**PHP
+
+>|PHP|
+bool ldap_parse_reference ( resource $link , resource $entry , array &$referrals )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

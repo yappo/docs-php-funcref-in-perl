@@ -1,0 +1,13 @@
+*ncurses_halfdelay
+
+**PHP
+
+>|PHP|
+int ncurses_halfdelay ( int $tenth )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

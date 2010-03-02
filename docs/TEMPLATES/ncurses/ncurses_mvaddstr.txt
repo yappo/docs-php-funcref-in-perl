@@ -1,0 +1,13 @@
+*ncurses_mvaddstr
+
+**PHP
+
+>|PHP|
+int ncurses_mvaddstr ( int $y , int $x , string $s )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

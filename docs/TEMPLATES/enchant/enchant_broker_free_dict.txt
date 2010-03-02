@@ -1,0 +1,13 @@
+*enchant_broker_free_dict
+
+**PHP
+
+>|PHP|
+bool enchant_broker_free_dict ( resource $dict )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

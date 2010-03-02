@@ -1,0 +1,13 @@
+*dio_stat
+
+**PHP
+
+>|PHP|
+array dio_stat ( resource $fd )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

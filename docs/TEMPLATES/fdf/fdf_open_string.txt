@@ -1,0 +1,13 @@
+*fdf_open_string
+
+**PHP
+
+>|PHP|
+resource fdf_open_string ( string $fdf_data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

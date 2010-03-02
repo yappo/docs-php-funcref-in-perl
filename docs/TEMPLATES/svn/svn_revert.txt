@@ -1,0 +1,13 @@
+*svn_revert
+
+**PHP
+
+>|PHP|
+bool svn_revert ( string $path [, bool $recursive = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

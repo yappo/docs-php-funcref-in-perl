@@ -1,0 +1,13 @@
+*classkit_import
+
+**PHP
+
+>|PHP|
+array classkit_import ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

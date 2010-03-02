@@ -1,0 +1,13 @@
+*mysqli_fetch
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

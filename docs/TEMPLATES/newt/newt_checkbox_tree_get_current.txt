@@ -1,0 +1,13 @@
+*newt_checkbox_tree_get_current
+
+**PHP
+
+>|PHP|
+mixed newt_checkbox_tree_get_current ( resource $checkboxtree )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

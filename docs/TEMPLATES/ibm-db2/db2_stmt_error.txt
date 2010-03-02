@@ -1,0 +1,13 @@
+*db2_stmt_error
+
+**PHP
+
+>|PHP|
+string db2_stmt_error ([ resource $stmt ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*cairo_ps_surface_restrict_to_level
+
+**PHP
+
+>|PHP|
+void cairo_ps_surface_restrict_to_level ( CairoPsSurface $surface , string $level )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

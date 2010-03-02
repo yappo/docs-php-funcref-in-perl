@@ -1,0 +1,13 @@
+*m_setssl_files
+
+**PHP
+
+>|PHP|
+int m_setssl_files ( resource $conn , string $sslkeyfile , string $sslcertfile )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

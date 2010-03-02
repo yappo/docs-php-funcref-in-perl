@@ -1,0 +1,13 @@
+*gzrewind
+
+**PHP
+
+>|PHP|
+bool gzrewind ( resource $zp )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

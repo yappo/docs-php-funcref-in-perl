@@ -1,0 +1,13 @@
+*msession_create
+
+**PHP
+
+>|PHP|
+bool msession_create ( string $session [, string $classname [, string $data ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

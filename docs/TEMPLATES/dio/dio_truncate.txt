@@ -1,0 +1,13 @@
+*dio_truncate
+
+**PHP
+
+>|PHP|
+bool dio_truncate ( resource $fd , int $offset )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

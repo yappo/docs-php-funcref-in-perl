@@ -1,0 +1,13 @@
+*printer_set_option
+
+**PHP
+
+>|PHP|
+bool printer_set_option ( resource $printer_handle , int $option , mixed $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

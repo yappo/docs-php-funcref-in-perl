@@ -1,0 +1,13 @@
+*strtotime
+
+**PHP
+
+>|PHP|
+int strtotime ( string $time [, int $now ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

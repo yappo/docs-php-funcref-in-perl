@@ -1,0 +1,13 @@
+*imagesetstyle
+
+**PHP
+
+>|PHP|
+bool imagesetstyle ( resource $image , array $style )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

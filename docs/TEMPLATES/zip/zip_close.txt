@@ -1,0 +1,13 @@
+*zip_close
+
+**PHP
+
+>|PHP|
+void zip_close ( resource $zip )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

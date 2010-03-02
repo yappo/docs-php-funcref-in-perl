@@ -1,0 +1,13 @@
+*ps_string_geometry
+
+**PHP
+
+>|PHP|
+array ps_string_geometry ( resource $psdoc , string $text [, int $fontid = 0 [, float $size = 0.0 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ingres_error
+
+**PHP
+
+>|PHP|
+string ingres_error ([ resource $link ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

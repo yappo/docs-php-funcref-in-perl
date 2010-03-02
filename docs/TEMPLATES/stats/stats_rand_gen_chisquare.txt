@@ -1,0 +1,13 @@
+*stats_rand_gen_chisquare
+
+**PHP
+
+>|PHP|
+float stats_rand_gen_chisquare ( float $df )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

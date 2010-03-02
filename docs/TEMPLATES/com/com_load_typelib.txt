@@ -1,0 +1,13 @@
+*com_load_typelib
+
+**PHP
+
+>|PHP|
+bool com_load_typelib ( string $typelib_name [, bool $case_insensitive ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

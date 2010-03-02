@@ -1,0 +1,13 @@
+*fnmatch
+
+**PHP
+
+>|PHP|
+bool fnmatch ( string $pattern , string $string [, int $flags = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

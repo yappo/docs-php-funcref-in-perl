@@ -1,0 +1,13 @@
+*gnupg_verify
+
+**PHP
+
+>|PHP|
+array gnupg_verify ( resource $identifier , string $signed_text , string $signature [, string &$plaintext ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

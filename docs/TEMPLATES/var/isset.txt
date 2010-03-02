@@ -1,0 +1,13 @@
+*isset
+
+**PHP
+
+>|PHP|
+bool isset ( mixed $var [, mixed $var [,  $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

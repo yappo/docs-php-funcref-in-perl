@@ -1,0 +1,13 @@
+*ps_open_memory_image
+
+**PHP
+
+>|PHP|
+int ps_open_memory_image ( resource $psdoc , int $gd )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

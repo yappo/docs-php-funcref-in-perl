@@ -1,0 +1,13 @@
+*clearstatcache
+
+**PHP
+
+>|PHP|
+void clearstatcache ([ bool $clear_realpath_cache = false [, string $filename ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

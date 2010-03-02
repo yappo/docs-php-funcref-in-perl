@@ -1,0 +1,13 @@
+*pg_escape_bytea
+
+**PHP
+
+>|PHP|
+string pg_escape_bytea ([ resource $connection ], string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

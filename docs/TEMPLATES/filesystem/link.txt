@@ -1,0 +1,13 @@
+*link
+
+**PHP
+
+>|PHP|
+bool link ( string $from_path , string $to_path )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

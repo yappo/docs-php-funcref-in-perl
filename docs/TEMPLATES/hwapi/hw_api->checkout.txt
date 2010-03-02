@@ -1,0 +1,13 @@
+*hw_api->checkout
+
+**PHP
+
+>|PHP|
+bool checkout ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

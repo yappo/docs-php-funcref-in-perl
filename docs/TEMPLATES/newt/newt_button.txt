@@ -1,0 +1,13 @@
+*newt_button
+
+**PHP
+
+>|PHP|
+resource newt_button ( int $left , int $top , string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

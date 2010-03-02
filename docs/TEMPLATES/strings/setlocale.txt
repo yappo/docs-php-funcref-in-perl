@@ -1,0 +1,13 @@
+*setlocale
+
+**PHP
+
+>|PHP|
+string setlocale ( int $category , string $locale [, string $... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

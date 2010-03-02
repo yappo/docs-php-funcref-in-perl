@@ -1,0 +1,13 @@
+*swf_shapearc
+
+**PHP
+
+>|PHP|
+void swf_shapearc ( float $x , float $y , float $r , float $ang1 , float $ang2 )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*spliti
+
+**PHP
+
+>|PHP|
+array spliti ( string $pattern , string $string [, int $limit ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

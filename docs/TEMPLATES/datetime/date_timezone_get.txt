@@ -1,0 +1,13 @@
+*date_timezone_get
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

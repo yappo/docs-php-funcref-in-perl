@@ -1,0 +1,13 @@
+*set_include_path
+
+**PHP
+
+>|PHP|
+string set_include_path ( string $new_include_path )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

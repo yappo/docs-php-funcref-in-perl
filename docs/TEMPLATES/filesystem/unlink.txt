@@ -1,0 +1,13 @@
+*unlink
+
+**PHP
+
+>|PHP|
+bool unlink ( string $filename [, resource $context ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

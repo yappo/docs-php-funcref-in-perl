@@ -1,0 +1,13 @@
+*apd_echo
+
+**PHP
+
+>|PHP|
+bool apd_echo ( string $output )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

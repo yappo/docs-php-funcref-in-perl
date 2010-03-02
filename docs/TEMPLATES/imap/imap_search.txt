@@ -1,0 +1,13 @@
+*imap_search
+
+**PHP
+
+>|PHP|
+array imap_search ( resource $imap_stream , string $criteria [, int $options = SE_FREE [, string $charset = NIL ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

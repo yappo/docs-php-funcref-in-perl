@@ -1,0 +1,13 @@
+*ncurses_wmove
+
+**PHP
+
+>|PHP|
+int ncurses_wmove ( resource $window , int $y , int $x )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*imagepalettecopy
+
+**PHP
+
+>|PHP|
+void imagepalettecopy ( resource $destination , resource $source )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

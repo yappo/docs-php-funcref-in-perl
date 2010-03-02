@@ -1,0 +1,13 @@
+*sinh
+
+**PHP
+
+>|PHP|
+float sinh ( float $arg )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

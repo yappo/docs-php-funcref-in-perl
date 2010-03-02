@@ -1,0 +1,13 @@
+*imap_binary
+
+**PHP
+
+>|PHP|
+string imap_binary ( string $string )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

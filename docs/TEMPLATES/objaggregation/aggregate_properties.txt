@@ -1,0 +1,13 @@
+*aggregate_properties
+
+**PHP
+
+>|PHP|
+void aggregate_properties ( object $object , string $class_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

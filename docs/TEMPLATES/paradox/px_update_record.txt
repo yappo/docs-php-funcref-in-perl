@@ -1,0 +1,13 @@
+*px_update_record
+
+**PHP
+
+>|PHP|
+bool px_update_record ( resource $pxdoc , array $data , int $num )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

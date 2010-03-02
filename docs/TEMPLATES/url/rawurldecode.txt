@@ -1,0 +1,13 @@
+*rawurldecode
+
+**PHP
+
+>|PHP|
+string rawurldecode ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

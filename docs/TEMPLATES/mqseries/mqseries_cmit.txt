@@ -1,0 +1,13 @@
+*mqseries_cmit
+
+**PHP
+
+>|PHP|
+void mqseries_cmit ( resource $hconn , resource &$compCode , resource &$reason )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

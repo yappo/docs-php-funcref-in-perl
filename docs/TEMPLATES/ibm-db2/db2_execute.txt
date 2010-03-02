@@ -1,0 +1,13 @@
+*db2_execute
+
+**PHP
+
+>|PHP|
+bool db2_execute ( resource $stmt [, array $parameters ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

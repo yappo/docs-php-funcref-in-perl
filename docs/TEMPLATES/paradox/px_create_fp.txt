@@ -1,0 +1,13 @@
+*px_create_fp
+
+**PHP
+
+>|PHP|
+bool px_create_fp ( resource $pxdoc , resource $file , array $fielddesc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

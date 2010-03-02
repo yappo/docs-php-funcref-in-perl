@@ -1,0 +1,13 @@
+*ncurses_slk_color
+
+**PHP
+
+>|PHP|
+int ncurses_slk_color ( int $intarg )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

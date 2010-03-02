@@ -1,0 +1,13 @@
+*array_slice
+
+**PHP
+
+>|PHP|
+array array_slice ( array $array , int $offset [, int $length [, bool $preserve_keys = false ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

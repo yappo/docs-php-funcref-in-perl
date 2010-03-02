@@ -1,0 +1,13 @@
+*kadm5_destroy
+
+**PHP
+
+>|PHP|
+bool kadm5_destroy ( resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

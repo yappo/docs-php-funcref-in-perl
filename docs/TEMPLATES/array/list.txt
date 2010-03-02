@@ -1,0 +1,13 @@
+*list
+
+**PHP
+
+>|PHP|
+array list ( mixed $varname [, mixed $... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

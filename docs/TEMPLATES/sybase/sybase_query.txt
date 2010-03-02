@@ -1,0 +1,13 @@
+*sybase_query
+
+**PHP
+
+>|PHP|
+mixed sybase_query ( string $query [, resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*swf_translate
+
+**PHP
+
+>|PHP|
+void swf_translate ( float $x , float $y , float $z )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

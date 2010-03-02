@@ -1,0 +1,13 @@
+*oci_new_connect
+
+**PHP
+
+>|PHP|
+resource oci_new_connect ( string $username , string $password [, string $connection_string [, string $character_set [, int $session_mode ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

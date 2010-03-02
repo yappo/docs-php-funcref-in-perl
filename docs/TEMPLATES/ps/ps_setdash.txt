@@ -1,0 +1,13 @@
+*ps_setdash
+
+**PHP
+
+>|PHP|
+bool ps_setdash ( resource $psdoc , float $on , float $off )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

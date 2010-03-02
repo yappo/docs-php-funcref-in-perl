@@ -1,0 +1,13 @@
+*odbc_close
+
+**PHP
+
+>|PHP|
+void odbc_close ( resource $connection_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

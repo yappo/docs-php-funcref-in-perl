@@ -1,0 +1,13 @@
+*newt_wait_for_key
+
+**PHP
+
+>|PHP|
+void newt_wait_for_key ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*win32_start_service_ctrl_dispatcher
+
+**PHP
+
+>|PHP|
+mixed win32_start_service_ctrl_dispatcher ( string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

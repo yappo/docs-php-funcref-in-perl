@@ -1,0 +1,13 @@
+*id3_set_tag
+
+**PHP
+
+>|PHP|
+bool id3_set_tag ( string $filename , array $tag [, int $version = ID3_V1_0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

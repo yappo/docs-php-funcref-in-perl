@@ -1,0 +1,13 @@
+*cairo_matrix_multiply
+
+**PHP
+
+>|PHP|
+CairoMatrix cairo_matrix_multiply ( CairoMatrix $matrix1 , CairoMatrix $matrix2 )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

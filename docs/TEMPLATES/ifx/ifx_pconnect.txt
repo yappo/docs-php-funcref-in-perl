@@ -1,0 +1,13 @@
+*ifx_pconnect
+
+**PHP
+
+>|PHP|
+resource ifx_pconnect ([ string $database [, string $userid [, string $password ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

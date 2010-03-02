@@ -1,0 +1,13 @@
+*wddx_add_vars
+
+**PHP
+
+>|PHP|
+bool wddx_add_vars ( resource $packet_id , mixed $var_name [, mixed $... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

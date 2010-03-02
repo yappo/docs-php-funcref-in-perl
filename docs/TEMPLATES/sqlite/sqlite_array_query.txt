@@ -1,0 +1,13 @@
+*sqlite_array_query
+
+**PHP
+
+>|PHP|
+array sqlite_array_query ( resource $dbhandle , string $query [, int $result_type [, bool $decode_binary ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

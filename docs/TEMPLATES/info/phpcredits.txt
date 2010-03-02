@@ -1,0 +1,13 @@
+*phpcredits
+
+**PHP
+
+>|PHP|
+bool phpcredits ([ int $flag = CREDITS_ALL ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

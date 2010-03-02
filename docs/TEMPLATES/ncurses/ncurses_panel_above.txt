@@ -1,0 +1,13 @@
+*ncurses_panel_above
+
+**PHP
+
+>|PHP|
+resource ncurses_panel_above ( resource $panel )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

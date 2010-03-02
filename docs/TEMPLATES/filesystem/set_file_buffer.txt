@@ -1,0 +1,13 @@
+*set_file_buffer
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*pg_cancel_query
+
+**PHP
+
+>|PHP|
+bool pg_cancel_query ( resource $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*xml_parse_into_struct
+
+**PHP
+
+>|PHP|
+int xml_parse_into_struct ( resource $parser , string $data , array &$values [, array &$index ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

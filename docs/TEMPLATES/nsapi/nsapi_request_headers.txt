@@ -1,0 +1,13 @@
+*nsapi_request_headers
+
+**PHP
+
+>|PHP|
+array nsapi_request_headers ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

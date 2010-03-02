@@ -1,0 +1,13 @@
+*gmp_intval
+
+**PHP
+
+>|PHP|
+int gmp_intval ( resource $gmpnumber )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

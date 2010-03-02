@@ -1,0 +1,13 @@
+*newt_draw_root_text
+
+**PHP
+
+>|PHP|
+void newt_draw_root_text ( int $left , int $top , string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

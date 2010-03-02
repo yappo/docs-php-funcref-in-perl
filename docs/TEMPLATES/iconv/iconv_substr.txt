@@ -1,0 +1,13 @@
+*iconv_substr
+
+**PHP
+
+>|PHP|
+string iconv_substr ( string $str , int $offset [, int $length = strlen($str) [, string $charset = ini_set("iconv.internal_encoding") ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

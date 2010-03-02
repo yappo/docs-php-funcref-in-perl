@@ -1,0 +1,13 @@
+*shmop_read
+
+**PHP
+
+>|PHP|
+string shmop_read ( int $shmid , int $start , int $count )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

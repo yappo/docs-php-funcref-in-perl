@@ -1,0 +1,13 @@
+*hw_Deleteobject
+
+**PHP
+
+>|PHP|
+bool hw_deleteobject ( int $connection , int $object_to_delete )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

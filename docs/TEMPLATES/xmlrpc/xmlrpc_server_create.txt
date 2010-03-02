@@ -1,0 +1,13 @@
+*xmlrpc_server_create
+
+**PHP
+
+>|PHP|
+resource xmlrpc_server_create ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

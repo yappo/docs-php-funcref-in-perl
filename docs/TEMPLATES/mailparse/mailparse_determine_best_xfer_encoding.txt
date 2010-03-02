@@ -1,0 +1,13 @@
+*mailparse_determine_best_xfer_encoding
+
+**PHP
+
+>|PHP|
+string mailparse_determine_best_xfer_encoding ( resource $fp )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*iis_set_server_rights
+
+**PHP
+
+>|PHP|
+int iis_set_server_rights ( int $server_instance , string $virtual_path , int $directory_flags )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

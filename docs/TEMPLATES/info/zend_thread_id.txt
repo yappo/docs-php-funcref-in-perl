@@ -1,0 +1,13 @@
+*zend_thread_id
+
+**PHP
+
+>|PHP|
+int zend_thread_id ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

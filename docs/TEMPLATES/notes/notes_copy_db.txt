@@ -1,0 +1,13 @@
+*notes_copy_db
+
+**PHP
+
+>|PHP|
+bool notes_copy_db ( string $from_database_name , string $to_database_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

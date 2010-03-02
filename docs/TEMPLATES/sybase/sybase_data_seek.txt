@@ -1,0 +1,13 @@
+*sybase_data_seek
+
+**PHP
+
+>|PHP|
+bool sybase_data_seek ( resource $result_identifier , int $row_number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

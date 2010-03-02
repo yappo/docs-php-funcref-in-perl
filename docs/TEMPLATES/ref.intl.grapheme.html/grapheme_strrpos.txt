@@ -1,0 +1,13 @@
+*grapheme_strrpos
+
+**PHP
+
+>|PHP|
+int grapheme_strrpos ( string $haystack , string $needle [, int $offset = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

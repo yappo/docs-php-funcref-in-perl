@@ -1,0 +1,13 @@
+*ncurses_werase
+
+**PHP
+
+>|PHP|
+int ncurses_werase ( resource $window )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

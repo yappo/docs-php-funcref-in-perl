@@ -1,0 +1,13 @@
+*split
+
+**PHP
+
+>|PHP|
+array split ( string $pattern , string $string [, int $limit ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

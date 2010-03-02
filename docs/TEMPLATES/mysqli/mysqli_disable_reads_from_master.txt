@@ -1,0 +1,13 @@
+*mysqli_disable_reads_from_master
+
+**PHP
+
+>|PHP|
+bool mysqli_disable_reads_from_master ( mysqli $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

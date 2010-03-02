@@ -1,0 +1,13 @@
+*swf_modifyobject
+
+**PHP
+
+>|PHP|
+void swf_modifyobject ( int $depth , int $how )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

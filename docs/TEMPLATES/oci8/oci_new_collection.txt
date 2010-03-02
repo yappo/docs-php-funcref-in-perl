@@ -1,0 +1,13 @@
+*oci_new_collection
+
+**PHP
+
+>|PHP|
+OCI-Collection oci_new_collection ( resource $connection , string $tdo [, string $schema = NULL ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

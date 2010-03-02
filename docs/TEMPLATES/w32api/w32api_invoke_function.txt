@@ -1,0 +1,13 @@
+*w32api_invoke_function
+
+**PHP
+
+>|PHP|
+mixed w32api_invoke_function ( string $funcname , mixed $argument [, mixed $... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*mb_regex_set_options
+
+**PHP
+
+>|PHP|
+string mb_regex_set_options ([ string $options = "msr" ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

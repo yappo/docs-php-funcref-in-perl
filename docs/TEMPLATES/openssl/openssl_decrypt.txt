@@ -1,0 +1,13 @@
+*openssl_decrypt
+
+**PHP
+
+>|PHP|
+string openssl_decrypt ( string $data , string $method , string $password [, string $raw_input = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

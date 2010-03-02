@@ -1,0 +1,13 @@
+*bzopen
+
+**PHP
+
+>|PHP|
+resource bzopen ( string $filename , string $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

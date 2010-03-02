@@ -1,0 +1,13 @@
+*stats_dens_negative_binomial
+
+**PHP
+
+>|PHP|
+float stats_dens_negative_binomial ( float $x , float $n , float $pi )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

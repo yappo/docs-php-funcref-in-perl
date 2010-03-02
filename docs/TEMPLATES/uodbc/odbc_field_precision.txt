@@ -1,0 +1,13 @@
+*odbc_field_precision
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

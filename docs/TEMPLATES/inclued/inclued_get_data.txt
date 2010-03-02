@@ -1,0 +1,13 @@
+*inclued_get_data
+
+**PHP
+
+>|PHP|
+array inclued_get_data ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

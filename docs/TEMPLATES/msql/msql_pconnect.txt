@@ -1,0 +1,13 @@
+*msql_pconnect
+
+**PHP
+
+>|PHP|
+resource msql_pconnect ([ string $hostname ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

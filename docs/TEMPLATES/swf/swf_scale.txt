@@ -1,0 +1,13 @@
+*swf_scale
+
+**PHP
+
+>|PHP|
+void swf_scale ( float $x , float $y , float $z )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

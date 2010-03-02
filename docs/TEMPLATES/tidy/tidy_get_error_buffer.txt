@@ -1,0 +1,13 @@
+*tidy_get_error_buffer
+
+**PHP
+
+>|PHP|
+string tidy_get_error_buffer ( tidy $object )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

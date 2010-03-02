@@ -1,0 +1,13 @@
+*hw_api_object->assign
+
+**PHP
+
+>|PHP|
+bool assign ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

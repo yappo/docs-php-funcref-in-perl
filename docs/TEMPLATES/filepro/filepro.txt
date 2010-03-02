@@ -1,0 +1,13 @@
+*filepro
+
+**PHP
+
+>|PHP|
+bool filepro ( string $directory )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

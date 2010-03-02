@@ -1,0 +1,13 @@
+*db2_last_insert_id
+
+**PHP
+
+>|PHP|
+int db2_last_insert_id ( resource $resource )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

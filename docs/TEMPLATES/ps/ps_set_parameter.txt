@@ -1,0 +1,13 @@
+*ps_set_parameter
+
+**PHP
+
+>|PHP|
+bool ps_set_parameter ( resource $psdoc , string $name , string $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

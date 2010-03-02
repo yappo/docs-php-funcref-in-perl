@@ -1,0 +1,13 @@
+*array_unshift
+
+**PHP
+
+>|PHP|
+int array_unshift ( array &$array , mixed $var [, mixed $... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*pcntl_wifsignaled
+
+**PHP
+
+>|PHP|
+bool pcntl_wifsignaled ( int $status )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

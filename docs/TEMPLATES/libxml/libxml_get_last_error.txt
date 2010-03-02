@@ -1,0 +1,13 @@
+*libxml_get_last_error
+
+**PHP
+
+>|PHP|
+LibXMLError libxml_get_last_error ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

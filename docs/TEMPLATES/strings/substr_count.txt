@@ -1,0 +1,13 @@
+*substr_count
+
+**PHP
+
+>|PHP|
+int substr_count ( string $haystack , string $needle [, int $offset = 0 [, int $length ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

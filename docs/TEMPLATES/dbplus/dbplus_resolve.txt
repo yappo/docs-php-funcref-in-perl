@@ -1,0 +1,13 @@
+*dbplus_resolve
+
+**PHP
+
+>|PHP|
+array dbplus_resolve ( string $relation_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

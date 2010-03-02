@@ -1,0 +1,13 @@
+*domxml_xslt_stylesheet_file
+
+**PHP
+
+>|PHP|
+DomXsltStylesheet domxml_xslt_stylesheet_file ( string $xsl_file )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

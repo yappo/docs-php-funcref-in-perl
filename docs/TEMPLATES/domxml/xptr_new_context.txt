@@ -1,0 +1,13 @@
+*xptr_new_context
+
+**PHP
+
+>|PHP|
+XPathContext xptr_new_context ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

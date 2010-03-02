@@ -1,0 +1,13 @@
+*inotify_queue_len
+
+**PHP
+
+>|PHP|
+int inotify_queue_len ( resource $inotify_instance )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*sqlite_next
+
+**PHP
+
+>|PHP|
+bool sqlite_next ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ps_end_template
+
+**PHP
+
+>|PHP|
+bool ps_end_template ( resource $psdoc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

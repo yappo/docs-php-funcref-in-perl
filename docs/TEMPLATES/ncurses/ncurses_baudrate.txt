@@ -1,0 +1,13 @@
+*ncurses_baudrate
+
+**PHP
+
+>|PHP|
+int ncurses_baudrate ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

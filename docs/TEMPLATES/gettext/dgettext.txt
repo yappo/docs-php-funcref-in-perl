@@ -1,0 +1,13 @@
+*dgettext
+
+**PHP
+
+>|PHP|
+string dgettext ( string $domain , string $message )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ingres_autocommit
+
+**PHP
+
+>|PHP|
+bool ingres_autocommit ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

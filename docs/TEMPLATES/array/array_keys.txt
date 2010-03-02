@@ -1,0 +1,13 @@
+*array_keys
+
+**PHP
+
+>|PHP|
+array array_keys ( array $input [, mixed $search_value [, bool $strict = false ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

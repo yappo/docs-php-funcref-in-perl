@@ -1,0 +1,13 @@
+*time
+
+**PHP
+
+>|PHP|
+int time ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

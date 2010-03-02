@@ -1,0 +1,13 @@
+*mysql_stat
+
+**PHP
+
+>|PHP|
+string mysql_stat ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*aggregate_info
+
+**PHP
+
+>|PHP|
+array aggregate_info ( object $object )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

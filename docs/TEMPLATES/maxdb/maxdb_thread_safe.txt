@@ -1,0 +1,13 @@
+*maxdb_thread_safe
+
+**PHP
+
+>|PHP|
+bool maxdb_thread_safe ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

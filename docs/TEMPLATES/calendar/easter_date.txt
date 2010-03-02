@@ -1,0 +1,13 @@
+*easter_date
+
+**PHP
+
+>|PHP|
+int easter_date ([ int $year ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*bind_textdomain_codeset
+
+**PHP
+
+>|PHP|
+string bind_textdomain_codeset ( string $domain , string $codeset )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

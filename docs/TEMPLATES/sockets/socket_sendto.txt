@@ -1,0 +1,13 @@
+*socket_sendto
+
+**PHP
+
+>|PHP|
+int socket_sendto ( resource $socket , string $buf , int $len , int $flags , string $addr [, int $port = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

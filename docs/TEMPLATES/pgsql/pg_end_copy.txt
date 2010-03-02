@@ -1,0 +1,13 @@
+*pg_end_copy
+
+**PHP
+
+>|PHP|
+bool pg_end_copy ([ resource $connection ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

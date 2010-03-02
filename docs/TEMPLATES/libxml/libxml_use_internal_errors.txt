@@ -1,0 +1,13 @@
+*libxml_use_internal_errors
+
+**PHP
+
+>|PHP|
+bool libxml_use_internal_errors ([ bool $use_errors = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

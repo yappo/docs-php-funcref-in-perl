@@ -1,0 +1,13 @@
+*ocicollassign
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

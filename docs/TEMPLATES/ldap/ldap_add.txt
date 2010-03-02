@@ -1,0 +1,13 @@
+*ldap_add
+
+**PHP
+
+>|PHP|
+bool ldap_add ( resource $link_identifier , string $dn , array $entry )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

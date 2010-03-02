@@ -1,0 +1,13 @@
+*m_verifyconnection
+
+**PHP
+
+>|PHP|
+bool m_verifyconnection ( resource $conn , int $tf )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

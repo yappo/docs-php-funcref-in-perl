@@ -1,0 +1,13 @@
+*curl_version
+
+**PHP
+
+>|PHP|
+array curl_version ([ int $age = CURLVERSION_NOW ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ldap_errno
+
+**PHP
+
+>|PHP|
+int ldap_errno ( resource $link_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

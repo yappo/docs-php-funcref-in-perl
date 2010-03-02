@@ -1,0 +1,13 @@
+*tidy_reset_config
+
+**PHP
+
+>|PHP|
+bool tidy_reset_config ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

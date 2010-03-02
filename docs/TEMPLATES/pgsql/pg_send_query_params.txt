@@ -1,0 +1,13 @@
+*pg_send_query_params
+
+**PHP
+
+>|PHP|
+bool pg_send_query_params ( resource $connection , string $query , array $params )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

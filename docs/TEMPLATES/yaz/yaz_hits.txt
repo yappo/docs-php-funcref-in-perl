@@ -1,0 +1,13 @@
+*yaz_hits
+
+**PHP
+
+>|PHP|
+int yaz_hits ( resource $id [, array &$searchresult ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ssh2_sftp_realpath
+
+**PHP
+
+>|PHP|
+string ssh2_sftp_realpath ( resource $sftp , string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

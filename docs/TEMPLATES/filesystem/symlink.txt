@@ -1,0 +1,13 @@
+*symlink
+
+**PHP
+
+>|PHP|
+bool symlink ( string $target , string $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

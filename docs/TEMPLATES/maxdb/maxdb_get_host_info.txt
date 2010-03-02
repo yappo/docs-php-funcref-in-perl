@@ -1,0 +1,13 @@
+*maxdb_get_host_info
+
+**PHP
+
+>|PHP|
+string maxdb_get_host_info ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*dbase_open
+
+**PHP
+
+>|PHP|
+int dbase_open ( string $filename , int $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

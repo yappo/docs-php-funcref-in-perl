@@ -1,0 +1,13 @@
+*sqlite_column
+
+**PHP
+
+>|PHP|
+mixed sqlite_column ( resource $result , mixed $index_or_name [, bool $decode_binary = true ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

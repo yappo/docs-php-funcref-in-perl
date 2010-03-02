@@ -1,0 +1,13 @@
+*dba_firstkey
+
+**PHP
+
+>|PHP|
+string dba_firstkey ( resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

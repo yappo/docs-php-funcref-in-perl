@@ -1,0 +1,13 @@
+*ncurses_getmaxyx
+
+**PHP
+
+>|PHP|
+void ncurses_getmaxyx ( resource $window , int &$y , int &$x )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

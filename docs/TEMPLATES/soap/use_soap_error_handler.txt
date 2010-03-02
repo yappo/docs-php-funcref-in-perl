@@ -1,0 +1,13 @@
+*use_soap_error_handler
+
+**PHP
+
+>|PHP|
+bool use_soap_error_handler ([ bool $handler ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

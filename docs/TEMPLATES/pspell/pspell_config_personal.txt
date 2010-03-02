@@ -1,0 +1,13 @@
+*pspell_config_personal
+
+**PHP
+
+>|PHP|
+bool pspell_config_personal ( int $dictionary_link , string $file )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

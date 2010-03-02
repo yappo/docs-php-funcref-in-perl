@@ -1,0 +1,13 @@
+*ifxus_create_slob
+
+**PHP
+
+>|PHP|
+int ifxus_create_slob ( int $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

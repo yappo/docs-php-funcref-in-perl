@@ -1,0 +1,13 @@
+*ming_keypress
+
+**PHP
+
+>|PHP|
+int ming_keypress ( string $char )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

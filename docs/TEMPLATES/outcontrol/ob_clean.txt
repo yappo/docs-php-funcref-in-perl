@@ -1,0 +1,13 @@
+*ob_clean
+
+**PHP
+
+>|PHP|
+void ob_clean ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

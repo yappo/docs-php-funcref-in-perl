@@ -1,0 +1,13 @@
+*udm_alloc_agent
+
+**PHP
+
+>|PHP|
+resource udm_alloc_agent ( string $dbaddr [, string $dbmode ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

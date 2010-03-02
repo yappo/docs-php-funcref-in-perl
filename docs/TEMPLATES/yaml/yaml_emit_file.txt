@@ -1,0 +1,13 @@
+*yaml_emit_file
+
+**PHP
+
+>|PHP|
+bool yaml_emit_file ( string $filename , mixed $data [, int $encoding = YAML_ANY_ENCODING [, int $linebreak = YAML_ANY_BREAK ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

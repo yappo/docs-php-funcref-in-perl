@@ -1,0 +1,13 @@
+*dbase_close
+
+**PHP
+
+>|PHP|
+bool dbase_close ( int $dbase_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

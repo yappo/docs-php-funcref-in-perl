@@ -1,0 +1,13 @@
+*stats_rand_gen_ibinomial
+
+**PHP
+
+>|PHP|
+int stats_rand_gen_ibinomial ( int $n , float $pp )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

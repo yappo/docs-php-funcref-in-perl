@@ -1,0 +1,13 @@
+*apache_get_version
+
+**PHP
+
+>|PHP|
+string apache_get_version ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

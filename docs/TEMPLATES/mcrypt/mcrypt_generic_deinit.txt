@@ -1,0 +1,13 @@
+*mcrypt_generic_deinit
+
+**PHP
+
+>|PHP|
+bool mcrypt_generic_deinit ( resource $td )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

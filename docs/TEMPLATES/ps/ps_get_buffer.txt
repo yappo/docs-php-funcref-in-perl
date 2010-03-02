@@ -1,0 +1,13 @@
+*ps_get_buffer
+
+**PHP
+
+>|PHP|
+string ps_get_buffer ( resource $psdoc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

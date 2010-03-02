@@ -1,0 +1,13 @@
+*iis_get_server_by_path
+
+**PHP
+
+>|PHP|
+int iis_get_server_by_path ( string $path )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

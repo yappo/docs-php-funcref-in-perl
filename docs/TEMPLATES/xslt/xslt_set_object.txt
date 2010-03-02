@@ -1,0 +1,13 @@
+*xslt_set_object
+
+**PHP
+
+>|PHP|
+bool xslt_set_object ( resource $processor , object &$obj )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

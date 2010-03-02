@@ -1,0 +1,13 @@
+*openal_source_rewind
+
+**PHP
+
+>|PHP|
+bool openal_source_rewind ( resource $source )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

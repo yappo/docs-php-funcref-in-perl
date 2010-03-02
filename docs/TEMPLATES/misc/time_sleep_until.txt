@@ -1,0 +1,13 @@
+*time_sleep_until
+
+**PHP
+
+>|PHP|
+bool time_sleep_until ( float $timestamp )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

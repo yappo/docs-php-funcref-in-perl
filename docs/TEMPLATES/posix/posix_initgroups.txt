@@ -1,0 +1,13 @@
+*posix_initgroups
+
+**PHP
+
+>|PHP|
+bool posix_initgroups ( string $name , int $base_group_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

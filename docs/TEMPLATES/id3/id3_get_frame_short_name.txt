@@ -1,0 +1,13 @@
+*id3_get_frame_short_name
+
+**PHP
+
+>|PHP|
+string id3_get_frame_short_name ( string $frameId )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

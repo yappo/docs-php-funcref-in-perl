@@ -1,0 +1,13 @@
+*filepro_fieldtype
+
+**PHP
+
+>|PHP|
+string filepro_fieldtype ( int $field_number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

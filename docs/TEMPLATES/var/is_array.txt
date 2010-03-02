@@ -1,0 +1,13 @@
+*is_array
+
+**PHP
+
+>|PHP|
+bool is_array ( mixed $var )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*sybase_affected_rows
+
+**PHP
+
+>|PHP|
+int sybase_affected_rows ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

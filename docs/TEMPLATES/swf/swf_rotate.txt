@@ -1,0 +1,13 @@
+*swf_rotate
+
+**PHP
+
+>|PHP|
+void swf_rotate ( float $angle , string $axis )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*snmp_set_oid_output_format
+
+**PHP
+
+>|PHP|
+void snmp_set_oid_output_format ( int $oid_format )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

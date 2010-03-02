@@ -1,0 +1,13 @@
+*get_resource_type
+
+**PHP
+
+>|PHP|
+string get_resource_type ( resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

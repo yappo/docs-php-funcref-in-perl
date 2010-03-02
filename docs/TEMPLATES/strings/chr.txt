@@ -1,0 +1,13 @@
+*chr
+
+**PHP
+
+>|PHP|
+string chr ( int $ascii )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

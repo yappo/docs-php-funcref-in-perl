@@ -1,0 +1,13 @@
+*newt_form_destroy
+
+**PHP
+
+>|PHP|
+void newt_form_destroy ( resource $form )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*win32_get_last_control_message
+
+**PHP
+
+>|PHP|
+int win32_get_last_control_message ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

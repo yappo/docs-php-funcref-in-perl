@@ -1,0 +1,13 @@
+*dbx_query
+
+**PHP
+
+>|PHP|
+mixed dbx_query ( object $link_identifier , string $sql_statement [, int $flags ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

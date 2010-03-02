@@ -1,0 +1,13 @@
+*ob_start
+
+**PHP
+
+>|PHP|
+bool ob_start ([ callback $output_callback [, int $chunk_size [, bool $erase ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

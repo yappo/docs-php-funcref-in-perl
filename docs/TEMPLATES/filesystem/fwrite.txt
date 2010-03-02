@@ -1,0 +1,13 @@
+*fwrite
+
+**PHP
+
+>|PHP|
+int fwrite ( resource $handle , string $string [, int $length ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*socket_set_option
+
+**PHP
+
+>|PHP|
+bool socket_set_option ( resource $socket , int $level , int $optname , mixed $optval )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

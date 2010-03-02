@@ -1,0 +1,13 @@
+*shmop_delete
+
+**PHP
+
+>|PHP|
+bool shmop_delete ( int $shmid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

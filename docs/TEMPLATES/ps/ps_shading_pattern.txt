@@ -1,0 +1,13 @@
+*ps_shading_pattern
+
+**PHP
+
+>|PHP|
+int ps_shading_pattern ( resource $psdoc , int $shadingid , string $optlist )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*decbin
+
+**PHP
+
+>|PHP|
+string decbin ( int $number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

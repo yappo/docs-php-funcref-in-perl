@@ -1,0 +1,13 @@
+*getallheaders
+
+**PHP
+
+>|PHP|
+array getallheaders ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

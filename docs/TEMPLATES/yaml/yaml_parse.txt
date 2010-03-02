@@ -1,0 +1,13 @@
+*yaml_parse
+
+**PHP
+
+>|PHP|
+mixed yaml_parse ( string $input [, int $pos = 0 [, int &$ndocs [, array $callbacks ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*imagefttext
+
+**PHP
+
+>|PHP|
+array imagefttext ( resource $image , float $size , float $angle , int $x , int $y , int $color , string $fontfile , string $text [, array $extrainfo ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

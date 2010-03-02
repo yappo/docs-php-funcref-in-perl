@@ -1,0 +1,13 @@
+*ming_setcubicthreshold
+
+**PHP
+
+>|PHP|
+void ming_setcubicthreshold ( int $threshold )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*openssl_x509_read
+
+**PHP
+
+>|PHP|
+resource openssl_x509_read ( mixed $x509certdata )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

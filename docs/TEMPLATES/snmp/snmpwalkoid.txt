@@ -1,0 +1,13 @@
+*snmpwalkoid
+
+**PHP
+
+>|PHP|
+array snmpwalkoid ( string $hostname , string $community , string $object_id [, int $timeout [, int $retries ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

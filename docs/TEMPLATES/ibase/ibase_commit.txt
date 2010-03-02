@@ -1,0 +1,13 @@
+*ibase_commit
+
+**PHP
+
+>|PHP|
+bool ibase_commit ([ resource $link_or_trans_identifier = NULL ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ingres_query
+
+**PHP
+
+>|PHP|
+mixed ingres_query ( resource $link , string $query [, array $params [, string $types ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*xattr_remove
+
+**PHP
+
+>|PHP|
+bool xattr_remove ( string $filename , string $name [, int $flags = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

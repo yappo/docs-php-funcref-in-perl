@@ -1,0 +1,13 @@
+*udm_get_doc_count
+
+**PHP
+
+>|PHP|
+int udm_get_doc_count ( resource $agent )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

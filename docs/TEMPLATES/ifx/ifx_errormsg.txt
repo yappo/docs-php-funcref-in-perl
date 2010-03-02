@@ -1,0 +1,13 @@
+*ifx_errormsg
+
+**PHP
+
+>|PHP|
+string ifx_errormsg ([ int $errorcode ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

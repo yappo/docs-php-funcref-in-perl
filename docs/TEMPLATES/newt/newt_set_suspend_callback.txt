@@ -1,0 +1,13 @@
+*newt_set_suspend_callback
+
+**PHP
+
+>|PHP|
+void newt_set_suspend_callback ( callback $function , mixed $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

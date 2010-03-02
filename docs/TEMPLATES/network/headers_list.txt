@@ -1,0 +1,13 @@
+*headers_list
+
+**PHP
+
+>|PHP|
+array headers_list ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

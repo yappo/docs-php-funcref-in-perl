@@ -1,0 +1,13 @@
+*ps_add_launchlink
+
+**PHP
+
+>|PHP|
+bool ps_add_launchlink ( resource $psdoc , float $llx , float $lly , float $urx , float $ury , string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

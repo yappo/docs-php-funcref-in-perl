@@ -1,0 +1,13 @@
+*udm_find
+
+**PHP
+
+>|PHP|
+resource udm_find ( resource $agent , string $query )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

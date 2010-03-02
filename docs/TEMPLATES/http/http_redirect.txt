@@ -1,0 +1,13 @@
+*http_redirect
+
+**PHP
+
+>|PHP|
+void http_redirect ([ string $url [, array $params [, bool $session = false [, int $status ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

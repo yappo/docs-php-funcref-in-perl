@@ -1,0 +1,13 @@
+*pg_dbname
+
+**PHP
+
+>|PHP|
+string pg_dbname ([ resource $connection ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

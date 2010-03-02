@@ -1,0 +1,13 @@
+*ibase_add_user
+
+**PHP
+
+>|PHP|
+bool ibase_add_user ( resource $service_handle , string $user_name , string $password [, string $first_name [, string $middle_name [, string $last_name ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

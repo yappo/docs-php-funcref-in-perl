@@ -1,0 +1,13 @@
+*ncurses_pnoutrefresh
+
+**PHP
+
+>|PHP|
+int ncurses_pnoutrefresh ( resource $pad , int $pminrow , int $pmincol , int $sminrow , int $smincol , int $smaxrow , int $smaxcol )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

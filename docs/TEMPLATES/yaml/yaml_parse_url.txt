@@ -1,0 +1,13 @@
+*yaml_parse_url
+
+**PHP
+
+>|PHP|
+mixed yaml_parse_url ( string $url [, int $pos = 0 [, int &$ndocs [, array $callbacks ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

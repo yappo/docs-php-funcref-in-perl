@@ -1,0 +1,13 @@
+*ps_show
+
+**PHP
+
+>|PHP|
+bool ps_show ( resource $psdoc , string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

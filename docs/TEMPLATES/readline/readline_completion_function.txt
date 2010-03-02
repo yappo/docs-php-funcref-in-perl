@@ -1,0 +1,13 @@
+*readline_completion_function
+
+**PHP
+
+>|PHP|
+bool readline_completion_function ( callback $function )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

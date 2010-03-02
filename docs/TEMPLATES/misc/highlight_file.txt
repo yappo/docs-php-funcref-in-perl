@@ -1,0 +1,13 @@
+*highlight_file
+
+**PHP
+
+>|PHP|
+mixed highlight_file ( string $filename [, bool $return = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

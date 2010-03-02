@@ -1,0 +1,13 @@
+*libxml_disable_entity_loader
+
+**PHP
+
+>|PHP|
+ReturnType libxml_disable_entity_loader ([ bool $disable  = TRUE ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

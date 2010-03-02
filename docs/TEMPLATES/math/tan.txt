@@ -1,0 +1,13 @@
+*tan
+
+**PHP
+
+>|PHP|
+float tan ( float $arg )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

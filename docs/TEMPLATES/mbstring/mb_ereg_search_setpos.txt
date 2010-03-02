@@ -1,0 +1,13 @@
+*mb_ereg_search_setpos
+
+**PHP
+
+>|PHP|
+bool mb_ereg_search_setpos ( int $position )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

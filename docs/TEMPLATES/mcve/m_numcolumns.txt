@@ -1,0 +1,13 @@
+*m_numcolumns
+
+**PHP
+
+>|PHP|
+int m_numcolumns ( resource $conn , int $identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

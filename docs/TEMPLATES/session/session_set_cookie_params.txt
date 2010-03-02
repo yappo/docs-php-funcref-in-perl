@@ -1,0 +1,13 @@
+*session_set_cookie_params
+
+**PHP
+
+>|PHP|
+void session_set_cookie_params ( int $lifetime [, string $path [, string $domain [, bool $secure = false [, bool $httponly = false ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

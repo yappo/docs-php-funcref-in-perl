@@ -1,0 +1,13 @@
+*hw_api_object->count
+
+**PHP
+
+>|PHP|
+int count ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*delete
+
+**PHP
+
+>|PHP|
+void delete ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

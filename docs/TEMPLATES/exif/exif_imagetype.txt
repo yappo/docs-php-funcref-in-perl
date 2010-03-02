@@ -1,0 +1,13 @@
+*exif_imagetype
+
+**PHP
+
+>|PHP|
+int exif_imagetype ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

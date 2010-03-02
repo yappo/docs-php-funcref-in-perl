@@ -1,0 +1,13 @@
+*getimagesize
+
+**PHP
+
+>|PHP|
+array getimagesize ( string $filename [, array &$imageinfo ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

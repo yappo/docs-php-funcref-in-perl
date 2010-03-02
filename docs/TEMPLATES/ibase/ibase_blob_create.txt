@@ -1,0 +1,13 @@
+*ibase_blob_create
+
+**PHP
+
+>|PHP|
+resource ibase_blob_create ([ resource $link_identifier = NULL ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

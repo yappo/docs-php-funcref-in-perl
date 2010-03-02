@@ -1,0 +1,13 @@
+*dbplus_first
+
+**PHP
+
+>|PHP|
+int dbplus_first ( resource $relation , array &$tuple )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

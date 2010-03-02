@@ -1,0 +1,13 @@
+*ncurses_wattron
+
+**PHP
+
+>|PHP|
+int ncurses_wattron ( resource $window , int $attrs )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

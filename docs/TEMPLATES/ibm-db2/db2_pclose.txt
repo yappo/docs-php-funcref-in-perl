@@ -1,0 +1,13 @@
+*db2_pclose
+
+**PHP
+
+>|PHP|
+bool db2_pclose ( resource $resource )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

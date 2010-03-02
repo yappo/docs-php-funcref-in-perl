@@ -1,0 +1,13 @@
+*oci_fetch_row
+
+**PHP
+
+>|PHP|
+array oci_fetch_row ( resource $statement )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

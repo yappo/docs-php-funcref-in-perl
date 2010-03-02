@@ -1,0 +1,13 @@
+*db2_fetch_both
+
+**PHP
+
+>|PHP|
+array db2_fetch_both ( resource $stmt [, int $row_number = -1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

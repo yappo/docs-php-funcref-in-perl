@@ -1,0 +1,13 @@
+*gethostbyaddr
+
+**PHP
+
+>|PHP|
+string gethostbyaddr ( string $ip_address )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

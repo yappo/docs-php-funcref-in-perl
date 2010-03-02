@@ -1,0 +1,13 @@
+*hw_connection_info
+
+**PHP
+
+>|PHP|
+void hw_connection_info ( int $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

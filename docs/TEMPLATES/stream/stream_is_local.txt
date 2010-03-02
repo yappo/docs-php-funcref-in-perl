@@ -1,0 +1,13 @@
+*stream_is_local
+
+**PHP
+
+>|PHP|
+bool stream_is_local ( mixed $stream_or_url )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

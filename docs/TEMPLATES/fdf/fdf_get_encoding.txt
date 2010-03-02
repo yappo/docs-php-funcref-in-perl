@@ -1,0 +1,13 @@
+*fdf_get_encoding
+
+**PHP
+
+>|PHP|
+string fdf_get_encoding ( resource $fdf_document )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

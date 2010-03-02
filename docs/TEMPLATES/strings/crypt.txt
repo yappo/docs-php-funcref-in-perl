@@ -1,0 +1,13 @@
+*crypt
+
+**PHP
+
+>|PHP|
+string crypt ( string $str [, string $salt ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

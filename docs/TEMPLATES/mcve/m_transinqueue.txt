@@ -1,0 +1,13 @@
+*m_transinqueue
+
+**PHP
+
+>|PHP|
+int m_transinqueue ( resource $conn )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

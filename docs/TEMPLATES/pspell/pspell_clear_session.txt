@@ -1,0 +1,13 @@
+*pspell_clear_session
+
+**PHP
+
+>|PHP|
+bool pspell_clear_session ( int $dictionary_link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

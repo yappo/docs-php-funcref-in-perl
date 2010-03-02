@@ -1,0 +1,13 @@
+*mailparse_msg_parse_file
+
+**PHP
+
+>|PHP|
+resource mailparse_msg_parse_file ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

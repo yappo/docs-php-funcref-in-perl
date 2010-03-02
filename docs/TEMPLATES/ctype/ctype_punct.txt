@@ -1,0 +1,13 @@
+*ctype_punct
+
+**PHP
+
+>|PHP|
+bool ctype_punct ( string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

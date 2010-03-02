@@ -1,0 +1,13 @@
+*ncurses_doupdate
+
+**PHP
+
+>|PHP|
+bool ncurses_doupdate ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

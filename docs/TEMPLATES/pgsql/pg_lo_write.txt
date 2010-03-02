@@ -1,0 +1,13 @@
+*pg_lo_write
+
+**PHP
+
+>|PHP|
+int pg_lo_write ( resource $large_object , string $data [, int $len ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

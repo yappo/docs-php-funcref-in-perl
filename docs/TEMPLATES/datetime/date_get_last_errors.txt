@@ -1,0 +1,13 @@
+*date_get_last_errors
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

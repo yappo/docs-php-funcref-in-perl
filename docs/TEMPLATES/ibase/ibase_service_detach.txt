@@ -1,0 +1,13 @@
+*ibase_service_detach
+
+**PHP
+
+>|PHP|
+bool ibase_service_detach ( resource $service_handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*openal_stream
+
+**PHP
+
+>|PHP|
+resource openal_stream ( resource $source , int $format , int $rate )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*max
+
+**PHP
+
+>|PHP|
+mixed max ( array $values )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*odbc_tableprivileges
+
+**PHP
+
+>|PHP|
+resource odbc_tableprivileges ( resource $connection_id , string $qualifier , string $owner , string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

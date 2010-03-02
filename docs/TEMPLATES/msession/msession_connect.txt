@@ -1,0 +1,13 @@
+*msession_connect
+
+**PHP
+
+>|PHP|
+bool msession_connect ( string $host , string $port )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

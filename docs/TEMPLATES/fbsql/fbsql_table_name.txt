@@ -1,0 +1,13 @@
+*fbsql_table_name
+
+**PHP
+
+>|PHP|
+string fbsql_table_name ( resource $result , int $index )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

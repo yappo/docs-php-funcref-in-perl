@@ -1,0 +1,13 @@
+*lzf_decompress
+
+**PHP
+
+>|PHP|
+string lzf_decompress ( string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

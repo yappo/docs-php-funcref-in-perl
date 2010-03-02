@@ -1,0 +1,13 @@
+*ncurses_reset_prog_mode
+
+**PHP
+
+>|PHP|
+int ncurses_reset_prog_mode ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*readline_on_new_line
+
+**PHP
+
+>|PHP|
+void readline_on_new_line ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

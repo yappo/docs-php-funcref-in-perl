@@ -1,0 +1,13 @@
+*ncurses_delwin
+
+**PHP
+
+>|PHP|
+bool ncurses_delwin ( resource $window )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

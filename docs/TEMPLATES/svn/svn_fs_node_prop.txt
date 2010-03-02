@@ -1,0 +1,13 @@
+*svn_fs_node_prop
+
+**PHP
+
+>|PHP|
+string svn_fs_node_prop ( resource $fsroot , string $path , string $propname )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

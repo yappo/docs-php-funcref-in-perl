@@ -1,0 +1,13 @@
+*get_current_user
+
+**PHP
+
+>|PHP|
+string get_current_user ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

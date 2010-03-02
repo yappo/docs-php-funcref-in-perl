@@ -1,0 +1,13 @@
+*mb_ereg_search_regs
+
+**PHP
+
+>|PHP|
+array mb_ereg_search_regs ([ string $pattern [, string $option = "ms" ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

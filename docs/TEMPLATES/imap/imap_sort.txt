@@ -1,0 +1,13 @@
+*imap_sort
+
+**PHP
+
+>|PHP|
+array imap_sort ( resource $imap_stream , int $criteria , int $reverse [, int $options = 0 [, string $search_criteria = NULL [, string $charset = NIL ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

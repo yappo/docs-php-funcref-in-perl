@@ -1,0 +1,13 @@
+*sys_getloadavg
+
+**PHP
+
+>|PHP|
+array sys_getloadavg ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

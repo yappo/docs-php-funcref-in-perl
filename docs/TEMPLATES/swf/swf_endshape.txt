@@ -1,0 +1,13 @@
+*swf_endshape
+
+**PHP
+
+>|PHP|
+void swf_endshape ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

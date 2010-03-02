@@ -1,0 +1,13 @@
+*metaphone
+
+**PHP
+
+>|PHP|
+string metaphone ( string $str [, int $phones = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*imap_setacl
+
+**PHP
+
+>|PHP|
+bool imap_setacl ( resource $imap_stream , string $mailbox , string $id , string $rights )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

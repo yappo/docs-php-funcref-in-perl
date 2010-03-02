@@ -1,0 +1,13 @@
+*array_reduce
+
+**PHP
+
+>|PHP|
+mixed array_reduce ( array $input , callback $function [, mixed $initial ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

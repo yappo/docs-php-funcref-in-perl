@@ -1,0 +1,13 @@
+*mb_preferred_mime_name
+
+**PHP
+
+>|PHP|
+string mb_preferred_mime_name ( string $encoding )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

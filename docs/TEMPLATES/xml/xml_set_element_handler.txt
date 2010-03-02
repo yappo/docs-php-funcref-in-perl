@@ -1,0 +1,13 @@
+*xml_set_element_handler
+
+**PHP
+
+>|PHP|
+bool xml_set_element_handler ( resource $parser , callback $start_element_handler , callback $end_element_handler )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

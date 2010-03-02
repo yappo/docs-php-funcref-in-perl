@@ -1,0 +1,13 @@
+*openal_buffer_destroy
+
+**PHP
+
+>|PHP|
+bool openal_buffer_destroy ( resource $buffer )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

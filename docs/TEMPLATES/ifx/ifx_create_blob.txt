@@ -1,0 +1,13 @@
+*ifx_create_blob
+
+**PHP
+
+>|PHP|
+int ifx_create_blob ( int $type , int $mode , string $param )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

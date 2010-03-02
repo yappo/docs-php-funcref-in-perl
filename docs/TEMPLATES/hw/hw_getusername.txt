@@ -1,0 +1,13 @@
+*hw_getusername
+
+**PHP
+
+>|PHP|
+string hw_getusername ( int $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

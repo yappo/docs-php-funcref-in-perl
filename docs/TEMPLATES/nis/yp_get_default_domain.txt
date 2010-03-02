@@ -1,0 +1,13 @@
+*yp_get_default_domain
+
+**PHP
+
+>|PHP|
+string yp_get_default_domain ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

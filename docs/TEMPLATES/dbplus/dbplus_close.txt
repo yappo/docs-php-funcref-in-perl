@@ -1,0 +1,13 @@
+*dbplus_close
+
+**PHP
+
+>|PHP|
+mixed dbplus_close ( resource $relation )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

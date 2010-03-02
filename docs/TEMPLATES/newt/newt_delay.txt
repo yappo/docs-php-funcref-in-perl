@@ -1,0 +1,13 @@
+*newt_delay
+
+**PHP
+
+>|PHP|
+void newt_delay ( int $microseconds )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

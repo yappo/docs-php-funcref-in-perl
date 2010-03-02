@@ -1,0 +1,13 @@
+*hw_api_attribute->key
+
+**PHP
+
+>|PHP|
+string key ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

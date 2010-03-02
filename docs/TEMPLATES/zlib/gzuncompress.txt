@@ -1,0 +1,13 @@
+*gzuncompress
+
+**PHP
+
+>|PHP|
+string gzuncompress ( string $data [, int $length = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*gnupg_decryptverify
+
+**PHP
+
+>|PHP|
+array gnupg_decryptverify ( resource $identifier , string $text , string &$plaintext )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

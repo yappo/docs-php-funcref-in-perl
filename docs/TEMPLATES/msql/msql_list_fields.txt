@@ -1,0 +1,13 @@
+*msql_list_fields
+
+**PHP
+
+>|PHP|
+resource msql_list_fields ( string $database , string $tablename [, resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*spl_autoload_call
+
+**PHP
+
+>|PHP|
+void spl_autoload_call ( string $class_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

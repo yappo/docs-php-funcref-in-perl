@@ -1,0 +1,13 @@
+*unixtojd
+
+**PHP
+
+>|PHP|
+int unixtojd ([ int $timestamp = time() ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

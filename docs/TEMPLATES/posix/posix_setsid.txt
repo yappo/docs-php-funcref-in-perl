@@ -1,0 +1,13 @@
+*posix_setsid
+
+**PHP
+
+>|PHP|
+int posix_setsid ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

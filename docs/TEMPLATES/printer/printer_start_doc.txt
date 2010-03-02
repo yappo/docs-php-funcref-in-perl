@@ -1,0 +1,13 @@
+*printer_start_doc
+
+**PHP
+
+>|PHP|
+bool printer_start_doc ( resource $printer_handle [, string $document ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

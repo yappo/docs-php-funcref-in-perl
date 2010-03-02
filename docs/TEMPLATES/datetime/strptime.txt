@@ -1,0 +1,13 @@
+*strptime
+
+**PHP
+
+>|PHP|
+array strptime ( string $date , string $format )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

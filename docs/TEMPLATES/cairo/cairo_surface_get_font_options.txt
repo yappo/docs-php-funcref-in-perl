@@ -1,0 +1,13 @@
+*cairo_surface_get_font_options
+
+**PHP
+
+>|PHP|
+CairoFontOptions cairo_surface_get_font_options ( CairoSurface $surface )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

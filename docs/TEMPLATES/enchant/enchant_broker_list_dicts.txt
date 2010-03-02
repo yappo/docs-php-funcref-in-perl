@@ -1,0 +1,13 @@
+*enchant_broker_list_dicts
+
+**PHP
+
+>|PHP|
+mixed enchant_broker_list_dicts ( resource $broker )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

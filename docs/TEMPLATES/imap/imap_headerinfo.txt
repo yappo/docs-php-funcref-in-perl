@@ -1,0 +1,13 @@
+*imap_headerinfo
+
+**PHP
+
+>|PHP|
+object imap_headerinfo ( resource $imap_stream , int $msg_number [, int $fromlength = 0 [, int $subjectlength = 0 [, string $defaulthost = NULL ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ibase_errmsg
+
+**PHP
+
+>|PHP|
+string ibase_errmsg ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

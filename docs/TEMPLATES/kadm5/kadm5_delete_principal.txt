@@ -1,0 +1,13 @@
+*kadm5_delete_principal
+
+**PHP
+
+>|PHP|
+bool kadm5_delete_principal ( resource $handle , string $principal )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*bcmod
+
+**PHP
+
+>|PHP|
+string bcmod ( string $left_operand , string $modulus )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

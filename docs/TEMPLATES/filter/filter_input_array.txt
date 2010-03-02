@@ -1,0 +1,13 @@
+*filter_input_array
+
+**PHP
+
+>|PHP|
+mixed filter_input_array ( int $type [, mixed $definition ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

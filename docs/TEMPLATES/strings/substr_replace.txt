@@ -1,0 +1,13 @@
+*substr_replace
+
+**PHP
+
+>|PHP|
+mixed substr_replace ( mixed $string , string $replacement , int $start [, int $length ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

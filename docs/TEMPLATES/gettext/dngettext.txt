@@ -1,0 +1,13 @@
+*dngettext
+
+**PHP
+
+>|PHP|
+string dngettext ( string $domain , string $msgid1 , string $msgid2 , int $n )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*db2_autocommit
+
+**PHP
+
+>|PHP|
+mixed db2_autocommit ( resource $connection [, bool $value ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

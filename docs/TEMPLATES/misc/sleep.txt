@@ -1,0 +1,13 @@
+*sleep
+
+**PHP
+
+>|PHP|
+int sleep ( int $seconds )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

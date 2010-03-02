@@ -1,0 +1,13 @@
+*cairo_ps_level_to_string
+
+**PHP
+
+>|PHP|
+string cairo_ps_level_to_string ( string $level )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

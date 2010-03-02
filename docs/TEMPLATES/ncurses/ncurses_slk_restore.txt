@@ -1,0 +1,13 @@
+*ncurses_slk_restore
+
+**PHP
+
+>|PHP|
+int ncurses_slk_restore ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

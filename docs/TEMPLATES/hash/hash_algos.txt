@@ -1,0 +1,13 @@
+*hash_algos
+
+**PHP
+
+>|PHP|
+array hash_algos ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

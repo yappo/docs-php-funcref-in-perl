@@ -1,0 +1,13 @@
+*gupnp_service_info_get_introspection
+
+**PHP
+
+>|PHP|
+mixed gupnp_service_info_get_introspection ( resource $proxy [, mixed $callback [, mixed $arg ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

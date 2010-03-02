@@ -1,0 +1,13 @@
+*file_exists
+
+**PHP
+
+>|PHP|
+bool file_exists ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

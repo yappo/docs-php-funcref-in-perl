@@ -1,0 +1,13 @@
+*openal_source_set
+
+**PHP
+
+>|PHP|
+bool openal_source_set ( resource $source , int $property , mixed $setting )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

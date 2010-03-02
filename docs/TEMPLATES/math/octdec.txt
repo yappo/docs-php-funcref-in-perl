@@ -1,0 +1,13 @@
+*octdec
+
+**PHP
+
+>|PHP|
+number octdec ( string $octal_string )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

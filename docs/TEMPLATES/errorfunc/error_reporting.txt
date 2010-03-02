@@ -1,0 +1,13 @@
+*error_reporting
+
+**PHP
+
+>|PHP|
+int error_reporting ([ int $level ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

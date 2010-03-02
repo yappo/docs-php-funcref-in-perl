@@ -1,0 +1,13 @@
+*ldap_parse_result
+
+**PHP
+
+>|PHP|
+bool ldap_parse_result ( resource $link , resource $result , int &$errcode [, string &$matcheddn [, string &$errmsg [, array &$referrals ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

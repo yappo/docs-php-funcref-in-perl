@@ -1,0 +1,13 @@
+*classkit_method_redefine
+
+**PHP
+
+>|PHP|
+bool classkit_method_redefine ( string $classname , string $methodname , string $args , string $code [, int $flags = CLASSKIT_ACC_PUBLIC ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

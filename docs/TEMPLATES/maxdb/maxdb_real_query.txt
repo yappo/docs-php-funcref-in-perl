@@ -1,0 +1,13 @@
+*maxdb_real_query
+
+**PHP
+
+>|PHP|
+bool maxdb_real_query ( resource $link , string $query )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

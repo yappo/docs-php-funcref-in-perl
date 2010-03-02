@@ -1,0 +1,13 @@
+*swf_oncondition
+
+**PHP
+
+>|PHP|
+void swf_oncondition ( int $transition )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

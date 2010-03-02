@@ -1,0 +1,13 @@
+*dbplus_xlockrel
+
+**PHP
+
+>|PHP|
+int dbplus_xlockrel ( resource $relation )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

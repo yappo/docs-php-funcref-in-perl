@@ -1,0 +1,13 @@
+*com_isenum
+
+**PHP
+
+>|PHP|
+bool com_isenum ( variant $com_module )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*sqlite_last_error
+
+**PHP
+
+>|PHP|
+int sqlite_last_error ( resource $dbhandle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

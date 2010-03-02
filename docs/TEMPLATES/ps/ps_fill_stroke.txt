@@ -1,0 +1,13 @@
+*ps_fill_stroke
+
+**PHP
+
+>|PHP|
+bool ps_fill_stroke ( resource $psdoc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

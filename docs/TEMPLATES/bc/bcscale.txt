@@ -1,0 +1,13 @@
+*bcscale
+
+**PHP
+
+>|PHP|
+bool bcscale ( int $scale )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

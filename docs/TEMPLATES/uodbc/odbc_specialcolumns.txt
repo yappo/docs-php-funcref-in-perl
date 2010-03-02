@@ -1,0 +1,13 @@
+*odbc_specialcolumns
+
+**PHP
+
+>|PHP|
+resource odbc_specialcolumns ( resource $connection_id , int $type , string $qualifier , string $owner , string $table , int $scope , int $nullable )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

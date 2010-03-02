@@ -1,0 +1,13 @@
+*ldap_mod_del
+
+**PHP
+
+>|PHP|
+bool ldap_mod_del ( resource $link_identifier , string $dn , array $entry )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

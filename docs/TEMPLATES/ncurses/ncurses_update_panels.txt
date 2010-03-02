@@ -1,0 +1,13 @@
+*ncurses_update_panels
+
+**PHP
+
+>|PHP|
+void ncurses_update_panels ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

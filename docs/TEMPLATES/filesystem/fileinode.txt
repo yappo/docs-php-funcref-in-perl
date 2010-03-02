@@ -1,0 +1,13 @@
+*fileinode
+
+**PHP
+
+>|PHP|
+int fileinode ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*svn_repos_open
+
+**PHP
+
+>|PHP|
+resource svn_repos_open ( string $path )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

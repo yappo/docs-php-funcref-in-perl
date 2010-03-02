@@ -1,0 +1,13 @@
+*hw_Output_Document
+
+**PHP
+
+>|PHP|
+bool hw_output_document ( int $hw_document )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

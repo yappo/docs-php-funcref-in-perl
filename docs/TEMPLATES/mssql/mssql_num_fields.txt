@@ -1,0 +1,13 @@
+*mssql_num_fields
+
+**PHP
+
+>|PHP|
+int mssql_num_fields ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

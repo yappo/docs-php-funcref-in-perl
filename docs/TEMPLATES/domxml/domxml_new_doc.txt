@@ -1,0 +1,13 @@
+*domxml_new_doc
+
+**PHP
+
+>|PHP|
+DomDocument domxml_new_doc ( string $version )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

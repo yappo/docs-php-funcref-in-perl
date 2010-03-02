@@ -1,0 +1,13 @@
+*rename
+
+**PHP
+
+>|PHP|
+bool rename ( string $oldname , string $newname [, resource $context ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ftp_nb_get
+
+**PHP
+
+>|PHP|
+int ftp_nb_get ( resource $ftp_stream , string $local_file , string $remote_file , int $mode [, int $resumepos = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

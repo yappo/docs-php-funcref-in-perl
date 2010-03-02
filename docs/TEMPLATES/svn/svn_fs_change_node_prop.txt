@@ -1,0 +1,13 @@
+*svn_fs_change_node_prop
+
+**PHP
+
+>|PHP|
+bool svn_fs_change_node_prop ( resource $root , string $path , string $name , string $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

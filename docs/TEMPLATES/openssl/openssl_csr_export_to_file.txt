@@ -1,0 +1,13 @@
+*openssl_csr_export_to_file
+
+**PHP
+
+>|PHP|
+bool openssl_csr_export_to_file ( resource $csr , string $outfilename [, bool $notext = true ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

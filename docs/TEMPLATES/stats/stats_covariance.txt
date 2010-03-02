@@ -1,0 +1,13 @@
+*stats_covariance
+
+**PHP
+
+>|PHP|
+float stats_covariance ( array $a , array $b )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

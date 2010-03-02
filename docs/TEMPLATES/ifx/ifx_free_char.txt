@@ -1,0 +1,13 @@
+*ifx_free_char
+
+**PHP
+
+>|PHP|
+bool ifx_free_char ( int $bid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

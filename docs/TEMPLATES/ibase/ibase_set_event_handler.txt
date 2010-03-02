@@ -1,0 +1,13 @@
+*ibase_set_event_handler
+
+**PHP
+
+>|PHP|
+resource ibase_set_event_handler ( callback $event_handler , string $event_name1 [, string $event_name2 [, string $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

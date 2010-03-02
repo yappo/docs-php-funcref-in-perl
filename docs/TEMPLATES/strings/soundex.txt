@@ -1,0 +1,13 @@
+*soundex
+
+**PHP
+
+>|PHP|
+string soundex ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

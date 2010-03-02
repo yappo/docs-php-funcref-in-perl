@@ -1,0 +1,13 @@
+*posix_getgrnam
+
+**PHP
+
+>|PHP|
+array posix_getgrnam ( string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

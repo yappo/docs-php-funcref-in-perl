@@ -1,0 +1,13 @@
+*gupnp_context_get_subscription_timeout
+
+**PHP
+
+>|PHP|
+int gupnp_context_get_subscription_timeout ( resource $context )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

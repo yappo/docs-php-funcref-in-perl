@@ -1,0 +1,13 @@
+*bcompiler_parse_class
+
+**PHP
+
+>|PHP|
+bool bcompiler_parse_class ( string $class , string $callback )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*oci_field_size
+
+**PHP
+
+>|PHP|
+int oci_field_size ( resource $statement , mixed $field )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

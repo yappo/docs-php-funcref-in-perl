@@ -1,0 +1,13 @@
+*xslt_process
+
+**PHP
+
+>|PHP|
+mixed xslt_process ( resource $xh , string $xmlcontainer , string $xslcontainer [, string $resultcontainer [, array $arguments [, array $parameters ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

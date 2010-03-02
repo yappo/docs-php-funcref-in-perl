@@ -1,0 +1,13 @@
+*eval
+
+**PHP
+
+>|PHP|
+mixed eval ( string $code_str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

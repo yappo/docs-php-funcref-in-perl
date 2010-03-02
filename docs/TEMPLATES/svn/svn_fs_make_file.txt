@@ -1,0 +1,13 @@
+*svn_fs_make_file
+
+**PHP
+
+>|PHP|
+bool svn_fs_make_file ( resource $root , string $path )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

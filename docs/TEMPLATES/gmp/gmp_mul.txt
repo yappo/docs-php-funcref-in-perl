@@ -1,0 +1,13 @@
+*gmp_mul
+
+**PHP
+
+>|PHP|
+resource gmp_mul ( resource $a , resource $b )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

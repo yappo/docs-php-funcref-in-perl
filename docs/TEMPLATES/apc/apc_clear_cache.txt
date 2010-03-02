@@ -1,0 +1,13 @@
+*apc_clear_cache
+
+**PHP
+
+>|PHP|
+bool apc_clear_cache ([ string $cache_type ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

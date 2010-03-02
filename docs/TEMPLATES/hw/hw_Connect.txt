@@ -1,0 +1,13 @@
+*hw_Connect
+
+**PHP
+
+>|PHP|
+int hw_connect ( string $host , int $port [, string $username ], string $password )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

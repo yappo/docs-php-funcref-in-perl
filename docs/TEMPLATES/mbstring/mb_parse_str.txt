@@ -1,0 +1,13 @@
+*mb_parse_str
+
+**PHP
+
+>|PHP|
+bool mb_parse_str ( string $encoded_string [, array &$result ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

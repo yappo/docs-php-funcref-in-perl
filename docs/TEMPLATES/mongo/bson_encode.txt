@@ -1,0 +1,13 @@
+*bson_encode
+
+**PHP
+
+>|PHP|
+string bson_encode ( mixed $anything )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

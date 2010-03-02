@@ -1,0 +1,13 @@
+*ifx_free_result
+
+**PHP
+
+>|PHP|
+bool ifx_free_result ( resource $result_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*is_resource
+
+**PHP
+
+>|PHP|
+bool is_resource ( mixed $var )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

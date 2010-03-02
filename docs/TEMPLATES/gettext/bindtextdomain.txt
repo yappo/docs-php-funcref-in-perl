@@ -1,0 +1,13 @@
+*bindtextdomain
+
+**PHP
+
+>|PHP|
+string bindtextdomain ( string $domain , string $directory )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*gmp_divexact
+
+**PHP
+
+>|PHP|
+resource gmp_divexact ( resource $n , resource $d )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

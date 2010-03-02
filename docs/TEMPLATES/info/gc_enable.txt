@@ -1,0 +1,13 @@
+*gc_enable
+
+**PHP
+
+>|PHP|
+void gc_enable ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

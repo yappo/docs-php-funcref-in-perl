@@ -1,0 +1,13 @@
+*ps_setlinejoin
+
+**PHP
+
+>|PHP|
+bool ps_setlinejoin ( resource $psdoc , int $type )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

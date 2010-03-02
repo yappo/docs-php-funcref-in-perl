@@ -1,0 +1,13 @@
+*gmmktime
+
+**PHP
+
+>|PHP|
+int gmmktime ([ int $hour = gmdate("H") [, int $minute = gmdate("i") [, int $second = gmdate("s") [, int $month = gmdate("n") [, int $day = gmdate("j") [, int $year = gmdate("Y") [, int $is_dst = -1 ]]]]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

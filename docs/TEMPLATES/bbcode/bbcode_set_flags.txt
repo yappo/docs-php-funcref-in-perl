@@ -1,0 +1,13 @@
+*bbcode_set_flags
+
+**PHP
+
+>|PHP|
+bool bbcode_set_flags ( resource $bbcode_container , int $flags [, int $mode = BBCODE_SET_FLAGS_SET ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

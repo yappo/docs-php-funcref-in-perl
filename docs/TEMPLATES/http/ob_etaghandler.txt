@@ -1,0 +1,13 @@
+*ob_etaghandler
+
+**PHP
+
+>|PHP|
+string ob_etaghandler ( string $data , int $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

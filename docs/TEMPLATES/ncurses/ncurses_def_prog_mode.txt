@@ -1,0 +1,13 @@
+*ncurses_def_prog_mode
+
+**PHP
+
+>|PHP|
+bool ncurses_def_prog_mode ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

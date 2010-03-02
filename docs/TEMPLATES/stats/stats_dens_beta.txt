@@ -1,0 +1,13 @@
+*stats_dens_beta
+
+**PHP
+
+>|PHP|
+float stats_dens_beta ( float $x , float $a , float $b )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

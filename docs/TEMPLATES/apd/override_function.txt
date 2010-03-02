@@ -1,0 +1,13 @@
+*override_function
+
+**PHP
+
+>|PHP|
+bool override_function ( string $function_name , string $function_args , string $function_code )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

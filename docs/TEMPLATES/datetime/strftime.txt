@@ -1,0 +1,13 @@
+*strftime
+
+**PHP
+
+>|PHP|
+string strftime ( string $format [, int $timestamp = time() ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

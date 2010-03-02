@@ -1,0 +1,13 @@
+*acos
+
+**PHP
+
+>|PHP|
+float acos ( float $arg )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

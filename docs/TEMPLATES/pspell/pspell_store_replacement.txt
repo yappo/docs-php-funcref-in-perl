@@ -1,0 +1,13 @@
+*pspell_store_replacement
+
+**PHP
+
+>|PHP|
+bool pspell_store_replacement ( int $dictionary_link , string $misspelled , string $correct )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

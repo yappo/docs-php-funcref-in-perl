@@ -1,0 +1,13 @@
+*stats_rand_gen_noncentral_f
+
+**PHP
+
+>|PHP|
+float stats_rand_gen_noncentral_f ( float $dfn , float $dfd , float $xnonc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

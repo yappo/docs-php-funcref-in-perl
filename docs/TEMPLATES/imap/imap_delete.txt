@@ -1,0 +1,13 @@
+*imap_delete
+
+**PHP
+
+>|PHP|
+bool imap_delete ( resource $imap_stream , int $msg_number [, int $options = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

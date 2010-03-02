@@ -1,0 +1,13 @@
+*cairo_matrix_transform_distance
+
+**PHP
+
+>|PHP|
+array cairo_matrix_transform_distance ( CairoMatrix $matrix , string $dx , string $dy )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*shmop_open
+
+**PHP
+
+>|PHP|
+int shmop_open ( int $key , string $flags , int $mode , int $size )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ncurses_keyok
+
+**PHP
+
+>|PHP|
+int ncurses_keyok ( int $keycode , bool $enable )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

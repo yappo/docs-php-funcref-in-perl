@@ -1,0 +1,13 @@
+*ps_setlinecap
+
+**PHP
+
+>|PHP|
+bool ps_setlinecap ( resource $psdoc , int $type )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

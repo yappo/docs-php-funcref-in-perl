@@ -1,0 +1,13 @@
+*stats_dens_t
+
+**PHP
+
+>|PHP|
+float stats_dens_t ( float $x , float $dfr )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

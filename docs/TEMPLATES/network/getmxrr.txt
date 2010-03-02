@@ -1,0 +1,13 @@
+*getmxrr
+
+**PHP
+
+>|PHP|
+bool getmxrr ( string $hostname , array &$mxhosts [, array &$weight ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

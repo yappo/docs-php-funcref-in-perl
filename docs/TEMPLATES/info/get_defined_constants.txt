@@ -1,0 +1,13 @@
+*get_defined_constants
+
+**PHP
+
+>|PHP|
+array get_defined_constants ([ bool $categorize ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

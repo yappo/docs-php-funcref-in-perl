@@ -1,0 +1,13 @@
+*kadm5_flush
+
+**PHP
+
+>|PHP|
+bool kadm5_flush ( resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

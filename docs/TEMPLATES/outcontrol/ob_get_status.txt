@@ -1,0 +1,13 @@
+*ob_get_status
+
+**PHP
+
+>|PHP|
+array ob_get_status ([ bool $full_status  = FALSE ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

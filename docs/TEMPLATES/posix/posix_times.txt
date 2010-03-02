@@ -1,0 +1,13 @@
+*posix_times
+
+**PHP
+
+>|PHP|
+array posix_times ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

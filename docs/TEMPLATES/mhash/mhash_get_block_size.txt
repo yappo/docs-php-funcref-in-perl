@@ -1,0 +1,13 @@
+*mhash_get_block_size
+
+**PHP
+
+>|PHP|
+int mhash_get_block_size ( int $hash )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

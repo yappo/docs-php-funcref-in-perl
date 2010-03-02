@@ -1,0 +1,13 @@
+*maxdb_init
+
+**PHP
+
+>|PHP|
+resource maxdb_init ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*bbcode_set_arg_parser
+
+**PHP
+
+>|PHP|
+bool bbcode_set_arg_parser ( resource $bbcode_container , resource $bbcode_arg_parser )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

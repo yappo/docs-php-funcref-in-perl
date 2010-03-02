@@ -1,0 +1,13 @@
+*px_get_info
+
+**PHP
+
+>|PHP|
+array px_get_info ( resource $pxdoc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

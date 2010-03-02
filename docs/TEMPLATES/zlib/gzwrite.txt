@@ -1,0 +1,13 @@
+*gzwrite
+
+**PHP
+
+>|PHP|
+int gzwrite ( resource $zp , string $string [, int $length ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*class_implements
+
+**PHP
+
+>|PHP|
+array class_implements ( mixed $class [, bool $autoload = true ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

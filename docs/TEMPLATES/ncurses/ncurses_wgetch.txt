@@ -1,0 +1,13 @@
+*ncurses_wgetch
+
+**PHP
+
+>|PHP|
+int ncurses_wgetch ( resource $window )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ifxus_read_slob
+
+**PHP
+
+>|PHP|
+string ifxus_read_slob ( int $bid , int $nbytes )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

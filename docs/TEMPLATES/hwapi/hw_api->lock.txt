@@ -1,0 +1,13 @@
+*hw_api->lock
+
+**PHP
+
+>|PHP|
+bool lock ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

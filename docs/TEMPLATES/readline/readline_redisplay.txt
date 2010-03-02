@@ -1,0 +1,13 @@
+*readline_redisplay
+
+**PHP
+
+>|PHP|
+void readline_redisplay ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

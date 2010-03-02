@@ -1,0 +1,13 @@
+*maxdb_data_seek
+
+**PHP
+
+>|PHP|
+bool maxdb_data_seek ( resource $result , int $offset )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

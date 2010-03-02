@@ -1,0 +1,13 @@
+*mailparse_rfc822_parse_addresses
+
+**PHP
+
+>|PHP|
+array mailparse_rfc822_parse_addresses ( string $addresses )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

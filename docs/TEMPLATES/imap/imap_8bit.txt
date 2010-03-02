@@ -1,0 +1,13 @@
+*imap_8bit
+
+**PHP
+
+>|PHP|
+string imap_8bit ( string $string )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

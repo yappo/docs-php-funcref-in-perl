@@ -1,0 +1,13 @@
+*fbsql_num_fields
+
+**PHP
+
+>|PHP|
+int fbsql_num_fields ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

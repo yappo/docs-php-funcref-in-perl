@@ -1,0 +1,13 @@
+*yp_first
+
+**PHP
+
+>|PHP|
+array yp_first ( string $domain , string $map )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

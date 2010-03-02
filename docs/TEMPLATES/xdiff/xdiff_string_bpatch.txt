@@ -1,0 +1,13 @@
+*xdiff_string_bpatch
+
+**PHP
+
+>|PHP|
+string xdiff_string_bpatch ( string $str , string $patch )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

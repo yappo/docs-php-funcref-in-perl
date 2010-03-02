@@ -1,0 +1,13 @@
+*stream_context_set_params
+
+**PHP
+
+>|PHP|
+bool stream_context_set_params ( resource $stream_or_context , array $params )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

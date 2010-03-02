@@ -1,0 +1,13 @@
+*ldap_rename
+
+**PHP
+
+>|PHP|
+bool ldap_rename ( resource $link_identifier , string $dn , string $newrdn , string $newparent , bool $deleteoldrdn )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

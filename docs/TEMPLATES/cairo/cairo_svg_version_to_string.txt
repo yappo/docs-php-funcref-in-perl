@@ -1,0 +1,13 @@
+*cairo_svg_version_to_string
+
+**PHP
+
+>|PHP|
+string cairo_svg_version_to_string ( int $version )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

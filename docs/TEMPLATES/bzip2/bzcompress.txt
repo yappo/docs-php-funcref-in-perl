@@ -1,0 +1,13 @@
+*bzcompress
+
+**PHP
+
+>|PHP|
+mixed bzcompress ( string $source [, int $blocksize = 4 [, int $workfactor = 0 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

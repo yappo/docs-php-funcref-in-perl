@@ -1,0 +1,13 @@
+*mysqli_rpl_parse_enabled
+
+**PHP
+
+>|PHP|
+int mysqli_rpl_parse_enabled ( mysqli $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

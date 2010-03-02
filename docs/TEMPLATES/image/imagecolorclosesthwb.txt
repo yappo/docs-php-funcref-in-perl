@@ -1,0 +1,13 @@
+*imagecolorclosesthwb
+
+**PHP
+
+>|PHP|
+int imagecolorclosesthwb ( resource $image , int $red , int $green , int $blue )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

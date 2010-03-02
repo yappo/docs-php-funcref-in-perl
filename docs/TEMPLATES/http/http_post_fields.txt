@@ -1,0 +1,13 @@
+*http_post_fields
+
+**PHP
+
+>|PHP|
+string http_post_fields ( string $url [, array $data [, array $files [, array $options [, array &$info ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

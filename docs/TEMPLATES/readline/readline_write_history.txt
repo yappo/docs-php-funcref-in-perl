@@ -1,0 +1,13 @@
+*readline_write_history
+
+**PHP
+
+>|PHP|
+bool readline_write_history ([ string $filename ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

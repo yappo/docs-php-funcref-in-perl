@@ -1,0 +1,13 @@
+*ibase_blob_cancel
+
+**PHP
+
+>|PHP|
+bool ibase_blob_cancel ( resource $blob_handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

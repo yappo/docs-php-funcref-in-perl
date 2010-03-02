@@ -1,0 +1,13 @@
+*ifx_nullformat
+
+**PHP
+
+>|PHP|
+bool ifx_nullformat ( int $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

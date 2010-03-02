@@ -1,0 +1,13 @@
+*gzclose
+
+**PHP
+
+>|PHP|
+bool gzclose ( resource $zp )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

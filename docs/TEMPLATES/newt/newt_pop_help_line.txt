@@ -1,0 +1,13 @@
+*newt_pop_help_line
+
+**PHP
+
+>|PHP|
+void newt_pop_help_line ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*xmlrpc_encode
+
+**PHP
+
+>|PHP|
+string xmlrpc_encode ( mixed $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

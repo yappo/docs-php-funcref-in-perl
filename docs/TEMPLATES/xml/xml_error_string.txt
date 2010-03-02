@@ -1,0 +1,13 @@
+*xml_error_string
+
+**PHP
+
+>|PHP|
+string xml_error_string ( int $code )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

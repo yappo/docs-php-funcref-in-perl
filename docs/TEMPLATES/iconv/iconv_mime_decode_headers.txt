@@ -1,0 +1,13 @@
+*iconv_mime_decode_headers
+
+**PHP
+
+>|PHP|
+array iconv_mime_decode_headers ( string $encoded_headers [, int $mode = 0 [, string $charset = ini_set("iconv.internal_encoding") ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

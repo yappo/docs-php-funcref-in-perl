@@ -1,0 +1,13 @@
+*date_create
+
+**PHP
+
+>|PHP|
+DateTime date_create ([ string $time = "now" [, DateTimeZone $timezone = NULL ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

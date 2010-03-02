@@ -1,0 +1,13 @@
+*svn_repos_hotcopy
+
+**PHP
+
+>|PHP|
+bool svn_repos_hotcopy ( string $repospath , string $destpath , bool $cleanlogs )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

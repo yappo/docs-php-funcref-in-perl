@@ -1,0 +1,13 @@
+*posix_strerror
+
+**PHP
+
+>|PHP|
+string posix_strerror ( int $errno )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ifx_affected_rows
+
+**PHP
+
+>|PHP|
+int ifx_affected_rows ( resource $result_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

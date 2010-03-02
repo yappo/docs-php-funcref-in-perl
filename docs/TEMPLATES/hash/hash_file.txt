@@ -1,0 +1,13 @@
+*hash_file
+
+**PHP
+
+>|PHP|
+string hash_file ( string $algo , string $filename [, bool $raw_output = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

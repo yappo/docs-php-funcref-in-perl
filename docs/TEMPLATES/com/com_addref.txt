@@ -1,0 +1,13 @@
+*com_addref
+
+**PHP
+
+>|PHP|
+void com_addref ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

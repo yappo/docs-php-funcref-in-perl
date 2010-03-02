@@ -1,0 +1,13 @@
+*pg_untrace
+
+**PHP
+
+>|PHP|
+bool pg_untrace ([ resource $connection ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

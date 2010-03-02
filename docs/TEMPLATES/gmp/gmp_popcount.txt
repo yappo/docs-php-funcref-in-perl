@@ -1,0 +1,13 @@
+*gmp_popcount
+
+**PHP
+
+>|PHP|
+int gmp_popcount ( resource $a )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

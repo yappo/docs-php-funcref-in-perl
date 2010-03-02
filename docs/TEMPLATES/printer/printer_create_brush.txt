@@ -1,0 +1,13 @@
+*printer_create_brush
+
+**PHP
+
+>|PHP|
+resource printer_create_brush ( int $style , string $color )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

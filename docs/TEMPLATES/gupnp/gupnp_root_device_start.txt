@@ -1,0 +1,13 @@
+*gupnp_root_device_start
+
+**PHP
+
+>|PHP|
+bool gupnp_root_device_start ( resource $root_device )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

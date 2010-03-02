@@ -1,0 +1,13 @@
+*sybase_get_last_message
+
+**PHP
+
+>|PHP|
+string sybase_get_last_message ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*maxdb_stmt_execute
+
+**PHP
+
+>|PHP|
+bool maxdb_stmt_execute ( resource $stmt )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

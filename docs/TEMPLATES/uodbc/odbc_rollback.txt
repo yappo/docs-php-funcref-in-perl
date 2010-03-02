@@ -1,0 +1,13 @@
+*odbc_rollback
+
+**PHP
+
+>|PHP|
+bool odbc_rollback ( resource $connection_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

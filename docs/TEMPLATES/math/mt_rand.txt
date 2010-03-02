@@ -1,0 +1,13 @@
+*mt_rand
+
+**PHP
+
+>|PHP|
+int mt_rand ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

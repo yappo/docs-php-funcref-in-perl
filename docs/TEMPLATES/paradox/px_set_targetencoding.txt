@@ -1,0 +1,13 @@
+*px_set_targetencoding
+
+**PHP
+
+>|PHP|
+bool px_set_targetencoding ( resource $pxdoc , string $encoding )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

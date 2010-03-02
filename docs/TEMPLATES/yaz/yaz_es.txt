@@ -1,0 +1,13 @@
+*yaz_es
+
+**PHP
+
+>|PHP|
+void yaz_es (  resource $id  ,  string $type  ,  array $args  )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

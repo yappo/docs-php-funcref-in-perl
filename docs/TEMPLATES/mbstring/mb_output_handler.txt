@@ -1,0 +1,13 @@
+*mb_output_handler
+
+**PHP
+
+>|PHP|
+string mb_output_handler ( string $contents , int $status )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

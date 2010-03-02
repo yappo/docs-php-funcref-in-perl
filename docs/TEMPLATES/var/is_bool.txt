@@ -1,0 +1,13 @@
+*is_bool
+
+**PHP
+
+>|PHP|
+bool is_bool ( mixed $var )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

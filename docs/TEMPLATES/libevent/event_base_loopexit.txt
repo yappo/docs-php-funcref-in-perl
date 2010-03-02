@@ -1,0 +1,13 @@
+*event_base_loopexit
+
+**PHP
+
+>|PHP|
+bool event_base_loopexit ( resource $event_base [, int $timeout = -1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

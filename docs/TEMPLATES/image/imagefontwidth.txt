@@ -1,0 +1,13 @@
+*imagefontwidth
+
+**PHP
+
+>|PHP|
+int imagefontwidth ( int $font )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

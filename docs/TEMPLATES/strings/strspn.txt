@@ -1,0 +1,13 @@
+*strspn
+
+**PHP
+
+>|PHP|
+int strspn ( string $subject , string $mask [, int $start [, int $length ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

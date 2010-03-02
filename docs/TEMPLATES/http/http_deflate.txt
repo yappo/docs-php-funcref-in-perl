@@ -1,0 +1,13 @@
+*http_deflate
+
+**PHP
+
+>|PHP|
+string http_deflate ( string $data [, int $flags = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

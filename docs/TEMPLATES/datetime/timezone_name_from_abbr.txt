@@ -1,0 +1,13 @@
+*timezone_name_from_abbr
+
+**PHP
+
+>|PHP|
+string timezone_name_from_abbr ( string $abbr [, int $gmtOffset = -1 [, int $isdst = -1 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*oci_set_edition
+
+**PHP
+
+>|PHP|
+bool oci_set_edition ( string $edition )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*mcrypt_module_is_block_algorithm
+
+**PHP
+
+>|PHP|
+bool mcrypt_module_is_block_algorithm ( string $algorithm [, string $lib_dir ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

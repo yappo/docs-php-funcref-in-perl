@@ -1,0 +1,13 @@
+*gupnp_service_proxy_get_subscribed
+
+**PHP
+
+>|PHP|
+bool gupnp_service_proxy_get_subscribed ( resource $proxy )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

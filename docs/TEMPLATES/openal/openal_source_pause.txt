@@ -1,0 +1,13 @@
+*openal_source_pause
+
+**PHP
+
+>|PHP|
+bool openal_source_pause ( resource $source )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

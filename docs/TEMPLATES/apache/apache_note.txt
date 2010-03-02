@@ -1,0 +1,13 @@
+*apache_note
+
+**PHP
+
+>|PHP|
+string apache_note ( string $note_name [, string $note_value ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

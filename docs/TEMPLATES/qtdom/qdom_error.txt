@@ -1,0 +1,13 @@
+*qdom_error
+
+**PHP
+
+>|PHP|
+string qdom_error ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

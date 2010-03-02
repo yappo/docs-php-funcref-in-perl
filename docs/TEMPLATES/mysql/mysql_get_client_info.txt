@@ -1,0 +1,13 @@
+*mysql_get_client_info
+
+**PHP
+
+>|PHP|
+string mysql_get_client_info ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*udm_error
+
+**PHP
+
+>|PHP|
+string udm_error ( resource $agent )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

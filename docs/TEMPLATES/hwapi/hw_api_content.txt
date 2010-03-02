@@ -1,0 +1,13 @@
+*hw_api_content
+
+**PHP
+
+>|PHP|
+HW_API_Content hw_api_content ( string $content , string $mimetype )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*maxdb_options
+
+**PHP
+
+>|PHP|
+bool maxdb_options ( resource $link , int $option , mixed $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

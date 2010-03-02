@@ -1,0 +1,13 @@
+*gnupg_cleardecryptkeys
+
+**PHP
+
+>|PHP|
+bool gnupg_cleardecryptkeys ( resource $identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

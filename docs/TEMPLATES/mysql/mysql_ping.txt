@@ -1,0 +1,13 @@
+*mysql_ping
+
+**PHP
+
+>|PHP|
+bool mysql_ping ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*imap_timeout
+
+**PHP
+
+>|PHP|
+mixed imap_timeout ( int $timeout_type [, int $timeout = -1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

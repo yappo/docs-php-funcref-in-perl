@@ -1,0 +1,13 @@
+*output_add_rewrite_var
+
+**PHP
+
+>|PHP|
+bool output_add_rewrite_var ( string $name , string $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

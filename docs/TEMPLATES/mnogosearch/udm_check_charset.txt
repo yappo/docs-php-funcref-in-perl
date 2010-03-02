@@ -1,0 +1,13 @@
+*udm_check_charset
+
+**PHP
+
+>|PHP|
+bool udm_check_charset ( resource $agent , string $charset )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

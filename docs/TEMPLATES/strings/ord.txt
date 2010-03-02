@@ -1,0 +1,13 @@
+*ord
+
+**PHP
+
+>|PHP|
+int ord ( string $string )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

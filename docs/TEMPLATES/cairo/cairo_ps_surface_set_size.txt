@@ -1,0 +1,13 @@
+*cairo_ps_surface_set_size
+
+**PHP
+
+>|PHP|
+void cairo_ps_surface_set_size ( CairoPsSurface $surface , string $width , string $height )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

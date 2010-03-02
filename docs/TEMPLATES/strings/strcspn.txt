@@ -1,0 +1,13 @@
+*strcspn
+
+**PHP
+
+>|PHP|
+int strcspn ( string $str1 , string $str2 [, int $start [, int $length ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

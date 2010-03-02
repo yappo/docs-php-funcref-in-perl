@@ -1,0 +1,13 @@
+*gupnp_service_thaw_notify
+
+**PHP
+
+>|PHP|
+bool gupnp_service_thaw_notify ( resource $service )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*oci_set_action
+
+**PHP
+
+>|PHP|
+bool oci_set_action ( resource $connection , string $action_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

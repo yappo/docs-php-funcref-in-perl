@@ -1,0 +1,13 @@
+*getlastmod
+
+**PHP
+
+>|PHP|
+int getlastmod ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

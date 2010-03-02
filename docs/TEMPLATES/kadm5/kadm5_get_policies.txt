@@ -1,0 +1,13 @@
+*kadm5_get_policies
+
+**PHP
+
+>|PHP|
+array kadm5_get_policies ( resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

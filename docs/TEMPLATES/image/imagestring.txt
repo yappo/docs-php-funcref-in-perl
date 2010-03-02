@@ -1,0 +1,13 @@
+*imagestring
+
+**PHP
+
+>|PHP|
+bool imagestring ( resource $image , int $font , int $x , int $y , string $string , int $color )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

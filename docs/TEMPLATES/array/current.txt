@@ -1,0 +1,13 @@
+*current
+
+**PHP
+
+>|PHP|
+mixed current ( array &$array )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

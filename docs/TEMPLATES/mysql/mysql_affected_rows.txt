@@ -1,0 +1,13 @@
+*mysql_affected_rows
+
+**PHP
+
+>|PHP|
+int mysql_affected_rows ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

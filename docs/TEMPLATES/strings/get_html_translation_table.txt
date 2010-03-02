@@ -1,0 +1,13 @@
+*get_html_translation_table
+
+**PHP
+
+>|PHP|
+array get_html_translation_table ([ int $table = HTML_SPECIALCHARS [, int $quote_style = ENT_COMPAT ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*unicode_decode
+
+**PHP
+
+>|PHP|
+unicode unicode_decode ( string $input , string $encoding [, int $errmode ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

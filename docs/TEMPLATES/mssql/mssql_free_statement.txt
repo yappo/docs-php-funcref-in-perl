@@ -1,0 +1,13 @@
+*mssql_free_statement
+
+**PHP
+
+>|PHP|
+bool mssql_free_statement ( resource $stmt )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*cairo_surface_finish
+
+**PHP
+
+>|PHP|
+void cairo_surface_finish ( CairoSurface $surface )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*pg_convert
+
+**PHP
+
+>|PHP|
+array pg_convert ( resource $connection , string $table_name , array $assoc_array [, int $options = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

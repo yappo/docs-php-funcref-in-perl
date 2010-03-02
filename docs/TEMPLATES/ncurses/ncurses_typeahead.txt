@@ -1,0 +1,13 @@
+*ncurses_typeahead
+
+**PHP
+
+>|PHP|
+int ncurses_typeahead ( int $fd )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

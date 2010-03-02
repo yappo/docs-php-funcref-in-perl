@@ -1,0 +1,13 @@
+*fdf_set_on_import_javascript
+
+**PHP
+
+>|PHP|
+bool fdf_set_on_import_javascript ( resource $fdf_document , string $script , bool $before_data_import )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

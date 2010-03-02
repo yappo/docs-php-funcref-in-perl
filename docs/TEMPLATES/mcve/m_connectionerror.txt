@@ -1,0 +1,13 @@
+*m_connectionerror
+
+**PHP
+
+>|PHP|
+string m_connectionerror ( resource $conn )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ncurses_wattroff
+
+**PHP
+
+>|PHP|
+int ncurses_wattroff ( resource $window , int $attrs )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

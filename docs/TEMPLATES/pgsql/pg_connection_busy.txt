@@ -1,0 +1,13 @@
+*pg_connection_busy
+
+**PHP
+
+>|PHP|
+bool pg_connection_busy ( resource $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

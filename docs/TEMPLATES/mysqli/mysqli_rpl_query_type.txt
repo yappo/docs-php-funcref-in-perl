@@ -1,0 +1,13 @@
+*mysqli_rpl_query_type
+
+**PHP
+
+>|PHP|
+int mysqli_rpl_query_type ( mysqli $link , string $query )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

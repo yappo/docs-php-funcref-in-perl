@@ -1,0 +1,13 @@
+*udm_crc32
+
+**PHP
+
+>|PHP|
+int udm_crc32 ( resource $agent , string $str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*mssql_get_last_message
+
+**PHP
+
+>|PHP|
+string mssql_get_last_message ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

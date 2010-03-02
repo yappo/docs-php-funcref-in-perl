@@ -1,0 +1,13 @@
+*min
+
+**PHP
+
+>|PHP|
+mixed min ( array $values )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

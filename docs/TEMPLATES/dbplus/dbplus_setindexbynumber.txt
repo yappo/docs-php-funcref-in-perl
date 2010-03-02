@@ -1,0 +1,13 @@
+*dbplus_setindexbynumber
+
+**PHP
+
+>|PHP|
+int dbplus_setindexbynumber ( resource $relation , int $idx_number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

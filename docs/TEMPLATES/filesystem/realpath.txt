@@ -1,0 +1,13 @@
+*realpath
+
+**PHP
+
+>|PHP|
+string realpath ( string $path )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

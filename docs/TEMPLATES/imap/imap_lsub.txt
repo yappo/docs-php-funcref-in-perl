@@ -1,0 +1,13 @@
+*imap_lsub
+
+**PHP
+
+>|PHP|
+array imap_lsub ( resource $imap_stream , string $ref , string $pattern )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

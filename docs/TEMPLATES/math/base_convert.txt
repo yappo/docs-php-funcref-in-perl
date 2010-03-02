@@ -1,0 +1,13 @@
+*base_convert
+
+**PHP
+
+>|PHP|
+string base_convert ( string $number , int $frombase , int $tobase )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

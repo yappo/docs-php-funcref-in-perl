@@ -1,0 +1,13 @@
+*natsort
+
+**PHP
+
+>|PHP|
+bool natsort ( array &$array )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

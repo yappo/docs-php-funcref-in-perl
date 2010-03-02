@@ -1,0 +1,13 @@
+*variant_abs
+
+**PHP
+
+>|PHP|
+mixed variant_abs ( mixed $val )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

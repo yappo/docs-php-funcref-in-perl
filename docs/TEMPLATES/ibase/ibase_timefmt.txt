@@ -1,0 +1,13 @@
+*ibase_timefmt
+
+**PHP
+
+>|PHP|
+bool ibase_timefmt ( string $format [, int $columntype ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

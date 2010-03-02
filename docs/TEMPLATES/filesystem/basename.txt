@@ -1,0 +1,13 @@
+*basename
+
+**PHP
+
+>|PHP|
+string basename ( string $path [, string $suffix ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

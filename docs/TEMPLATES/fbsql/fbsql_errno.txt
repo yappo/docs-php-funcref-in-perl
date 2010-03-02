@@ -1,0 +1,13 @@
+*fbsql_errno
+
+**PHP
+
+>|PHP|
+int fbsql_errno ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

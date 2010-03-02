@@ -1,0 +1,13 @@
+*imagesettile
+
+**PHP
+
+>|PHP|
+bool imagesettile ( resource $image , resource $tile )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*snmp_get_valueretrieval
+
+**PHP
+
+>|PHP|
+int snmp_get_valueretrieval ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

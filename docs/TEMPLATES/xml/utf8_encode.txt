@@ -1,0 +1,13 @@
+*utf8_encode
+
+**PHP
+
+>|PHP|
+string utf8_encode ( string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*readgzfile
+
+**PHP
+
+>|PHP|
+int readgzfile ( string $filename [, int $use_include_path = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

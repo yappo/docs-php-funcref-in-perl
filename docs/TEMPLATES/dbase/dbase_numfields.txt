@@ -1,0 +1,13 @@
+*dbase_numfields
+
+**PHP
+
+>|PHP|
+int dbase_numfields ( int $dbase_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

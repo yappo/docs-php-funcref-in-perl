@@ -1,0 +1,13 @@
+*stream_notification_callback
+
+**PHP
+
+>|PHP|
+void stream_notification_callback ( int $notification_code , int $severity , string $message , int $message_code , int $bytes_transferred , int $bytes_max )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

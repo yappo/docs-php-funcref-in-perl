@@ -1,0 +1,13 @@
+*proc_terminate
+
+**PHP
+
+>|PHP|
+bool proc_terminate ( resource $process [, int $signal = 15 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

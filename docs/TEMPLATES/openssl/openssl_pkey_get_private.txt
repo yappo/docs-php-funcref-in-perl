@@ -1,0 +1,13 @@
+*openssl_pkey_get_private
+
+**PHP
+
+>|PHP|
+resource openssl_pkey_get_private ( mixed $key [, string $passphrase = "" ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

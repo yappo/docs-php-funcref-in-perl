@@ -1,0 +1,13 @@
+*dio_write
+
+**PHP
+
+>|PHP|
+int dio_write ( resource $fd , string $data [, int $len = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

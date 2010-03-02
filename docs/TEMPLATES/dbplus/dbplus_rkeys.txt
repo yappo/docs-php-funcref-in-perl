@@ -1,0 +1,13 @@
+*dbplus_rkeys
+
+**PHP
+
+>|PHP|
+mixed dbplus_rkeys ( resource $relation , mixed $domlist )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

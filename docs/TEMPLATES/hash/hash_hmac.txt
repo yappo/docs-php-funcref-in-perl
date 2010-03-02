@@ -1,0 +1,13 @@
+*hash_hmac
+
+**PHP
+
+>|PHP|
+string hash_hmac ( string $algo , string $data , string $key [, bool $raw_output = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

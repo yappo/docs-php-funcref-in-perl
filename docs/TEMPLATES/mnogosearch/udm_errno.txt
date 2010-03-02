@@ -1,0 +1,13 @@
+*udm_errno
+
+**PHP
+
+>|PHP|
+int udm_errno ( resource $agent )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

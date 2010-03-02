@@ -1,0 +1,13 @@
+*m_parsecommadelimited
+
+**PHP
+
+>|PHP|
+int m_parsecommadelimited ( resource $conn , int $identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*cairo_pattern_get_color_stop_rgba
+
+**PHP
+
+>|PHP|
+array cairo_pattern_get_color_stop_rgba ( CairoGradientPattern $pattern , string $index )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*iconv_strrpos
+
+**PHP
+
+>|PHP|
+int iconv_strrpos ( string $haystack , string $needle [, string $charset = ini_set("iconv.internal_encoding") ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

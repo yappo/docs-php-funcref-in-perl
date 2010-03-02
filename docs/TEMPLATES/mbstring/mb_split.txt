@@ -1,0 +1,13 @@
+*mb_split
+
+**PHP
+
+>|PHP|
+array mb_split ( string $pattern , string $string [, int $limit = -1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

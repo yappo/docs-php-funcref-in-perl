@@ -1,0 +1,13 @@
+*ctype_digit
+
+**PHP
+
+>|PHP|
+bool ctype_digit ( string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

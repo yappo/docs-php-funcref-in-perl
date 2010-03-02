@@ -1,0 +1,13 @@
+*newt_grid_free
+
+**PHP
+
+>|PHP|
+void newt_grid_free ( resource $grid , bool $recurse )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

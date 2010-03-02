@@ -1,0 +1,13 @@
+*fstat
+
+**PHP
+
+>|PHP|
+array fstat ( resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

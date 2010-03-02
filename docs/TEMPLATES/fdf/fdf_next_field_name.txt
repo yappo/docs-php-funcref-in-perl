@@ -1,0 +1,13 @@
+*fdf_next_field_name
+
+**PHP
+
+>|PHP|
+string fdf_next_field_name ( resource $fdf_document [, string $fieldname ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

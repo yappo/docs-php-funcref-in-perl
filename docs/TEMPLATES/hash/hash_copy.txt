@@ -1,0 +1,13 @@
+*hash_copy
+
+**PHP
+
+>|PHP|
+resource hash_copy ( resource $context )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

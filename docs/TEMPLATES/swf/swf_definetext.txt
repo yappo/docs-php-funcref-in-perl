@@ -1,0 +1,13 @@
+*swf_definetext
+
+**PHP
+
+>|PHP|
+void swf_definetext ( int $objid , string $str , int $docenter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

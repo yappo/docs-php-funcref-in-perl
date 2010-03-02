@@ -1,0 +1,13 @@
+*newt_form_set_timer
+
+**PHP
+
+>|PHP|
+void newt_form_set_timer ( resource $form , int $milliseconds )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

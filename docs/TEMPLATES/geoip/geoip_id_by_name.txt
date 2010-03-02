@@ -1,0 +1,13 @@
+*geoip_id_by_name
+
+**PHP
+
+>|PHP|
+int geoip_id_by_name ( string $hostname )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

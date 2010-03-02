@@ -1,0 +1,13 @@
+*ingres_unbuffered_query
+
+**PHP
+
+>|PHP|
+mixed ingres_unbuffered_query ( resource $link , string $query [, array $params [, string $types ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

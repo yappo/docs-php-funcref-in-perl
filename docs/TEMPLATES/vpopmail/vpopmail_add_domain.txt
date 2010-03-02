@@ -1,0 +1,13 @@
+*vpopmail_add_domain
+
+**PHP
+
+>|PHP|
+bool vpopmail_add_domain ( string $domain , string $dir , int $uid , int $gid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

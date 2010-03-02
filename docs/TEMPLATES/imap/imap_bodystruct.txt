@@ -1,0 +1,13 @@
+*imap_bodystruct
+
+**PHP
+
+>|PHP|
+object imap_bodystruct ( resource $imap_stream , int $msg_number , string $section )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*imap_last_error
+
+**PHP
+
+>|PHP|
+string imap_last_error ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

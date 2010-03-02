@@ -1,0 +1,13 @@
+*oci_bind_by_name
+
+**PHP
+
+>|PHP|
+bool oci_bind_by_name ( resource $statement , string $bv_name , mixed &$variable [, int $maxlength = -1 [, int $type = SQLT_CHR ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

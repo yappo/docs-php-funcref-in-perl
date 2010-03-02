@@ -1,0 +1,13 @@
+*convert_cyr_string
+
+**PHP
+
+>|PHP|
+string convert_cyr_string ( string $str , string $from , string $to )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

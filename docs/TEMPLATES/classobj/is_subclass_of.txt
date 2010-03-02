@@ -1,0 +1,13 @@
+*is_subclass_of
+
+**PHP
+
+>|PHP|
+bool is_subclass_of ( mixed $object , string $class_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

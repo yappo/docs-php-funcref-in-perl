@@ -1,0 +1,13 @@
+*imap_set_quota
+
+**PHP
+
+>|PHP|
+bool imap_set_quota ( resource $imap_stream , string $quota_root , int $quota_limit )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

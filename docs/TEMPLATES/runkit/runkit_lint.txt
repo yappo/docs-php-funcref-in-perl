@@ -1,0 +1,13 @@
+*runkit_lint
+
+**PHP
+
+>|PHP|
+bool runkit_lint ( string $code )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*swf_actionsettarget
+
+**PHP
+
+>|PHP|
+void swf_actionsettarget ( string $target )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

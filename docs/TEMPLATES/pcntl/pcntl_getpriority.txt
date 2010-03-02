@@ -1,0 +1,13 @@
+*pcntl_getpriority
+
+**PHP
+
+>|PHP|
+int pcntl_getpriority ([ int $pid = getmypid() [, int $process_identifier = PRIO_PROCESS ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

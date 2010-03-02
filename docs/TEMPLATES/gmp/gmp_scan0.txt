@@ -1,0 +1,13 @@
+*gmp_scan0
+
+**PHP
+
+>|PHP|
+int gmp_scan0 ( resource $a , int $start )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

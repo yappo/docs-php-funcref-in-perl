@@ -1,0 +1,13 @@
+*gethostbyname
+
+**PHP
+
+>|PHP|
+string gethostbyname ( string $hostname )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

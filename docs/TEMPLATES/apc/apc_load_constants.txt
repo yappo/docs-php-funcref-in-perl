@@ -1,0 +1,13 @@
+*apc_load_constants
+
+**PHP
+
+>|PHP|
+bool apc_load_constants ( string $key [, bool $case_sensitive = true ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

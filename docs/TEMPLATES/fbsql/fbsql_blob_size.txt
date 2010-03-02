@@ -1,0 +1,13 @@
+*fbsql_blob_size
+
+**PHP
+
+>|PHP|
+int fbsql_blob_size ( string $blob_handle [, resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*stats_cdf_exponential
+
+**PHP
+
+>|PHP|
+float stats_cdf_exponential ( float $par1 , float $par2 , int $which )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

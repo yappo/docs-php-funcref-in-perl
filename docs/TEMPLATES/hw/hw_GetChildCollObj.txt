@@ -1,0 +1,13 @@
+*hw_GetChildCollObj
+
+**PHP
+
+>|PHP|
+array hw_getchildcollobj ( int $connection , int $objectID )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

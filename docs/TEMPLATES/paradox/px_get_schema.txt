@@ -1,0 +1,13 @@
+*px_get_schema
+
+**PHP
+
+>|PHP|
+array px_get_schema ( resource $pxdoc [, int $mode = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

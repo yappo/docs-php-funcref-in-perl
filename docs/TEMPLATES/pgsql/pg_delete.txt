@@ -1,0 +1,13 @@
+*pg_delete
+
+**PHP
+
+>|PHP|
+mixed pg_delete ( resource $connection , string $table_name , array $assoc_array [, int $options = PGSQL_DML_EXEC ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

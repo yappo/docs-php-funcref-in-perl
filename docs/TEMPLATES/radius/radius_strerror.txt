@@ -1,0 +1,13 @@
+*radius_strerror
+
+**PHP
+
+>|PHP|
+string radius_strerror ( resource $radius_handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*fileperms
+
+**PHP
+
+>|PHP|
+int fileperms ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

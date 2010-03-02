@@ -1,0 +1,13 @@
+*newt_textbox_set_height
+
+**PHP
+
+>|PHP|
+void newt_textbox_set_height ( resource $textbox , int $height )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

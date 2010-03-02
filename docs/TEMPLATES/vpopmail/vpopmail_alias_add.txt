@@ -1,0 +1,13 @@
+*vpopmail_alias_add
+
+**PHP
+
+>|PHP|
+bool vpopmail_alias_add ( string $user , string $domain , string $alias )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

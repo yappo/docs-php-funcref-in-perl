@@ -1,0 +1,13 @@
+*gzpassthru
+
+**PHP
+
+>|PHP|
+int gzpassthru ( resource $zp )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

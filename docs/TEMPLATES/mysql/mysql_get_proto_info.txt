@@ -1,0 +1,13 @@
+*mysql_get_proto_info
+
+**PHP
+
+>|PHP|
+int mysql_get_proto_info ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

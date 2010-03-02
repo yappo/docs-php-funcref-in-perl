@@ -1,0 +1,13 @@
+*ncurses_slk_clear
+
+**PHP
+
+>|PHP|
+bool ncurses_slk_clear ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

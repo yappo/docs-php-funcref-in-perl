@@ -1,0 +1,13 @@
+*ncurses_mousemask
+
+**PHP
+
+>|PHP|
+int ncurses_mousemask ( int $newmask , int &$oldmask )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

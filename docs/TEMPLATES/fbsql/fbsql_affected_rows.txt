@@ -1,0 +1,13 @@
+*fbsql_affected_rows
+
+**PHP
+
+>|PHP|
+int fbsql_affected_rows ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

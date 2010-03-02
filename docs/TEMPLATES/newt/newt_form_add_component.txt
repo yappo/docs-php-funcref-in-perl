@@ -1,0 +1,13 @@
+*newt_form_add_component
+
+**PHP
+
+>|PHP|
+void newt_form_add_component ( resource $form , resource $component )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

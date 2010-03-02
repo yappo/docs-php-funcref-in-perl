@@ -1,0 +1,13 @@
+*hw_api_object->remove
+
+**PHP
+
+>|PHP|
+bool remove ( string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

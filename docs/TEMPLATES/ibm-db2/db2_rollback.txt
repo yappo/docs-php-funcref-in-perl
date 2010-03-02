@@ -1,0 +1,13 @@
+*db2_rollback
+
+**PHP
+
+>|PHP|
+bool db2_rollback ( resource $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

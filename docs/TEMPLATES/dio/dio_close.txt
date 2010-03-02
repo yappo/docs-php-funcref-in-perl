@@ -1,0 +1,13 @@
+*dio_close
+
+**PHP
+
+>|PHP|
+void dio_close ( resource $fd )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

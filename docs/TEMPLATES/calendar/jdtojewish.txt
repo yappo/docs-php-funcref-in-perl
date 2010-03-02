@@ -1,0 +1,13 @@
+*jdtojewish
+
+**PHP
+
+>|PHP|
+string jdtojewish ( int $juliandaycount [, bool $hebrew = false [, int $fl = 0 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

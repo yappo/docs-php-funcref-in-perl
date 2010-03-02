@@ -1,0 +1,13 @@
+*ovrimos_free_result
+
+**PHP
+
+>|PHP|
+bool ovrimos_free_result ( int $result_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

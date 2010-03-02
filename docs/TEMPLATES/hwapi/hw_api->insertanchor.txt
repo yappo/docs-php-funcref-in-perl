@@ -1,0 +1,13 @@
+*hw_api->insertanchor
+
+**PHP
+
+>|PHP|
+hw_api_object insertanchor ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

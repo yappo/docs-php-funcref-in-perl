@@ -1,0 +1,13 @@
+*px_numfields
+
+**PHP
+
+>|PHP|
+int px_numfields ( resource $pxdoc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

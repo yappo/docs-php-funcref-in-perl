@@ -1,0 +1,13 @@
+*mssql_fetch_batch
+
+**PHP
+
+>|PHP|
+int mssql_fetch_batch ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

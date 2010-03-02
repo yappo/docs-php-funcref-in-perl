@@ -1,0 +1,13 @@
+*ncurses_slk_set
+
+**PHP
+
+>|PHP|
+bool ncurses_slk_set ( int $labelnr , string $label , int $format )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

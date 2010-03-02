@@ -1,0 +1,13 @@
+*get_declared_interfaces
+
+**PHP
+
+>|PHP|
+array get_declared_interfaces ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

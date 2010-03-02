@@ -1,0 +1,13 @@
+*curl_multi_exec
+
+**PHP
+
+>|PHP|
+int curl_multi_exec ( resource $mh , int &$still_running )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

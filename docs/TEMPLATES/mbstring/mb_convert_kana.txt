@@ -1,0 +1,13 @@
+*mb_convert_kana
+
+**PHP
+
+>|PHP|
+string mb_convert_kana ( string $str [, string $option = "KV" [, string $encoding ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

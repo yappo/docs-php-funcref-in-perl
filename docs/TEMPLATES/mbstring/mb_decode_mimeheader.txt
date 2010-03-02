@@ -1,0 +1,13 @@
+*mb_decode_mimeheader
+
+**PHP
+
+>|PHP|
+string mb_decode_mimeheader ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

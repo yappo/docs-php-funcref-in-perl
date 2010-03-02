@@ -1,0 +1,13 @@
+*msession_count
+
+**PHP
+
+>|PHP|
+int msession_count ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

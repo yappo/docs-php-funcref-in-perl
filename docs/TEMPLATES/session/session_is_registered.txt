@@ -1,0 +1,13 @@
+*session_is_registered
+
+**PHP
+
+>|PHP|
+bool session_is_registered ( string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

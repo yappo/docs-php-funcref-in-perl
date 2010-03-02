@@ -1,0 +1,13 @@
+*ifx_get_blob
+
+**PHP
+
+>|PHP|
+string ifx_get_blob ( int $bid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

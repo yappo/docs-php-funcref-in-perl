@@ -1,0 +1,13 @@
+*fbsql_db_status
+
+**PHP
+
+>|PHP|
+int fbsql_db_status ( string $database_name [, resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

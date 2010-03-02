@@ -1,0 +1,13 @@
+*mqseries_conn
+
+**PHP
+
+>|PHP|
+void mqseries_conn ( string $qManagerName , resource &$hconn , resource &$compCode , resource &$reason )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

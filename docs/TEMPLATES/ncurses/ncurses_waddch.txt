@@ -1,0 +1,13 @@
+*ncurses_waddch
+
+**PHP
+
+>|PHP|
+int ncurses_waddch ( resource $window , int $ch )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

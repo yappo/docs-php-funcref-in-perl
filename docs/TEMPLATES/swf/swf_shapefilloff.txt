@@ -1,0 +1,13 @@
+*swf_shapefilloff
+
+**PHP
+
+>|PHP|
+void swf_shapefilloff ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

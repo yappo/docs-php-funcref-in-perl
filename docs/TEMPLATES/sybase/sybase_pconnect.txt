@@ -1,0 +1,13 @@
+*sybase_pconnect
+
+**PHP
+
+>|PHP|
+resource sybase_pconnect ([ string $servername [, string $username [, string $password [, string $charset [, string $appname ]]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

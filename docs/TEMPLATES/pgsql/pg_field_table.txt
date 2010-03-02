@@ -1,0 +1,13 @@
+*pg_field_table
+
+**PHP
+
+>|PHP|
+mixed pg_field_table ( resource $result , int $field_number [, bool $oid_only = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

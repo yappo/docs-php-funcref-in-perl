@@ -1,0 +1,13 @@
+*imap_createmailbox
+
+**PHP
+
+>|PHP|
+bool imap_createmailbox ( resource $imap_stream , string $mailbox )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

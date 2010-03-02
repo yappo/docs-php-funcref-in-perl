@@ -1,0 +1,13 @@
+*svn_fs_begin_txn2
+
+**PHP
+
+>|PHP|
+resource svn_fs_begin_txn2 ( resource $repos , int $rev )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*fbsql_result
+
+**PHP
+
+>|PHP|
+mixed fbsql_result ( resource $result [, int $row [, mixed $field ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

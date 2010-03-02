@@ -1,0 +1,13 @@
+*exec
+
+**PHP
+
+>|PHP|
+string exec ( string $command [, array &$output [, int &$return_var ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

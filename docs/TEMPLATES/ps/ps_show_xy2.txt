@@ -1,0 +1,13 @@
+*ps_show_xy2
+
+**PHP
+
+>|PHP|
+bool ps_show_xy2 ( resource $psdoc , string $text , int $len , float $xcoor , float $ycoor )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

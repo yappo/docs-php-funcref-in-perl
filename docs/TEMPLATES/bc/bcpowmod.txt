@@ -1,0 +1,13 @@
+*bcpowmod
+
+**PHP
+
+>|PHP|
+string bcpowmod ( string $left_operand , string $right_operand , string $modulus [, int $scale ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

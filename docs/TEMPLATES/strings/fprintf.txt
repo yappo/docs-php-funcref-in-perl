@@ -1,0 +1,13 @@
+*fprintf
+
+**PHP
+
+>|PHP|
+int fprintf ( resource $handle , string $format [, mixed $args [, mixed $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*gupnp_context_set_subscription_timeout
+
+**PHP
+
+>|PHP|
+void gupnp_context_set_subscription_timeout ( resource $context , int $timeout )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

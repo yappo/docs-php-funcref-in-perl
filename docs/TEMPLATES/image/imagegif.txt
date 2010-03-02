@@ -1,0 +1,13 @@
+*imagegif
+
+**PHP
+
+>|PHP|
+bool imagegif ( resource $image [, string $filename ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

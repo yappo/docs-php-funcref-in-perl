@@ -1,0 +1,13 @@
+*openssl_pkey_free
+
+**PHP
+
+>|PHP|
+void openssl_pkey_free ( resource $key )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

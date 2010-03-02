@@ -1,0 +1,13 @@
+*is_finite
+
+**PHP
+
+>|PHP|
+bool is_finite ( float $val )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

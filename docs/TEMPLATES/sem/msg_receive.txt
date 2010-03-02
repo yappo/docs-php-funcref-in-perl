@@ -1,0 +1,13 @@
+*msg_receive
+
+**PHP
+
+>|PHP|
+bool msg_receive ( resource $queue , int $desiredmsgtype , int &$msgtype , int $maxsize , mixed &$message [, bool $unserialize = true [, int $flags [, int &$errorcode ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

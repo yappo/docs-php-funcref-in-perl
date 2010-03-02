@@ -1,0 +1,13 @@
+*mcrypt_get_key_size
+
+**PHP
+
+>|PHP|
+int mcrypt_get_key_size ( int $cipher )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

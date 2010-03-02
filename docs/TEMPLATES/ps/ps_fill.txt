@@ -1,0 +1,13 @@
+*ps_fill
+
+**PHP
+
+>|PHP|
+bool ps_fill ( resource $psdoc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*dba_sync
+
+**PHP
+
+>|PHP|
+bool dba_sync ( resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

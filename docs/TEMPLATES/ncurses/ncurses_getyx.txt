@@ -1,0 +1,13 @@
+*ncurses_getyx
+
+**PHP
+
+>|PHP|
+void ncurses_getyx ( resource $window , int &$y , int &$x )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

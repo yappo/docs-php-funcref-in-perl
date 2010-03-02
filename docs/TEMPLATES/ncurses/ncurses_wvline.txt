@@ -1,0 +1,13 @@
+*ncurses_wvline
+
+**PHP
+
+>|PHP|
+int ncurses_wvline ( resource $window , int $charattr , int $n )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

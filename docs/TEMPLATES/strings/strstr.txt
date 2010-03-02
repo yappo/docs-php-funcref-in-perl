@@ -1,0 +1,13 @@
+*strstr
+
+**PHP
+
+>|PHP|
+string strstr ( string $haystack , mixed $needle [, bool $before_needle = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ftp_alloc
+
+**PHP
+
+>|PHP|
+bool ftp_alloc ( resource $ftp_stream , int $filesize [, string &$result ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

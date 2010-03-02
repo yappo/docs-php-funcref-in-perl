@@ -1,0 +1,13 @@
+*hash_init
+
+**PHP
+
+>|PHP|
+resource hash_init ( string $algo [, int $options = 0 [, string $key = NULL ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

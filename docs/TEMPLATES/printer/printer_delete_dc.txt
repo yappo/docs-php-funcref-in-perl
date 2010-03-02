@@ -1,0 +1,13 @@
+*printer_delete_dc
+
+**PHP
+
+>|PHP|
+bool printer_delete_dc ( resource $printer_handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

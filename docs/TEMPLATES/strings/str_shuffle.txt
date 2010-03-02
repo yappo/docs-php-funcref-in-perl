@@ -1,0 +1,13 @@
+*str_shuffle
+
+**PHP
+
+>|PHP|
+string str_shuffle ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

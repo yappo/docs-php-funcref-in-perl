@@ -1,0 +1,13 @@
+*newt_win_ternary
+
+**PHP
+
+>|PHP|
+int newt_win_ternary ( string $title , string $button1_text , string $button2_text , string $button3_text , string $format [, mixed $args [, mixed $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

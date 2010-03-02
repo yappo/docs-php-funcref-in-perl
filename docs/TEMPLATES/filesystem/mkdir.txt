@@ -1,0 +1,13 @@
+*mkdir
+
+**PHP
+
+>|PHP|
+bool mkdir ( string $pathname [, int $mode = 0777 [, bool $recursive = false [, resource $context ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

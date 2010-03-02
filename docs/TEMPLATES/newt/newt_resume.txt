@@ -1,0 +1,13 @@
+*newt_resume
+
+**PHP
+
+>|PHP|
+void newt_resume ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

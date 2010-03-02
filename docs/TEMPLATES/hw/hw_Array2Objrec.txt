@@ -1,0 +1,13 @@
+*hw_Array2Objrec
+
+**PHP
+
+>|PHP|
+string hw_array2objrec ( array $object_array )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

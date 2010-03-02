@@ -1,0 +1,13 @@
+*md5
+
+**PHP
+
+>|PHP|
+string md5 ( string $str [, bool $raw_output = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

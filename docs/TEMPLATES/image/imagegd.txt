@@ -1,0 +1,13 @@
+*imagegd
+
+**PHP
+
+>|PHP|
+bool imagegd ( resource $image [, string $filename ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

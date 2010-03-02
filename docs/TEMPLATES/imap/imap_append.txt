@@ -1,0 +1,13 @@
+*imap_append
+
+**PHP
+
+>|PHP|
+bool imap_append ( resource $imap_stream , string $mailbox , string $message [, string $options = NULL ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

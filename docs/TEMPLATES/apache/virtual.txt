@@ -1,0 +1,13 @@
+*virtual
+
+**PHP
+
+>|PHP|
+bool virtual ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

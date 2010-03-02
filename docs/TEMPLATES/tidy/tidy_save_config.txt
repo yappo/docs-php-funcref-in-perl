@@ -1,0 +1,13 @@
+*tidy_save_config
+
+**PHP
+
+>|PHP|
+bool tidy_save_config ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

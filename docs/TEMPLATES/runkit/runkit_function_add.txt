@@ -1,0 +1,13 @@
+*runkit_function_add
+
+**PHP
+
+>|PHP|
+bool runkit_function_add ( string $funcname , string $arglist , string $code )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

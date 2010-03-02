@@ -1,0 +1,13 @@
+*db2_server_info
+
+**PHP
+
+>|PHP|
+object db2_server_info ( resource $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*gmp_random
+
+**PHP
+
+>|PHP|
+resource gmp_random ([ int $limiter = 20 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*java_last_exception_clear
+
+**PHP
+
+>|PHP|
+void java_last_exception_clear ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

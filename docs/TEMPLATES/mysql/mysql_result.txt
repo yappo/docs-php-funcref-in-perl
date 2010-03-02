@@ -1,0 +1,13 @@
+*mysql_result
+
+**PHP
+
+>|PHP|
+string mysql_result ( resource $result , int $row [, mixed $field = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

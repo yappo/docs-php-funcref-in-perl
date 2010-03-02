@@ -1,0 +1,13 @@
+*msession_listvar
+
+**PHP
+
+>|PHP|
+array msession_listvar ( string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

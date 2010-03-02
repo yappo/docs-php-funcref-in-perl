@@ -1,0 +1,13 @@
+*readline_callback_handler_remove
+
+**PHP
+
+>|PHP|
+bool readline_callback_handler_remove ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ctype_upper
+
+**PHP
+
+>|PHP|
+bool ctype_upper ( string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

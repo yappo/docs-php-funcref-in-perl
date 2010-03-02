@@ -1,0 +1,13 @@
+*mssql_rows_affected
+
+**PHP
+
+>|PHP|
+int mssql_rows_affected ( resource $link_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

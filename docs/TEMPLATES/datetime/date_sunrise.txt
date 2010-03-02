@@ -1,0 +1,13 @@
+*date_sunrise
+
+**PHP
+
+>|PHP|
+mixed date_sunrise ( int $timestamp [, int $format = SUNFUNCS_RET_STRING [, float $latitude = ini_get("date.default_latitude") [, float $longitude = ini_get("date.default_longitude") [, float $zenith = ini_get("date.sunrise_zenith") [, float $gmt_offset = 0 ]]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

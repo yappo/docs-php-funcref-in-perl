@@ -1,0 +1,13 @@
+*inotify_rm_watch
+
+**PHP
+
+>|PHP|
+bool inotify_rm_watch ( resource $inotify_instance , int $watch_descriptor )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

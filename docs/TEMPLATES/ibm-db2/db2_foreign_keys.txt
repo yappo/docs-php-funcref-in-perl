@@ -1,0 +1,13 @@
+*db2_foreign_keys
+
+**PHP
+
+>|PHP|
+resource db2_foreign_keys ( resource $connection , string $qualifier , string $schema , string $table-name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

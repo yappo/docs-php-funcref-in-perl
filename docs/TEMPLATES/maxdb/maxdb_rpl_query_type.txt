@@ -1,0 +1,13 @@
+*maxdb_rpl_query_type
+
+**PHP
+
+>|PHP|
+int maxdb_rpl_query_type ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

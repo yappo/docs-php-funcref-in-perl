@@ -1,0 +1,13 @@
+*posix_getpwuid
+
+**PHP
+
+>|PHP|
+array posix_getpwuid ( int $uid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

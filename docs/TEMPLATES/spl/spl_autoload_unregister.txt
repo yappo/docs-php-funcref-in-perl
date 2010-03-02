@@ -1,0 +1,13 @@
+*spl_autoload_unregister
+
+**PHP
+
+>|PHP|
+bool spl_autoload_unregister ( mixed $autoload_function )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

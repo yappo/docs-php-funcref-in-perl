@@ -1,0 +1,13 @@
+*cairo_image_surface_create_for_data
+
+**PHP
+
+>|PHP|
+CairoImageSurface cairo_image_surface_create_for_data ( string $data , int $format , int $width , int $height [, int $stride = -1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

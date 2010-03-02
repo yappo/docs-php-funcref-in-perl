@@ -1,0 +1,13 @@
+*sem_remove
+
+**PHP
+
+>|PHP|
+bool sem_remove ( resource $sem_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ncurses_nonl
+
+**PHP
+
+>|PHP|
+bool ncurses_nonl ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

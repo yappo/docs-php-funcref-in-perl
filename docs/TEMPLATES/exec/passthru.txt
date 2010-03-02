@@ -1,0 +1,13 @@
+*passthru
+
+**PHP
+
+>|PHP|
+void passthru ( string $command [, int &$return_var ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

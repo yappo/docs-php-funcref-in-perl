@@ -1,0 +1,13 @@
+*ncurses_color_set
+
+**PHP
+
+>|PHP|
+int ncurses_color_set ( int $pair )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

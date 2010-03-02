@@ -1,0 +1,13 @@
+*property_exists
+
+**PHP
+
+>|PHP|
+bool property_exists ( mixed $class , string $property )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

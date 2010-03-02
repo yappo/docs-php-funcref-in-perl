@@ -1,0 +1,13 @@
+*stats_dens_cauchy
+
+**PHP
+
+>|PHP|
+float stats_dens_cauchy ( float $x , float $ave , float $stdev )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

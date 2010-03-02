@@ -1,0 +1,13 @@
+*imagefill
+
+**PHP
+
+>|PHP|
+bool imagefill ( resource $image , int $x , int $y , int $color )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

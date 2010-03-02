@@ -1,0 +1,13 @@
+*fbsql_fetch_array
+
+**PHP
+
+>|PHP|
+array fbsql_fetch_array ( resource $result [, int $result_type ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

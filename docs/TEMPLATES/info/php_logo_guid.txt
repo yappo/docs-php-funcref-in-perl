@@ -1,0 +1,13 @@
+*php_logo_guid
+
+**PHP
+
+>|PHP|
+string php_logo_guid ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

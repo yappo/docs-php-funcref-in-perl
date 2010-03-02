@@ -1,0 +1,13 @@
+*readline_callback_read_char
+
+**PHP
+
+>|PHP|
+void readline_callback_read_char ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

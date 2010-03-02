@@ -1,0 +1,13 @@
+*hypot
+
+**PHP
+
+>|PHP|
+float hypot ( float $x , float $y )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ftp_delete
+
+**PHP
+
+>|PHP|
+bool ftp_delete ( resource $ftp_stream , string $path )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

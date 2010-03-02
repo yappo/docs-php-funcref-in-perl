@@ -1,0 +1,13 @@
+*dio_read
+
+**PHP
+
+>|PHP|
+string dio_read ( resource $fd [, int $len = 1024 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

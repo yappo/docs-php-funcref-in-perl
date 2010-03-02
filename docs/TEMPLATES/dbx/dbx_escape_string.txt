@@ -1,0 +1,13 @@
+*dbx_escape_string
+
+**PHP
+
+>|PHP|
+string dbx_escape_string ( object $link_identifier , string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

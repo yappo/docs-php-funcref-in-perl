@@ -1,0 +1,13 @@
+*openssl_pkey_new
+
+**PHP
+
+>|PHP|
+resource openssl_pkey_new ([ array $configargs ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

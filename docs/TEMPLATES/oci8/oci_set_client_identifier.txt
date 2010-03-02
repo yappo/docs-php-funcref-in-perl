@@ -1,0 +1,13 @@
+*oci_set_client_identifier
+
+**PHP
+
+>|PHP|
+bool oci_set_client_identifier ( resource $connection , string $client_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*gmp_sign
+
+**PHP
+
+>|PHP|
+int gmp_sign ( resource $a )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

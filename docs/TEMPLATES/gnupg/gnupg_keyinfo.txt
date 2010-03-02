@@ -1,0 +1,13 @@
+*gnupg_keyinfo
+
+**PHP
+
+>|PHP|
+array gnupg_keyinfo ( resource $identifier , string $pattern )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

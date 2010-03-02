@@ -1,0 +1,13 @@
+*enchant_dict_add_to_session
+
+**PHP
+
+>|PHP|
+void enchant_dict_add_to_session ( resource $dict , string $word )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

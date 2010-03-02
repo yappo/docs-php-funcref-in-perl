@@ -1,0 +1,13 @@
+*opendir
+
+**PHP
+
+>|PHP|
+resource opendir ( string $path [, resource $context ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

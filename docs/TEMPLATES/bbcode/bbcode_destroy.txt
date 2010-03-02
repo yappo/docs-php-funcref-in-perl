@@ -1,0 +1,13 @@
+*bbcode_destroy
+
+**PHP
+
+>|PHP|
+bool bbcode_destroy ( resource $bbcode_container )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

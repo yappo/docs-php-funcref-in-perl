@@ -1,0 +1,13 @@
+*yaz_ccl_parse
+
+**PHP
+
+>|PHP|
+bool yaz_ccl_parse ( resource $id , string $query , array &$result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

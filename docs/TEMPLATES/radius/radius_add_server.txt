@@ -1,0 +1,13 @@
+*radius_add_server
+
+**PHP
+
+>|PHP|
+bool radius_add_server ( resource $radius_handle , string $hostname , int $port , string $secret , int $timeout , int $max_tries )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

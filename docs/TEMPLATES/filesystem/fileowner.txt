@@ -1,0 +1,13 @@
+*fileowner
+
+**PHP
+
+>|PHP|
+int fileowner ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

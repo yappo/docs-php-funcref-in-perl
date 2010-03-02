@@ -1,0 +1,13 @@
+*swf_definepoly
+
+**PHP
+
+>|PHP|
+void swf_definepoly ( int $objid , array $coords , int $npoints , float $width )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

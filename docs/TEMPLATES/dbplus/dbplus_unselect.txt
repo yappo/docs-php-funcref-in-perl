@@ -1,0 +1,13 @@
+*dbplus_unselect
+
+**PHP
+
+>|PHP|
+int dbplus_unselect ( resource $relation )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

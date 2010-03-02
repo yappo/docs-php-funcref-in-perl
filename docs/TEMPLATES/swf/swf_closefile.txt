@@ -1,0 +1,13 @@
+*swf_closefile
+
+**PHP
+
+>|PHP|
+void swf_closefile ([ int $return_file ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

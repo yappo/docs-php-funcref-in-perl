@@ -1,0 +1,13 @@
+*ssh2_methods_negotiated
+
+**PHP
+
+>|PHP|
+array ssh2_methods_negotiated ( resource $session )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

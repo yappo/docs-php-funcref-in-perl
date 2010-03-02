@@ -1,0 +1,13 @@
+*ming_setswfcompression
+
+**PHP
+
+>|PHP|
+void ming_setswfcompression ( int $level )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*mcrypt_module_close
+
+**PHP
+
+>|PHP|
+bool mcrypt_module_close ( resource $td )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

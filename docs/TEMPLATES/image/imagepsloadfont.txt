@@ -1,0 +1,13 @@
+*imagepsloadfont
+
+**PHP
+
+>|PHP|
+resource imagepsloadfont ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

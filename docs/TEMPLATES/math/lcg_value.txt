@@ -1,0 +1,13 @@
+*lcg_value
+
+**PHP
+
+>|PHP|
+float lcg_value ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

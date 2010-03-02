@@ -1,0 +1,13 @@
+*session_unregister
+
+**PHP
+
+>|PHP|
+bool session_unregister ( string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

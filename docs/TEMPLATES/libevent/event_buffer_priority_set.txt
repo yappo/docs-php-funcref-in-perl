@@ -1,0 +1,13 @@
+*event_buffer_priority_set
+
+**PHP
+
+>|PHP|
+bool event_buffer_priority_set ( resource $bevent , int $priority )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

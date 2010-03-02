@@ -1,0 +1,13 @@
+*ncurses_noecho
+
+**PHP
+
+>|PHP|
+bool ncurses_noecho ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

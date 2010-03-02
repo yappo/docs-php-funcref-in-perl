@@ -1,0 +1,13 @@
+*curl_multi_remove_handle
+
+**PHP
+
+>|PHP|
+int curl_multi_remove_handle ( resource $mh , resource $ch )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

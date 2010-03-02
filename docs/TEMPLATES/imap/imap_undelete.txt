@@ -1,0 +1,13 @@
+*imap_undelete
+
+**PHP
+
+>|PHP|
+bool imap_undelete ( resource $imap_stream , int $msg_number [, int $flags = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*hw_InsertDocument
+
+**PHP
+
+>|PHP|
+int hw_insertdocument ( int $connection , int $parent_id , int $hw_document )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

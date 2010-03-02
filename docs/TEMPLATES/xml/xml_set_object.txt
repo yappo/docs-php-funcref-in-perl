@@ -1,0 +1,13 @@
+*xml_set_object
+
+**PHP
+
+>|PHP|
+bool xml_set_object ( resource $parser , object &$object )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

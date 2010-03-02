@@ -1,0 +1,13 @@
+*ncurses_insdelln
+
+**PHP
+
+>|PHP|
+int ncurses_insdelln ( int $count )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

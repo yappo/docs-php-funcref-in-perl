@@ -1,0 +1,13 @@
+*http_chunked_decode
+
+**PHP
+
+>|PHP|
+string http_chunked_decode ( string $encoded )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

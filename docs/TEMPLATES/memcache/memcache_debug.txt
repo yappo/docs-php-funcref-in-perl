@@ -1,0 +1,13 @@
+*memcache_debug
+
+**PHP
+
+>|PHP|
+bool memcache_debug ( bool $on_off )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

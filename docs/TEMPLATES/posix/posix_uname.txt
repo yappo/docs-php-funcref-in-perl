@@ -1,0 +1,13 @@
+*posix_uname
+
+**PHP
+
+>|PHP|
+array posix_uname ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

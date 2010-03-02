@@ -1,0 +1,13 @@
+*enchant_broker_get_error
+
+**PHP
+
+>|PHP|
+string enchant_broker_get_error ( resource $broker )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

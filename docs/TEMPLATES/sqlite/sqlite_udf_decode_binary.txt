@@ -1,0 +1,13 @@
+*sqlite_udf_decode_binary
+
+**PHP
+
+>|PHP|
+string sqlite_udf_decode_binary ( string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

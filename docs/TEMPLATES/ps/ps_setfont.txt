@@ -1,0 +1,13 @@
+*ps_setfont
+
+**PHP
+
+>|PHP|
+bool ps_setfont ( resource $psdoc , int $fontid , float $size )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

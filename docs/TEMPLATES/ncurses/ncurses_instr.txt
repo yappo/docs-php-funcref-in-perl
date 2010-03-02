@@ -1,0 +1,13 @@
+*ncurses_instr
+
+**PHP
+
+>|PHP|
+int ncurses_instr ( string &$buffer )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

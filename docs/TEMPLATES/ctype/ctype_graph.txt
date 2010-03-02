@@ -1,0 +1,13 @@
+*ctype_graph
+
+**PHP
+
+>|PHP|
+bool ctype_graph ( string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

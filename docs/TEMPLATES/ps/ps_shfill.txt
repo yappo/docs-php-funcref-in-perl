@@ -1,0 +1,13 @@
+*ps_shfill
+
+**PHP
+
+>|PHP|
+bool ps_shfill ( resource $psdoc , int $shadingid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

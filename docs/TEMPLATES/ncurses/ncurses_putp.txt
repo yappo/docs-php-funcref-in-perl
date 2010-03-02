@@ -1,0 +1,13 @@
+*ncurses_putp
+
+**PHP
+
+>|PHP|
+int ncurses_putp ( string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*shmop_write
+
+**PHP
+
+>|PHP|
+int shmop_write ( int $shmid , string $data , int $offset )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

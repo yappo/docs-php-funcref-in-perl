@@ -1,0 +1,13 @@
+*imageellipse
+
+**PHP
+
+>|PHP|
+bool imageellipse ( resource $image , int $cx , int $cy , int $width , int $height , int $color )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

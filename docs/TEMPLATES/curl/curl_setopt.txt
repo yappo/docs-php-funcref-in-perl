@@ -1,0 +1,13 @@
+*curl_setopt
+
+**PHP
+
+>|PHP|
+bool curl_setopt ( resource $ch , int $option , mixed $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

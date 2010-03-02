@@ -1,0 +1,13 @@
+*array_count_values
+
+**PHP
+
+>|PHP|
+array array_count_values ( array $input )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

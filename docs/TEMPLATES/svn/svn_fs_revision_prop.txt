@@ -1,0 +1,13 @@
+*svn_fs_revision_prop
+
+**PHP
+
+>|PHP|
+string svn_fs_revision_prop ( resource $fs , int $revnum , string $propname )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

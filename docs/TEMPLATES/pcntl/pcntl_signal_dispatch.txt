@@ -1,0 +1,13 @@
+*pcntl_signal_dispatch
+
+**PHP
+
+>|PHP|
+bool pcntl_signal_dispatch ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

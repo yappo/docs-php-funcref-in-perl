@@ -1,0 +1,13 @@
+*com_event_sink
+
+**PHP
+
+>|PHP|
+bool com_event_sink ( variant $comobject , object $sinkobject [, mixed $sinkinterface ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

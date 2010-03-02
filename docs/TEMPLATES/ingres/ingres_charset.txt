@@ -1,0 +1,13 @@
+*ingres_charset
+
+**PHP
+
+>|PHP|
+string ingres_charset ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*chown
+
+**PHP
+
+>|PHP|
+bool chown ( string $filename , mixed $user )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

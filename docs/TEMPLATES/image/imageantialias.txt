@@ -1,0 +1,13 @@
+*imageantialias
+
+**PHP
+
+>|PHP|
+bool imageantialias ( resource $image , bool $enabled )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

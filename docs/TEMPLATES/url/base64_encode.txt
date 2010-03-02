@@ -1,0 +1,13 @@
+*base64_encode
+
+**PHP
+
+>|PHP|
+string base64_encode ( string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

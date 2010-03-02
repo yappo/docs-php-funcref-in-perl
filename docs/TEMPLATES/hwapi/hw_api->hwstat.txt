@@ -1,0 +1,13 @@
+*hw_api->hwstat
+
+**PHP
+
+>|PHP|
+hw_api_object hwstat ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

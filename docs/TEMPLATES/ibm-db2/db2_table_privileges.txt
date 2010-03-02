@@ -1,0 +1,13 @@
+*db2_table_privileges
+
+**PHP
+
+>|PHP|
+resource db2_table_privileges ( resource $connection [, string $qualifier [, string $schema [, string $table_name ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

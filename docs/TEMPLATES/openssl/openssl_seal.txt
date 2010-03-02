@@ -1,0 +1,13 @@
+*openssl_seal
+
+**PHP
+
+>|PHP|
+int openssl_seal ( string $data , string &$sealed_data , array &$env_keys , array $pub_key_ids )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

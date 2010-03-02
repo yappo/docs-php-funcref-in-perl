@@ -1,0 +1,13 @@
+*oci_set_prefetch
+
+**PHP
+
+>|PHP|
+bool oci_set_prefetch ( resource $statement , int $rows )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

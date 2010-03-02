@@ -1,0 +1,13 @@
+*extract
+
+**PHP
+
+>|PHP|
+int extract ( array $var_array [, int $extract_type = EXTR_OVERWRITE [, string $prefix ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

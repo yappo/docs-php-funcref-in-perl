@@ -1,0 +1,13 @@
+*pspell_add_to_session
+
+**PHP
+
+>|PHP|
+bool pspell_add_to_session ( int $dictionary_link , string $word )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

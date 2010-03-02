@@ -1,0 +1,13 @@
+*pcntl_wtermsig
+
+**PHP
+
+>|PHP|
+int pcntl_wtermsig ( int $status )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

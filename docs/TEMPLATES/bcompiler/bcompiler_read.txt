@@ -1,0 +1,13 @@
+*bcompiler_read
+
+**PHP
+
+>|PHP|
+bool bcompiler_read ( resource $filehandle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

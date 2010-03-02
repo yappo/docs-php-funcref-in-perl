@@ -1,0 +1,13 @@
+*kadm5_chpass_principal
+
+**PHP
+
+>|PHP|
+bool kadm5_chpass_principal ( resource $handle , string $principal , string $password )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

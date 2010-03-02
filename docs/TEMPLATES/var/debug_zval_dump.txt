@@ -1,0 +1,13 @@
+*debug_zval_dump
+
+**PHP
+
+>|PHP|
+void debug_zval_dump ( mixed $variable )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

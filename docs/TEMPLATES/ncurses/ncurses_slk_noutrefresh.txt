@@ -1,0 +1,13 @@
+*ncurses_slk_noutrefresh
+
+**PHP
+
+>|PHP|
+bool ncurses_slk_noutrefresh ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

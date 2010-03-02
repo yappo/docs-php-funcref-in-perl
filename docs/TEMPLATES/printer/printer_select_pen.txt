@@ -1,0 +1,13 @@
+*printer_select_pen
+
+**PHP
+
+>|PHP|
+void printer_select_pen ( resource $printer_handle , resource $pen_handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

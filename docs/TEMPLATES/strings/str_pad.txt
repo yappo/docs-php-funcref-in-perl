@@ -1,0 +1,13 @@
+*str_pad
+
+**PHP
+
+>|PHP|
+string str_pad ( string $input , int $pad_length [, string $pad_string = " " [, int $pad_type = STR_PAD_RIGHT ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

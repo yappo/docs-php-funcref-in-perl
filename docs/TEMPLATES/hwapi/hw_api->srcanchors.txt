@@ -1,0 +1,13 @@
+*hw_api->srcanchors
+
+**PHP
+
+>|PHP|
+array srcanchors ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

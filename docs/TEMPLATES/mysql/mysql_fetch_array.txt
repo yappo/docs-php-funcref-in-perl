@@ -1,0 +1,13 @@
+*mysql_fetch_array
+
+**PHP
+
+>|PHP|
+array mysql_fetch_array ( resource $result [, int $result_type = MYSQL_BOTH ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

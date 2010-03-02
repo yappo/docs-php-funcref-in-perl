@@ -1,0 +1,13 @@
+*fdf_get_opt
+
+**PHP
+
+>|PHP|
+mixed fdf_get_opt ( resource $fdf_document , string $fieldname [, int $element ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

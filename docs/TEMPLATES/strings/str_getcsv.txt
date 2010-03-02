@@ -1,0 +1,13 @@
+*str_getcsv
+
+**PHP
+
+>|PHP|
+array str_getcsv ( string $input [, string $delimiter = ',' [, string $enclosure = '"' [, string $escape = '\\' ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

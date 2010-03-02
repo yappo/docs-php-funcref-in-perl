@@ -1,0 +1,13 @@
+*runkit_function_redefine
+
+**PHP
+
+>|PHP|
+bool runkit_function_redefine ( string $funcname , string $arglist , string $code )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

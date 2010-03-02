@@ -1,0 +1,13 @@
+*cairo_scaled_font_extents
+
+**PHP
+
+>|PHP|
+array cairo_scaled_font_extents ( CairoScaledFont $scaledfont )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

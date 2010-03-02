@@ -1,0 +1,13 @@
+*fam_close
+
+**PHP
+
+>|PHP|
+void fam_close ( resource $fam )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

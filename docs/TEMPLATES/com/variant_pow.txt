@@ -1,0 +1,13 @@
+*variant_pow
+
+**PHP
+
+>|PHP|
+mixed variant_pow ( mixed $left , mixed $right )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

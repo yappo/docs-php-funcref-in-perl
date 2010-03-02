@@ -1,0 +1,13 @@
+*imap_mail_copy
+
+**PHP
+
+>|PHP|
+bool imap_mail_copy ( resource $imap_stream , string $msglist , string $mailbox [, int $options = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

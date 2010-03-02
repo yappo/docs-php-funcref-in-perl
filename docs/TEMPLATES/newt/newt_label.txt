@@ -1,0 +1,13 @@
+*newt_label
+
+**PHP
+
+>|PHP|
+resource newt_label ( int $left , int $top , string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

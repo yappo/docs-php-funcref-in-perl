@@ -1,0 +1,13 @@
+*strpos
+
+**PHP
+
+>|PHP|
+int strpos ( string $haystack , mixed $needle [, int $offset = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

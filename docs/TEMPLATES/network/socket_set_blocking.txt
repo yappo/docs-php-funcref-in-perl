@@ -1,0 +1,13 @@
+*socket_set_blocking
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

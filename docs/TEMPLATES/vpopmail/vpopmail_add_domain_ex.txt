@@ -1,0 +1,13 @@
+*vpopmail_add_domain_ex
+
+**PHP
+
+>|PHP|
+bool vpopmail_add_domain_ex ( string $domain , string $passwd [, string $quota [, string $bounce [, bool $apop ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

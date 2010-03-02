@@ -1,0 +1,13 @@
+*ncurses_timeout
+
+**PHP
+
+>|PHP|
+void ncurses_timeout ( int $millisec )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

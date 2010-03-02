@@ -1,0 +1,13 @@
+*msession_plugin
+
+**PHP
+
+>|PHP|
+string msession_plugin ( string $session , string $val [, string $param ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

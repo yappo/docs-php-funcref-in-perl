@@ -1,0 +1,13 @@
+*zip_entry_filesize
+
+**PHP
+
+>|PHP|
+int zip_entry_filesize ( resource $zip_entry )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

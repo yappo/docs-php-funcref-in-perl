@@ -1,0 +1,13 @@
+*iis_get_script_map
+
+**PHP
+
+>|PHP|
+string iis_get_script_map ( int $server_instance , string $virtual_path , string $script_extension )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

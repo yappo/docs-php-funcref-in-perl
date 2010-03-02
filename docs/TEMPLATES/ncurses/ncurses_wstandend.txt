@@ -1,0 +1,13 @@
+*ncurses_wstandend
+
+**PHP
+
+>|PHP|
+int ncurses_wstandend ( resource $window )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

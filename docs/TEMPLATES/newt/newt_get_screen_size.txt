@@ -1,0 +1,13 @@
+*newt_get_screen_size
+
+**PHP
+
+>|PHP|
+void newt_get_screen_size ( int &$cols , int &$rows )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

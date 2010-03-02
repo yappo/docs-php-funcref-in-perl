@@ -1,0 +1,13 @@
+*stats_stat_percentile
+
+**PHP
+
+>|PHP|
+float stats_stat_percentile ( float $df , float $xnonc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

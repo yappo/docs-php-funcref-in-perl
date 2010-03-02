@@ -1,0 +1,13 @@
+*hw_InsDoc
+
+**PHP
+
+>|PHP|
+int hw_insdoc ( resource $connection , int $parentID , string $object_record [, string $text ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

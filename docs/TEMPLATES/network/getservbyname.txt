@@ -1,0 +1,13 @@
+*getservbyname
+
+**PHP
+
+>|PHP|
+int getservbyname ( string $service , string $protocol )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

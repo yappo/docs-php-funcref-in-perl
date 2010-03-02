@@ -1,0 +1,13 @@
+*imap_savebody
+
+**PHP
+
+>|PHP|
+bool imap_savebody ( resource $imap_stream , mixed $file , int $msg_number [, string $part_number = "" [, int $options = 0 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*mb_substitute_character
+
+**PHP
+
+>|PHP|
+mixed mb_substitute_character ([ mixed $substrchar ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

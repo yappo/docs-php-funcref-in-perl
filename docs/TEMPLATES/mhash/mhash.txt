@@ -1,0 +1,13 @@
+*mhash
+
+**PHP
+
+>|PHP|
+string mhash ( int $hash , string $data [, string $key ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

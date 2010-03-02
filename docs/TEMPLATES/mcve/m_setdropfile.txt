@@ -1,0 +1,13 @@
+*m_setdropfile
+
+**PHP
+
+>|PHP|
+int m_setdropfile ( resource $conn , string $directory )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

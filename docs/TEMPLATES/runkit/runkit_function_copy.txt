@@ -1,0 +1,13 @@
+*runkit_function_copy
+
+**PHP
+
+>|PHP|
+bool runkit_function_copy ( string $funcname , string $targetname )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

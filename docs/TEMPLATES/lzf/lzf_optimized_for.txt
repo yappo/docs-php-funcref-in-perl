@@ -1,0 +1,13 @@
+*lzf_optimized_for
+
+**PHP
+
+>|PHP|
+int lzf_optimized_for ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

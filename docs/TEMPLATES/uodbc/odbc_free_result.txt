@@ -1,0 +1,13 @@
+*odbc_free_result
+
+**PHP
+
+>|PHP|
+bool odbc_free_result ( resource $result_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

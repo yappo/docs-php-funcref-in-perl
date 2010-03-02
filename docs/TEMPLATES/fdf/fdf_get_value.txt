@@ -1,0 +1,13 @@
+*fdf_get_value
+
+**PHP
+
+>|PHP|
+mixed fdf_get_value ( resource $fdf_document , string $fieldname [, int $which ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

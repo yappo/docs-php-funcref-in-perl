@@ -1,0 +1,13 @@
+*hw_api->dbstat
+
+**PHP
+
+>|PHP|
+hw_api_object dbstat ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

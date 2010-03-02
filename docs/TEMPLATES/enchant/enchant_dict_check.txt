@@ -1,0 +1,13 @@
+*enchant_dict_check
+
+**PHP
+
+>|PHP|
+bool enchant_dict_check ( resource $dict , string $word )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

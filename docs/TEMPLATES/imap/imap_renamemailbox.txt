@@ -1,0 +1,13 @@
+*imap_renamemailbox
+
+**PHP
+
+>|PHP|
+bool imap_renamemailbox ( resource $imap_stream , string $old_mbox , string $new_mbox )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

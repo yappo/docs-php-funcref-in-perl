@@ -1,0 +1,13 @@
+*xmlrpc_set_type
+
+**PHP
+
+>|PHP|
+bool xmlrpc_set_type ( string &$value , string $type )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

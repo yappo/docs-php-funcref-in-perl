@@ -1,0 +1,13 @@
+*mailparse_msg_get_part
+
+**PHP
+
+>|PHP|
+resource mailparse_msg_get_part ( resource $mimemail , string $mimesection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

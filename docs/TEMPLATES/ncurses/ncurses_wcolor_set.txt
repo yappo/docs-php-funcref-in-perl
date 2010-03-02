@@ -1,0 +1,13 @@
+*ncurses_wcolor_set
+
+**PHP
+
+>|PHP|
+int ncurses_wcolor_set ( resource $window , int $color_pair )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

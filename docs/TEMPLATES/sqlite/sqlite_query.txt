@@ -1,0 +1,13 @@
+*sqlite_query
+
+**PHP
+
+>|PHP|
+resource sqlite_query ( resource $dbhandle , string $query [, int $result_type [, string &$error_msg ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

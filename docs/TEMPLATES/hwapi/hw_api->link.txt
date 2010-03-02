@@ -1,0 +1,13 @@
+*hw_api->link
+
+**PHP
+
+>|PHP|
+bool link ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

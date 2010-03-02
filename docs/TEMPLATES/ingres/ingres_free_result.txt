@@ -1,0 +1,13 @@
+*ingres_free_result
+
+**PHP
+
+>|PHP|
+bool ingres_free_result ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

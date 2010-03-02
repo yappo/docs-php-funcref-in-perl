@@ -1,0 +1,13 @@
+*hw_api_reason->type
+
+**PHP
+
+>|PHP|
+HW_API_Reason type ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

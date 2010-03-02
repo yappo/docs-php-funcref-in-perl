@@ -1,0 +1,13 @@
+*empty
+
+**PHP
+
+>|PHP|
+bool empty ( mixed $var )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

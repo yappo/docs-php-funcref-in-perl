@@ -1,0 +1,13 @@
+*array_push
+
+**PHP
+
+>|PHP|
+int array_push ( array &$array , mixed $var [, mixed $... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

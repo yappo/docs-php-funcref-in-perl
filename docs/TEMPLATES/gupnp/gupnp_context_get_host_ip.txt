@@ -1,0 +1,13 @@
+*gupnp_context_get_host_ip
+
+**PHP
+
+>|PHP|
+string gupnp_context_get_host_ip ( resource $context )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

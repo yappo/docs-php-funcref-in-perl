@@ -1,0 +1,13 @@
+*fbsql_hostname
+
+**PHP
+
+>|PHP|
+string fbsql_hostname ( resource $link_identifier [, string $host_name ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

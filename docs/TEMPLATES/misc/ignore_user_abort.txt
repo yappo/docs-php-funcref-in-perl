@@ -1,0 +1,13 @@
+*ignore_user_abort
+
+**PHP
+
+>|PHP|
+int ignore_user_abort ([ string $value ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

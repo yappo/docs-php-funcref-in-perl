@@ -1,0 +1,13 @@
+*rpm_get_tag
+
+**PHP
+
+>|PHP|
+mixed rpm_get_tag ( resource $rpmr , int $tagnum )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*stats_rand_gen_int
+
+**PHP
+
+>|PHP|
+int stats_rand_gen_int ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

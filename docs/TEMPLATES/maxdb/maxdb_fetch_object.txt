@@ -1,0 +1,13 @@
+*maxdb_fetch_object
+
+**PHP
+
+>|PHP|
+object maxdb_fetch_object ( object $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*spl_autoload
+
+**PHP
+
+>|PHP|
+void spl_autoload ( string $class_name [, string $file_extensions = spl_autoload_extensions() ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

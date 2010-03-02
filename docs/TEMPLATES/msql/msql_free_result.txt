@@ -1,0 +1,13 @@
+*msql_free_result
+
+**PHP
+
+>|PHP|
+bool msql_free_result ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

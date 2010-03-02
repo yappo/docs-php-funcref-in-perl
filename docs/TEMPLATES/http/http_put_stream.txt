@@ -1,0 +1,13 @@
+*http_put_stream
+
+**PHP
+
+>|PHP|
+string http_put_stream ( string $url [, resource $stream [, array $options [, array &$info ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

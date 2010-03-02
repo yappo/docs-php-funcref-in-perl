@@ -1,0 +1,13 @@
+*iterator_apply
+
+**PHP
+
+>|PHP|
+int iterator_apply ( Traversable $iterator , callback $function [, array $args ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

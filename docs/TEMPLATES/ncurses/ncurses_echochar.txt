@@ -1,0 +1,13 @@
+*ncurses_echochar
+
+**PHP
+
+>|PHP|
+int ncurses_echochar ( int $character )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

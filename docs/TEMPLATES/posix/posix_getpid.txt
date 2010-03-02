@@ -1,0 +1,13 @@
+*posix_getpid
+
+**PHP
+
+>|PHP|
+int posix_getpid ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

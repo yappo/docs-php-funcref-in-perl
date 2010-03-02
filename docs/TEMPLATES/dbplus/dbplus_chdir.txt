@@ -1,0 +1,13 @@
+*dbplus_chdir
+
+**PHP
+
+>|PHP|
+string dbplus_chdir ([ string $newdir ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*socket_close
+
+**PHP
+
+>|PHP|
+void socket_close ( resource $socket )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

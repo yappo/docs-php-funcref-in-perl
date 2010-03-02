@@ -1,0 +1,13 @@
+*hw_api_object->title
+
+**PHP
+
+>|PHP|
+string title ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ncurses_move_panel
+
+**PHP
+
+>|PHP|
+int ncurses_move_panel ( resource $panel , int $startx , int $starty )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

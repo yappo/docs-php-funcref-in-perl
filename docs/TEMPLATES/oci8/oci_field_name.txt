@@ -1,0 +1,13 @@
+*oci_field_name
+
+**PHP
+
+>|PHP|
+string oci_field_name ( resource $statement , int $field )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

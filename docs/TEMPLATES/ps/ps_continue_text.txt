@@ -1,0 +1,13 @@
+*ps_continue_text
+
+**PHP
+
+>|PHP|
+bool ps_continue_text ( resource $psdoc , string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

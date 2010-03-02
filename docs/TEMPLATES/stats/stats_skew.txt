@@ -1,0 +1,13 @@
+*stats_skew
+
+**PHP
+
+>|PHP|
+float stats_skew ( array $a )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

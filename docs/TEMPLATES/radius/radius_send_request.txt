@@ -1,0 +1,13 @@
+*radius_send_request
+
+**PHP
+
+>|PHP|
+int radius_send_request ( resource $radius_handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*printer_abort
+
+**PHP
+
+>|PHP|
+void printer_abort ( resource $printer_handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

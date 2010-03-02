@@ -1,0 +1,13 @@
+*oauth_urlencode
+
+**PHP
+
+>|PHP|
+string oauth_urlencode ( string $uri )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

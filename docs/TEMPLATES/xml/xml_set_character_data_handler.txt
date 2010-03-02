@@ -1,0 +1,13 @@
+*xml_set_character_data_handler
+
+**PHP
+
+>|PHP|
+bool xml_set_character_data_handler ( resource $parser , callback $handler )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

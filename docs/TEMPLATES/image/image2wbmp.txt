@@ -1,0 +1,13 @@
+*image2wbmp
+
+**PHP
+
+>|PHP|
+bool image2wbmp ( resource $image [, string $filename [, int $threshold ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

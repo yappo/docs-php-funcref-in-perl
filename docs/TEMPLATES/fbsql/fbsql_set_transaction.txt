@@ -1,0 +1,13 @@
+*fbsql_set_transaction
+
+**PHP
+
+>|PHP|
+void fbsql_set_transaction ( resource $link_identifier , int $locking , int $isolation )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

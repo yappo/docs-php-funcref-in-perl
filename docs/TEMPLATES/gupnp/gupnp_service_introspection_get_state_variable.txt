@@ -1,0 +1,13 @@
+*gupnp_service_introspection_get_state_variable
+
+**PHP
+
+>|PHP|
+array gupnp_service_introspection_get_state_variable ( resource $introspection , string $variable_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

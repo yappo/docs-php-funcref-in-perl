@@ -1,0 +1,13 @@
+*mailparse_msg_create
+
+**PHP
+
+>|PHP|
+resource mailparse_msg_create ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*register_tick_function
+
+**PHP
+
+>|PHP|
+bool register_tick_function ( callback $function [, mixed $arg [, mixed $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

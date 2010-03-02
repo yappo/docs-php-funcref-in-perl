@@ -1,0 +1,13 @@
+*maxdb_query
+
+**PHP
+
+>|PHP|
+mixed maxdb_query ( resource $link , string $query [, int $resultmode ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*mb_eregi_replace
+
+**PHP
+
+>|PHP|
+string mb_eregi_replace ( string $pattern , string $replace , string $string [, string $option = "msri" ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

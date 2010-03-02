@@ -1,0 +1,13 @@
+*maxdb_stmt_send_long_data
+
+**PHP
+
+>|PHP|
+bool maxdb_stmt_send_long_data ( resource $stmt , int $param_nr , string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

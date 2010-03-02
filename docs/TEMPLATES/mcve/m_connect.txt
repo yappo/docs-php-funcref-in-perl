@@ -1,0 +1,13 @@
+*m_connect
+
+**PHP
+
+>|PHP|
+int m_connect ( resource $conn )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

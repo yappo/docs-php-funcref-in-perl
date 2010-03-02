@@ -1,0 +1,13 @@
+*ncurses_has_colors
+
+**PHP
+
+>|PHP|
+bool ncurses_has_colors ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

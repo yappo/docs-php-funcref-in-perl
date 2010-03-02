@@ -1,0 +1,13 @@
+*maxdb_get_server_version
+
+**PHP
+
+>|PHP|
+int maxdb_get_server_version ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

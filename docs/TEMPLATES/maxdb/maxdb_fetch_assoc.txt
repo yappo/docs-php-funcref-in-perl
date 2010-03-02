@@ -1,0 +1,13 @@
+*maxdb_fetch_assoc
+
+**PHP
+
+>|PHP|
+array maxdb_fetch_assoc ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*set_exception_handler
+
+**PHP
+
+>|PHP|
+callback set_exception_handler ( callback $exception_handler )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

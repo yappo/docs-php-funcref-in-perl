@@ -1,0 +1,13 @@
+*pcntl_sigwaitinfo
+
+**PHP
+
+>|PHP|
+int pcntl_sigwaitinfo ( array $set [, array &$siginfo ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

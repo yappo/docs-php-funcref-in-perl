@@ -1,0 +1,13 @@
+*deaggregate
+
+**PHP
+
+>|PHP|
+void deaggregate ( object $object [, string $class_name ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

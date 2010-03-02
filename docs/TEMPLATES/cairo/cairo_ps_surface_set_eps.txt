@@ -1,0 +1,13 @@
+*cairo_ps_surface_set_eps
+
+**PHP
+
+>|PHP|
+void cairo_ps_surface_set_eps ( CairoPsSurface $surface , string $level )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*newt_listbox_set_current_by_key
+
+**PHP
+
+>|PHP|
+void newt_listbox_set_current_by_key ( resource $listbox , mixed $key )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

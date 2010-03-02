@@ -1,0 +1,13 @@
+*dbplus_rcrtexact
+
+**PHP
+
+>|PHP|
+mixed dbplus_rcrtexact ( string $name , resource $relation [, bool $overwrite ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

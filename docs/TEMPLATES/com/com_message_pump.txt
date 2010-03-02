@@ -1,0 +1,13 @@
+*com_message_pump
+
+**PHP
+
+>|PHP|
+bool com_message_pump ([ int $timeoutms ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

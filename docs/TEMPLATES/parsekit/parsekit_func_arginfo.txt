@@ -1,0 +1,13 @@
+*parsekit_func_arginfo
+
+**PHP
+
+>|PHP|
+array parsekit_func_arginfo ( mixed $function )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

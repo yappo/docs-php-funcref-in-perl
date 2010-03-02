@@ -1,0 +1,13 @@
+*ibase_maintain_db
+
+**PHP
+
+>|PHP|
+bool ibase_maintain_db ( resource $service_handle , string $db , int $action [, int $argument = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*fam_open
+
+**PHP
+
+>|PHP|
+resource fam_open ([ string $appname ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

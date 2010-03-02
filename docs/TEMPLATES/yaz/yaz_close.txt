@@ -1,0 +1,13 @@
+*yaz_close
+
+**PHP
+
+>|PHP|
+bool yaz_close ( resource $id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

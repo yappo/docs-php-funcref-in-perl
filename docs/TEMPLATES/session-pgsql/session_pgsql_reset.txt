@@ -1,0 +1,13 @@
+*session_pgsql_reset
+
+**PHP
+
+>|PHP|
+bool session_pgsql_reset ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

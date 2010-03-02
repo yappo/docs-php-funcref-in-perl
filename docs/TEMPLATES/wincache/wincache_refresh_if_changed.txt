@@ -1,0 +1,13 @@
+*wincache_refresh_if_changed
+
+**PHP
+
+>|PHP|
+bool wincache_refresh_if_changed ([ array $files ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

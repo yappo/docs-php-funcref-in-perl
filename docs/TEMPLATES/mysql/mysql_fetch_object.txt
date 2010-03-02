@@ -1,0 +1,13 @@
+*mysql_fetch_object
+
+**PHP
+
+>|PHP|
+object mysql_fetch_object ( resource $result [, string $class_name [, array $params ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

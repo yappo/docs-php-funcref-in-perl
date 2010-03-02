@@ -1,0 +1,13 @@
+*gupnp_context_host_path
+
+**PHP
+
+>|PHP|
+bool gupnp_context_host_path ( resource $context , string $local_path , string $server_path )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

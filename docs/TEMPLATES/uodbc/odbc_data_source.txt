@@ -1,0 +1,13 @@
+*odbc_data_source
+
+**PHP
+
+>|PHP|
+array odbc_data_source ( resource $connection_id , int $fetch_type )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

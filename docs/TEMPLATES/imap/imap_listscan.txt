@@ -1,0 +1,13 @@
+*imap_listscan
+
+**PHP
+
+>|PHP|
+array imap_listscan ( resource $imap_stream , string $ref , string $pattern , string $content )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

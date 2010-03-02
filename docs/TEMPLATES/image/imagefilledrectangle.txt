@@ -1,0 +1,13 @@
+*imagefilledrectangle
+
+**PHP
+
+>|PHP|
+bool imagefilledrectangle ( resource $image , int $x1 , int $y1 , int $x2 , int $y2 , int $color )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

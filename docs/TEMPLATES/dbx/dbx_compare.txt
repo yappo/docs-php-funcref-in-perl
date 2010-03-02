@@ -1,0 +1,13 @@
+*dbx_compare
+
+**PHP
+
+>|PHP|
+int dbx_compare ( array $row_a , array $row_b , string $column_key [, int $flags = DBX_CMP_ASC | DBX_CMP_NATIVE ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

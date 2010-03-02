@@ -1,0 +1,13 @@
+*db2_procedure_columns
+
+**PHP
+
+>|PHP|
+resource db2_procedure_columns ( resource $connection , string $qualifier , string $schema , string $procedure , string $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

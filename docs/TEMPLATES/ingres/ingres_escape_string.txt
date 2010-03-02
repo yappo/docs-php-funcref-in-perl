@@ -1,0 +1,13 @@
+*ingres_escape_string
+
+**PHP
+
+>|PHP|
+string ingres_escape_string ( resource $link , string $source_string )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

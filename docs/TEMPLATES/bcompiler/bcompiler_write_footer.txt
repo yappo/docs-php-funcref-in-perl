@@ -1,0 +1,13 @@
+*bcompiler_write_footer
+
+**PHP
+
+>|PHP|
+bool bcompiler_write_footer ( resource $filehandle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

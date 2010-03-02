@@ -1,0 +1,13 @@
+*mb_strimwidth
+
+**PHP
+
+>|PHP|
+string mb_strimwidth ( string $str , int $start , int $width [, string $trimmarker [, string $encoding ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*cairo_pattern_get_radial_circles
+
+**PHP
+
+>|PHP|
+array cairo_pattern_get_radial_circles ( CairoRadialGradient $pattern )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

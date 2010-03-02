@@ -1,0 +1,13 @@
+*event_base_new
+
+**PHP
+
+>|PHP|
+resource event_base_new ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

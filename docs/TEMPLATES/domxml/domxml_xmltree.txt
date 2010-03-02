@@ -1,0 +1,13 @@
+*domxml_xmltree
+
+**PHP
+
+>|PHP|
+DomDocument domxml_xmltree ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

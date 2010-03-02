@@ -1,0 +1,13 @@
+*php_ini_loaded_file
+
+**PHP
+
+>|PHP|
+string php_ini_loaded_file ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

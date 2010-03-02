@@ -1,0 +1,13 @@
+*swf_shapefillbitmaptile
+
+**PHP
+
+>|PHP|
+void swf_shapefillbitmaptile ( int $bitmapid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

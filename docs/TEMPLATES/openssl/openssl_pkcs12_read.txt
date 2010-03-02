@@ -1,0 +1,13 @@
+*openssl_pkcs12_read
+
+**PHP
+
+>|PHP|
+bool openssl_pkcs12_read ( string $pkcs12 , array &$certs , string $pass )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*imagefilledarc
+
+**PHP
+
+>|PHP|
+bool imagefilledarc ( resource $image , int $cx , int $cy , int $width , int $height , int $start , int $end , int $color , int $style )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

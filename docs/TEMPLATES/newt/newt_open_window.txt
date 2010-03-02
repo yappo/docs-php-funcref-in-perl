@@ -1,0 +1,13 @@
+*newt_open_window
+
+**PHP
+
+>|PHP|
+int newt_open_window ( int $left , int $top , int $width , int $height [, string $title ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

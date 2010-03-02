@@ -1,0 +1,13 @@
+*printer_select_brush
+
+**PHP
+
+>|PHP|
+void printer_select_brush ( resource $printer_handle , resource $brush_handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

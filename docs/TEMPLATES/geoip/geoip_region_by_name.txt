@@ -1,0 +1,13 @@
+*geoip_region_by_name
+
+**PHP
+
+>|PHP|
+array geoip_region_by_name ( string $hostname )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

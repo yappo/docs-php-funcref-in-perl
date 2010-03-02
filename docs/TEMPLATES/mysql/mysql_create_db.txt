@@ -1,0 +1,13 @@
+*mysql_create_db
+
+**PHP
+
+>|PHP|
+bool mysql_create_db ( string $database_name [, resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

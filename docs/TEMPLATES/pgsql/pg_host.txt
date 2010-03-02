@@ -1,0 +1,13 @@
+*pg_host
+
+**PHP
+
+>|PHP|
+string pg_host ([ resource $connection ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

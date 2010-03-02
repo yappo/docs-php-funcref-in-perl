@@ -1,0 +1,13 @@
+*gupnp_service_freeze_notify
+
+**PHP
+
+>|PHP|
+bool gupnp_service_freeze_notify ( resource $service )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*imagecreatetruecolor
+
+**PHP
+
+>|PHP|
+resource imagecreatetruecolor ( int $width , int $height )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

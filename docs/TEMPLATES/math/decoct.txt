@@ -1,0 +1,13 @@
+*decoct
+
+**PHP
+
+>|PHP|
+string decoct ( int $number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

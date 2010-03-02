@@ -1,0 +1,13 @@
+*hw_api_object->value
+
+**PHP
+
+>|PHP|
+string value ( string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

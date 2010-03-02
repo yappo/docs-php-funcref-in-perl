@@ -1,0 +1,13 @@
+*oci_lob_copy
+
+**PHP
+
+>|PHP|
+bool oci_lob_copy ( OCI-Lob $lob_to , OCI-Lob $lob_from [, int $length = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

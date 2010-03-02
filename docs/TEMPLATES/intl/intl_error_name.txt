@@ -1,0 +1,13 @@
+*intl_error_name
+
+**PHP
+
+>|PHP|
+string intl_error_name ( int $error_code )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

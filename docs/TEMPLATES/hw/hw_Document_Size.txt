@@ -1,0 +1,13 @@
+*hw_Document_Size
+
+**PHP
+
+>|PHP|
+int hw_document_size ( int $hw_document )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

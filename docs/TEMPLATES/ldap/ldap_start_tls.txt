@@ -1,0 +1,13 @@
+*ldap_start_tls
+
+**PHP
+
+>|PHP|
+bool ldap_start_tls ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

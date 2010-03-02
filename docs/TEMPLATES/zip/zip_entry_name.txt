@@ -1,0 +1,13 @@
+*zip_entry_name
+
+**PHP
+
+>|PHP|
+string zip_entry_name ( resource $zip_entry )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

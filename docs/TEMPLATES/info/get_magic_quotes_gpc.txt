@@ -1,0 +1,13 @@
+*get_magic_quotes_gpc
+
+**PHP
+
+>|PHP|
+int get_magic_quotes_gpc ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*m_setssl_cafile
+
+**PHP
+
+>|PHP|
+int m_setssl_cafile ( resource $conn , string $cafile )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

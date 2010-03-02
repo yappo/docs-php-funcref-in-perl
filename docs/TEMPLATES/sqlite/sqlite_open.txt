@@ -1,0 +1,13 @@
+*sqlite_open
+
+**PHP
+
+>|PHP|
+resource sqlite_open ( string $filename [, int $mode = 0666 [, string &$error_message ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

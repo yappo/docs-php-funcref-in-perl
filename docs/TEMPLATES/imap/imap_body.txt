@@ -1,0 +1,13 @@
+*imap_body
+
+**PHP
+
+>|PHP|
+string imap_body ( resource $imap_stream , int $msg_number [, int $options = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

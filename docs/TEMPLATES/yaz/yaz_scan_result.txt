@@ -1,0 +1,13 @@
+*yaz_scan_result
+
+**PHP
+
+>|PHP|
+array yaz_scan_result ( resource $id [, array &$result ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

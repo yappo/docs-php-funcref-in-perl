@@ -1,0 +1,13 @@
+*ibase_close
+
+**PHP
+
+>|PHP|
+bool ibase_close ([ resource $connection_id = NULL ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

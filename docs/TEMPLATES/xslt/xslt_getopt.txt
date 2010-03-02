@@ -1,0 +1,13 @@
+*xslt_getopt
+
+**PHP
+
+>|PHP|
+int xslt_getopt ( resource $processor )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

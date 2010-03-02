@@ -1,0 +1,13 @@
+*ifxus_open_slob
+
+**PHP
+
+>|PHP|
+int ifxus_open_slob ( int $bid , int $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

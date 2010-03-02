@@ -1,0 +1,13 @@
+*maxdb_select_db
+
+**PHP
+
+>|PHP|
+bool maxdb_select_db ( resource $link , string $dbname )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

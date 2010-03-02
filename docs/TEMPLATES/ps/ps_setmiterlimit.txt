@@ -1,0 +1,13 @@
+*ps_setmiterlimit
+
+**PHP
+
+>|PHP|
+bool ps_setmiterlimit ( resource $psdoc , float $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

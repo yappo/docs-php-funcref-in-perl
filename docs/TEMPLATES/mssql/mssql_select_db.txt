@@ -1,0 +1,13 @@
+*mssql_select_db
+
+**PHP
+
+>|PHP|
+bool mssql_select_db ( string $database_name [, resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

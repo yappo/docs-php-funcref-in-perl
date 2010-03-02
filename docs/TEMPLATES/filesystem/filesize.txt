@@ -1,0 +1,13 @@
+*filesize
+
+**PHP
+
+>|PHP|
+int filesize ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

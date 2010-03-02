@@ -1,0 +1,13 @@
+*enchant_dict_suggest
+
+**PHP
+
+>|PHP|
+array enchant_dict_suggest ( resource $dict , string $word )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

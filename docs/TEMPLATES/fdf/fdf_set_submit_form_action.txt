@@ -1,0 +1,13 @@
+*fdf_set_submit_form_action
+
+**PHP
+
+>|PHP|
+bool fdf_set_submit_form_action ( resource $fdf_document , string $fieldname , int $trigger , string $script , int $flags )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

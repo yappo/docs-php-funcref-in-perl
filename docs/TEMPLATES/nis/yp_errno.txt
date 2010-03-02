@@ -1,0 +1,13 @@
+*yp_errno
+
+**PHP
+
+>|PHP|
+int yp_errno ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*maxdb_stmt_error
+
+**PHP
+
+>|PHP|
+string maxdb_stmt_error ( resource $stmt )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

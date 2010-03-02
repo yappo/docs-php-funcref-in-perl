@@ -1,0 +1,13 @@
+*lchgrp
+
+**PHP
+
+>|PHP|
+bool lchgrp ( string $filename , mixed $group )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

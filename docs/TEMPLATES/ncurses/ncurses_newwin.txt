@@ -1,0 +1,13 @@
+*ncurses_newwin
+
+**PHP
+
+>|PHP|
+resource ncurses_newwin ( int $rows , int $cols , int $y , int $x )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

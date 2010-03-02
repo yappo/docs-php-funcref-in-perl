@@ -1,0 +1,13 @@
+*mb_convert_variables
+
+**PHP
+
+>|PHP|
+string mb_convert_variables ( string $to_encoding , mixed $from_encoding , mixed &$vars [, mixed &$... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

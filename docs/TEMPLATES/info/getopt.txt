@@ -1,0 +1,13 @@
+*getopt
+
+**PHP
+
+>|PHP|
+array getopt ( string $options [, array $longopts ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

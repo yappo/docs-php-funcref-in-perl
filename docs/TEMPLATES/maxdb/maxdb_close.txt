@@ -1,0 +1,13 @@
+*maxdb_close
+
+**PHP
+
+>|PHP|
+bool maxdb_close ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

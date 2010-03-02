@@ -1,0 +1,13 @@
+*ncurses_ungetch
+
+**PHP
+
+>|PHP|
+int ncurses_ungetch ( int $keycode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

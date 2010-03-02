@@ -1,0 +1,13 @@
+*posix_getpgid
+
+**PHP
+
+>|PHP|
+int posix_getpgid ( int $pid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ps_arc
+
+**PHP
+
+>|PHP|
+bool ps_arc ( resource $psdoc , float $x , float $y , float $radius , float $alpha , float $beta )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

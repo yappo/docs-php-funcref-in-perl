@@ -1,0 +1,13 @@
+*fbsql_username
+
+**PHP
+
+>|PHP|
+string fbsql_username ( resource $link_identifier [, string $username ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

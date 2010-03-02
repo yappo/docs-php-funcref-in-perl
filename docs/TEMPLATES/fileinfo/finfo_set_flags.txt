@@ -1,0 +1,13 @@
+*finfo_set_flags
+
+**PHP
+
+>|PHP|
+bool finfo_set_flags ( resource $finfo , int $options )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

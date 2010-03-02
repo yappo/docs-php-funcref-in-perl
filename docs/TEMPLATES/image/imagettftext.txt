@@ -1,0 +1,13 @@
+*imagettftext
+
+**PHP
+
+>|PHP|
+array imagettftext ( resource $image , float $size , float $angle , int $x , int $y , int $color , string $fontfile , string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

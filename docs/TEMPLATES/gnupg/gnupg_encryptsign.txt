@@ -1,0 +1,13 @@
+*gnupg_encryptsign
+
+**PHP
+
+>|PHP|
+string gnupg_encryptsign ( resource $identifier , string $plaintext )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ps_begin_page
+
+**PHP
+
+>|PHP|
+bool ps_begin_page ( resource $psdoc , float $width , float $height )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

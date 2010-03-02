@@ -1,0 +1,13 @@
+*variant_cast
+
+**PHP
+
+>|PHP|
+variant variant_cast ( variant $variant , int $type )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*stats_rand_phrase_to_seeds
+
+**PHP
+
+>|PHP|
+array stats_rand_phrase_to_seeds ( string $phrase )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*runkit_class_emancipate
+
+**PHP
+
+>|PHP|
+bool runkit_class_emancipate ( string $classname )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*func_get_arg
+
+**PHP
+
+>|PHP|
+mixed func_get_arg ( int $arg_num )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

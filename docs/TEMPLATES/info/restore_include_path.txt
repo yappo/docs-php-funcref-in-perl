@@ -1,0 +1,13 @@
+*restore_include_path
+
+**PHP
+
+>|PHP|
+void restore_include_path ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

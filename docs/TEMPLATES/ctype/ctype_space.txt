@@ -1,0 +1,13 @@
+*ctype_space
+
+**PHP
+
+>|PHP|
+bool ctype_space ( string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

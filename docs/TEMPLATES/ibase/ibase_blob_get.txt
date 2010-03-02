@@ -1,0 +1,13 @@
+*ibase_blob_get
+
+**PHP
+
+>|PHP|
+string ibase_blob_get ( resource $blob_handle , int $len )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

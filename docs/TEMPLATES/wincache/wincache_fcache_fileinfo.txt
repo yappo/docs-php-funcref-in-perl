@@ -1,0 +1,13 @@
+*wincache_fcache_fileinfo
+
+**PHP
+
+>|PHP|
+array wincache_fcache_fileinfo ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

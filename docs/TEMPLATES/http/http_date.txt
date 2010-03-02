@@ -1,0 +1,13 @@
+*http_date
+
+**PHP
+
+>|PHP|
+string http_date ([ int $timestamp ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

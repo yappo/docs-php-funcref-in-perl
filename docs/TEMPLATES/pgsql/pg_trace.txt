@@ -1,0 +1,13 @@
+*pg_trace
+
+**PHP
+
+>|PHP|
+bool pg_trace ( string $pathname [, string $mode = "w" [, resource $connection ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

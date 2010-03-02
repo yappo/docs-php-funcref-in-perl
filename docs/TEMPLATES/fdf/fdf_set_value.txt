@@ -1,0 +1,13 @@
+*fdf_set_value
+
+**PHP
+
+>|PHP|
+bool fdf_set_value ( resource $fdf_document , string $fieldname , mixed $value [, int $isName ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

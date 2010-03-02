@@ -1,0 +1,13 @@
+*register_shutdown_function
+
+**PHP
+
+>|PHP|
+void register_shutdown_function ( callback $function [, mixed $parameter [, mixed $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

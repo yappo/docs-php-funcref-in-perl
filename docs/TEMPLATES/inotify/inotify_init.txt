@@ -1,0 +1,13 @@
+*inotify_init
+
+**PHP
+
+>|PHP|
+resource inotify_init ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

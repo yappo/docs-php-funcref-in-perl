@@ -1,0 +1,13 @@
+*dba_exists
+
+**PHP
+
+>|PHP|
+bool dba_exists ( string $key , resource $handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

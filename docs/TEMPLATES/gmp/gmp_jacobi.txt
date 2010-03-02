@@ -1,0 +1,13 @@
+*gmp_jacobi
+
+**PHP
+
+>|PHP|
+int gmp_jacobi ( resource $a , resource $p )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

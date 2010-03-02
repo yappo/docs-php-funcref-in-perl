@@ -1,0 +1,13 @@
+*px_new
+
+**PHP
+
+>|PHP|
+resource px_new ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

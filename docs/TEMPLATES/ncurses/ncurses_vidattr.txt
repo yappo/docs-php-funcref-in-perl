@@ -1,0 +1,13 @@
+*ncurses_vidattr
+
+**PHP
+
+>|PHP|
+int ncurses_vidattr ( int $intarg )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*com_create_guid
+
+**PHP
+
+>|PHP|
+string com_create_guid ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

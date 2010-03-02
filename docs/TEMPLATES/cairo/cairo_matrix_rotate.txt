@@ -1,0 +1,13 @@
+*cairo_matrix_rotate
+
+**PHP
+
+>|PHP|
+void cairo_matrix_rotate ( CairoMatrix $matrix , string $radians )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

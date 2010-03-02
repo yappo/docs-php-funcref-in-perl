@@ -1,0 +1,13 @@
+*http_post_data
+
+**PHP
+
+>|PHP|
+string http_post_data ( string $url [, string $data [, array $options [, array &$info ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ncurses_savetty
+
+**PHP
+
+>|PHP|
+bool ncurses_savetty ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

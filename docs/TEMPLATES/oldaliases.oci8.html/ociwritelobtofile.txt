@@ -1,0 +1,13 @@
+*ociwritelobtofile
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

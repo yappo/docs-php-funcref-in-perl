@@ -1,0 +1,13 @@
+*newt_form_set_width
+
+**PHP
+
+>|PHP|
+void newt_form_set_width ( resource $form , int $width )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

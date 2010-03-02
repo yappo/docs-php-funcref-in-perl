@@ -1,0 +1,13 @@
+*kadm5_create_principal
+
+**PHP
+
+>|PHP|
+bool kadm5_create_principal ( resource $handle , string $principal [, string $password [, array $options ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

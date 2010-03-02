@@ -1,0 +1,13 @@
+*geoip_database_info
+
+**PHP
+
+>|PHP|
+string geoip_database_info ([ int $database = GEOIP_COUNTRY_EDITION ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

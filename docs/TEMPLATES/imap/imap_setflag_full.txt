@@ -1,0 +1,13 @@
+*imap_setflag_full
+
+**PHP
+
+>|PHP|
+bool imap_setflag_full ( resource $imap_stream , string $sequence , string $flag [, int $options = NIL ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

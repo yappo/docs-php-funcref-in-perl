@@ -1,0 +1,13 @@
+*xmlrpc_decode
+
+**PHP
+
+>|PHP|
+mixed xmlrpc_decode ( string $xml [, string $encoding = "iso-8859-1" ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

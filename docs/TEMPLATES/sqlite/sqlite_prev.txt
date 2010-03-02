@@ -1,0 +1,13 @@
+*sqlite_prev
+
+**PHP
+
+>|PHP|
+bool sqlite_prev ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

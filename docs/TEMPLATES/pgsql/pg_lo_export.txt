@@ -1,0 +1,13 @@
+*pg_lo_export
+
+**PHP
+
+>|PHP|
+bool pg_lo_export ([ resource $connection ], int $oid , string $pathname )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

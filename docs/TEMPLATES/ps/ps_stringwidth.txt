@@ -1,0 +1,13 @@
+*ps_stringwidth
+
+**PHP
+
+>|PHP|
+float ps_stringwidth ( resource $psdoc , string $text [, int $fontid = 0 [, float $size = 0.0 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

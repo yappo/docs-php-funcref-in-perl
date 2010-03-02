@@ -1,0 +1,13 @@
+*runkit_lint_file
+
+**PHP
+
+>|PHP|
+bool runkit_lint_file ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*spl_object_hash
+
+**PHP
+
+>|PHP|
+string spl_object_hash ( object $obj )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

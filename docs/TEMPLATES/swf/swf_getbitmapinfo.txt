@@ -1,0 +1,13 @@
+*swf_getbitmapinfo
+
+**PHP
+
+>|PHP|
+array swf_getbitmapinfo ( int $bitmapid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

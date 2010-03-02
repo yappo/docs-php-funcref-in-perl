@@ -1,0 +1,13 @@
+*imap_mail_compose
+
+**PHP
+
+>|PHP|
+string imap_mail_compose ( array $envelope , array $body )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

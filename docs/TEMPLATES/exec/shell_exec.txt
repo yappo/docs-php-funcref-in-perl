@@ -1,0 +1,13 @@
+*shell_exec
+
+**PHP
+
+>|PHP|
+string shell_exec ( string $cmd )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

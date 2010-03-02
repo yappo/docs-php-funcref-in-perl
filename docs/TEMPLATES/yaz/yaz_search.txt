@@ -1,0 +1,13 @@
+*yaz_search
+
+**PHP
+
+>|PHP|
+bool yaz_search ( resource $id , string $type , string $query )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

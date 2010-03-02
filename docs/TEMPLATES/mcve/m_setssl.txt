@@ -1,0 +1,13 @@
+*m_setssl
+
+**PHP
+
+>|PHP|
+int m_setssl ( resource $conn , string $host , int $port )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

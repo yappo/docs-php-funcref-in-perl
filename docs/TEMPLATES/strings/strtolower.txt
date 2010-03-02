@@ -1,0 +1,13 @@
+*strtolower
+
+**PHP
+
+>|PHP|
+string strtolower ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

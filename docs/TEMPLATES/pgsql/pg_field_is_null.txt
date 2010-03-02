@@ -1,0 +1,13 @@
+*pg_field_is_null
+
+**PHP
+
+>|PHP|
+int pg_field_is_null ( resource $result , int $row , mixed $field )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

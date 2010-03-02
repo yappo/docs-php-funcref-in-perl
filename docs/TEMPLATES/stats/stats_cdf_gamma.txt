@@ -1,0 +1,13 @@
+*stats_cdf_gamma
+
+**PHP
+
+>|PHP|
+float stats_cdf_gamma ( float $par1 , float $par2 , float $par3 , int $which )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

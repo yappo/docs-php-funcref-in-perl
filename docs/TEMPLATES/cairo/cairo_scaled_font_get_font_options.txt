@@ -1,0 +1,13 @@
+*cairo_scaled_font_get_font_options
+
+**PHP
+
+>|PHP|
+CairoFontOptions cairo_scaled_font_get_font_options ( CairoScaledFont $scaledfont )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

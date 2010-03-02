@@ -1,0 +1,13 @@
+*cairo_format_stride_for_width
+
+**PHP
+
+>|PHP|
+int cairo_format_stride_for_width ( int $format , int $width )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*is_null
+
+**PHP
+
+>|PHP|
+bool is_null ( mixed $var )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

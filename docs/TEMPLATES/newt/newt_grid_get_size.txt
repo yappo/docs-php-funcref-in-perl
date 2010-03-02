@@ -1,0 +1,13 @@
+*newt_grid_get_size
+
+**PHP
+
+>|PHP|
+void newt_grid_get_size ( resouce $grid , int &$width , int &$height )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*event_buffer_write
+
+**PHP
+
+>|PHP|
+bool event_buffer_write ( resource $bevent , string $data [, int $data_size = -1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

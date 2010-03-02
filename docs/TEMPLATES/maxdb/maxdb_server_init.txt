@@ -1,0 +1,13 @@
+*maxdb_server_init
+
+**PHP
+
+>|PHP|
+bool maxdb_server_init ([ array $server [, array $groups ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

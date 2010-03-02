@@ -1,0 +1,13 @@
+*range
+
+**PHP
+
+>|PHP|
+array range ( mixed $low , mixed $high [, number $step ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*apc_cache_info
+
+**PHP
+
+>|PHP|
+array apc_cache_info ([ string $cache_type [, bool $limited = false ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

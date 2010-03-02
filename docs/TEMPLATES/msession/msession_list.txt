@@ -1,0 +1,13 @@
+*msession_list
+
+**PHP
+
+>|PHP|
+array msession_list ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

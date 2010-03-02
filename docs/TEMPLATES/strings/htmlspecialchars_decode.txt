@@ -1,0 +1,13 @@
+*htmlspecialchars_decode
+
+**PHP
+
+>|PHP|
+string htmlspecialchars_decode ( string $string [, int $quote_style = ENT_COMPAT ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*newt_suspend
+
+**PHP
+
+>|PHP|
+void newt_suspend ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

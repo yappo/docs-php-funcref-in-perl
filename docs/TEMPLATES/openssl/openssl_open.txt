@@ -1,0 +1,13 @@
+*openssl_open
+
+**PHP
+
+>|PHP|
+bool openssl_open ( string $sealed_data , string &$open_data , string $env_key , mixed $priv_key_id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

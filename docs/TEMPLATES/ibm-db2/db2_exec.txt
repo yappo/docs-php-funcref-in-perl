@@ -1,0 +1,13 @@
+*db2_exec
+
+**PHP
+
+>|PHP|
+resource db2_exec ( resource $connection , string $statement [, array $options ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

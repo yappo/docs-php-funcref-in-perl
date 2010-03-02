@@ -1,0 +1,13 @@
+*intl_get_error_message
+
+**PHP
+
+>|PHP|
+string intl_get_error_message ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

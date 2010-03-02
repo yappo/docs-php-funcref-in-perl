@@ -1,0 +1,13 @@
+*gzgets
+
+**PHP
+
+>|PHP|
+string gzgets ( resource $zp , int $length )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*imap_reopen
+
+**PHP
+
+>|PHP|
+bool imap_reopen ( resource $imap_stream , string $mailbox [, int $options = 0 [, int $n_retries = 0 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

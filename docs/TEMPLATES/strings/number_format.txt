@@ -1,0 +1,13 @@
+*number_format
+
+**PHP
+
+>|PHP|
+string number_format ( float $number [, int $decimals ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

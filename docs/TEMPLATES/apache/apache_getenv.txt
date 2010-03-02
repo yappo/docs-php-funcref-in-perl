@@ -1,0 +1,13 @@
+*apache_getenv
+
+**PHP
+
+>|PHP|
+string apache_getenv ( string $variable [, bool $walk_to_top ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

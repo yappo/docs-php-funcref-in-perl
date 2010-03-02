@@ -1,0 +1,13 @@
+*ldap_err2str
+
+**PHP
+
+>|PHP|
+string ldap_err2str ( int $errno )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

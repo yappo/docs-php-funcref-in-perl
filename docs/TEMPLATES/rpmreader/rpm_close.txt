@@ -1,0 +1,13 @@
+*rpm_close
+
+**PHP
+
+>|PHP|
+bool rpm_close ( resource $rpmr )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

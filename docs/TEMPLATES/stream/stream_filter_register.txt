@@ -1,0 +1,13 @@
+*stream_filter_register
+
+**PHP
+
+>|PHP|
+bool stream_filter_register ( string $filtername , string $classname )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

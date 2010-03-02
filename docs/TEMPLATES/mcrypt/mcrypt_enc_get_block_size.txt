@@ -1,0 +1,13 @@
+*mcrypt_enc_get_block_size
+
+**PHP
+
+>|PHP|
+int mcrypt_enc_get_block_size ( resource $td )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

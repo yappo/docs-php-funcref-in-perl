@@ -1,0 +1,13 @@
+*session_register
+
+**PHP
+
+>|PHP|
+bool session_register ( mixed $name [, mixed $... ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

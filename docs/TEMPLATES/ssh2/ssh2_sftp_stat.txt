@@ -1,0 +1,13 @@
+*ssh2_sftp_stat
+
+**PHP
+
+>|PHP|
+array ssh2_sftp_stat ( resource $sftp , string $path )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

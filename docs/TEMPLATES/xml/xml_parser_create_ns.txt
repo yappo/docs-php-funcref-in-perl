@@ -1,0 +1,13 @@
+*xml_parser_create_ns
+
+**PHP
+
+>|PHP|
+resource xml_parser_create_ns ([ string $encoding [, string $separator = ':' ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

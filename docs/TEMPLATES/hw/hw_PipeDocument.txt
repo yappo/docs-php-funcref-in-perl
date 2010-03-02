@@ -1,0 +1,13 @@
+*hw_PipeDocument
+
+**PHP
+
+>|PHP|
+int hw_pipedocument ( int $connection , int $objectID [, array $url_prefixes ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*hw_api->dcstat
+
+**PHP
+
+>|PHP|
+hw_api_object dcstat ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

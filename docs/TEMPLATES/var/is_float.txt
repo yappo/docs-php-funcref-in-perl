@@ -1,0 +1,13 @@
+*is_float
+
+**PHP
+
+>|PHP|
+bool is_float ( mixed $var )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

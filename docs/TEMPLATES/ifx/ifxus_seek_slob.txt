@@ -1,0 +1,13 @@
+*ifxus_seek_slob
+
+**PHP
+
+>|PHP|
+int ifxus_seek_slob ( int $bid , int $mode , int $offset )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

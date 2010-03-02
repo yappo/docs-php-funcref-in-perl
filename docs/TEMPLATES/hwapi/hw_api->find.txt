@@ -1,0 +1,13 @@
+*hw_api->find
+
+**PHP
+
+>|PHP|
+array find ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*swf_nextid
+
+**PHP
+
+>|PHP|
+int swf_nextid ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

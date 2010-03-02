@@ -1,0 +1,13 @@
+*variant_date_from_timestamp
+
+**PHP
+
+>|PHP|
+variant variant_date_from_timestamp ( int $timestamp )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*gethostname
+
+**PHP
+
+>|PHP|
+string gethostname ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*sqlite_current
+
+**PHP
+
+>|PHP|
+array sqlite_current ( resource $result [, int $result_type = SQLITE_BOTH [, bool $decode_binary = true ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

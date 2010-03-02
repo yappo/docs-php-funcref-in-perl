@@ -1,0 +1,13 @@
+*forward_static_call
+
+**PHP
+
+>|PHP|
+mixed forward_static_call ( callback $function [, mixed $parameter [, mixed $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

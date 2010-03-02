@@ -1,0 +1,13 @@
+*mqseries_get
+
+**PHP
+
+>|PHP|
+void mqseries_get ( resource $hConn , resource $hObj , array &$md , array &$gmo , int &$bufferLength , string &$msg , int &$data_length , resource &$compCode , resource &$reason )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

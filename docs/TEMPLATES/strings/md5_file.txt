@@ -1,0 +1,13 @@
+*md5_file
+
+**PHP
+
+>|PHP|
+string md5_file ( string $filename [, bool $raw_output = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

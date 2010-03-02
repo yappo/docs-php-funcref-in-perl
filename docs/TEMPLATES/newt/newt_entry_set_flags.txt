@@ -1,0 +1,13 @@
+*newt_entry_set_flags
+
+**PHP
+
+>|PHP|
+void newt_entry_set_flags ( resource $entry , int $flags , int $sense )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

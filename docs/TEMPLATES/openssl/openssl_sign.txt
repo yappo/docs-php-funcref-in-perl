@@ -1,0 +1,13 @@
+*openssl_sign
+
+**PHP
+
+>|PHP|
+bool openssl_sign ( string $data , string &$signature , mixed $priv_key_id [, int $signature_alg = OPENSSL_ALGO_SHA1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*maxdb_field_tell
+
+**PHP
+
+>|PHP|
+int maxdb_field_tell ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

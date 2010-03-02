@@ -1,0 +1,13 @@
+*hw_api_reason->description
+
+**PHP
+
+>|PHP|
+string description ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

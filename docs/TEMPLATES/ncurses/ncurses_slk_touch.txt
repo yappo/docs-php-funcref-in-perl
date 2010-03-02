@@ -1,0 +1,13 @@
+*ncurses_slk_touch
+
+**PHP
+
+>|PHP|
+int ncurses_slk_touch ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

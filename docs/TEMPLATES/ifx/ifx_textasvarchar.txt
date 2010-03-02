@@ -1,0 +1,13 @@
+*ifx_textasvarchar
+
+**PHP
+
+>|PHP|
+bool ifx_textasvarchar ( int $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

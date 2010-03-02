@@ -1,0 +1,13 @@
+*ifxus_write_slob
+
+**PHP
+
+>|PHP|
+int ifxus_write_slob ( int $bid , string $content )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

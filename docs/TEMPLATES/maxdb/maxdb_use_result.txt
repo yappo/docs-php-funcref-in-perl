@@ -1,0 +1,13 @@
+*maxdb_use_result
+
+**PHP
+
+>|PHP|
+resource maxdb_use_result ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

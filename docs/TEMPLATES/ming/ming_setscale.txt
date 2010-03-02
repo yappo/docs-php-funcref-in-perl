@@ -1,0 +1,13 @@
+*ming_setscale
+
+**PHP
+
+>|PHP|
+void ming_setscale ( float $scale )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

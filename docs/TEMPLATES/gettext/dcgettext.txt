@@ -1,0 +1,13 @@
+*dcgettext
+
+**PHP
+
+>|PHP|
+string dcgettext ( string $domain , string $message , int $category )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

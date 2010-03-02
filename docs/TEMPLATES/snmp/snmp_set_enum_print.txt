@@ -1,0 +1,13 @@
+*snmp_set_enum_print
+
+**PHP
+
+>|PHP|
+void snmp_set_enum_print ( int $enum_print )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

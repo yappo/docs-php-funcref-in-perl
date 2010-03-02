@@ -1,0 +1,13 @@
+*cairo_pattern_status
+
+**PHP
+
+>|PHP|
+int cairo_pattern_status ( CairoPattern $pattern )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

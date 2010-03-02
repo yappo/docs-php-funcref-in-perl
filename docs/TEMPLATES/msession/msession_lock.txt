@@ -1,0 +1,13 @@
+*msession_lock
+
+**PHP
+
+>|PHP|
+int msession_lock ( string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

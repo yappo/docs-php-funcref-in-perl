@@ -1,0 +1,13 @@
+*is_writable
+
+**PHP
+
+>|PHP|
+bool is_writable ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

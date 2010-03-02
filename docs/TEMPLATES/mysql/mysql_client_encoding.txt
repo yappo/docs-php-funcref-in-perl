@@ -1,0 +1,13 @@
+*mysql_client_encoding
+
+**PHP
+
+>|PHP|
+string mysql_client_encoding ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

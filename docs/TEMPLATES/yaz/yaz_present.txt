@@ -1,0 +1,13 @@
+*yaz_present
+
+**PHP
+
+>|PHP|
+bool yaz_present ( resource $id )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

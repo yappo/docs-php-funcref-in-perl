@@ -1,0 +1,13 @@
+*fbsql_rollback
+
+**PHP
+
+>|PHP|
+bool fbsql_rollback ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*radius_close
+
+**PHP
+
+>|PHP|
+bool radius_close ( resource $radius_handle )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*get_object_vars
+
+**PHP
+
+>|PHP|
+array get_object_vars ( object $object )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

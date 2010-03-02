@@ -1,0 +1,13 @@
+*imagecolorsforindex
+
+**PHP
+
+>|PHP|
+array imagecolorsforindex ( resource $image , int $index )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

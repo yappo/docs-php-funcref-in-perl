@@ -1,0 +1,13 @@
+*bzflush
+
+**PHP
+
+>|PHP|
+int bzflush ( resource $bz )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

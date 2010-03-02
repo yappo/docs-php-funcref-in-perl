@@ -1,0 +1,13 @@
+*fputcsv
+
+**PHP
+
+>|PHP|
+int fputcsv ( resource $handle , array $fields [, string $delimiter = ',' [, string $enclosure = '"' ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ucwords
+
+**PHP
+
+>|PHP|
+string ucwords ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

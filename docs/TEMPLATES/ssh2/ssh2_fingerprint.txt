@@ -1,0 +1,13 @@
+*ssh2_fingerprint
+
+**PHP
+
+>|PHP|
+string ssh2_fingerprint ( resource $session [, int $flags = SSH2_FINGERPRINT_MD5 | SSH2_FINGERPRINT_HEX ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

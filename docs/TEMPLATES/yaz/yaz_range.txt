@@ -1,0 +1,13 @@
+*yaz_range
+
+**PHP
+
+>|PHP|
+void yaz_range ( resource $id , int $start , int $number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*spl_autoload_extensions
+
+**PHP
+
+>|PHP|
+string spl_autoload_extensions ([ string $file_extensions ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

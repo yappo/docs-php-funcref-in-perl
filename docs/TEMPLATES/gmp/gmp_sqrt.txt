@@ -1,0 +1,13 @@
+*gmp_sqrt
+
+**PHP
+
+>|PHP|
+resource gmp_sqrt ( resource $a )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

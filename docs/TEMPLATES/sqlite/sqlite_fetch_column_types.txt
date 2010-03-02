@@ -1,0 +1,13 @@
+*sqlite_fetch_column_types
+
+**PHP
+
+>|PHP|
+array sqlite_fetch_column_types ( string $table_name , resource $dbhandle [, int $result_type ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

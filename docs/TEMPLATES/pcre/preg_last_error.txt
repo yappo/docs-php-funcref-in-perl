@@ -1,0 +1,13 @@
+*preg_last_error
+
+**PHP
+
+>|PHP|
+int preg_last_error ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

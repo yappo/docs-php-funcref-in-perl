@@ -1,0 +1,13 @@
+*maxdb_dump_debug_info
+
+**PHP
+
+>|PHP|
+bool maxdb_dump_debug_info ( resource $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

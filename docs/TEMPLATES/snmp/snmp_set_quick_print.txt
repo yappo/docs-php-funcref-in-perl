@@ -1,0 +1,13 @@
+*snmp_set_quick_print
+
+**PHP
+
+>|PHP|
+void snmp_set_quick_print ( bool $quick_print )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

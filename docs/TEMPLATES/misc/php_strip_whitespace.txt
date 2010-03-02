@@ -1,0 +1,13 @@
+*php_strip_whitespace
+
+**PHP
+
+>|PHP|
+string php_strip_whitespace ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

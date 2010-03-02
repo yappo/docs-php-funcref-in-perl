@@ -1,0 +1,13 @@
+*event_buffer_timeout_set
+
+**PHP
+
+>|PHP|
+void event_buffer_timeout_set ( resource $bevent , int $read_timeout , int $write_timeout )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

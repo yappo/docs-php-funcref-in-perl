@@ -1,0 +1,13 @@
+*db2_result
+
+**PHP
+
+>|PHP|
+mixed db2_result ( resource $stmt , mixed $column )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

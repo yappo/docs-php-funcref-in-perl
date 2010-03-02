@@ -1,0 +1,13 @@
+*file_put_contents
+
+**PHP
+
+>|PHP|
+int file_put_contents ( string $filename , mixed $data [, int $flags = 0 [, resource $context ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

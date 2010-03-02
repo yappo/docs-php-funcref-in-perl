@@ -1,0 +1,13 @@
+*dbx_sort
+
+**PHP
+
+>|PHP|
+bool dbx_sort ( object $result , string $user_compare_function )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

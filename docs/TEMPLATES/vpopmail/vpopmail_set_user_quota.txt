@@ -1,0 +1,13 @@
+*vpopmail_set_user_quota
+
+**PHP
+
+>|PHP|
+bool vpopmail_set_user_quota ( string $user , string $domain , string $quota )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

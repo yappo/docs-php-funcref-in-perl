@@ -1,0 +1,13 @@
+*get_defined_functions
+
+**PHP
+
+>|PHP|
+array get_defined_functions ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

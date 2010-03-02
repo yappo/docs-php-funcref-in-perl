@@ -1,0 +1,13 @@
+*memory_get_usage
+
+**PHP
+
+>|PHP|
+int memory_get_usage ([ bool $real_usage = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

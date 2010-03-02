@@ -1,0 +1,13 @@
+*hw_api->children
+
+**PHP
+
+>|PHP|
+array children ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*date_default_timezone_get
+
+**PHP
+
+>|PHP|
+string date_default_timezone_get ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

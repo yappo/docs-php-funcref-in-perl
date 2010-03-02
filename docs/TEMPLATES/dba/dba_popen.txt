@@ -1,0 +1,13 @@
+*dba_popen
+
+**PHP
+
+>|PHP|
+resource dba_popen ( string $path , string $mode [, string $handler [, mixed $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

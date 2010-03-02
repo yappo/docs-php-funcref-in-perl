@@ -1,0 +1,13 @@
+*tidy_set_encoding
+
+**PHP
+
+>|PHP|
+bool tidy_set_encoding ( string $encoding )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

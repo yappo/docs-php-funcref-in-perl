@@ -1,0 +1,13 @@
+*fdf_create
+
+**PHP
+
+>|PHP|
+resource fdf_create ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*newt_button_bar
+
+**PHP
+
+>|PHP|
+resource newt_button_bar ( array &$buttons )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

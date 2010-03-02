@@ -1,0 +1,13 @@
+*cairo_matrix_invert
+
+**PHP
+
+>|PHP|
+void cairo_matrix_invert ( CairoMatrix $matrix )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*pspell_config_save_repl
+
+**PHP
+
+>|PHP|
+bool pspell_config_save_repl ( int $dictionary_link , bool $flag )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

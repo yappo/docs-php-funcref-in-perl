@@ -1,0 +1,13 @@
+*ldap_get_entries
+
+**PHP
+
+>|PHP|
+array ldap_get_entries ( resource $link_identifier , resource $result_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

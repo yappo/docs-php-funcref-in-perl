@@ -1,0 +1,13 @@
+*ociresult
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*dio_seek
+
+**PHP
+
+>|PHP|
+int dio_seek ( resource $fd , int $pos [, int $whence = SEEK_SET ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

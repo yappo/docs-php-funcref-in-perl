@@ -1,0 +1,13 @@
+*odbc_exec
+
+**PHP
+
+>|PHP|
+resource odbc_exec ( resource $connection_id , string $query_string [, int $flags ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

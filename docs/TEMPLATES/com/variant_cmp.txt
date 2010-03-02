@@ -1,0 +1,13 @@
+*variant_cmp
+
+**PHP
+
+>|PHP|
+int variant_cmp ( mixed $left , mixed $right [, int $lcid [, int $flags ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

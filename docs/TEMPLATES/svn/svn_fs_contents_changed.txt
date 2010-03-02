@@ -1,0 +1,13 @@
+*svn_fs_contents_changed
+
+**PHP
+
+>|PHP|
+bool svn_fs_contents_changed ( resource $root1 , string $path1 , resource $root2 , string $path2 )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

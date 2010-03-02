@@ -1,0 +1,13 @@
+*sqlite_fetch_string
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*getmyuid
+
+**PHP
+
+>|PHP|
+int getmyuid ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

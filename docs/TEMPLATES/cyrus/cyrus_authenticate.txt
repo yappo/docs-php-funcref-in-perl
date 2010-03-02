@@ -1,0 +1,13 @@
+*cyrus_authenticate
+
+**PHP
+
+>|PHP|
+void cyrus_authenticate ( resource $connection [, string $mechlist [, string $service [, string $user [, int $minssf [, int $maxssf [, string $authname [, string $password ]]]]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*geoip_db_avail
+
+**PHP
+
+>|PHP|
+bool geoip_db_avail ( int $database )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

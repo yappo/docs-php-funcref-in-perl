@@ -1,0 +1,13 @@
+*radius_get_vendor_attr
+
+**PHP
+
+>|PHP|
+array radius_get_vendor_attr ( string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

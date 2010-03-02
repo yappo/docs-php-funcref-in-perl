@@ -1,0 +1,13 @@
+*imagegrabwindow
+
+**PHP
+
+>|PHP|
+resource imagegrabwindow ( int $window_handle [, int $client_area = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*oci_set_module_name
+
+**PHP
+
+>|PHP|
+bool oci_set_module_name ( resource $connection , string $module_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

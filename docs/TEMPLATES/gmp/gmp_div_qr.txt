@@ -1,0 +1,13 @@
+*gmp_div_qr
+
+**PHP
+
+>|PHP|
+array gmp_div_qr ( resource $n , resource $d [, int $round = GMP_ROUND_ZERO ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

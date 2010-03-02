@@ -1,0 +1,13 @@
+*ps_setgray
+
+**PHP
+
+>|PHP|
+bool ps_setgray ( resource $psdoc , float $gray )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*socket_getsockname
+
+**PHP
+
+>|PHP|
+bool socket_getsockname ( resource $socket , string &$addr [, int &$port ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

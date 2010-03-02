@@ -1,0 +1,13 @@
+*spl_autoload_register
+
+**PHP
+
+>|PHP|
+bool spl_autoload_register ([ callback $autoload_function [, bool $throw = true [, bool $prepend = false ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

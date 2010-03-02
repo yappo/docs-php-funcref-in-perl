@@ -1,0 +1,13 @@
+*ncurses_waddstr
+
+**PHP
+
+>|PHP|
+int ncurses_waddstr ( resource $window , string $str [, int $n ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*cal_to_jd
+
+**PHP
+
+>|PHP|
+int cal_to_jd ( int $calendar , int $month , int $day , int $year )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

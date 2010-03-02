@@ -1,0 +1,13 @@
+*fam_monitor_file
+
+**PHP
+
+>|PHP|
+resource fam_monitor_file ( resource $fam , string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

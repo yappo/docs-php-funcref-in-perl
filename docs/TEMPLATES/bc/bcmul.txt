@@ -1,0 +1,13 @@
+*bcmul
+
+**PHP
+
+>|PHP|
+string bcmul ( string $left_operand , string $right_operand [, int $scale ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

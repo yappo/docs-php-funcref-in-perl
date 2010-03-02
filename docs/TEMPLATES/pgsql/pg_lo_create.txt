@@ -1,0 +1,13 @@
+*pg_lo_create
+
+**PHP
+
+>|PHP|
+int pg_lo_create ([ resource $connection [, mixed $object_id ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

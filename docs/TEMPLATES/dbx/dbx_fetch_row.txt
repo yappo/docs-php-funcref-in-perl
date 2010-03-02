@@ -1,0 +1,13 @@
+*dbx_fetch_row
+
+**PHP
+
+>|PHP|
+mixed dbx_fetch_row ( object $result_identifier )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

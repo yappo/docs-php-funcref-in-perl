@@ -1,0 +1,13 @@
+*px_set_parameter
+
+**PHP
+
+>|PHP|
+bool px_set_parameter ( resource $pxdoc , string $name , string $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

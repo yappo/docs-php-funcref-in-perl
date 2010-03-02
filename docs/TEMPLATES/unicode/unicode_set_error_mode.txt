@@ -1,0 +1,13 @@
+*unicode_set_error_mode
+
+**PHP
+
+>|PHP|
+bool unicode_set_error_mode ( int $direction , int $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

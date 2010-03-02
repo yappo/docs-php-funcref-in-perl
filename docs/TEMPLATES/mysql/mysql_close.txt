@@ -1,0 +1,13 @@
+*mysql_close
+
+**PHP
+
+>|PHP|
+bool mysql_close ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

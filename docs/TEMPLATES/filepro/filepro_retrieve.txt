@@ -1,0 +1,13 @@
+*filepro_retrieve
+
+**PHP
+
+>|PHP|
+string filepro_retrieve ( int $row_number , int $field_number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

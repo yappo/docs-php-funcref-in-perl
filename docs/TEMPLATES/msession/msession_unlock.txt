@@ -1,0 +1,13 @@
+*msession_unlock
+
+**PHP
+
+>|PHP|
+int msession_unlock ( string $session , int $key )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

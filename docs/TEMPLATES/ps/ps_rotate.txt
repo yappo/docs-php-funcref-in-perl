@@ -1,0 +1,13 @@
+*ps_rotate
+
+**PHP
+
+>|PHP|
+bool ps_rotate ( resource $psdoc , float $rot )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

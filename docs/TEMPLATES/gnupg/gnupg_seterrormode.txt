@@ -1,0 +1,13 @@
+*gnupg_seterrormode
+
+**PHP
+
+>|PHP|
+void gnupg_seterrormode ( resource $identifier , int $errormode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

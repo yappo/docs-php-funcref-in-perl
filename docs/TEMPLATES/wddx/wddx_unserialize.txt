@@ -1,0 +1,13 @@
+*wddx_unserialize
+
+**PHP
+
+>|PHP|
+mixed wddx_unserialize ( string $packet )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

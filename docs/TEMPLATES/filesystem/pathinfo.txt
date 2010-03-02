@@ -1,0 +1,13 @@
+*pathinfo
+
+**PHP
+
+>|PHP|
+mixed pathinfo ( string $path [, int $options = PATHINFO_DIRNAME | PATHINFO_BASENAME | PATHINFO_EXTENSION | PATHINFO_FILENAME ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

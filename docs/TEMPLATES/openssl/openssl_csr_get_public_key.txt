@@ -1,0 +1,13 @@
+*openssl_csr_get_public_key
+
+**PHP
+
+>|PHP|
+resource openssl_csr_get_public_key ( mixed $csr [, bool $use_shortnames = true ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

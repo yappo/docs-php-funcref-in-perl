@@ -1,0 +1,13 @@
+*flush
+
+**PHP
+
+>|PHP|
+void flush ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

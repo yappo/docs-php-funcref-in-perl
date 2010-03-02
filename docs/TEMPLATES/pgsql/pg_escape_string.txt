@@ -1,0 +1,13 @@
+*pg_escape_string
+
+**PHP
+
+>|PHP|
+string pg_escape_string ([ resource $connection ], string $data )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

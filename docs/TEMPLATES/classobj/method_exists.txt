@@ -1,0 +1,13 @@
+*method_exists
+
+**PHP
+
+>|PHP|
+bool method_exists ( mixed $object , string $method_name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

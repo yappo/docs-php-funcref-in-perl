@@ -1,0 +1,13 @@
+*ob_get_clean
+
+**PHP
+
+>|PHP|
+string ob_get_clean ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

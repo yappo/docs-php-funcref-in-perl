@@ -1,0 +1,13 @@
+*file_get_contents
+
+**PHP
+
+>|PHP|
+string file_get_contents ( string $filename [, int $flags = 0 [, resource $context [, int $offset = -1 [, int $maxlen = -1 ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

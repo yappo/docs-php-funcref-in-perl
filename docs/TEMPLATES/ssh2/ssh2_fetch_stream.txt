@@ -1,0 +1,13 @@
+*ssh2_fetch_stream
+
+**PHP
+
+>|PHP|
+resource ssh2_fetch_stream ( resource $channel , int $streamid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

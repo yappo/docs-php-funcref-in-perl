@@ -1,0 +1,13 @@
+*pg_fetch_object
+
+**PHP
+
+>|PHP|
+object pg_fetch_object ( resource $result [, int $row [, int $result_type = PGSQL_ASSOC ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

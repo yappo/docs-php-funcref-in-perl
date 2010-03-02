@@ -1,0 +1,13 @@
+*pg_port
+
+**PHP
+
+>|PHP|
+int pg_port ([ resource $connection ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

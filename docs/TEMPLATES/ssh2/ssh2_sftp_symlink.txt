@@ -1,0 +1,13 @@
+*ssh2_sftp_symlink
+
+**PHP
+
+>|PHP|
+bool ssh2_sftp_symlink ( resource $sftp , string $target , string $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

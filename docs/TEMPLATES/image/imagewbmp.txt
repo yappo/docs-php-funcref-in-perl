@@ -1,0 +1,13 @@
+*imagewbmp
+
+**PHP
+
+>|PHP|
+bool imagewbmp ( resource $image [, string $filename [, int $foreground ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

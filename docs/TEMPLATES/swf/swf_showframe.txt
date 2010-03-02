@@ -1,0 +1,13 @@
+*swf_showframe
+
+**PHP
+
+>|PHP|
+void swf_showframe ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

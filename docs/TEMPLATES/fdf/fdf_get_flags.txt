@@ -1,0 +1,13 @@
+*fdf_get_flags
+
+**PHP
+
+>|PHP|
+int fdf_get_flags ( resource $fdf_document , string $fieldname , int $whichflags )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

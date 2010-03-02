@@ -1,0 +1,13 @@
+*calcul_hmac
+
+**PHP
+
+>|PHP|
+string calcul_hmac ( string $clent , string $siretcode , string $price , string $reference , string $validity , string $taxation , string $devise , string $language )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

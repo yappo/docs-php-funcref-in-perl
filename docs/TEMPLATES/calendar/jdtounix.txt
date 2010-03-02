@@ -1,0 +1,13 @@
+*jdtounix
+
+**PHP
+
+>|PHP|
+int jdtounix ( int $jday )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

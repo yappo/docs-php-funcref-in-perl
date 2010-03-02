@@ -1,0 +1,13 @@
+*ftp_login
+
+**PHP
+
+>|PHP|
+bool ftp_login ( resource $ftp_stream , string $username , string $password )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

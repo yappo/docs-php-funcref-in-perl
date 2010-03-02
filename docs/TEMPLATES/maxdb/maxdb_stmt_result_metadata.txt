@@ -1,0 +1,13 @@
+*maxdb_stmt_result_metadata
+
+**PHP
+
+>|PHP|
+resource maxdb_stmt_result_metadata ( resource $stmt )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

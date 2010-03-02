@@ -1,0 +1,13 @@
+*ifx_update_blob
+
+**PHP
+
+>|PHP|
+bool ifx_update_blob ( int $bid , string $content )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*vpopmail_del_user
+
+**PHP
+
+>|PHP|
+bool vpopmail_del_user ( string $user , string $domain )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

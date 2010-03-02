@@ -1,0 +1,13 @@
+*oci_rollback
+
+**PHP
+
+>|PHP|
+bool oci_rollback ( resource $connection )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

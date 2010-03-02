@@ -1,0 +1,13 @@
+*swf_addcolor
+
+**PHP
+
+>|PHP|
+void swf_addcolor ( float $r , float $g , float $b , float $a )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

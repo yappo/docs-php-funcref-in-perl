@@ -1,0 +1,13 @@
+*ifx_fetch_row
+
+**PHP
+
+>|PHP|
+array ifx_fetch_row ( resource $result_id [, mixed $position ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

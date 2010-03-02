@@ -1,0 +1,13 @@
+*ncurses_pair_content
+
+**PHP
+
+>|PHP|
+int ncurses_pair_content ( int $pair , int &$f , int &$b )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*xml_parser_free
+
+**PHP
+
+>|PHP|
+bool xml_parser_free ( resource $parser )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

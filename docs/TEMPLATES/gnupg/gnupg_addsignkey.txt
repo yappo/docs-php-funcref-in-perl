@@ -1,0 +1,13 @@
+*gnupg_addsignkey
+
+**PHP
+
+>|PHP|
+bool gnupg_addsignkey ( resource $identifier , string $fingerprint [, string $passphrase ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

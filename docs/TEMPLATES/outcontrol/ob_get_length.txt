@@ -1,0 +1,13 @@
+*ob_get_length
+
+**PHP
+
+>|PHP|
+int ob_get_length ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

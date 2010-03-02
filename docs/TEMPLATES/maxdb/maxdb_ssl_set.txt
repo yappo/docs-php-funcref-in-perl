@@ -1,0 +1,13 @@
+*maxdb_ssl_set
+
+**PHP
+
+>|PHP|
+bool maxdb_ssl_set ( resource $link , string $key , string $cert , string $ca , string $capath , string $cipher )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

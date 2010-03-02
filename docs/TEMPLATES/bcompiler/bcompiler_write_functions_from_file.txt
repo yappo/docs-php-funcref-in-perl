@@ -1,0 +1,13 @@
+*bcompiler_write_functions_from_file
+
+**PHP
+
+>|PHP|
+bool bcompiler_write_functions_from_file ( resource $filehandle , string $fileName )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

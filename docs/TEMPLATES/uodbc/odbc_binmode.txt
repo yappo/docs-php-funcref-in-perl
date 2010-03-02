@@ -1,0 +1,13 @@
+*odbc_binmode
+
+**PHP
+
+>|PHP|
+bool odbc_binmode ( resource $result_id , int $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

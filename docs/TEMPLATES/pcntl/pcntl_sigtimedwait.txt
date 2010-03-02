@@ -1,0 +1,13 @@
+*pcntl_sigtimedwait
+
+**PHP
+
+>|PHP|
+int pcntl_sigtimedwait ( array $set [, array &$siginfo [, int $seconds = 0 [, int $nanoseconds = 0 ]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

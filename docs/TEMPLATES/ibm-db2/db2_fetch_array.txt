@@ -1,0 +1,13 @@
+*db2_fetch_array
+
+**PHP
+
+>|PHP|
+array db2_fetch_array ( resource $stmt [, int $row_number = -1 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

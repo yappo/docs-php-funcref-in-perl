@@ -1,0 +1,13 @@
+*sys_get_temp_dir
+
+**PHP
+
+>|PHP|
+string sys_get_temp_dir ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

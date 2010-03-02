@@ -1,0 +1,13 @@
+*ssh2_auth_none
+
+**PHP
+
+>|PHP|
+mixed ssh2_auth_none ( resource $session , string $username )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

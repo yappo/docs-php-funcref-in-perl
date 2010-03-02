@@ -1,0 +1,13 @@
+*openssl_pkcs12_export_to_file
+
+**PHP
+
+>|PHP|
+bool openssl_pkcs12_export_to_file ( mixed $x509 , string $filename , mixed $priv_key , string $pass [, array $args ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*swf_startsymbol
+
+**PHP
+
+>|PHP|
+void swf_startsymbol ( int $objid )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

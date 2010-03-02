@@ -1,0 +1,13 @@
+*mcrypt_enc_get_algorithms_name
+
+**PHP
+
+>|PHP|
+string mcrypt_enc_get_algorithms_name ( resource $td )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

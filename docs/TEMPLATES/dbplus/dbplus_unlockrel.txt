@@ -1,0 +1,13 @@
+*dbplus_unlockrel
+
+**PHP
+
+>|PHP|
+int dbplus_unlockrel ( resource $relation )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

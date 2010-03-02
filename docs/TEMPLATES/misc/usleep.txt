@@ -1,0 +1,13 @@
+*usleep
+
+**PHP
+
+>|PHP|
+void usleep ( int $micro_seconds )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

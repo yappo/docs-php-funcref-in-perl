@@ -1,0 +1,13 @@
+*imap_subscribe
+
+**PHP
+
+>|PHP|
+bool imap_subscribe ( resource $imap_stream , string $mailbox )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

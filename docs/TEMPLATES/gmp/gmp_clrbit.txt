@@ -1,0 +1,13 @@
+*gmp_clrbit
+
+**PHP
+
+>|PHP|
+void gmp_clrbit ( resource $a , int $index )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

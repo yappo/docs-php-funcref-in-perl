@@ -1,0 +1,13 @@
+*getprotobyname
+
+**PHP
+
+>|PHP|
+int getprotobyname ( string $name )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

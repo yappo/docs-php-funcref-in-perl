@@ -1,0 +1,13 @@
+*swf_shapemoveto
+
+**PHP
+
+>|PHP|
+void swf_shapemoveto ( float $x , float $y )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

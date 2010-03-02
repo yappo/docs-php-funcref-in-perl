@@ -1,0 +1,13 @@
+*geoip_db_get_all_info
+
+**PHP
+
+>|PHP|
+array geoip_db_get_all_info ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

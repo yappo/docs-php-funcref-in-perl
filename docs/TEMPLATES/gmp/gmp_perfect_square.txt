@@ -1,0 +1,13 @@
+*gmp_perfect_square
+
+**PHP
+
+>|PHP|
+bool gmp_perfect_square ( resource $a )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

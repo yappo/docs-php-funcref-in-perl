@@ -1,0 +1,13 @@
+*money_format
+
+**PHP
+
+>|PHP|
+string money_format ( string $format , float $number )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

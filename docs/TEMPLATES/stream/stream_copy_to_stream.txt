@@ -1,0 +1,13 @@
+*stream_copy_to_stream
+
+**PHP
+
+>|PHP|
+int stream_copy_to_stream ( resource $source , resource $dest [, int $maxlength = -1 [, int $offset = 0 ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

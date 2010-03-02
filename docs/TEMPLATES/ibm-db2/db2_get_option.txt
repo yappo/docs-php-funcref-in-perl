@@ -1,0 +1,13 @@
+*db2_get_option
+
+**PHP
+
+>|PHP|
+string db2_get_option ( resource $resource , string $option )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

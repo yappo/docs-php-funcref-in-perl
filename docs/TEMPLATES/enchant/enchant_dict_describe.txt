@@ -1,0 +1,13 @@
+*enchant_dict_describe
+
+**PHP
+
+>|PHP|
+mixed enchant_dict_describe ( resource $dict )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

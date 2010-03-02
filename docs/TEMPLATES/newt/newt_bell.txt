@@ -1,0 +1,13 @@
+*newt_bell
+
+**PHP
+
+>|PHP|
+void newt_bell ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

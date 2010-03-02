@@ -1,0 +1,13 @@
+*http_match_etag
+
+**PHP
+
+>|PHP|
+bool http_match_etag ( string $etag [, bool $for_range = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*newt_checkbox_tree_set_entry
+
+**PHP
+
+>|PHP|
+void newt_checkbox_tree_set_entry ( resource $checkboxtree , mixed $data , string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

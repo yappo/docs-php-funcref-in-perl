@@ -1,0 +1,13 @@
+*filter_var
+
+**PHP
+
+>|PHP|
+mixed filter_var ( mixed $variable [, int $filter = FILTER_DEFAULT [, mixed $options ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

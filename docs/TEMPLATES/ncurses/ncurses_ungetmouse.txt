@@ -1,0 +1,13 @@
+*ncurses_ungetmouse
+
+**PHP
+
+>|PHP|
+bool ncurses_ungetmouse ( array $mevent )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*posix_getpgrp
+
+**PHP
+
+>|PHP|
+int posix_getpgrp ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

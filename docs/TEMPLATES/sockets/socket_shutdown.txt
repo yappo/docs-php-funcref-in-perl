@@ -1,0 +1,13 @@
+*socket_shutdown
+
+**PHP
+
+>|PHP|
+bool socket_shutdown ( resource $socket [, int $how = 2 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

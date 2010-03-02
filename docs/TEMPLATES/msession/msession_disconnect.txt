@@ -1,0 +1,13 @@
+*msession_disconnect
+
+**PHP
+
+>|PHP|
+void msession_disconnect ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

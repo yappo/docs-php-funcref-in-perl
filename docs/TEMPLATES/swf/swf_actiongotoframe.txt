@@ -1,0 +1,13 @@
+*swf_actiongotoframe
+
+**PHP
+
+>|PHP|
+void swf_actiongotoframe ( int $framenumber )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

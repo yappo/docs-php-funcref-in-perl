@@ -1,0 +1,13 @@
+*floatval
+
+**PHP
+
+>|PHP|
+float floatval ( mixed $var )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

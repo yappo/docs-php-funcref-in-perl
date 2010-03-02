@@ -1,0 +1,13 @@
+*odbc_tables
+
+**PHP
+
+>|PHP|
+resource odbc_tables ( resource $connection_id [, string $qualifier [, string $owner [, string $name [, string $types ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

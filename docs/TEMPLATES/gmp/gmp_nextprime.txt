@@ -1,0 +1,13 @@
+*gmp_nextprime
+
+**PHP
+
+>|PHP|
+resource gmp_nextprime ( int $a )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

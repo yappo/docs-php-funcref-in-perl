@@ -1,0 +1,13 @@
+*odbc_errormsg
+
+**PHP
+
+>|PHP|
+string odbc_errormsg ([ resource $connection_id ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

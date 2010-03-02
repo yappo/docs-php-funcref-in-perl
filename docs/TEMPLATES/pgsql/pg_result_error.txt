@@ -1,0 +1,13 @@
+*pg_result_error
+
+**PHP
+
+>|PHP|
+string pg_result_error ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

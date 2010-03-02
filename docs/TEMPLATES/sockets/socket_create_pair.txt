@@ -1,0 +1,13 @@
+*socket_create_pair
+
+**PHP
+
+>|PHP|
+bool socket_create_pair ( int $domain , int $type , int $protocol , array &$fd )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

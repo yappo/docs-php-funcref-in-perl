@@ -1,0 +1,13 @@
+*ocicolumnisnull
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

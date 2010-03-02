@@ -1,0 +1,13 @@
+*ftp_nlist
+
+**PHP
+
+>|PHP|
+array ftp_nlist ( resource $ftp_stream , string $directory )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

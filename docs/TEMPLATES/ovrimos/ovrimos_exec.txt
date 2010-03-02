@@ -1,0 +1,13 @@
+*ovrimos_exec
+
+**PHP
+
+>|PHP|
+int ovrimos_exec ( int $connection_id , string $query )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

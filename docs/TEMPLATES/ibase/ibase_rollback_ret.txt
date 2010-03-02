@@ -1,0 +1,13 @@
+*ibase_rollback_ret
+
+**PHP
+
+>|PHP|
+bool ibase_rollback_ret ([ resource $link_or_trans_identifier = NULL ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

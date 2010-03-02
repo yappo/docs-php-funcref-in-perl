@@ -1,0 +1,13 @@
+*mb_strtoupper
+
+**PHP
+
+>|PHP|
+string mb_strtoupper ( string $str [, string $encoding = mb_internal_encoding() ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

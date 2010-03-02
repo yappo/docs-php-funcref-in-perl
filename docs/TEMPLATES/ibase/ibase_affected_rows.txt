@@ -1,0 +1,13 @@
+*ibase_affected_rows
+
+**PHP
+
+>|PHP|
+int ibase_affected_rows ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

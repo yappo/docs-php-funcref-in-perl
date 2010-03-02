@@ -1,0 +1,13 @@
+*ibase_connect
+
+**PHP
+
+>|PHP|
+resource ibase_connect ([ string $database [, string $username [, string $password [, string $charset [, int $buffers [, int $dialect [, string $role [, int $sync ]]]]]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

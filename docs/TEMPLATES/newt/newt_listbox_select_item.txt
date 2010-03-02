@@ -1,0 +1,13 @@
+*newt_listbox_select_item
+
+**PHP
+
+>|PHP|
+void newt_listbox_select_item ( resource $listbox , mixed $key , int $sense )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

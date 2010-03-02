@@ -1,0 +1,13 @@
+*mysql_field_flags
+
+**PHP
+
+>|PHP|
+string mysql_field_flags ( resource $result , int $field_offset )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

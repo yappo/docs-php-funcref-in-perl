@@ -1,0 +1,13 @@
+*domxml_xslt_version
+
+**PHP
+
+>|PHP|
+int domxml_xslt_version ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

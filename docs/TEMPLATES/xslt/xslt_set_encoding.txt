@@ -1,0 +1,13 @@
+*xslt_set_encoding
+
+**PHP
+
+>|PHP|
+void xslt_set_encoding ( resource $xh , string $encoding )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

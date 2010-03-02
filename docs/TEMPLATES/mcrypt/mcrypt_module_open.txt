@@ -1,0 +1,13 @@
+*mcrypt_module_open
+
+**PHP
+
+>|PHP|
+resource mcrypt_module_open ( string $algorithm , string $algorithm_directory , string $mode , string $mode_directory )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

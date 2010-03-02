@@ -1,0 +1,13 @@
+*pg_last_error
+
+**PHP
+
+>|PHP|
+string pg_last_error ([ resource $connection ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

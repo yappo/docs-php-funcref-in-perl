@@ -1,0 +1,13 @@
+*aggregate_properties_by_list
+
+**PHP
+
+>|PHP|
+void aggregate_properties_by_list ( object $object , string $class_name , array $properties_list [, bool $exclude = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

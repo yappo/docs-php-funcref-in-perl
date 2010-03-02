@@ -1,0 +1,13 @@
+*svn_diff
+
+**PHP
+
+>|PHP|
+array svn_diff ( string $path1 , int $rev1 , string $path2 , int $rev2 )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

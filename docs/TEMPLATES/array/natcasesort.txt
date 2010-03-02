@@ -1,0 +1,13 @@
+*natcasesort
+
+**PHP
+
+>|PHP|
+bool natcasesort ( array &$array )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

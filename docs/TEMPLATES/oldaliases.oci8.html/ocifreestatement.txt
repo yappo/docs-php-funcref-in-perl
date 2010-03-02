@@ -1,0 +1,13 @@
+*ocifreestatement
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

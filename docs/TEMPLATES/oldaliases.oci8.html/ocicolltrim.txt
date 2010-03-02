@@ -1,0 +1,13 @@
+*ocicolltrim
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

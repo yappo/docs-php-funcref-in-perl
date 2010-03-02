@@ -1,0 +1,13 @@
+*hw_api->dstanchors
+
+**PHP
+
+>|PHP|
+array dstanchors ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

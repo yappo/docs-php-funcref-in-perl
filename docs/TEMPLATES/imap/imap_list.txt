@@ -1,0 +1,13 @@
+*imap_list
+
+**PHP
+
+>|PHP|
+array imap_list ( resource $imap_stream , string $ref , string $pattern )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

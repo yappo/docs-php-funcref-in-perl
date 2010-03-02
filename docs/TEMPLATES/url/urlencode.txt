@@ -1,0 +1,13 @@
+*urlencode
+
+**PHP
+
+>|PHP|
+string urlencode ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*svn_repos_fs_begin_txn_for_commit
+
+**PHP
+
+>|PHP|
+resource svn_repos_fs_begin_txn_for_commit ( resource $repos , int $rev , string $author , string $log_msg )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

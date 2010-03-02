@@ -1,0 +1,13 @@
+*m_getcellbynum
+
+**PHP
+
+>|PHP|
+string m_getcellbynum ( resource $conn , int $identifier , int $column , int $row )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

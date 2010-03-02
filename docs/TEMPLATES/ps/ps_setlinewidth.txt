@@ -1,0 +1,13 @@
+*ps_setlinewidth
+
+**PHP
+
+>|PHP|
+bool ps_setlinewidth ( resource $psdoc , float $width )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

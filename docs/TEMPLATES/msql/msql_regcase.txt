@@ -1,0 +1,13 @@
+*msql_regcase
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

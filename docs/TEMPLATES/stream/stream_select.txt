@@ -1,0 +1,13 @@
+*stream_select
+
+**PHP
+
+>|PHP|
+int stream_select ( array &$read , array &$write , array &$except , int $tv_sec [, int $tv_usec = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

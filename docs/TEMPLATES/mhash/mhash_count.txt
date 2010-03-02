@@ -1,0 +1,13 @@
+*mhash_count
+
+**PHP
+
+>|PHP|
+int mhash_count ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

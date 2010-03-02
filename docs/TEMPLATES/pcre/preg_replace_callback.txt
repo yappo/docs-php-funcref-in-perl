@@ -1,0 +1,13 @@
+*preg_replace_callback
+
+**PHP
+
+>|PHP|
+mixed preg_replace_callback ( mixed $pattern , callback $callback , mixed $subject [, int $limit = -1 [, int &$count ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

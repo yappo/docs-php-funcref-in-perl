@@ -1,0 +1,13 @@
+*ncurses_insertln
+
+**PHP
+
+>|PHP|
+int ncurses_insertln ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

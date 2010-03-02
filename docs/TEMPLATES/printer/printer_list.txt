@@ -1,0 +1,13 @@
+*printer_list
+
+**PHP
+
+>|PHP|
+array printer_list ( int $enumtype [, string $name [, int $level ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

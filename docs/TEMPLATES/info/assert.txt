@@ -1,0 +1,13 @@
+*assert
+
+**PHP
+
+>|PHP|
+bool assert ( mixed $assertion )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

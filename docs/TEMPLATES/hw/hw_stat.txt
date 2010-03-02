@@ -1,0 +1,13 @@
+*hw_stat
+
+**PHP
+
+>|PHP|
+string hw_stat ( int $link )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

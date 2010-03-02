@@ -1,0 +1,13 @@
+*print
+
+**PHP
+
+>|PHP|
+int print ( string $arg )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

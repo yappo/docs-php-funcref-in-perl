@@ -1,0 +1,13 @@
+*oci_fetch_object
+
+**PHP
+
+>|PHP|
+object oci_fetch_object ( resource $statement )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

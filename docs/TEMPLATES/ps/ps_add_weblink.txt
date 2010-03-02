@@ -1,0 +1,13 @@
+*ps_add_weblink
+
+**PHP
+
+>|PHP|
+bool ps_add_weblink ( resource $psdoc , float $llx , float $lly , float $urx , float $ury , string $url )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

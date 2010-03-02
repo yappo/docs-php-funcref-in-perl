@@ -1,0 +1,13 @@
+*mqseries_set
+
+**PHP
+
+>|PHP|
+void mqseries_set ( resource $hconn , resource $hobj , int $selectorcount , array $selectors , int $intattrcount , array $intattrs , int $charattrlength , array $charattrs , resource &$compCode , resource &$reason )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

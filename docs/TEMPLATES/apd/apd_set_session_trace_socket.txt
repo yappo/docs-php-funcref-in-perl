@@ -1,0 +1,13 @@
+*apd_set_session_trace_socket
+
+**PHP
+
+>|PHP|
+bool apd_set_session_trace_socket ( string $tcp_server , int $socket_type , int $port , int $debug_level )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

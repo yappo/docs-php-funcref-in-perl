@@ -1,0 +1,13 @@
+*rsort
+
+**PHP
+
+>|PHP|
+bool rsort ( array &$array [, int $sort_flags = SORT_REGULAR ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

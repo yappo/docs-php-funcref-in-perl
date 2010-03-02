@@ -1,0 +1,13 @@
+*ocifetchstatement
+
+**PHP
+
+>|PHP|
+
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ldap_compare
+
+**PHP
+
+>|PHP|
+mixed ldap_compare ( resource $link_identifier , string $dn , string $attribute , string $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

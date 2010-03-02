@@ -1,0 +1,13 @@
+*ps_closepath
+
+**PHP
+
+>|PHP|
+bool ps_closepath ( resource $psdoc )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

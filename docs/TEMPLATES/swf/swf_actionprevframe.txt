@@ -1,0 +1,13 @@
+*swf_actionprevframe
+
+**PHP
+
+>|PHP|
+void swf_actionprevframe ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

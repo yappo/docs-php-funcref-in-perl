@@ -1,0 +1,13 @@
+*pg_affected_rows
+
+**PHP
+
+>|PHP|
+int pg_affected_rows ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

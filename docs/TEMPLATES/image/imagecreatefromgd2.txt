@@ -1,0 +1,13 @@
+*imagecreatefromgd2
+
+**PHP
+
+>|PHP|
+resource imagecreatefromgd2 ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

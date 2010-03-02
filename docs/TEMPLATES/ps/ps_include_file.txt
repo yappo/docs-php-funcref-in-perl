@@ -1,0 +1,13 @@
+*ps_include_file
+
+**PHP
+
+>|PHP|
+bool ps_include_file ( resource $psdoc , string $file )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

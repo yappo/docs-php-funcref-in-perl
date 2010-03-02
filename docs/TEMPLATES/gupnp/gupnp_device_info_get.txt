@@ -1,0 +1,13 @@
+*gupnp_device_info_get
+
+**PHP
+
+>|PHP|
+array gupnp_device_info_get ( resource $root_device )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

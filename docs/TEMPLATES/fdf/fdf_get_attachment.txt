@@ -1,0 +1,13 @@
+*fdf_get_attachment
+
+**PHP
+
+>|PHP|
+array fdf_get_attachment ( resource $fdf_document , string $fieldname , string $savepath )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

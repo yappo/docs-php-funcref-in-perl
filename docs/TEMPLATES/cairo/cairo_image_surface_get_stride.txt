@@ -1,0 +1,13 @@
+*cairo_image_surface_get_stride
+
+**PHP
+
+>|PHP|
+int cairo_image_surface_get_stride ( CairoImageSurface $surface )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

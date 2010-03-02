@@ -1,0 +1,13 @@
+*runkit_sandbox_output_handler
+
+**PHP
+
+>|PHP|
+mixed runkit_sandbox_output_handler ( object $sandbox [, mixed $callback ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

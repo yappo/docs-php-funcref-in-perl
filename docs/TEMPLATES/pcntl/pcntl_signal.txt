@@ -1,0 +1,13 @@
+*pcntl_signal
+
+**PHP
+
+>|PHP|
+bool pcntl_signal ( int $signo , callback $handler [, bool $restart_syscalls = true ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

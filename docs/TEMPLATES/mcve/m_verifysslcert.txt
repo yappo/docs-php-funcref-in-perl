@@ -1,0 +1,13 @@
+*m_verifysslcert
+
+**PHP
+
+>|PHP|
+bool m_verifysslcert ( resource $conn , int $tf )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ifx_error
+
+**PHP
+
+>|PHP|
+string ifx_error ([ resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ob_list_handlers
+
+**PHP
+
+>|PHP|
+array ob_list_handlers ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

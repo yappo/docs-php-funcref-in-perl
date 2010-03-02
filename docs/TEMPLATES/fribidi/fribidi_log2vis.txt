@@ -1,0 +1,13 @@
+*fribidi_log2vis
+
+**PHP
+
+>|PHP|
+string fribidi_log2vis ( string $str , string $direction , int $charset )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

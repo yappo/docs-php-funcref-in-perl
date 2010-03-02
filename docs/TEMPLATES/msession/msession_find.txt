@@ -1,0 +1,13 @@
+*msession_find
+
+**PHP
+
+>|PHP|
+array msession_find ( string $name , string $value )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

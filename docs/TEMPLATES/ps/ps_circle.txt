@@ -1,0 +1,13 @@
+*ps_circle
+
+**PHP
+
+>|PHP|
+bool ps_circle ( resource $psdoc , float $x , float $y , float $radius )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

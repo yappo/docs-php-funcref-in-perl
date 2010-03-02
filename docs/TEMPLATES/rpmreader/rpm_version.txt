@@ -1,0 +1,13 @@
+*rpm_version
+
+**PHP
+
+>|PHP|
+string rpm_version ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

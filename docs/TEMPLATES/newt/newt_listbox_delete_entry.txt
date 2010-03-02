@@ -1,0 +1,13 @@
+*newt_listbox_delete_entry
+
+**PHP
+
+>|PHP|
+void newt_listbox_delete_entry ( resource $listbox , mixed $key )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

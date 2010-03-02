@@ -1,0 +1,13 @@
+*imagecolorexact
+
+**PHP
+
+>|PHP|
+int imagecolorexact ( resource $image , int $red , int $green , int $blue )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

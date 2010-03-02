@@ -1,0 +1,13 @@
+*idn_to_utf8
+
+**PHP
+
+>|PHP|
+string idn_to_utf8 ( string $domain [, int $options ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

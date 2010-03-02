@@ -1,0 +1,13 @@
+*swf_actionplay
+
+**PHP
+
+>|PHP|
+void swf_actionplay ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*finfo_open
+
+**PHP
+
+>|PHP|
+resource finfo_open ([ int $options = FILEINFO_NONE [, string $magic_file = NULL ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

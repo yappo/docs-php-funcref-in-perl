@@ -1,0 +1,13 @@
+*system
+
+**PHP
+
+>|PHP|
+string system ( string $command [, int &$return_var ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

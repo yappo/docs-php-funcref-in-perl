@@ -1,0 +1,13 @@
+*msql_query
+
+**PHP
+
+>|PHP|
+resource msql_query ( string $query [, resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ps_makespotcolor
+
+**PHP
+
+>|PHP|
+int ps_makespotcolor ( resource $psdoc , string $name [, int $reserved = 0 ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

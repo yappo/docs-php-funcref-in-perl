@@ -1,0 +1,13 @@
+*http_cache_last_modified
+
+**PHP
+
+>|PHP|
+bool http_cache_last_modified ([ int $timestamp_or_expires ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

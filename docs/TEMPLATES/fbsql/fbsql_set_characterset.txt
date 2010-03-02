@@ -1,0 +1,13 @@
+*fbsql_set_characterset
+
+**PHP
+
+>|PHP|
+void fbsql_set_characterset ( resource $link_identifier , int $characterset [, int $in_out_both ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

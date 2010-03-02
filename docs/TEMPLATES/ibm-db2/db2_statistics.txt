@@ -1,0 +1,13 @@
+*db2_statistics
+
+**PHP
+
+>|PHP|
+resource db2_statistics ( resource $connection , string $qualifier , string $schema , string $table-name , bool $unique )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

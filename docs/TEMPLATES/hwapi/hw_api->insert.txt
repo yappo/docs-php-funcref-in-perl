@@ -1,0 +1,13 @@
+*hw_api->insert
+
+**PHP
+
+>|PHP|
+hw_api_object insert ( array $parameter )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

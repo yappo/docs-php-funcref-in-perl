@@ -1,0 +1,13 @@
+*mssql_num_rows
+
+**PHP
+
+>|PHP|
+int mssql_num_rows ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

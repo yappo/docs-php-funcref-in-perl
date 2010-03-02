@@ -1,0 +1,13 @@
+*mcrypt_get_iv_size
+
+**PHP
+
+>|PHP|
+int mcrypt_get_iv_size ( string $cipher , string $mode )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

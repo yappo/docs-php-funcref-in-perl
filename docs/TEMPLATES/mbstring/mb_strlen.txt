@@ -1,0 +1,13 @@
+*mb_strlen
+
+**PHP
+
+>|PHP|
+int mb_strlen ( string $str [, string $encoding ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

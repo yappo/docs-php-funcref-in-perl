@@ -1,0 +1,13 @@
+*odbc_fetch_into
+
+**PHP
+
+>|PHP|
+int odbc_fetch_into ( resource $result_id , array &$result_array [, int $rownumber ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

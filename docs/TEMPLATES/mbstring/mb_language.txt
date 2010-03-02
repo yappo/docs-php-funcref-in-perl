@@ -1,0 +1,13 @@
+*mb_language
+
+**PHP
+
+>|PHP|
+mixed mb_language ([ string $language ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

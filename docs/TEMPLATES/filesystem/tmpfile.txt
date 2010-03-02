@@ -1,0 +1,13 @@
+*tmpfile
+
+**PHP
+
+>|PHP|
+resource tmpfile ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

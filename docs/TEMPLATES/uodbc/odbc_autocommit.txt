@@ -1,0 +1,13 @@
+*odbc_autocommit
+
+**PHP
+
+>|PHP|
+mixed odbc_autocommit ( resource $connection_id [, bool $OnOff = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

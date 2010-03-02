@@ -1,0 +1,13 @@
+*sqlite_rewind
+
+**PHP
+
+>|PHP|
+bool sqlite_rewind ( resource $result )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

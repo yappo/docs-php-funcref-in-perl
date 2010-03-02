@@ -1,0 +1,13 @@
+*phpinfo
+
+**PHP
+
+>|PHP|
+bool phpinfo ([ int $what = INFO_ALL ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

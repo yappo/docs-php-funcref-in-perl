@@ -1,0 +1,13 @@
+*strcasecmp
+
+**PHP
+
+>|PHP|
+int strcasecmp ( string $str1 , string $str2 )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

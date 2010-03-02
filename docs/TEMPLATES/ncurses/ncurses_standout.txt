@@ -1,0 +1,13 @@
+*ncurses_standout
+
+**PHP
+
+>|PHP|
+int ncurses_standout ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

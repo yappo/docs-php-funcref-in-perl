@@ -1,0 +1,13 @@
+*ncurses_resetty
+
+**PHP
+
+>|PHP|
+bool ncurses_resetty ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

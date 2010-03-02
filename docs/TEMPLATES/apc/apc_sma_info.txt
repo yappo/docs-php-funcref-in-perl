@@ -1,0 +1,13 @@
+*apc_sma_info
+
+**PHP
+
+>|PHP|
+array apc_sma_info ([ bool $limited = false ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

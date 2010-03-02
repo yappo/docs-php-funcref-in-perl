@@ -1,0 +1,13 @@
+*get_include_path
+
+**PHP
+
+>|PHP|
+string get_include_path ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

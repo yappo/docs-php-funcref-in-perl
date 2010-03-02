@@ -1,0 +1,13 @@
+*imagefilledpolygon
+
+**PHP
+
+>|PHP|
+bool imagefilledpolygon ( resource $image , array $points , int $num_points , int $color )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*svn_repos_create
+
+**PHP
+
+>|PHP|
+resource svn_repos_create ( string $path [, array $config [, array $fsconfig ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

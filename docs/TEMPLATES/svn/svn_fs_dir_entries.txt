@@ -1,0 +1,13 @@
+*svn_fs_dir_entries
+
+**PHP
+
+>|PHP|
+array svn_fs_dir_entries ( resource $fsroot , string $path )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*strrev
+
+**PHP
+
+>|PHP|
+string strrev ( string $string )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*win32_delete_service
+
+**PHP
+
+>|PHP|
+int win32_delete_service ( string $servicename [, string $machine ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

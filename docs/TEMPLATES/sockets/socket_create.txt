@@ -1,0 +1,13 @@
+*socket_create
+
+**PHP
+
+>|PHP|
+resource socket_create ( int $domain , int $type , int $protocol )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

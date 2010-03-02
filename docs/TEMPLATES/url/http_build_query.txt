@@ -1,0 +1,13 @@
+*http_build_query
+
+**PHP
+
+>|PHP|
+string http_build_query ( array $formdata [, string $numeric_prefix [, string $arg_separator ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

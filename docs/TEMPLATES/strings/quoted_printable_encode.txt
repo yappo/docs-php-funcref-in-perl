@@ -1,0 +1,13 @@
+*quoted_printable_encode
+
+**PHP
+
+>|PHP|
+string quoted_printable_encode ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

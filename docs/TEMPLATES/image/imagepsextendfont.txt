@@ -1,0 +1,13 @@
+*imagepsextendfont
+
+**PHP
+
+>|PHP|
+bool imagepsextendfont ( resource $font_index , float $extend )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

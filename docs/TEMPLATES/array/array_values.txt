@@ -1,0 +1,13 @@
+*array_values
+
+**PHP
+
+>|PHP|
+array array_values ( array $input )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

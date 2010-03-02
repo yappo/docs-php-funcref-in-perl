@@ -1,0 +1,13 @@
+*oci_execute
+
+**PHP
+
+>|PHP|
+bool oci_execute ( resource $statement [, int $mode = OCI_COMMIT_ON_SUCCESS ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

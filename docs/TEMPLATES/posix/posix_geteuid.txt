@@ -1,0 +1,13 @@
+*posix_geteuid
+
+**PHP
+
+>|PHP|
+int posix_geteuid ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*imagefontheight
+
+**PHP
+
+>|PHP|
+int imagefontheight ( int $font )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

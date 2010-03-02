@@ -1,0 +1,13 @@
+*closedir
+
+**PHP
+
+>|PHP|
+void closedir ([ resource $dir_handle ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

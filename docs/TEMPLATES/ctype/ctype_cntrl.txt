@@ -1,0 +1,13 @@
+*ctype_cntrl
+
+**PHP
+
+>|PHP|
+bool ctype_cntrl ( string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

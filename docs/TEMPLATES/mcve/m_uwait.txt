@@ -1,0 +1,13 @@
+*m_uwait
+
+**PHP
+
+>|PHP|
+int m_uwait ( int $microsecs )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

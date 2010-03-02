@@ -1,0 +1,13 @@
+*ncurses_getch
+
+**PHP
+
+>|PHP|
+int ncurses_getch ( void )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

@@ -1,0 +1,13 @@
+*ncurses_mvwaddstr
+
+**PHP
+
+>|PHP|
+int ncurses_mvwaddstr ( resource $window , int $y , int $x , string $text )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

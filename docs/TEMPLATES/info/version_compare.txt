@@ -1,0 +1,13 @@
+*version_compare
+
+**PHP
+
+>|PHP|
+mixed version_compare ( string $version1 , string $version2 [, string $operator ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

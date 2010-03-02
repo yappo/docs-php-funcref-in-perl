@@ -1,0 +1,13 @@
+*mysql_db_query
+
+**PHP
+
+>|PHP|
+resource mysql_db_query ( string $database , string $query [, resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<

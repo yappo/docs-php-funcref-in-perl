@@ -1,0 +1,13 @@
+*db2_columns
+
+**PHP
+
+>|PHP|
+resource db2_columns ( resource $connection [, string $qualifier [, string $schema [, string $table-name [, string $column-name ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+
+||<
