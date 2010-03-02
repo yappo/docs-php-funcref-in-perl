@@ -1,7 +1,10 @@
-array_flip
-markup: Hatena
+*array_flip
 
-* 例
+>|PHP|
+array array_flip ( array $trans )
+||<
+
+*Perl
 
 >|perl|
 use Data::Dumper;
