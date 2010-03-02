@@ -1,0 +1,10 @@
+array_fill_keys
+markup: Hatena
+
+* 例
+
+>|perl|
+my @a = qw(foo 5 10 bar);
+my %h;
+@h{ @a } = ('banana') x scalar @a;
+||<

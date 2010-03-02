@@ -1,0 +1,11 @@
+array_flip
+markup: Hatena
+
+* 例
+
+>|perl|
+use Data::Dumper;
+my %h => ( a => 1, b => 1, c => 2);
+my %flip = reverse %h;
+print Dumper(\%flip);
+||<
