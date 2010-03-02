@@ -11,6 +11,6 @@ string htmlspecialchars ( string $string [, int $quote_style = ENT_COMPAT [, str
 >|Perl|
 use HTML::Entities;
 
-my $a = "<NorthV & South are Up Side Down>";
-print encode_entities($a); # &lt;NorthV &amp; South are Up Side Down&gt;
+my $a = "<North & South are Up Side Down>";
+print encode_entities($a); # &lt;North &amp; South are Up Side Down&gt;
 ||<
