@@ -1,5 +1,10 @@
-array_change_key_case
-markup: Hatena
+*array_change_key_case
+
+<a href="http://jp.php.net/manual/en/function.array-change-key-case.php">PHP: array_change_key_case - Manual</a>
+
+>|PHP|
+array array_combine  ( array $input , int $case = CASE_LOWER  )
+||<
 
 * 例
 
