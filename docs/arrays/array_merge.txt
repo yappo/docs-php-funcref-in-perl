@@ -1,8 +1,14 @@
-array_merge
-markup: Hatena
+*array_merge
 
-* 例
+>|PHP|
+array array_merge ( array $array1 [, array $array2 [, array $... ]] )
+||<
+
+*Perl
 
 >|perl|
-push @array1, @array2;
+my @result = ( @array1, @array2 , @array3 ... );
+
+push @result, @array1;
+push @result, @array2;
 ||<
