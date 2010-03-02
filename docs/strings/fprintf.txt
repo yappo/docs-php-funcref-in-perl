@@ -9,5 +9,6 @@ int fprintf ( resource $handle , string $format [, mixed $args [, mixed $... ]] 
 **Perl
 
 >|Perl|
-
+printf STDOUT "%s %d\n", $string, $decimal;
+printf STDERR "%s %d\n", $string, $decimal;
 ||<
