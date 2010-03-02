@@ -1,3 +1,0 @@
-[submodule "extlib/nim"]
-	path = extlib/nim
-	url = git://github.com/typester/nim.git
