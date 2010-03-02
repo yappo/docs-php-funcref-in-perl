@@ -6,7 +6,10 @@ For contributors
 
 clone:
 
-    git clone http://git.coderepos.org/share/websites/perl-funcref.git/
+    http://github.com/yappo/docs-perl-funcref
+    のコラボレータに入るか fork してね。forkしたらpull requestくださいな。
+
+    git clone from github
     cd perl-funcref
     git submodule init
     git submodule update

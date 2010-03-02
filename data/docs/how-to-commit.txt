@@ -1,19 +1,12 @@
 How To Post
 markup: Markdown
 
-git.coderepos.org への投稿するための準備
-----------------------------------------
-
-~/.netrc に以下のように書いてください。あとは通常の git とおなじです。
-
-    machine git.coderepos.org
-    login YOURID
-    password YOURPASSWORD
-
 投稿方法
 -------
+    http://github.com/yappo/docs-perl-funcref
+    のコラボレータに入るか fork してね。forkしたらpull requestくださいな。
 
-    git clone http://git.coderepos.org/share/websites/perl-funcref.git/
+    github から fork してくる
     cd perl-funcref/
     git submodule init
     git submodule update
