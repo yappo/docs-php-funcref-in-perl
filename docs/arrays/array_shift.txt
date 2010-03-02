@@ -9,5 +9,5 @@ mixed array_shift ( array &$array )
 **Perl
 
 >|Perl|
-
+my $elem = shift @array;
 ||<
