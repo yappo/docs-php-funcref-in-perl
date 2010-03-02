@@ -1,0 +1,19 @@
+*array_map
+
+**PHP
+
+>|PHP|
+array array_map ( callback $callback , array $arr1 [, array $... ] )
+||<
+
+**Perl
+
+>|Perl|
+my @result = map { 
+    # $callbackに相当するコード
+    # $_ に値が入っているので、それに対して変更を加え、
+    # 最後に返したい値を指定する
+    # 以下は 渡された配列の値を2倍にする
+    $_ * 2
+} (1, 2, 3, 4, 5);
+||<
