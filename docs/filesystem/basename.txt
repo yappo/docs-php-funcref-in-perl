@@ -1,0 +1,17 @@
+*basename
+
+**PHP
+
+>|PHP|
+string basename ( string $path [, string $suffix ] )
+||<
+
+**Perl
+
+>|Perl|
+use File::Basename;
+
+my $path = '/path/to/hoge.pl';
+my $file1 = basename $path;        # $file1 は 'hoge.pl' に設定される
+my $file2 = basename $path, '.pl'; # $file2 は 'hoge' に設定される
+||<
