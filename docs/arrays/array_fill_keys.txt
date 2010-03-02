@@ -1,7 +1,10 @@
-array_fill_keys
-markup: Hatena
+*array_fill_keys
 
-* 例
+>|PHP|
+array array_fill_keys ( array $keys , mixed $value )
+||<
+
+*Perl
 
 >|perl|
 my @a = qw(foo 5 10 bar);
