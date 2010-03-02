@@ -1,8 +1,6 @@
 * 目的
 
-http://jp2.php.net/manual/en/funcref.php
-PHP: Function Reference - Manual
-の用な体裁でPerlのドキュメントを整備したいと思います。
+<a href="http://jp2.php.net/manual/en/funcref.php">PHP: Function Reference - Manual</a>の用な体裁でPerlのドキュメントを整備したいと思います。
 
 なんでもPHP -> Perlに移行組とかには需要があるそうです(by junichiroさん)。
 PHPからPerlにくる人にモダンなPerlを知ってもらいまっしょい。
@@ -12,7 +10,7 @@ PHPからPerlにくる人にモダンなPerlを知ってもらいまっしょい
 
 * Viewer
 
-wikihub で見れます。 http://wikihub.org/wiki/php-funcref-in-perl
+wikihub で見れます。 [http://wikihub.org/wiki/php-funcref-in-perl]
 
 * Community
 
@@ -24,7 +22,7 @@ wikihub で見れます。 http://wikihub.org/wiki/php-funcref-in-perl
 
 clone:
 
-    http://github.com/yappo/docs-php-funcref-in-perl
+    [http://github.com/yappo/docs-php-funcref-in-perl]
     のコラボレータに入るか fork してね。forkしたらpull requestくださいな。
 
     git clone from github
