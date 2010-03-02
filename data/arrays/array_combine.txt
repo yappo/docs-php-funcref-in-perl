@@ -1,0 +1,11 @@
+array_combine
+markup: Hatena
+
+* 例
+
+>|perl|
+my @a = qw(green red yello);
+my @b = qw(avocado apple banana);
+my %h;
+@h{ @a } = @b;
+||<

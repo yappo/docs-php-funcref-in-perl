@@ -1,0 +1,14 @@
+array_change_key_case
+markup: Hatena
+
+* 例
+
+>|perl|
+# 破壊的に変更する場合
+$_ = uc $_ for @array;
+$_ = lc $_ for @array;
+
+# 破壊しない場合
+my @upper_case = map { uc $_ } @array;
+my @lower_case = map { lc $_ } @array;
+||<
