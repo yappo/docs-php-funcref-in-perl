@@ -1,7 +1,12 @@
-array_combine
-markup: Hatena
+*array_combine
 
-* 例
+<a href="http://jp.php.net/manual/en/function.array-combine.php">PHP: array_combine - Manual</a>
+
+>|PHP|
+array array_combine  ( array $keys  , array $values  )
+||<
+
+*Perl
 
 >|perl|
 my @a = qw(green red yello);
