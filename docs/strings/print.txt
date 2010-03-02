@@ -1,0 +1,15 @@
+*print
+
+**PHP
+
+>|PHP|
+int print ( string $arg )
+||<
+
+**Perl
+
+>|Perl|
+print "foo";
+print STDOUT "bar";
+print STDERR "baz";
+||<
