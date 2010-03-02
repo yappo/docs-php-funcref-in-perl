@@ -9,5 +9,6 @@ string urldecode ( string $str )
 **Perl
 
 >|Perl|
-
+use URI::Escape;
+my $decoded = uri_unescape( $str );
 ||<

@@ -9,5 +9,6 @@ string urlencode ( string $str )
 **Perl
 
 >|Perl|
-
+use URI::Escape;
+my $encoded = uri_escape( $str );
 ||<
