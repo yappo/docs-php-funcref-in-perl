@@ -1,0 +1,16 @@
+*htmlspecialchars
+
+**PHP
+
+>|PHP|
+string htmlspecialchars ( string $string [, int $quote_style = ENT_COMPAT [, string $charset [, bool $double_encode = true ]]] )
+||<
+
+**Perl
+
+>|Perl|
+use HTML::Entities;
+
+my $a = "<NorthV & South are Up Side down>";
+print encode_entities($a);
+||<
