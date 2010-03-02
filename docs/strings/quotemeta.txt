@@ -1,0 +1,15 @@
+*quotemeta
+
+**PHP
+
+>|PHP|
+string quotemeta ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+# PHP版とは若干違うのが、空白スペース等もエスケープする
+# Perlの正規表現で/xを使うときに空白が意味のあるものになるからだと思われる
+my $quoted = quotemeta( $str );
+||<

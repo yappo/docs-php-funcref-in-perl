@@ -9,5 +9,5 @@ string implode ( string $glue , array $pieces )
 **Perl
 
 >|Perl|
-
+my $joined = join( $glue, @pieces );
 ||<

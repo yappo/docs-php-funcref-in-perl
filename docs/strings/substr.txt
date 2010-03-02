@@ -9,5 +9,7 @@ string substr ( string $string , int $start [, int $length ] )
 **Perl
 
 >|Perl|
+my $substr = substr( $string, $start, $length );
 
+# substr( $string, $start, $replacement );
 ||<

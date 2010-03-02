@@ -9,5 +9,5 @@ array explode ( string $delimiter , string $string [, int $limit ] )
 **Perl
 
 >|Perl|
-
+my @split = split /$delimiter/, $string, $limit;
 ||<
