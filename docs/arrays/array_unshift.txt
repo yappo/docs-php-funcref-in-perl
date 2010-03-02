@@ -9,5 +9,6 @@ int array_unshift ( array &$array , mixed $var [, mixed $... ] )
 **Perl
 
 >|Perl|
-
+unshift @array, $value;
+unshift @array, @values;
 ||<

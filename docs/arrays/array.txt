@@ -9,5 +9,5 @@ array array ([ mixed $... ] )
 **Perl
 
 >|Perl|
-
+my @array = ($scalar, \@array, \%hash, $object, ... );
 ||<

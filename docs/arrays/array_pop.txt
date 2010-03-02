@@ -9,5 +9,5 @@ mixed array_pop ( array &$array )
 **Perl
 
 >|Perl|
-
+my $elem = pop @array;
 ||<
