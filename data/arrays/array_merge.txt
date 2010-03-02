@@ -1,0 +1,8 @@
+array_merge
+markup: Hatena
+
+* 例
+
+>|perl|
+push @array1, @array2;
+||<
