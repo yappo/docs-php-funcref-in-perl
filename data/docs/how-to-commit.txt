@@ -26,5 +26,5 @@ markup: Markdown
     git commit -a
     git push origin master
 
-cron で自動的に perl-users.jp に反映されます。
+ある程度溜まったらcron で自動的に perl-users.jp に反映さる予定です。
 
