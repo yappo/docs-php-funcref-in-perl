@@ -1,0 +1,13 @@
+array_count_values
+markup: Hatena
+
+* 例
+
+>|perl|
+use Data::Dumper;
+
+my @array = qw(1 hello 1 world hello);
+my %h;
+$h{$_}++ for @array;
+print Dumper(\%h);
+||<
