@@ -9,5 +9,6 @@ string base64_decode ( string $data [, bool $strict = false ] )
 **Perl
 
 >|Perl|
-
+use MIME::Base64;
+my $decoded = decode_base64($data);
 ||<
