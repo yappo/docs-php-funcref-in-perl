@@ -14,7 +14,7 @@ PHPからPerlにくる人にモダンなPerlを知ってもらいまっしょい
 Community
 ----------------
 
-#perl-casual@freenode
+ #perl-casual@freenode
 
 For contributors
 ----------------
