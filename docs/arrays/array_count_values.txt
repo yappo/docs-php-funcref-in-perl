@@ -1,7 +1,10 @@
-array_count_values
-markup: Hatena
+*array_count_values
 
-* 例
+>|PHP|
+array array_count_values( array $input );
+||<
+
+*Perl
 
 >|perl|
 use Data::Dumper;
