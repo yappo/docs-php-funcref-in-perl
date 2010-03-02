@@ -1,0 +1,27 @@
+? use DateTime::Format::HTTP;
+? my $today = DateTime->now();
+<?= encoded_string qq[<\?xml version="1.0" encoding="utf-8"?\>] ?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xml:lang="ja">
+  <channel>
+    <title><? block title => '' ?></title>
+    <link><? block link => ''; ?><? block link_suffix => '' ?></link>
+    <description><? block description => '' ?></description>
+? my @entries = sort { $b->filename cmp $a->filename } @{ $page->entries || [] };
+? for my $entry (splice @entries, 0, 15) {
+?     next if $entry->datetime > $today;
+    <item>
+      <title><?= $entry->title ?></title>
+      <link><? block 'link' ?><?= substr $entry->path, 1 ?>/<?= $entry->filename ?>.html</link>
+      <description><![CDATA[<?= encoded_string $entry->body ?>]]></description>
+? if ($entry->meta->{creator}) {
+      <dc:creator><?= $entry->meta->{creator} ?></dc:creator>
+? }
+      <pubDate><?= DateTime::Format::HTTP->format_datetime($entry->datetime) ?></pubDate>
+      <category><?= join(', ', @{ $entry->meta->{tags} || [] }) ?></category>
+    </item>
+? }
+  </channel>
+</rss>

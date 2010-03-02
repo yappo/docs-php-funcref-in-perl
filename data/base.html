@@ -1,0 +1,53 @@
+<?= encoded_string qq[<\?xml version="1.0" encoding="UTF-8"?\>] ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head profile="http://purl.org/net/ns/metaprof">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="http://bulknews.typepad.com/test/styles.css" media="all" />
+    <title><? block title => 'Perl: Function Reference - Manual' ?></title>
+    <? block header => '' ?>
+    <? block header2 => '' ?>
+</head>
+<body class="layout-two-column-right">
+<div id="container">
+    <div id="container-inner" class="pkg">
+
+        <div id="banner">
+            <div id="banner-inner" class="pkg">
+                <h1 id="banner-header"><? block title => 'Perl: Function Reference - Manual' ?></h1>
+                <p id="banner-description"><a href="http://jp2.php.net/manual/en/funcref.php">PHP: Function Reference - Manual</a>のPerl版を作ってみようのコーナー</p>
+            </div>
+        </div>
+    </div>
+
+    <div id="pagebody">
+        <div id="pagebody-inner">
+            <div id="alpha">
+                <div id="alpha-inner">
+? block content => '';
+                </div>
+            </div>
+            <div id="beta">
+
+                <div class="module-feed module">
+                    <h2 class="module-header">Links</h2>
+                    <div class="module-content">
+                        <ul>
+                            <li><a href="/articles/perl-funcref/index.html">top page</a><a href="/articles/perl-funcref/index.xml"><img src="/img/feed-icon-14x14.png" alt="rss" /></a></li>
+                    </ul>
+                    </div>
+                </div>
+
+                <!-- powered by -->
+                <div class="module-powered module">
+                    <div class="module-content">
+                        Powered by <a href="http://opensource.kayac.com/ja/projects/nim/" title="nim">nim</a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

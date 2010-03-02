@@ -1,0 +1,7 @@
+? extends 'base.xml';
+
+? block title => '';
+? block link  => 'http://perl-users.jp/articles/advent-calendar/2009/';
+? block link_suffix => 'Perl: Function Reference - Manual';
+? block description => 'PHP: Function Reference - ManualのPerl版を作ってみようのコーナー';
+

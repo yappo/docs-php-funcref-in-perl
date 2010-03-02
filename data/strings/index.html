@@ -1,0 +1,18 @@
+? extends 'base.html';
+
+? block header => q[<link rel="alternate" type="application/rss+xml" title="RSS" href="http://perl-users.jp/articles/perl-funcrefindex.xml" />];
+
+? block title => "Perl: Strings - Manual"
+
+? block content => sub {
+
+? my $today = DateTime->now()->day;
+
+<ul>
+? my $day = 0;
+? for my $entry (sort { $a->filename cmp $b->filename } @{ $page->entries }) {
+    <li><a href="./<?= $entry->filename ?>.html"><?= $entry->title ?></a></li>
+? }
+</ul>
+
+? }

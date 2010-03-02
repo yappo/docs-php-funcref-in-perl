@@ -1,0 +1,37 @@
+How To Post
+markup: Markdown
+
+git.coderepos.org への投稿するための準備
+----------------------------------------
+
+~/.netrc に以下のように書いてください。あとは通常の git とおなじです。
+
+    machine git.coderepos.org
+    login YOURID
+    password YOURPASSWORD
+
+投稿方法
+-------
+
+    git clone http://git.coderepos.org/share/websites/perl-funcref.git/
+    cd perl-funcref/
+    git submodule init
+    git submodule update
+    
+    # nim (HTML生成ツール)の依存モジュールをインストール
+    cd extlib/nim
+    perl Makefile.PL
+    make installdeps
+    cd ../../
+
+    # 他のファイルをみながら data/xx.txt を編集する
+
+    # HTML を生成する
+    ./extlib/nim/bin/nim
+
+    # サーバーに反映する
+    git commit -a
+    git push origin master
+
+cron で自動的に perl-users.jp に反映されます。
+

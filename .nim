@@ -16,12 +16,12 @@ plugins:
 
   - module: AutoIndex
     config:
-      filter: $entry->path =~ /(?:hacker|casual|dbix-skinny|data-model)/;
+#      filter: $entry->path =~ /(?:hacker|casual|dbix-skinny|data-model)/;
       path: '<?= substr $entry->path, 1 ?>'
       filename: index.xml
 
   - module: AutoIndex
     config:
-      filter: $entry->path =~ /(?:hacker|casual|dbix-skinny|data-model)/;
+#      filter: $entry->path =~ /(?:hacker|casual|dbix-skinny|data-model)/;
       path: ''
       filename: index.xml

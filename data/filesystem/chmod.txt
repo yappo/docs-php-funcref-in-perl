@@ -1,0 +1,9 @@
+chmod
+markup: Hatena
+
+* 例
+
+>|perl|
+chmod 0644, $filename;
+chmod 0644, $filename1, $filename2;
+||<

@@ -1,0 +1,8 @@
+chop
+markup: Hatena
+
+* 例
+
+>|perl|
+chop $strings;
+||<

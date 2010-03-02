@@ -1,0 +1,8 @@
+array_push
+markup: Hatena
+
+* 例
+
+>|perl|
+push @array, @items;
+||<
