@@ -1,0 +1,20 @@
+*array_sum
+
+**PHP
+
+>|PHP|
+number array_sum ( array $array )
+||<
+
+**Perl
+
+>|Perl|
+my $sum = 0;
+foreach my $n (@array) {
+    $sum += $n;
+}
+
+# forを使いたくないなら
+my $sum = 0;
+$sum += $_ for @array;
+||<
