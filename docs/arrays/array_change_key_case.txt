@@ -3,7 +3,7 @@
 <a href="http://jp.php.net/manual/en/function.array-change-key-case.php">PHP: array_change_key_case - Manual</a>
 
 >|PHP|
-array array_combine  ( array $input , int $case = CASE_LOWER  )
+array array_change_key_case  ( array $input , int $case = CASE_LOWER  )
 ||<
 
 *Perl
