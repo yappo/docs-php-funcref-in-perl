@@ -1,0 +1,20 @@
+*mkdir
+
+**PHP
+
+>|PHP|
+bool mkdir ( string $pathname [, int $mode = 0777 [, bool $recursive = false [, resource $context ]]] )
+||<
+
+**Perl
+
+>|Perl|
+mkdir '/path/to/my/dir', 0700 or die $!;
+
+# 中間ディレクトリが存在しないディレクトリも作りたい場合
+use File::Path;
+
+my $verbose = 1; # true = 1, false = 0
+my $mode = 0644;
+mkpath '/path/to/my/deep/dir', $verbose, $mode or die $!;
+||<
