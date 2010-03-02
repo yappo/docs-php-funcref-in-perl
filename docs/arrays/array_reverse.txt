@@ -9,5 +9,5 @@ array array_reverse ( array $array [, bool $preserve_keys = false ] )
 **Perl
 
 >|Perl|
-
+my @new_array = reverse @array;
 ||<
