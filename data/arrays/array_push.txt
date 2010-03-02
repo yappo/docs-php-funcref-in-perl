@@ -4,5 +4,5 @@ markup: Hatena
 * 例
 
 >|perl|
-push @array, @items;
+push @array, \@items;
 ||<
