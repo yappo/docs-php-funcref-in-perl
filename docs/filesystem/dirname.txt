@@ -1,0 +1,16 @@
+*dirname
+
+**PHP
+
+>|PHP|
+string dirname ( string $path )
+||<
+
+**Perl
+
+>|Perl|
+use File::Basename;
+
+my $path = '/etc/passwd';
+my $dir = dirname $path;  # $dir は '/etc' となります
+||<
