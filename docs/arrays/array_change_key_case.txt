@@ -8,8 +8,6 @@ array array_change_key_case  ( array $input , int $case = CASE_LOWER  )
 
 *Perl
 
-<a href="http://perldoc.perl.org/functions/map.html">map</a>, <a href="http://perldoc.perl.org/functions/uc.html">uc</a>, <a href="http://perldoc.perl.org/functions/lc.html">lc</a>
-
 >|perl|
 # 破壊的に変更する場合
 $_ = uc $_ for @array;
