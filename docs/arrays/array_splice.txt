@@ -9,5 +9,8 @@ array array_splice ( array &$input , int $offset [, int $length = 0 [, mixed $re
 **Perl
 
 >|Perl|
-
+my @spliced = splice(@array, $offset, $length, @list);
+# splice(@array, $offset, $length);
+# splice(@array, $offset); 
+# splice(@array);
 ||<

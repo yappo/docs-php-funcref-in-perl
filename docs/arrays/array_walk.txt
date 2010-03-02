@@ -9,5 +9,13 @@ bool array_walk ( array &$array , callback $funcname [, mixed $userdata ] )
 **Perl
 
 >|Perl|
+# hash
+while (my($key, $value) = each %hash) {
+    ...
+}
 
+# list
+foreach my $value (@list) {
+    ...
+}
 ||<
