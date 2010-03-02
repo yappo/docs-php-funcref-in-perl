@@ -1,3 +1,12 @@
+目的
+----------------
+http://jp2.php.net/manual/en/funcref.php
+PHP: Function Reference - Manual
+の用な体裁でPerlのドキュメントを整備したいと思います。
+
+なんでもPHP -> Perlに移行組とかには需要があるそうです(by junichiroさん)。
+PHPからPerlにくる人にモダンなPerlを知ってもらいまっしょい。
+
 For contributors
 ----------------
 
