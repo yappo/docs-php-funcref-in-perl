@@ -26,3 +26,19 @@ clone:
     のコラボレータに入るか fork してね。forkしたらpull requestくださいな。
 
     git clone from github
+
+** 書く
+
+./docs-template 以下に、PHPの関数のひな形ファイルがあるので、書きたい関数のファイルを
+>||
+  git mv docs-template/url/parse_url.txt docs/url/parse_url.txt
+||<
+等として移動してから
+>||
+  $EDITOR docs/url/parse_url.txt
+  git add docs/url/parse_url.txt
+  git commit
+  git push
+||<
+等としてください。
+内容は、既存の docs 以下のファイルを真似すれば良いと思います。
