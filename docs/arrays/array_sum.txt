@@ -17,4 +17,8 @@ foreach my $n (@array) {
 # forを使いたくないなら
 my $sum = 0;
 $sum += $_ for @array;
+
+# List::Util を使って
+use List::Util qw/ sum /;
+$sum = sum @array;
 ||<
