@@ -1,0 +1,23 @@
+*opendir
+
+**PHP
+
+>|PHP|
+resource opendir ( string $path [, resource $context ] )
+||<
+
+**Perl
+
+>|Perl|
+my $dir = "/usr/bin";
+
+if (-d $dir) {
+    my $dh;
+    if (opendir($dh, $dir)) {
+        while (my $file = readdir( $dh )) {
+            print "filename: $file\n";
+        }
+        closedir($dh);
+    }
+}
+||<
