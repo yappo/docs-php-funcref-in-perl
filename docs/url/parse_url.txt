@@ -1,0 +1,26 @@
+*parse_url
+
+**PHP
+
+>|PHP|
+mixed parse_url ( string $url [, int $component = -1 ] )
+||<
+
+**Perl
+
+>|Perl|
+use URI;
+
+my $parsed = URI->new($url);
+
+$parsed->scheme;
+$parsed->host; # if applicable
+$parsed->port; # if applicable
+$parsed->userinfo;
+$parsed->path;
+$parsed->query;
+$parsed->fragment; 
+
+# and many more...!
+
+||<
