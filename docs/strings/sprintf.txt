@@ -9,5 +9,7 @@ string sprintf ( string $format [, mixed $args [, mixed $... ]] )
 **Perl
 
 >|Perl|
+my $str = printf $format, $arg1, $arg2, $arg3;
 
+my $str = sprintf "%s %d %0.2f", "string", 10, 0.02;
 ||<

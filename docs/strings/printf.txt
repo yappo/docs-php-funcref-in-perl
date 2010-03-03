@@ -1,0 +1,17 @@
+*printf
+
+**PHP
+
+>|PHP|
+int printf ( string $format [, mixed $args [, mixed $... ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+printf $format, $arg1, $arg2, $arg3;
+printf "%s %d %0.2f", "string", 10, 0.02;
+
+printf STDERR "Print %s to STDERR\n", "Hello";
+||<

@@ -9,5 +9,5 @@ string ucfirst ( string $str )
 **Perl
 
 >|Perl|
-
+ucfirst $str;
 ||<
