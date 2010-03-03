@@ -1,0 +1,29 @@
+*file_get_contents
+
+**PHP
+
+>|PHP|
+string file_get_contents ( string $filename [, int $flags = 0 [, resource $context [, int $offset = -1 [, int $maxlen = -1 ]]]] )
+||<
+
+**Perl
+
+>|Perl|
+open my $fh, '<', $filename;
+my $buf = do { local $/; <$fh> };
+||<
+
+>|Perl|
+open my $fh, '<', $filename or die "Could not open file: $!";
+sysread $fh, my $buf, -s $fh;
+||<
+
+>|Perl|
+# どうしても変態的に短く、しかもPHPのfile_get_contentsみたいに
+# ネットワーク越しとかを意識しないでファイルを取得したい場合
+# (あまりオススメはしません）
+
+use IO::All;
+my $buf;
+io("http://not.my.domain.com/foo.txt") > $buf;
+||<
