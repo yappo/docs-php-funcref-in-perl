@@ -1,0 +1,29 @@
+*mysql_connect
+
+**PHP
+
+>|PHP|
+resource mysql_connect ([ string $server = ini_get("mysql.default_host") [, string $username = ini_get("mysql.default_user") [, string $password = ini_get("mysql.default_password") [, bool $new_link = false [, int $client_flags = 0 ]]]]] )
+||<
+
+**Perl
+
+>|Perl|
+use DBI;
+# CPANからDBD::mysqlをインストールしておくこと
+
+my $dbh = DBI->connect('dbi:mysql:dbname=mydbname', 'username', 'password', \%attrs);
+||<
+
+>|Perl|
+# 筆者がよく指定する%attrs
+use DBI;
+
+my $dbh = DBI->connect('dbi:mysql:dbname=mydbname', 'username', 'password',
+    {
+        RaiseError => 1, # エラー時に例外を投げる
+        AutoCommit => 1, # 自動コミット（トランザクションは明示的に）
+        mysql_auto_reconnect => 1,
+    }
+);
+||<

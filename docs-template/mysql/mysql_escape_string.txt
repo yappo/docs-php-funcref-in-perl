@@ -3,6 +3,8 @@
 **PHP
 
 >|PHP|
+# http://jp.php.net/manual/en/function.mysql-escape-string.php
+# DEPRECATED
 string mysql_escape_string ( string $unescaped_string )
 ||<
 
