@@ -9,5 +9,5 @@ int ord ( string $string )
 **Perl
 
 >|Perl|
-
+ord $string;
 ||<
