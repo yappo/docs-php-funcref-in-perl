@@ -6,7 +6,15 @@
 int array_push  ( array &$array  , mixed $var  [, mixed $...  ] )
 ||<
 
+**Perl
+
 >|perl|
-push @array, $item;
-push @array, @items; # 複数の要素を一度にpushできる
+push @array, $value;
+push @array, \@values; # 配列の要素として配列を入れる場合リファレンスを使う
+
+# Perlでは複数の要素を一回のpushで配列に挿入できる
+# push @array, @values;
+
+# これはphpのarray_mergeと似ている
+# array_merge($array, $values);
 ||<
