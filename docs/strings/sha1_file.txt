@@ -1,0 +1,25 @@
+*sha1_file
+
+**PHP
+
+>|PHP|
+string sha1_file ( string $filename [, bool $raw_output = false ] )
+||<
+
+**Perl
+
+>|Perl|
+use Digest::SHA1;
+
+my $filename = "/path/to/file";
+my $fh;
+if (! open($fh, "<", $filename)) {
+    die "Could not open $filename: $!";
+}
+
+my $digest = Digest::SHA1->new();
+$digest->addfile($fh);
+
+print $digest->hexdigest, "\n";
+
+||<

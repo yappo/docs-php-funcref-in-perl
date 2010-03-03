@@ -1,0 +1,25 @@
+*sha1
+
+**PHP
+
+>|PHP|
+string sha1 ( string $str [, bool $raw_output = false ] )
+||<
+
+**Perl
+
+>|Perl|
+use Digest::SHA1 qw(sha1_hex);
+
+my $str = 'apple';
+
+if (sha1_hex($str) eq 'd0be2dc421be4fcd0172e5afceea3970e2f3d940') {
+    print "Would you like a green or red apple?\n";
+}
+||<
+
+>|Perl|
+# for $raw_output
+use Digest::SHA1 qw(sha1);
+sha1("apple");
+||<
