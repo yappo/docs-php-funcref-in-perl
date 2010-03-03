@@ -9,5 +9,7 @@ int crc32 ( string $str )
 **Perl
 
 >|Perl|
+use String::CRC32;
 
+my $crc = crc32($str);
 ||<
