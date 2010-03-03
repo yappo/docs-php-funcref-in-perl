@@ -9,11 +9,6 @@ mixed array_rand ( array $input [, int $num_req = 1 ] )
 **Perl
 
 >|Perl|
-my @array = ( .... );
-my $rand = $array[ rand(@array) ];
-
-my @rand;
-for (1..$n) {
-    push @rand, $array[ rand(@array) ];
-}
+use List::Util qw(shuffle);
+@rand = shuffle @array;
 ||<
