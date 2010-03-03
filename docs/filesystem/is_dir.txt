@@ -1,0 +1,15 @@
+*is_dir
+
+**PHP
+
+>|PHP|
+bool is_dir ( string $filename )
+||<
+
+**Perl
+
+ファイルテスト演算子を使います。
+
+>|perl|
+my $is_dir = -d $filename;
+||<
