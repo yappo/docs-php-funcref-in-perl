@@ -11,4 +11,7 @@ int array_unshift ( array &$array , mixed $var [, mixed $... ] )
 >|Perl|
 unshift @array, $value;
 unshift @array, \@values;
+
+# Perlでは複数の要素を一回のunshiftで配列に挿入できる
+# unshift @array, @values;
 ||<
