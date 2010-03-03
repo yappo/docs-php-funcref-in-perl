@@ -1,0 +1,18 @@
+*chdir
+
+**PHP
+
+>|PHP|
+bool chdir ( string $directory )
+||<
+
+**Perl
+
+>|Perl|
+use Cwd; # (getcwdのため)
+
+print getcwd(), "\n";
+chdir 'public_html';
+print getcwd(), "\n";
+
+||<
