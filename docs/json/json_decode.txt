@@ -9,5 +9,7 @@ mixed json_decode ( string $json [, bool $assoc = false [, int $depth = 512 ]] )
 **Perl
 
 >|Perl|
+use JSON;
 
+my $stuff = decode_json $json;
 ||<
