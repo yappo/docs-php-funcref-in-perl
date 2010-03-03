@@ -9,5 +9,7 @@ string getcwd ( void )
 **Perl
 
 >|Perl|
+use Cwd;
 
+my $dir = getcwd();
 ||<
