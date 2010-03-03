@@ -8,7 +8,7 @@ bool is_executable ( string $filename )
 
 **Perl
 
-ƒtƒ@ƒCƒ‹ƒeƒXƒg‰‰ŽZŽq‚ðŽg‚¢‚Ü‚·B
+ãƒ•ã‚¡ã‚¤ãƒ«ãƒ†ã‚¹ãƒˆæ¼”ç®—å­ã‚’ä½¿ã„ã¾ã™ã€‚
 
 >|Perl|
 my $is_executable = -x $filename;
