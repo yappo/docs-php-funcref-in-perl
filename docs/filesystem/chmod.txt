@@ -1,9 +1,15 @@
-chmod
-markup: Hatena
+* chmod
 
-* 例
+**PHP
+
+>|PHP|
+bool chmod  ( string $filename  , int $mode  )
+||<
+
+**Perl
 
 >|perl|
 chmod 0644, $filename;
 chmod 0644, $filename1, $filename2;
 ||<
+

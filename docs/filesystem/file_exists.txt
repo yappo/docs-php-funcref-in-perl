@@ -1,0 +1,15 @@
+*file_exists
+
+**PHP
+
+>|PHP|
+bool file_exists ( string $filename )
+||<
+
+**Perl
+
+ファイルテスト演算子を使います。
+
+>|Perl|
+my $is_file_exeists = -e $filename;
+||<
