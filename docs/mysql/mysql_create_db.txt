@@ -9,5 +9,7 @@ bool mysql_create_db ( string $database_name [, resource $link_identifier ] )
 **Perl
 
 >|Perl|
-
+use DBI;
+my $dbh = DBI->connect($dsn, $username, $passoword, \%attrs);
+$dbh->do("CREATE DATABASE $database_name");
 ||<
