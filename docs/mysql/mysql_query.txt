@@ -1,0 +1,18 @@
+*mysql_query
+
+**PHP
+
+>|PHP|
+resource mysql_query ( string $query [, resource $link_identifier ] )
+||<
+
+**Perl
+
+>|Perl|
+use DBI;
+my $dbh = DBI->connect($dsn, $username, $password, \%attrs);
+
+my $sth = $dbh->execute( "SELECT name FROM work.employee" );
+
+# do something with $sth
+||<
