@@ -9,5 +9,11 @@ bool link ( string $from_path , string $to_path )
 **Perl
 
 >|Perl|
+link $from_path, $to_path;
+||<
 
+>|Perl|
+use File::Copy;
+
+copy($from_path, $to_path);
 ||<
