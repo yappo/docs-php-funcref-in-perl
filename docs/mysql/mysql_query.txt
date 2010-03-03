@@ -12,7 +12,8 @@ resource mysql_query ( string $query [, resource $link_identifier ] )
 use DBI;
 my $dbh = DBI->connect($dsn, $username, $password, \%attrs);
 
-my $sth = $dbh->execute( "SELECT name FROM work.employee" );
+my $sth = $dbh->prepare( "SELECT name FROM work.employee" );
+$sth->execute();
 
 # do something with $sth
 ||<
