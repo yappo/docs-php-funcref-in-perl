@@ -9,7 +9,7 @@ string json_encode ( mixed $value [, int $options = 0 ] )
 **Perl
 
 >|Perl|
-use JSON::XS;
+use JSON;
 
 my $json = encode_json $stuff;
 ||<
