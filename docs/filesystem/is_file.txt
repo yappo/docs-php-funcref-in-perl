@@ -8,6 +8,8 @@ bool is_file ( string $filename )
 
 **Perl
 
->|Perl|
+ファイルテスト演算子を使います。
 
+>|Perl|
+my $is_file = -f $filename;
 ||<
