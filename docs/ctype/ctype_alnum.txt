@@ -1,0 +1,17 @@
+*ctype_alnum
+
+**PHP
+
+>|PHP|
+bool ctype_alnum ( string $text )
+||<
+
+**Perl
+
+正規表現を使います。なお，$textがユニコード文字列だと結果が変わります。
+
+>|Perl|
+my $ok = ($text =~ /\A [[:alnum:]]+ \z/xms);
+
+"<? chr(198) ?>cknowledge" =~ /\A [[:alnum:]]+ \z/xms; # => TRUE
+||<
