@@ -1,0 +1,53 @@
+*mysql_fetch_array
+
+**PHP
+
+>|PHP|
+array mysql_fetch_array ( resource $result [, int $result_type = MYSQL_BOTH ] )
+||<
+
+**Perl
+
+>|Perl|
+use DBI;
+my $dbh = DBI->connect($dsn, $username, $password, \%attrs);
+
+my $sth = $dbh->prepare( "SELECT id, name FROM mytable" );
+$sth->execute();
+while( my @row = $sth->fetchrow_array ) {
+    printf "ID %s  Name: %s\n", $row[0], $row[1];
+}
+$sth->finish;
+$dbh->disconnect();
+||<
+
+>|Perl|
+# A bit faster
+use DBI;
+my $dbh = DBI->connect($dsn, $username, $password, \%attrs);
+
+my $sth = $dbh->prepare( "SELECT id, name FROM mytable" );
+$sth->execute();
+while( my $row = $sth->fetchrow_arrayref ) {
+    printf "ID %s  Name: %s\n", $row->[0], $row->[1];
+}
+$sth->finish;
+$dbh->disconnect();
+||<
+
+>|Perl|
+# Event faster
+use DBI;
+my $dbh = DBI->connect($dsn, $username, $password, \%attrs);
+
+my ($id, $name);
+my $sth = $dbh->execute( "SELECT id, name FROM mytable" );
+$sth->execute();
+$sth->bind_columns( \( $id, $name ) );
+while( $sth->fetchrow_arrayref ) {
+    printf "ID %s  Name: %s\n", $id, $name;
+}
+$sth->finish;
+$dbh->disconnect();
+||<
+
