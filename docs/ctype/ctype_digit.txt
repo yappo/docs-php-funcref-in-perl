@@ -1,0 +1,22 @@
+*ctype_digit
+
+**PHP
+
+>|PHP|
+bool ctype_digit ( string $text )
+||<
+
+**Perl
+
+正規表現を使います。なお，$textがユニコード文字列だと結果が変わります。
+
+>|Perl|
+my $ok = ($text =~ /\A [[:digit:]]+ \z/xms);
+
+use utf8;
+"１０" =~ /\A [[:digit:]]+ \z/xms; # => TRUE
+
+use bytes;;
+"１０" =~ /\A [[:digit:]]+ \z/xms; # => FALSE
+||<
+
