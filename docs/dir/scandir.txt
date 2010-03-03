@@ -1,0 +1,19 @@
+*scandir
+
+**PHP
+
+>|PHP|
+array scandir ( string $directory [, int $sorting_order = 0 [, resource $context ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+# ファイルを探す場合
+# (1) File::Find::Rule (CPANモジュール)
+use File::Find::Rule;
+
+my @files = File::Find::Rule->file->in($directory);
+
+||<
