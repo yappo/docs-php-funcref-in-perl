@@ -1,0 +1,31 @@
+*mysql_set_charset
+
+**PHP
+
+>|PHP|
+bool mysql_set_charset ( string $charset [, resource $link_identifier ] )
+||<
+
+**Perl
+
+接続後に変更できる完全な代替はDBD::mysqlには今のところないので下記のように接続時に設定する。
+>|Perl|
+# /etc/mysql/my.cnfの[client]セクションにdefault-character-set = 文字コードを書いておく
+use DBI;
+my $dbh = DBI->connect(
+    'DBI:mysql:database=mydbname;mysql_read_default_file=/etc/mysql/my.cnf;mysql_read_default_group=client',
+    qw/id password/,
+);
+||<
+
+utf8の場合のみ以下でもok
+>|Perl|
+use DBI;
+my $dbh = DBI->connect(
+    'DBI:mysql:database=mydbname',
+    qw/id password/,
+    {
+            mysql_enable_utf8 => 1
+    }
+);
+||<
