@@ -14,3 +14,11 @@ use HTML::Entities;
 my $a = "<North & South are Up Side Down>";
 print encode_entities($a); # &lt;North &amp; South are Up Side Down&gt;
 ||<
+
+>|Perl|
+# 日本語が入るとエスケープされてしまうので第2引数も指定する
+use HTML::Entities;
+
+my $a = "<日本語日本語うっほっほ>&<North South are Up Side Down>";
+print encode_entities($a, "<>&'"), "\n";
+||<
