@@ -1,0 +1,25 @@
+*md5_file
+
+**PHP
+
+>|PHP|
+string md5_file ( string $filename [, bool $raw_output = false ] )
+||<
+
+**Perl
+
+>|Perl|
+use Digest::MD5;
+
+my $filename = "/path/to/file";
+my $fh;
+if (! open($fh, "<", $filename)) {
+    die "Could not open $filename: $!";
+}
+
+my $digest = Digest::MD5->new();
+$digest->addfile($fh);
+
+print $digest->hexdigest, "\n";
+
+||<
