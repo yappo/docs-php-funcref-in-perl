@@ -1,0 +1,22 @@
+*iconv_mime_encode
+
+**PHP
+
+>|PHP|
+string iconv_mime_encode ( string $field_name , string $field_value [, array $preferences = NULL ] )
+||<
+
+**Perl
+
+>|Perl|
+use Encode qw(encode decode);
+
+my $str = ""Prüfung Prüfung";
+    # <- Perl内にリテラルで書くとUTF-8になってしまう
+    # のだが、外部から読み込んだ場合はISO-8859-1
+    # 等になっているはず。下記コードは＊もし＊ $strが
+    # 外部からISO-8859-1で読み込まれた場合にどうするかというコード
+
+my $encoded_q = "$field_name: " . encode( "MIME-Q", decode( "ISO-8859-1", $str ) );
+my $encoded_b = "$field_name: " . encode( "MIME-B", decode( "ISO-8859-1", $str ) );
+||<
