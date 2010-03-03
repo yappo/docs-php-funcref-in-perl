@@ -9,5 +9,5 @@ array localtime ([ int $timestamp = time() [, bool $is_associative = false ]] )
 **Perl
 
 >|Perl|
-
+my @localtime = localtime();
 ||<

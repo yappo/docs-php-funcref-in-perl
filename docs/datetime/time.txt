@@ -1,0 +1,21 @@
+*time
+
+**PHP
+
+>|PHP|
+int time ( void )
+||<
+
+**Perl
+
+>|Perl|
+use POSIX qw(strftime); # for strftime
+
+my $now = time();
+print 'Now:       '. strftime('%Y-%m-%d', localtime($now)) . "\n";
+
+my $next_week = time() + (7 * 24 * 60 * 60);
+               // 7 days; 24 hours; 60 mins; 60secs
+print 'Next Week: '. strftime('%Y-%m-%d', localtime($next_week)) ."\n";
+
+||<
