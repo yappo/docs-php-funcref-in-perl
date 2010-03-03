@@ -17,3 +17,15 @@ $sth->execute();
 
 # do something with $sth
 ||<
+
+>|Perl|
+# プレースホルダーを使う場合
+use DBI;
+
+my $dbh = DBI->connect($dsn, $username, $password, \%attrs);
+
+my $sth = $dbh->prepare( "SELECT name FROM work.employee WHERE id = ? AND birth_year = ?" );
+
+$sth->execute("10A5", 1977);
+
+||<

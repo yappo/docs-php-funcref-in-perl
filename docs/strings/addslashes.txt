@@ -13,5 +13,5 @@ string addslashes ( string $str )
 $string =~ s/(['"\\\0])/$1\\/g;
 
 # もしデータベースに突っ込む前にこれを使おうと思っているのなら、それは
-# 止めて、プレースホルダーを使うようにしてください
+# 止めて、<a href="http://wikihub.org/wiki/php-funcref-in-perl/mysql/mysql_query">プレースホルダー</a>を使うようにしてください
 ||<
