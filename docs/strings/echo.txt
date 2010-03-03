@@ -1,0 +1,22 @@
+*echo
+
+**PHP
+
+>|PHP|
+void echo ( string $arg1 [, string $... ] )
+||<
+
+**Perl
+
+>|Perl|
+print $arg1, $arg2, $arg3, "\n";
+
+print STDERR $string, "\n";
+print STDOUT "This is an interpolated $string\n";
+||<
+
+>|Perl|
+# Perl 5.10 以上
+use feature 'say';
+say $arg1, $arg2, $arg3;
+||<
