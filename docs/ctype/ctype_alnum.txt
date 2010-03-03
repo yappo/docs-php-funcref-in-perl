@@ -13,5 +13,5 @@ bool ctype_alnum ( string $text )
 >|Perl|
 my $ok = ($text =~ /\A [[:alnum:]]+ \z/xms);
 
-"<? chr(198) ?>cknowledge" =~ /\A [[:alnum:]]+ \z/xms; # => TRUE
+"Æcknowledge" =~ /\A [[:alnum:]]+ \z/xms; # => TRUE
 ||<
