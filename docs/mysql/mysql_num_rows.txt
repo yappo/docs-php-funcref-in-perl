@@ -9,5 +9,5 @@ int mysql_num_rows ( resource $result )
 **Perl
 
 >|Perl|
-
+my $num_rows = $sth->execute();
 ||<
