@@ -1,0 +1,29 @@
+*http_get
+
+**PHP
+
+>|PHP|
+string http_get ( string $url [, array $options [, array &$info ]] )
+||<
+
+**Perl
+
+LWPはCPAN経由でインストールしておきます。
+
+>|Perl|
+use LWP::UserAgent;
+
+my $ua = LWP::UserAgent->new();
+my $res = $ua->get('http://example.com');
+# $resはHTTP::Responseオブジェクト
+
+# 要素にアクセスする
+print $res->is_success, "\n";    # 成功すれば真
+print $res->code, "\n";          # e.g. 200
+print $res->status_line, "\n";   # e.g. "200 OK"
+print $res->last_modified, "\n"; # e.g. 1132061050
+print $res->content, "\n";       # e.g. "<HTML><HEAD>..."
+
+# HEAD+BODYを一つの文字列にして返す。おもにデバッグ用
+print $res->as_string;
+||<
