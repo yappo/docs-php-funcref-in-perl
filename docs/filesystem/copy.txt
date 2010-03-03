@@ -6,8 +6,16 @@
 bool copy ( string $source , string $dest [, resource $context ] )
 ||<
 
+
 **Perl
 
 >|Perl|
-
+link $source, $to_path;
 ||<
+
+>|Perl|
+use File::Copy;
+
+copy($source, $to_path);
+||<
+

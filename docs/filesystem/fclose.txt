@@ -9,5 +9,5 @@ bool fclose ( resource $handle )
 **Perl
 
 >|Perl|
-
+close $handle;
 ||<
