@@ -9,5 +9,5 @@ bool chroot ( string $directory )
 **Perl
 
 >|Perl|
-
+chroot "/";
 ||<
