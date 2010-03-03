@@ -1,0 +1,17 @@
+*addslashes
+
+**PHP
+
+>|PHP|
+string addslashes ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+# addslashesは', ", \, NULLバイトの前にバックスラッシュを入れる
+$string =~ s/(['"\\\0])/\\/g;
+
+# もしデータベースに突っ込む前にこれを使おうと思っているのなら、それは
+# 止めて、プレースホルダーを使うようにしてください
+||<
