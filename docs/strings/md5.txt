@@ -15,7 +15,9 @@ my $str = "apple";
 if (md5_hex($str) eq '1f3870be274f6c49b3e31a0c6728957f') {
     print "Would you like a green or red apple?\n";
 }
+||<
 
+>|Perl|
 # for $raw_output
 use Digest::MD5 qw(md5);
 my $binary = md5("apple");
