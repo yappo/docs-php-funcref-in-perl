@@ -1,0 +1,18 @@
+*touch
+
+**PHP
+
+>|PHP|
+bool touch ( string $filename [, int $time = time() [, int $atime ]] )
+||<
+
+**Perl
+
+>|Perl|
+utime $time, $atime, $filename;
+||<
+
+>|Perl|
+# Perl 5.7.2 以降なら、以下で$time/$atime両方を現在時刻に合わせる
+utime undef, undef, $filename;
+||<
