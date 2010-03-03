@@ -9,5 +9,11 @@ string iconv ( string $in_charset , string $out_charset , string $str )
 **Perl
 
 >|Perl|
+use Encode qw(from_to);
 
+from_to( $str, $in_charset, $out_charset );
+from_to( $str, "cp1250", "iso-8859-1");
 ||<
+
+
+
