@@ -19,8 +19,15 @@ sysread $fh, my $buf, -s $fh;
 ||<
 
 >|Perl|
-# どうしても変態的に短く、しかもPHPのfile_get_contentsみたいに
-# ネットワーク越しとかを意識しないでファイルを取得したい場合
+# HTTP越しにもってくる場合
+use LWP::Simple qw(get);
+
+my $buf = get("http://not.my.domain.com/foo.txt");
+||<
+
+>|Perl|
+# どうしてもPHPのfile_get_contentsのようにネットワーク越し
+# にファイルを取得しているのかを意識しないでファイルを取得したい場合
 # (あまりオススメはしません）
 
 use IO::All;
