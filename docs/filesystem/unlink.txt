@@ -1,0 +1,22 @@
+*unlink
+
+**PHP
+
+>|PHP|
+bool unlink ( string $filename [, resource $context ] )
+||<
+
+**Perl
+
+>|Perl|
+# デフォルトは例外を投げない
+my $ok = unlink($filename);
+
+# 失敗したら例外を投げてほしいとき
+use Fatal qw(unlink);
+unlink($filename);
+
+# ファイル名はいくらでも渡せる
+unlink($foo, $bar, $baz);
+||<
+
