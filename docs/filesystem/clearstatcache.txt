@@ -1,0 +1,29 @@
+*clearstatcache
+
+**PHP
+
+>|PHP|
+void clearstatcache ([ bool $clear_realpath_cache = false [, string $filename ]] )
+||<
+
+**Perl
+
+Perlには存在しない。
+
+    http://jp.php.net/manual/en/function.clearstatcache.php
+
+clearstatcacheのマニュアルによると、PHPのstat()/lstat() はその結果を
+キャッシュし、例えば同じファイルに対して複数回stat() を繰り返すと
+前の結果を使うと書いてある。だが、Perlではstat()を複数回繰り返せば、
+毎回新しい情報が得られる。
+
+複数回statすることによってパフォーマンスに影響がでるのを危惧するので
+あれば、特殊変数"_"を使うと良い
+
+>|Perl|
+    stat("somefile.txt");
+
+    ....
+
+    stat(_);  # キャッシュされた情報を使える
+||<
