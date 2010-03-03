@@ -1,0 +1,33 @@
+*rewinddir
+
+**PHP
+
+>|PHP|
+void rewinddir ([ resource $dir_handle ] )
+||<
+
+**Perl
+
+>|Perl|
+
+my $dir = "/usr/bin";
+
+if (-d $dir) {
+    my $dh;
+    if (opendir($dh, $dir)) {
+        while (my $file = readdir( $dh )) {
+            print "filename: $file\n";
+        }
+
+        # もう一度！
+        rewinddir($dh);
+        while (my $file = readdir( $dh )) {
+            print "filename: $file\n";
+        }
+
+        closedir($dh);
+    }
+
+}
+
+||<
