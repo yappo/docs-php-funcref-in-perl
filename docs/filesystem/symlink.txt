@@ -9,5 +9,5 @@ bool symlink ( string $target , string $link )
 **Perl
 
 >|Perl|
-
+symlink $target, $link;
 ||<
