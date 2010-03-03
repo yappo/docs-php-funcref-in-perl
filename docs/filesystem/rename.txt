@@ -9,5 +9,10 @@ bool rename ( string $oldname , string $newname [, resource $context ] )
 **Perl
 
 >|Perl|
+my $ok = rename($oldname, $newname);
 
+# Ž¸”sŽž‚É—áŠO‚ð“Š‚°‚Ä‚Ù‚µ‚¢‚Æ‚«
+use Fatal qw(rename);
+rename($oldname, $newname);
 ||<
+
