@@ -10,5 +10,5 @@ int array_unshift ( array &$array , mixed $var [, mixed $... ] )
 
 >|Perl|
 unshift @array, $value;
-unshift @array, @values;
+unshift @array, \@values;
 ||<
