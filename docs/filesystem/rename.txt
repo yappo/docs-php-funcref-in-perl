@@ -11,7 +11,7 @@ bool rename ( string $oldname , string $newname [, resource $context ] )
 >|Perl|
 my $ok = rename($oldname, $newname);
 
-# ¸”s‚É—áŠO‚ğ“Š‚°‚Ä‚Ù‚µ‚¢‚Æ‚«
+# å¤±æ•—æ™‚ã«ä¾‹å¤–ã‚’æŠ•ã’ã¦ã»ã—ã„ã¨ã
 use Fatal qw(rename);
 rename($oldname, $newname);
 ||<
