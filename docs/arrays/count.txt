@@ -9,5 +9,5 @@ int count ( mixed $var [, int $mode = COUNT_NORMAL ] )
 **Perl
 
 >|Perl|
-
+my $size = scalar @list;
 ||<
