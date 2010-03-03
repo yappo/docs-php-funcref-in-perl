@@ -1,8 +1,12 @@
-array_push
-markup: Hatena
+*array_push
 
-* 例
+**PHP
+
+>|PHP|
+int array_push  ( array &$array  , mixed $var  [, mixed $...  ] )
+||<
 
 >|perl|
-push @array, \@items;
+push @array, $item;
+push @array, @items; # 複数の要素を一度にpushできる
 ||<
