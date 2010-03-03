@@ -20,3 +20,4 @@ unlink($filename);
 unlink($foo, $bar, $baz);
 ||<
 
+<?#TODO: resource contextについて未説明 ?>
