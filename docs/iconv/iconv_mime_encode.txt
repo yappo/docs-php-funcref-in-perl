@@ -11,7 +11,7 @@ string iconv_mime_encode ( string $field_name , string $field_value [, array $pr
 >|Perl|
 use Encode qw(encode decode);
 
-my $str = ""Prüfung Prüfung";
+my $str = "Prüfung Prüfung";
     # <- Perl内にリテラルで書くとUTF-8になってしまう
     # のだが、外部から読み込んだ場合はISO-8859-1
     # 等になっているはず。下記コードは＊もし＊ $strが
