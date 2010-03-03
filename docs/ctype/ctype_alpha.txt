@@ -1,0 +1,17 @@
+*ctype_alpha
+
+**PHP
+
+>|PHP|
+bool ctype_alpha ( string $text )
+||<
+
+**Perl
+
+正規表現を使います。なお，$textがユニコード文字列だと結果が変わります。
+
+>|Perl|
+my $ok = ($text =~ /\A [[:alpha:]]+ \z/xms);
+
+"Æcknowledge" =~ /\A [[:alpha:]]+ \z/xms; # => TRUE
+||<

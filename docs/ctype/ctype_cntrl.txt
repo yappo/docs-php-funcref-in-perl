@@ -1,0 +1,16 @@
+*ctype_cntrl
+
+**PHP
+
+>|PHP|
+bool ctype_cntrl ( string $text )
+||<
+
+**Perl
+
+正規表現を使います。
+
+>|Perl|
+my $ok = ($text =~ /\A [[:cntrl:]]+ \z/xms);
+||<
+
