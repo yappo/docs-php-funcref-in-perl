@@ -10,7 +10,9 @@ bool mkdir ( string $pathname [, int $mode = 0777 [, bool $recursive = false [, 
 
 >|Perl|
 mkdir '/path/to/my/dir', 0700 or die $!;
+||<
 
+>|Perl|
 # 中間ディレクトリが存在しないディレクトリも作りたい場合
 use File::Path;
 
