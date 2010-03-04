@@ -8,7 +8,7 @@ string mb_encode_mimeheader ( string $str [, string $charset [, string $transfer
 
 **Perl
 
-残念ながらPerlにはcharsetを自由に選択できる勘弁なMIMEエンコードモジュールは無いのでEncodeに標準で付属しているUTF-8とISO-2022-JPの例を紹介する。
+残念ながらPerlにはcharsetを自由に選択できるMIMEエンコードモジュールは無いのでEncodeに標準で付属しているUTF-8とISO-2022-JPの例を紹介する。
 >|Perl|
 use Encode qw(encode decode);
 
