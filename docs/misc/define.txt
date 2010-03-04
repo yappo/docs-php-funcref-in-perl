@@ -1,0 +1,18 @@
+*define
+
+**PHP
+
+>|PHP|
+bool define ( string $name , mixed $value [, bool $case_insensitive = false ] )
+||<
+
+**Perl
+
+>|Perl|
+use Readonly;
+Readonly $NAME => 'value';
+||<
+
+>|Perl|
+use contant NAME => 'value';
+||<
