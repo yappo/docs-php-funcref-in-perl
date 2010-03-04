@@ -1,0 +1,57 @@
+*mb_convert_kana
+
+**PHP
+
+>|PHP|
+string mb_convert_kana ( string $str [, string $option = "KV" [, string $encoding ]] )
+||<
+
+**Perl
+
+>|Perl|
+
+use utf8;
+use Lingua::JA::Regular::Unicode;
+
+my $str = "Ａｚ０９　あんガ";
+
+# option = r
+$str =~ tr/Ａ-Zａ-ｚ/a-zA-Z/;
+
+# option = R
+$str =~ tr/a-zA-Z/Ａ-Zａ-ｚ/;
+
+# option = n
+$str =~ tr/０-９/0-9/;
+
+# option = N
+$str =~ tr/0-9/０-９/;
+
+# option = a
+$str = alnum_z2h($str);
+
+# option = A
+$str = alnum_h2z($str);
+
+# option = s
+$str = space_z2h($str);
+
+# option = S
+$str = space_h2z($str);
+
+# option = k
+$str = katakana_z2h($str);
+
+# option = KV
+$str = katakana_h2z($str);
+
+# option = h
+$str = katakana_z2h(hiragana2katakana($str));
+
+# option = Hc
+$str = katakana2hiragana($str);
+
+# option = C
+$str = hiragana2katakana($str);
+
+||<
