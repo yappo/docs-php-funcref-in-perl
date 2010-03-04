@@ -1,0 +1,18 @@
+*mb_convert_case
+
+**PHP
+
+>|PHP|
+string mb_convert_case ( string $str , int $mode = MB_CASE_UPPER [, string $encoding = mb_internal_encoding() ] )
+||<
+
+**Perl
+>|Perl|
+my $lower = lc $unicode;
+my $upper = uc $unicode;
+||<
+
+>|Perl|
+# 大文字と小文字のマッピングが一対一ではない場合は自分で定義する必要がある
+# 詳しくは `perldoc perlunicode` の"User-Defined Case Mappings"項を参照の事
+||<
