@@ -1,0 +1,24 @@
+*mb_check_encoding
+
+**PHP
+
+>|PHP|
+bool mb_check_encoding ([ string $var = NULL [, string $encoding = mb_internal_encoding() ]] )
+||<
+
+**Perl
+
+>|Perl|
+use Encode qw(decode FB_CROAK);
+
+eval {
+    # $strに$encodingに属さないコードポイントがあれば例外を投げる
+    my $unicode = decode( $encoding, $str, FB_CROAK );
+};
+if($@) {
+    # ここに来たらエラー
+}
+||<
+
+[[http://jp.php.net/manual/en/function.mb-check-encoding.php]] によれば mb_check_encodingは "Invalid Encoding Attack"を避けるために使うとあるが、PerlのEncode.pmは第3引数を使わないデフォルトのencode/decodeを使うと理解できないコードポイントは自動的に安全な文字に置き換えられます。
+
