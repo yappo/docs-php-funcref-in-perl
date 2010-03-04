@@ -8,15 +8,17 @@ string mb_encode_mimeheader ( string $str [, string $charset [, string $transfer
 
 **Perl
 
+残念ながらPerlにはcharsetを自由に選択できる勘弁なMIMEエンコードモジュールは無いのでEncodeに標準で付属しているUTF-8とISO-2022-JPの例を紹介する。
 >|Perl|
 use Encode qw(encode decode);
 
-my $str = "Prüfung Prüfung";
-    # <- Perl内にリテラルで書くとUTF-8になってしまう
-    # のだが、外部から読み込んだ場合はISO-8859-1
-    # 等になっているはず。下記コードは＊もし＊ $strが
-    # 外部からISO-8859-1で読み込まれた場合にどうするかというコード
+my $str = decode('utf-8', 'めーる');
+  # use utf8;をしていればdecodeは不要
 
-my $encoded_q = "$field_name: " . encode( "MIME-Q", decode( "ISO-8859-1", $str ) );
-my $encoded_b = "$field_name: " . encode( "MIME-B", decode( "ISO-8859-1", $str ) );
+# UTF-8をベースにMIMEエンコード
+my $encoded_q = "Subject:\n " . encode( "MIME-Q", $str );
+my $encoded_b = "Subject:\n " . encode( "MIME-B", $str );
+
+# ISO-2022-JPをベースにMIMEエンコード(Bエンコード)
+my $encoded_b_jis = "Subject:\n " . encode( "MIME-Header-ISO_2022_JP", $str );
 ||<
