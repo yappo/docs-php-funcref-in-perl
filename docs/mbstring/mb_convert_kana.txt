@@ -16,10 +16,10 @@ use Lingua::JA::Regular::Unicode;
 my $str = "Ａｚ０９　あんガ";
 
 # option = r
-$str =~ tr/Ａ-Zａ-ｚ/a-zA-Z/;
+$str =~ tr/Ａ-Zａ-ｚ/A-Za-z/;
 
 # option = R
-$str =~ tr/a-zA-Z/Ａ-Zａ-ｚ/;
+$str =~ tr/A-Za-z/Ａ-Zａ-ｚ/;
 
 # option = n
 $str =~ tr/０-９/0-9/;
