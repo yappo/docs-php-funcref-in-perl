@@ -1,0 +1,31 @@
+*mb_convert_encoding
+
+**PHP
+
+>|PHP|
+string mb_convert_encoding ( string $str , string $to_encoding [, mixed $from_encoding ] )
+||<
+
+**Perl
+
+>|Perl|
+use Encode qw(from_to);
+
+# $strを書き換えます
+from_to( $str, $from_encoding, $to_encoding );
+||<
+
+Perlでは「外から来たデータをdecode」「外に出す前にencode」という作業を行うのがベストプラクティスになっています。
+
+>|Perl|
+use CGI;
+use Encode qw(encode decode);
+
+my $q = CGI->new;
+
+my $unicode = decode( "euc-jp", $q->param('message') );
+
+# $unicode状態で色々操作・・・
+
+print encode("euc-jp", $unicode);
+||<
