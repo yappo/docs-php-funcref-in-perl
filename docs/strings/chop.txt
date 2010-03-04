@@ -1,8 +1,14 @@
 chop
 markup: Hatena
 
-* 例
+*PHP
+
+>|PHP|
+chop($string[, $charlist]);
+||>
+
+* Perl
 
 >|perl|
-chop $strings;
+$string =~ s/\s+$//;
 ||<
