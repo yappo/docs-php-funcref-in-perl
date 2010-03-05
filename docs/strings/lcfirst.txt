@@ -9,5 +9,5 @@ string lcfirst ( string $str )
 **Perl
 
 >|Perl|
-
+lcfirst( $str );
 ||<
