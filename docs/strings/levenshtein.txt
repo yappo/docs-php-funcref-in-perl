@@ -1,0 +1,23 @@
+*levenshtein
+
+**PHP
+
+>|PHP|
+int levenshtein ( string $str1 , string $str2 )
+int levenshtein ( string $str1 , string $str2 , int $cost_ins  , int $cost_rep  , int $cost_del  )
+||<
+
+**Perl
+
+>|Perl|
+# Text::LevenshteinはCPANからインストール
+# Text::LevenshteinXSもある
+use Text::Levenshtein qw(fastdistance);
+
+print fastdistance( $str1, $str2 );
+
+# Text::BrewはCPANからインストール
+use Text::Brew qw(distance);
+
+print distance( $str1, $str2, {-cost=>[0, $cost_ins, $cost_del, $cost_rep], -output=>'distance'});
+||<
