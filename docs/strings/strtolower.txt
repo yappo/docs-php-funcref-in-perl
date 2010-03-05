@@ -9,5 +9,5 @@ string strtolower ( string $str )
 **Perl
 
 >|Perl|
-
+lc( $str );
 ||<
