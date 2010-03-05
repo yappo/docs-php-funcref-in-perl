@@ -9,5 +9,5 @@ int strlen ( string $string )
 **Perl
 
 >|Perl|
-
+length( $string );
 ||<
