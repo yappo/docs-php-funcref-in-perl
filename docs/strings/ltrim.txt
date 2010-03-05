@@ -11,6 +11,6 @@ string ltrim ( string $str [, string $charlist ] )
 >|Perl|
 $str =~ s/^\s+//;
 
-# $charlist = 'hoge';
-$str =~ s/^[hoge]+//;
+# $charlist = 'foobar'
+$str =~ s/^[fobar]+//;
 ||<

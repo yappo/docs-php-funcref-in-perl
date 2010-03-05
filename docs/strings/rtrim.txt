@@ -10,4 +10,7 @@ string rtrim ( string $str [, string $charlist ] )
 
 >|Perl|
 $str =~ s/\s+$//;
+
+# $charlist = 'foobar'
+$str =~ s/[fobar]+$//;
 ||<
