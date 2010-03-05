@@ -9,5 +9,5 @@ string rtrim ( string $str [, string $charlist ] )
 **Perl
 
 >|Perl|
-
+$str =~ s/\s+$//;
 ||<
