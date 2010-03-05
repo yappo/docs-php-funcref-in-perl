@@ -1,0 +1,16 @@
+*ltrim
+
+**PHP
+
+>|PHP|
+string ltrim ( string $str [, string $charlist ] )
+||<
+
+**Perl
+
+>|Perl|
+$str =~ s/^\s+//;
+
+# $charlist = 'hoge';
+$str =~ s/^[hoge]+//;
+||<
