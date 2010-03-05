@@ -1,0 +1,13 @@
+*strtoupper
+
+**PHP
+
+>|PHP|
+string strtoupper ( string $string )
+||<
+
+**Perl
+
+>|Perl|
+uc( $string );
+||<
