@@ -22,7 +22,7 @@ from_to は $str 自体を変更してしまう（破壊的）
 >|Perl|
 use Encode qw(encode decode);
 
-my $cp932 = encode( 'cp932', decode( 'euc-jp', $euc-jp ) );
+my $cp932 = encode( 'cp932', decode( 'euc-jp', $str ) );
 ||<
 
 
