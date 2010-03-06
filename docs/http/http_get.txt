@@ -11,6 +11,11 @@ string http_get ( string $url [, array $options [, array &$info ]] )
 LWPはCPAN経由でインストールしておきます。
 
 >|Perl|
+use LWP::Simple qw(get);
+
+my $content = get('http://example.com');
+
+# もっといろいろやりたい場合
 use LWP::UserAgent;
 
 my $ua = LWP::UserAgent->new();
