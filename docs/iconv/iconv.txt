@@ -13,10 +13,13 @@ use Encode qw(from_to);
 
 from_to( $str, $in_charset, $out_charset );
 from_to( $str, "cp1250", "iso-8859-1");
+||<
 
-# from_to は $str 自体を変更してしまう（破壊的）
-# さらに、関数の返り値は変換したバイト数となる
-# 以下は $str を変更せずに変換した文字列を返す例
+from_to は $str 自体を変更してしまう（破壊的）
+さらに、関数の返り値は変換したバイト数となる
+以下は $str を変更せずに変換した文字列を返す例
+
+>|Perl|
 use Encode qw(encode decode);
 
 my $cp932 = encode( 'cp932', decode( 'euc-jp', $euc-jp ) );

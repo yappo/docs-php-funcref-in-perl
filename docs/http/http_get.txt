@@ -14,8 +14,11 @@ LWPはCPAN経由でインストールしておきます。
 use LWP::Simple qw(get);
 
 my $content = get('http://example.com');
+||<
 
-# もっといろいろやりたい場合
+もっといろいろやりたい場合
+
+>|Perl|
 use LWP::UserAgent;
 
 my $ua = LWP::UserAgent->new();
