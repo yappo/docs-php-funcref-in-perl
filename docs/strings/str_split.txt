@@ -12,7 +12,7 @@ array str_split ( string $string [, int $split_length = 1 ] )
 # $split_lengthが1の場合
 my @array = split //, $string;
 
-# $split_lengthが2以上の定数の場合
+# $split_lengthが2の定数の場合
 my @array = unpack('(a2)*', $string);
 
 # $split_lengthが変数の場合。ダブルクォーテーションで変数展開する
