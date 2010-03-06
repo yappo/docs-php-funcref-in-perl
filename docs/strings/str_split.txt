@@ -15,6 +15,6 @@ my @array = split //, $string;
 # $split_lengthが2以上の定数の場合
 my @array = unpack('(a2)*', $string);
 
-# $split_lengthが変数の場合
-my @array = unpack('(a$split_length)*', $string);
+# $split_lengthが変数の場合。ダブルクォーテーションで変数展開する
+my @array = unpack("(a$split_length)*", $string);
 ||<
