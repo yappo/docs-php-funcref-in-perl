@@ -1,0 +1,22 @@
+*str_rot13
+
+**PHP
+
+>|PHP|
+string str_rot13 ( string $str )
+||<
+
+**Perl
+
+>|Perl|
+# $strをそのまま書き換える場合
+$str =~ tr/a-zA-Z/n-za-mN-ZA-M/;
+
+# $strを破壊しない場合
+# CPANモジュールのCrypt::Rot13をインストール
+use Crypt::Rot13;
+my $rot13 = Crypt::Rot13->new;
+
+$rot13->charge( $str ); 
+my $new_str = ( $rot13->rot13() )[0];
+||<
