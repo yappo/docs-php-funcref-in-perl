@@ -12,6 +12,8 @@ string iconv_mime_decode ( string $encoded_header [, int $mode = 0 [, string $ch
 # iconv_mime_decode("Subject: =?UTF-8?B?UHLDvGZ1bmcgUHLDvGZ1bmc=?=",
 #                       0, "ISO-8859-1");
 
+use Encode qw(encode decode);
+
 my $iso_8859_1 = encode('ISO-8859-1', 
     decode('MIME-Header', "Subject: =?UTF-8?B?UHLDvGZ1bmcgUHLDvGZ1bmc=?=") );
 ||<
