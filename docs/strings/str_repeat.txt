@@ -1,0 +1,13 @@
+*str_repeat
+
+**PHP
+
+>|PHP|
+string str_repeat ( string $input , int $multiplier )
+||<
+
+**Perl
+
+>|Perl|
+my $string = $input x $multiplier;
+||<
