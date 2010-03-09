@@ -9,7 +9,7 @@ string str_shuffle ( string $str )
 **Perl
 
 >|Perl|
-use List::Utils qw( shuffle );
+use List::Util qw( shuffle );
 
 my $str = 'abcdef';
 my $shuffled = join('', shuffle( split //, $str ) );
