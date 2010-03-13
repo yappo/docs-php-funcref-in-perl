@@ -1,0 +1,26 @@
+*sort
+
+**PHP
+
+>|PHP|
+bool sort ( array &$array [, int $sort_flags = SORT_REGULAR ] )
+||<
+
+**Perl
+
+Perlのsortは元の配列を変えないので、代入する必要がある。
+
+>|Perl|
+@array = sort @array;
+||<
+
+>|Perl|
+# 数字として比較する
+@array = sort { $a <=> $b } @array;
+
+# 文字列として比較する
+@array = sort { $a cmp $b } @array;
+
+# 上記二つを逆にソートする
+@array = sort { $b cmp $a } @array;
+||<
