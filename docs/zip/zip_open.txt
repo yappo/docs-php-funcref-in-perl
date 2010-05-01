@@ -1,0 +1,18 @@
+*zip_open
+
+**PHP
+
+>|PHP|
+mixed zip_open ( string $filename )
+||<
+
+**Perl
+
+>|Perl|
+use Archive::Zip qw(:CONSTANTS);
+
+my $archiver = Archve::Zip->new();
+if ($archiver->read( $filename ) != AZ_OK) {
+    die "read error";
+}
+||<
