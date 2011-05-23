@@ -9,6 +9,21 @@ mixed array_rand ( array $input [, int $num_req = 1 ] )
 **Perl
 
 >|Perl|
-use List::Util qw(shuffle);
-@rand = shuffle @array;
+# FOR ARRAYS
+# when $num_req == 1:
+my $result = int rand @array;
+
+# otherwise:
+use Data::Random qw/ rand_set /;
+my @results = rand_set ( set => [0 .. $#array], size => $num_req );
+
+# FOR HASHES
+# when $num_req == 1:
+my @keys = keys %hash;
+my $result = $keys [ int rand @keys ];
+
+# otherwise:
+use Data::Random qw/ rand_set /;
+my @keys = keys %hash;
+my @results = @keys [ rand_set ( set => [0 .. $#array], size => $num_req ) ];
 ||<

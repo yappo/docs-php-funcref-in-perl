@@ -20,5 +20,5 @@ $sum += $_ for @array;
 
 # List::Util を使って
 use List::Util qw/ sum /;
-$sum = sum @array;
+$sum = sum 0, @array; # the 0 is to allow it to work with empty arrays too
 ||<

@@ -7,8 +7,16 @@ array array_merge ( array $array1 [, array $array2 [, array $... ]] )
 *Perl
 
 >|perl|
+# for concatenating arrays
 my @result = ( @array1, @array2 , @array3 ... );
 
 push @result, @array1;
 push @result, @array2;
+
+# for merging hashes
+my %result = ( %hash1, %hash2 ... );
+
+# alternately:
+my %result = %hash1;
+@result { keys %hash2 } = values %hash2;
 ||<
